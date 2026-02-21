@@ -4,5 +4,8 @@
   },
   "scripts": {
     "build": "antora antora-playbook.yml"
+  },
+  "dependencies": {
+    "@antora/lunr-extension": "1.0.0-alpha.13"
   }
 }

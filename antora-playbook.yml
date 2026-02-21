@@ -13,3 +13,7 @@ ui:
   supplemental_files: ./supplemental-ui
 runtime:
   fetch: true
+antora:
+  extensions:
+    - require: '@antora/lunr-extension'
+      index_by_heading: true
