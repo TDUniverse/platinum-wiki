@@ -1,11 +1,17 @@
-= Eden Games Era TDU Wiki Overview
+= TDU Platinum Wiki Overview
 :author: MeFisto94
 :revnumber: 1.0
-:revdate: 2025/06/19
+:revdate: 2026/02/21
 
-== Scope
+== Content
 
-The Scope of this Wiki is to collect information mostly valueable to modders/ mod developers for the games "Test Drive Unlimited" and "Test Drive Unlimited 2".
+This wiki is currently a work in progress to have a tool automatically generate these
+pages based on the actual modding files to always have an up-to-date car list and
+knowing where to get the cars from (car shops).
 
-It will consist mostly of information surrounding the file formats used by the game.
-Due to the nature of the source of this information being based on guesses, take every statement with a grain of salt and correct it, if necessary.
+For this, you will most likely want to consult the search at the top right,
+but we also have index lists for:
+
+* xref:brands/index.adoc[Brands]
+* xref:shops/index.adoc[Car Shops]
+* xref:cars/index.adoc[Cars]
