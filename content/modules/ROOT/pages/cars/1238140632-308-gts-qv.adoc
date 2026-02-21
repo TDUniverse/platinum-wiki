@@ -1,0 +1,6 @@
+= Ferrari - N/A (key=56033407) GTS Quattrovalvole
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/1238140632-308-gts-qv.adoc[]

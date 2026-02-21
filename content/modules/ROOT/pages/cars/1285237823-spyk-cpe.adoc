@@ -1,0 +1,6 @@
+= Spyker - N/A (key=58038407) N/A (key=53738427)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/1285237823-spyk-cpe.adoc[]

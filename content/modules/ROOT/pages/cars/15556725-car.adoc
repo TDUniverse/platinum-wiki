@@ -1,0 +1,6 @@
+= Shelby - N/A (key=59938407) Daytona Coupe #CSX2299
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/15556725-car.adoc[]

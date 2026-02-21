@@ -1,0 +1,17 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |145
+|Manufacturer ID |N/A (key=90238337)
+|Manufacturer Name |Studebaker
+|Logo File |N/A (key=90238337)
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

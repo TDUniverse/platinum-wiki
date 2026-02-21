@@ -1,0 +1,6 @@
+= Ferrari - N/A (key=57438407) #3589GT 63' Sebring 12 Hours
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/21043945-250gto-3589.adoc[]

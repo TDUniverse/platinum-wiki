@@ -1,0 +1,103 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: chevrolet-corvette-c2-427-1963
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |631585756
+|Brand |xref:brands/983687.adoc[Chevrolet]
+|Group |79900264 (0x04C32E68)
+|Price |$126,000
+|Car Name |Corvette
+|Real Name |N/A (key=53338427)
+|File Name |N/A (key=5697567)
+|Model |Corvette
+|Version |C2 Stingray 427
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |6996
+|Power (BHP) |435 bhp @ 5800 rpm
+|Torque (Nm) |624 Nm @ 4000 rpm
+|Redline (RPM) |6500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.550
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.200
+|2 |1.640
+|3 |1.310
+|4 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1768
+|Length (mm) |4448
+|Height (mm) |1260
+|Wheelbase (mm) |2489
+|Weight (kg) |1515
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.10 s
+|0 - 100 mph (s) |11.40 s
+|Top Speed (km/h) |208.0 km/h
+|Braking 100–0 km/h (s) |145.00
+|Quarter Mile (s) |13.40 s
+|Grip Coefficient |930
+|Overturning Coefficient |96
+|Handling |20
+|Sharpness Coefficient |92
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/622256831.adoc[CHEVROLET CLASSIC (ECD_12C_7853)]
+
+//end::available-shops[]

@@ -1,0 +1,19 @@
+:page-aliases: kit-ground-effects
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |45595588
+|Manufacturer ID |Kit Ground Effects
+|Manufacturer Name |Ground Effects
+|Logo File |Kit Ground Effects
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

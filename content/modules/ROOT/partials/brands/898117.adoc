@@ -1,0 +1,22 @@
+:page-aliases: caterham-1990
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |898117
+|Manufacturer ID |Caterham 1990
+|Manufacturer Name |Caterham
+|Logo File |Caterham 1990
+|Number of Cars |3
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/624463359-csr.adoc[CSR 260] |CSR |260 |75900264 (0x04862568) |$54,000 |257 |233.0
+|xref:cars/71272709-csr.adoc[CSR 260] |CSR |260 |75900264 (0x04862568) |$54,000 |257 |233.0
+|xref:cars/6000270671-seven-620r.adoc[N/A (key=61938407) 620R] |N/A (key=61938407) |620R |74900264 (0x0476E328) |$75,000 |311 |221.0
+|===
+

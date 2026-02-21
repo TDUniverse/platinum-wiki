@@ -1,0 +1,6 @@
+= Ford - Thunderbird 312 Super V8 Dragster
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270537-thunder-drag.adoc[]

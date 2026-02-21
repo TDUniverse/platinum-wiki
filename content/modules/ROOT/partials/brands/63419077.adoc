@@ -1,0 +1,19 @@
+:page-aliases: kit-crew
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |63419077
+|Manufacturer ID |Kit Crew
+|Manufacturer Name |Crew
+|Logo File |Kit Crew
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

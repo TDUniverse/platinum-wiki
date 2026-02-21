@@ -1,0 +1,19 @@
+:page-aliases: kit-bomb
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6082
+|Manufacturer ID |Kit Bomb
+|Manufacturer Name |Bomb
+|Logo File |Kit Bomb
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

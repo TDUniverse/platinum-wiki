@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: mclaren-p1-hybrid-full-paint
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270748
+|Brand |xref:brands/85793347.adoc[Mclaren]
+|Group |73900264 (0x0467A0E8)
+|Price |$1,350,000
+|Car Name |P1
+|Real Name |N/A (key=53338427)
+|File Name |P1_Paint
+|Model |P1
+|Version |N/A (key=57356917)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |3799
+|Power (BHP) |903 bhp @ 7500 rpm
+|Torque (Nm) |900 Nm @ 4000 rpm
+|Redline (RPM) |8500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.310
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.980
+|2 |2.610
+|3 |1.900
+|4 |1.480
+|5 |1.160
+|6 |0.910
+|7 |0.690
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1946
+|Length (mm) |4588
+|Height (mm) |1188
+|Wheelbase (mm) |2670
+|Weight (kg) |1450
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |2.90 s
+|0 - 100 mph (s) |5.00 s
+|Top Speed (km/h) |418.0 km/h
+|Braking 100–0 km/h (s) |105.00
+|Quarter Mile (s) |10.00 s
+|Grip Coefficient |1270
+|Overturning Coefficient |103
+|Handling |97
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

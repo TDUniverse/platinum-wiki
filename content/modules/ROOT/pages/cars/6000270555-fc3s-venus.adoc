@@ -1,0 +1,6 @@
+= Mazda - RX-7 GT-X Venus
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270555-fc3s-venus.adoc[]

@@ -1,0 +1,19 @@
+:page-aliases: lotec
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |996
+|Manufacturer ID |Lotec
+|Manufacturer Name |N/A (key=8748357)
+|Logo File |Lotec
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

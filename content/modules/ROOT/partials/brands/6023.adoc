@@ -1,0 +1,19 @@
+:page-aliases: kit-charge
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6023
+|Manufacturer ID |Kit Charge
+|Manufacturer Name |CHARGE
+|Logo File |Kit Charge
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

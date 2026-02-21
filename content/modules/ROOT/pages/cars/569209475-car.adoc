@@ -1,0 +1,6 @@
+= Pagani - N/A (key=55038407) C12 S 7.3 Roadster
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/569209475-car.adoc[]

@@ -1,0 +1,19 @@
+:page-aliases: kit-vis-racing
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6033
+|Manufacturer ID |Kit ViS Racing
+|Manufacturer Name |ViS Racing
+|Logo File |Kit ViS Racing
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

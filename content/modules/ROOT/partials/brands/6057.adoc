@@ -1,0 +1,19 @@
+:page-aliases: kit-hamann
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6057
+|Manufacturer ID |Kit Hamann
+|Manufacturer Name |Hamann Motorsport
+|Logo File |Kit Hamann
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

@@ -1,0 +1,20 @@
+:page-aliases: kia
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |868
+|Manufacturer ID |KIA
+|Manufacturer Name |Kia
+|Logo File |KIA
+|Number of Cars |1
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270320-stinger.adoc[Stinger 3.3T GT] |Stinger |3.3T GT |76900264 (0x049567A8) |$50,100 |365 |314.0
+|===
+

@@ -1,0 +1,19 @@
+:page-aliases: kit-acr
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6020
+|Manufacturer ID |Kit ACR
+|Manufacturer Name |American Club Racing
+|Logo File |Kit ACR
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

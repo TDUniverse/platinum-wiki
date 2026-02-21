@@ -1,0 +1,19 @@
+:page-aliases: kit-hwa
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |34859288
+|Manufacturer ID |Kit HWA
+|Manufacturer Name |H.W.A. AG
+|Logo File |Kit HWA
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

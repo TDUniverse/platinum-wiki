@@ -1,0 +1,29 @@
+:page-aliases: ecd-8c-6636
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |570133712
+|Key |ECD_8C_6636
+|Libelle |250250255
+|Libelle Localized |JAPANESE CLASSIC
+|Cars Available |15
+|===
+
+== Cars
+* xref:cars/5631585759-datsun.adoc[datsun]
+* xref:cars/5924263233-kpgc10.adoc[KPGC10]
+* xref:cars/6000270572-240-z.adoc[240_Z]
+* xref:cars/6000270477-ae86-trueno.adoc[AE86_Trueno]
+* xref:cars/6000270482-celica-st185.adoc[Celica_ST185]
+* xref:cars/6000270481-supra-a70.adoc[Supra_A70]
+* xref:cars/6000270476-2000-gt.adoc[2000_GT]
+* xref:cars/6000270425-starion-gt.adoc[Starion_GT]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]

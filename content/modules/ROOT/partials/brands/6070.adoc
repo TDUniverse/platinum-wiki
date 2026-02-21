@@ -1,0 +1,19 @@
+:page-aliases: kit-srt
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6070
+|Manufacturer ID |Kit SRT
+|Manufacturer Name |Street & Racing Technology
+|Logo File |Kit SRT
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

@@ -1,0 +1,6 @@
+= Nissan - N/A (key=53448407) GT-R (R33) V-Spec JUN Auto
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270780-r33-jun.adoc[]

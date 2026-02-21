@@ -1,0 +1,19 @@
+:page-aliases: kit-razzi
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6075
+|Manufacturer ID |Kit Razzi
+|Manufacturer Name |Razzi by AAC
+|Logo File |Kit Razzi
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

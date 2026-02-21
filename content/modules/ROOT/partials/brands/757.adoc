@@ -1,0 +1,19 @@
+:page-aliases: mini
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |757
+|Manufacturer ID |Mini
+|Manufacturer Name |N/A (key=7218357)
+|Logo File |Mini
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

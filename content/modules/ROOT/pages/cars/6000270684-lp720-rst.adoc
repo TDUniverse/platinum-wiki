@@ -1,0 +1,6 @@
+= Lamborghini - Aventador LP720-4 50 Anniversario Roadster
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270684-lp720-rst.adoc[]

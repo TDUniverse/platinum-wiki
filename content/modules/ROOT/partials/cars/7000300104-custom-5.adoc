@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: tdu-platinum-custom-car-editable-vehicle-5
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |7000300104
+|Brand |xref:brands/18095164.adoc[TDU Platinum]
+|Group |73900264 (0x0467A0E8)
+|Price |$250,000
+|Car Name |Custom Car
+|Real Name |N/A (key=53338427)
+|File Name |Custom_5
+|Model |Custom
+|Version |Car 5
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |603709 (0x0009363D)
+|Displacement (cc) |6192
+|Power (BHP) |500 bhp @ 6500 rpm
+|Torque (Nm) |600 Nm @ 4500 rpm
+|Redline (RPM) |7000
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |4.000
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.940
+|2 |2.060
+|3 |1.520
+|4 |1.180
+|5 |1.030
+|6 |0.910
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1800
+|Length (mm) |4500
+|Height (mm) |1370
+|Wheelbase (mm) |2854
+|Weight (kg) |1300
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.00 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |350.0 km/h
+|Braking 100–0 km/h (s) |120.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1000
+|Overturning Coefficient |100
+|Handling |70
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/611010701.adoc[CUSTOM DEALER 1 (EBD_5A_5771)]
+
+//end::available-shops[]

@@ -1,0 +1,19 @@
+:page-aliases: kit-d1gp
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6077
+|Manufacturer ID |Kit D1GP
+|Manufacturer Name |D1GP
+|Logo File |Kit D1GP
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

@@ -1,0 +1,19 @@
+:page-aliases: kit-kbd
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6041
+|Manufacturer ID |Kit KBD
+|Manufacturer Name |KBD
+|Logo File |Kit KBD
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

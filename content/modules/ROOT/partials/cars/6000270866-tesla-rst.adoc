@@ -1,0 +1,100 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: n-a-key-8108357-n-a-key-5666317-sport
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270866
+|Brand |xref:brands/858.adoc[N/A (key=8108357)]
+|Group |77900264 (0x04A4A9E8)
+|Price |$122,550
+|Car Name |N/A (key=5666317)
+|Real Name |N/A (key=53338427)
+|File Name |Tesla_Rst
+|Model |N/A (key=5666317)
+|Version |Sport
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |300400934 (0x11E7C126)
+|Displacement (cc) |1
+|Power (BHP) |288 bhp @ 1000 rpm
+|Torque (Nm) |400 Nm @ 2500 rpm
+|Redline (RPM) |5000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |8.270
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |8.270
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1719
+|Length (mm) |3785
+|Height (mm) |1117
+|Wheelbase (mm) |2300
+|Weight (kg) |1305
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.70 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |201.0 km/h
+|Braking 100–0 km/h (s) |115.00
+|Quarter Mile (s) |12.60 s
+|Grip Coefficient |1000
+|Overturning Coefficient |106
+|Handling |84
+|Sharpness Coefficient |99
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/622086822.adoc[MASERATI - FIAT (ECD_15A_7830)]
+
+//end::available-shops[]

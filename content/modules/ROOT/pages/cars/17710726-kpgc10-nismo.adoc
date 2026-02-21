@@ -1,0 +1,6 @@
+= Nissan - N/A (key=53448407) Hard Top 2000GT-R (KPGC10)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/17710726-kpgc10-nismo.adoc[]

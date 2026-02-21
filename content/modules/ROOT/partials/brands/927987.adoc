@@ -1,0 +1,23 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |927987
+|Manufacturer ID |N/A (key=55438337)
+|Manufacturer Name |Chrysler
+|Logo File |N/A (key=55438337)
+|Number of Cars |6
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270354-300c-srt8.adoc[N/A (key=59733407) SRT8 (LD)] |N/A (key=59733407) |SRT8 (LD) |76900264 (0x049567A8) |$65,000 |470 |314.0
+|xref:cars/12449687-300c-srt8.adoc[N/A (key=59733407) SRT8 (LD)] |N/A (key=59733407) |SRT8 (LD) |76900264 (0x049567A8) |$65,000 |470 |314.0
+|xref:cars/1189317831-srt6-cpe.adoc[N/A (key=54238407) N/A (key=56603667)] |N/A (key=54238407) |N/A (key=56603667) |77900264 (0x04A4A9E8) |$46,000 |330 |284.0
+|xref:cars/1244317236-car.adoc[N/A (key=54238407) N/A (key=57603667)] |N/A (key=54238407) |N/A (key=57603667) |77900264 (0x04A4A9E8) |$56,000 |330 |284.0
+|xref:cars/6000270311-300-c.adoc[N/A (key=59733407) SRT8 (LX)] |N/A (key=59733407) |SRT8 (LX) |76900264 (0x049567A8) |$50,000 |425 |307.0
+|xref:cars/70076241-me-ft.adoc[N/A (key=55238407) Four-Twelve] |N/A (key=55238407) |Four-Twelve |73900264 (0x0467A0E8) |$0 |850 |400.0
+|===
+

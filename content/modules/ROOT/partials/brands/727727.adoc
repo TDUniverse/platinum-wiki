@@ -1,0 +1,50 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |727727
+|Manufacturer ID |N/A (key=59538337)
+|Manufacturer Name |Mazda
+|Logo File |N/A (key=59538337)
+|Number of Cars |33
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270713-miata-nc.adoc[MX-5 Miata (NC)] |MX-5 |Miata (NC) |78900264 (0x04B3EC28) |$23,340 |158 |236.0
+|xref:cars/98174378-miatanc-re.adoc[MX-5 Miata (NC)] |MX-5 |Miata (NC) |76900264 (0x049567A8) |$78,340 |335 |276.0
+|xref:cars/1238267235-rx-7-fd3s.adoc[RX-7 Type R] |RX-7 |Type R |77900264 (0x04A4A9E8) |$35,100 |251 |242.0
+|xref:cars/6000270414-rx7-spirit.adoc[RX-7 Spirit R Type A] |RX-7 |Spirit R Type A |77900264 (0x04A4A9E8) |$46,500 |276 |265.0
+|xref:cars/6000270553-fd3s-bomex.adoc[RX-7 FD3S Bomex] |RX-7 |FD3S Bomex |75900264 (0x04862568) |$85,100 |355 |280.0
+|xref:cars/6000270554-fd3s-c2.adoc[RX-7 FD3S C-2] |RX-7 |FD3S C-2 |75900264 (0x04862568) |$85,100 |355 |280.0
+|xref:cars/6000270712-fd3s-rb.adoc[RX-7 FD3S Rocket Bunny] |RX-7 |FD3S Rocket Bunny |73900264 (0x0467A0E8) |$351,000 |710 |370.0
+|xref:cars/6000270714-rx7-20b.adoc[RX-7 Type R] |RX-7 |Type R |76900264 (0x049567A8) |$65,100 |304 |275.0
+|xref:cars/6000270715-fd3s-20b.adoc[RX-7 Spirit R Type A] |RX-7 |Spirit R Type A |76900264 (0x049567A8) |$96,500 |304 |275.0
+|xref:cars/44594856-fd3s-spo.adoc[RX-7 Type R] |RX-7 |Type R |77900264 (0x04A4A9E8) |$35,100 |251 |242.0
+|xref:cars/13537259-fd3s-spo.adoc[RX-7 Type R] |RX-7 |Type R |77900264 (0x04A4A9E8) |$35,100 |251 |242.0
+|xref:cars/37772439-fd3s-fnf.adoc[RX-7 Type-R Fast 'n' Furious] |RX-7 |Type-R Fast 'n' Furious |74900264 (0x0476E328) |$325,100 |384 |297.0
+|xref:cars/84519638-rx-7-fd3s.adoc[RX-7 Type R] |RX-7 |Type R |77900264 (0x04A4A9E8) |$35,100 |251 |242.0
+|xref:cars/65756805-fd3s-fnf.adoc[RX-7 Type-R Fast 'n' Furious] |RX-7 |Type-R Fast 'n' Furious |74900264 (0x0476E328) |$325,100 |384 |297.0
+|xref:cars/699572006-rx8-cpe.adoc[RX-8 R3] |RX-8 |R3 |77900264 (0x04A4A9E8) |$34,000 |232 |262.0
+|xref:cars/6000270551-rx8-invader.adoc[RX-8 Invader 2] |RX-8 |Invader 2 |76900264 (0x049567A8) |$69,000 |320 |275.0
+|xref:cars/6000270552-rx8-vis.adoc[RX-8 ViS Racing] |RX-8 |ViS Racing |76900264 (0x049567A8) |$69,000 |320 |275.0
+|xref:cars/32594476-rx8-20b.adoc[RX-8 R3] |RX-8 |R3 |76900264 (0x049567A8) |$64,000 |320 |275.0
+|xref:cars/6000270402-rx7-fc.adoc[RX-7 GT-X Savanna] |RX-7 GT-X |Savanna |78900264 (0x04B3EC28) |$23,500 |202 |229.0
+|xref:cars/6000270555-fc3s-venus.adoc[RX-7 GT-X Venus] |RX-7 GT-X |Venus |77900264 (0x04A4A9E8) |$43,500 |260 |250.0
+|xref:cars/6000270556-fc3s-vis.adoc[RX-7 GT-X ViS Racing Ballistix] |RX-7 GT-X |ViS Racing Ballistix |77900264 (0x04A4A9E8) |$43,500 |260 |260.0
+|xref:cars/87332706-fc3s-20b.adoc[RX-7 GT-X Savanna] |RX-7 GT-X |Savanna |76900264 (0x049567A8) |$58,500 |296 |260.0
+|xref:cars/6000270333-sky-rst.adoc[MX-5 Miata] |MX-5 |Miata |78900264 (0x04B3EC28) |$14,500 |128 |228.0
+|xref:cars/1241742783-sky-rst.adoc[MX-5 Miata (NA)] |MX-5 |Miata (NA) |78900264 (0x04B3EC28) |$14,500 |128 |207.0
+|xref:cars/53268194-mx5cpe-re.adoc[MX-5 Miata (NA)] |MX-5 |Miata (NA) |76900264 (0x049567A8) |$70,500 |296 |254.0
+|xref:cars/6000270403-sky-cpe.adoc[MX-5 Miata (NA)] |MX-5 |Miata (NA) |78900264 (0x04B3EC28) |$14,500 |128 |207.0
+|xref:cars/6000270557-mx5extreme-rst.adoc[MX-5 Miata Extreme Dimensions] |MX-5 |Miata Extreme Dimensions |77900264 (0x04A4A9E8) |$14,500 |145 |224.0
+|xref:cars/6000270558-mx5extreme-cpe.adoc[MX-5 Miata Extreme Dimensions] |MX-5 |Miata Extreme Dimensions |77900264 (0x04A4A9E8) |$14,500 |145 |224.0
+|xref:cars/6000270559-mx5wings-rst.adoc[MX-5 Miata Wings West] |MX-5 |Miata Wings West |78900264 (0x04B3EC28) |$14,500 |145 |224.0
+|xref:cars/6000270560-mx5wings-cpe.adoc[MX-5 Miata Wings West] |MX-5 |Miata Wings West |78900264 (0x04B3EC28) |$14,500 |145 |224.0
+|xref:cars/6000270716-mx5rst-20b.adoc[MX-5 Miata (NA)] |MX-5 |Miata (NA) |76900264 (0x049567A8) |$65,500 |296 |254.0
+|xref:cars/6000270717-mx5cpe-20b.adoc[MX-5 Miata (NA)] |MX-5 |Miata (NA) |76900264 (0x049567A8) |$65,500 |296 |254.0
+|xref:cars/90802877-mx5rst-re.adoc[MX-5 Miata (NA)] |MX-5 |Miata (NA) |76900264 (0x049567A8) |$70,500 |296 |254.0
+|===
+

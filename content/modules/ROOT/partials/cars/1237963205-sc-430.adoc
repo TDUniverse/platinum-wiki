@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: nissan-n-a-key-60348407-rst
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |1237963205
+|Brand |xref:brands/8542108.adoc[Nissan]
+|Group |78900264 (0x04B3EC28)
+|Price |$65,000
+|Car Name |N/A (key=60348407)
+|Real Name |N/A (key=53338427)
+|File Name |SC_430
+|Model |N/A (key=53448407)
+|Version |GT-R R32 V-Spec
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |543709 (0x00084BDD)
+|Displacement (cc) |2567
+|Power (BHP) |288 bhp @ 5600 rpm
+|Torque (Nm) |430 Nm @ 3400 rpm
+|Redline (RPM) |7800
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |543531 (0x00084B2B)
+|Final Drive Ratio |3.769
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.296
+|2 |1.958
+|3 |1.348
+|4 |1.000
+|5 |0.725
+|6 |0.582
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1825
+|Length (mm) |4533
+|Height (mm) |1348
+|Wheelbase (mm) |2620
+|Weight (kg) |1741
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.80 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |250.0 km/h
+|Braking 100–0 km/h (s) |130.00
+|Quarter Mile (s) |14.30 s
+|Grip Coefficient |1000
+|Overturning Coefficient |98
+|Handling |70
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

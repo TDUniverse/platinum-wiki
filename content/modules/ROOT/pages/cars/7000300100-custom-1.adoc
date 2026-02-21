@@ -1,0 +1,6 @@
+= TDU Platinum - Custom Car 1
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/7000300100-custom-1.adoc[]

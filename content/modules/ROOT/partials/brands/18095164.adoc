@@ -1,0 +1,29 @@
+:page-aliases: tduplat
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |18095164
+|Manufacturer ID |TDUPLAT
+|Manufacturer Name |TDU Platinum
+|Logo File |TDUPLAT
+|Number of Cars |10
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/7000300100-custom-1.adoc[Custom Car 1] |Custom |Car 1 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300101-custom-2.adoc[Custom Car 2] |Custom |Car 2 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300102-custom-3.adoc[Custom Car 3] |Custom |Car 3 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300103-custom-4.adoc[Custom Car 4] |Custom |Car 4 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300104-custom-5.adoc[Custom Car 5] |Custom |Car 5 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300105-custom-6.adoc[Custom Car 6] |Custom |Car 6 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300106-custom-7.adoc[Custom Car 7] |Custom |Car 7 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300107-custom-8.adoc[Custom Car 8] |Custom |Car 8 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300108-custom-9.adoc[Custom Car 9] |Custom |Car 9 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|xref:cars/7000300109-custom-10.adoc[Custom Car 10] |Custom |Car 10 |73900264 (0x0467A0E8) |$250,000 |500 |350.0
+|===
+

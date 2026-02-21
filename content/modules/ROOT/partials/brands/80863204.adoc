@@ -1,0 +1,19 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |80863204
+|Manufacturer ID |N/A (key=53838337)
+|Manufacturer Name |Triumph
+|Logo File |N/A (key=53838337)
+|Number of Cars |2
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/1286313474-tr-speed.adoc[Speed Triple N/A (key=57356917)] |Speed Triple |N/A (key=57356917) |77800264 (0x04A32348) |$11,500 |128 |250.0
+|xref:cars/1208897332-daytona-955i.adoc[N/A (key=53738407) 995i] |N/A (key=53738407) |995i |76800264 (0x0493E108) |$11,500 |147 |260.0
+|===
+

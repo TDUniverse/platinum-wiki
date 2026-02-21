@@ -1,0 +1,6 @@
+= N/A (key=7098357) - Coupé 2.0 20v Turbo
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/1197985552-cobalt-ss.adoc[]

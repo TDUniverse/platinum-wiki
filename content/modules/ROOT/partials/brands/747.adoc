@@ -1,0 +1,18 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |747
+|Manufacturer ID |N/A (key=71138337)
+|Manufacturer Name |Seat
+|Logo File |N/A (key=71138337)
+|Number of Cars |1
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270457-ibiza-cupra.adoc[Ibiza Cupra 1.4 TSi] |Ibiza |Cupra 1.4 TSi |78900264 (0x04B3EC28) |$28,000 |178 |251.0
+|===
+

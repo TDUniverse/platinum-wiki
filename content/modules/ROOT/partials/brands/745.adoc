@@ -1,0 +1,27 @@
+:page-aliases: fiat
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |745
+|Manufacturer ID |Fiat
+|Manufacturer Name |N/A (key=7098357)
+|Logo File |Fiat
+|Number of Cars |8
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270642-595-abarth.adoc[595 Abarth Esse-esse] |595 Abarth |Esse-esse |79900264 (0x04C32E68) |$9,950 |32 |131.0
+|xref:cars/6000270643-500-abarth.adoc[500 Abarth Esseesse] |500 Abarth |Esseesse |78900264 (0x04B3EC28) |$25,650 |158 |227.0
+|xref:cars/6000270645-595-abarth.adoc[595 Abarth Esse-esse] |595 Abarth |Esse-esse |79900264 (0x04C32E68) |$25,500 |115 |230.0
+|xref:cars/6000270646-595-kawa.adoc[595 Abarth Esse-esse] |595 Abarth |Esse-esse |77900264 (0x04A4A9E8) |$65,500 |184 |245.0
+|xref:cars/1197985552-cobalt-ss.adoc[Coupé 2.0 20v Turbo] |Coupé |2.0 20v Turbo |78900264 (0x04B3EC28) |$28,000 |217 |251.0
+|xref:cars/6000270302-punto-ess.adoc[Punto Evo Sport 1.4 MultiAir] |Punto |Evo Sport 1.4 MultiAir |78900264 (0x04B3EC28) |$12,400 |133 |179.0
+|xref:cars/5551683161-punto-spo.adoc[Punto Evo Sport 1.4 MultiAir] |Punto |Evo Sport 1.4 MultiAir |78900264 (0x04B3EC28) |$22,600 |155 |208.0
+|xref:cars/5551683162-punto-tur.adoc[Punto Evo Sport 1.4 MultiAir] |Punto |Evo Sport 1.4 MultiAir |77900264 (0x04A4A9E8) |$35,000 |210 |230.0
+|===
+

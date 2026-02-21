@@ -1,0 +1,19 @@
+:page-aliases: saleen-tuning
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |880567803
+|Manufacturer ID |SALEEN TUNING
+|Manufacturer Name |Saleen
+|Logo File |N/A (key=59638337)
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

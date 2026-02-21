@@ -1,0 +1,28 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |756
+|Manufacturer ID |N/A (key=72038337)
+|Manufacturer Name |Land Rover
+|Logo File |N/A (key=72038337)
+|Number of Cars |11
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270738-nemesis-exr.adoc[Bowler Nemesis EXR] |Bowler |Nemesis EXR |77900264 (0x04A4A9E8) |$250,000 |503 |205.0
+|xref:cars/62553273-nemesis-white.adoc[Bowler Nemesis EXR] |Bowler |Nemesis EXR |77900264 (0x04A4A9E8) |$250,000 |503 |205.0
+|xref:cars/50413701-nemesis-red.adoc[Bowler Nemesis EXR] |Bowler |Nemesis EXR |77900264 (0x04A4A9E8) |$250,000 |503 |205.0
+|xref:cars/15818910-nemesis-black.adoc[Bowler Nemesis EXR] |Bowler |Nemesis EXR |77900264 (0x04A4A9E8) |$250,000 |503 |205.0
+|xref:cars/6000270697-range-l322.adoc[Range Rover Supercharged Autobiography] |Range Rover |Supercharged Autobiography |78900264 (0x04B3EC28) |$125,000 |503 |347.0
+|xref:cars/6000270698-range-svr.adoc[Range Rover Sport SVR] |Range Rover |Sport SVR |77900264 (0x04A4A9E8) |$160,000 |543 |319.0
+|xref:cars/6000270699-range-wald.adoc[Range Rover Supercharged Wald] |Range Rover |Supercharged Wald |77900264 (0x04A4A9E8) |$175,000 |545 |347.0
+|xref:cars/6000270700-range-sonar.adoc[Range Rover Supercharged Sonar] |Range Rover |Supercharged Sonar |77900264 (0x04A4A9E8) |$175,000 |545 |347.0
+|xref:cars/6000270701-range-startech.adoc[Range Rover Startech] |Range Rover |Startech |76900264 (0x049567A8) |$220,000 |565 |319.0
+|xref:cars/6000270702-range-wide.adoc[Range Rover Startech Widebody] |Range Rover |Startech Widebody |76900264 (0x049567A8) |$260,000 |565 |319.0
+|xref:cars/98901413-range-svr.adoc[Range Rover Sport SVR] |Range Rover |Sport SVR |77900264 (0x04A4A9E8) |$160,000 |543 |319.0
+|===
+

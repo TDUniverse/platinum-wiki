@@ -1,0 +1,19 @@
+:page-aliases: kit-roush
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6058
+|Manufacturer ID |Kit Roush
+|Manufacturer Name |Roush Performance
+|Logo File |Kit Roush
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

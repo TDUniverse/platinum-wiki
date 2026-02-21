@@ -1,0 +1,103 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: chevrolet-chevelle-series-1-ss-396-v-rent
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |91188383
+|Brand |xref:brands/983687.adoc[Chevrolet]
+|Group |79900264 (0x04C32E68)
+|Price |$65,000
+|Car Name |Chevelle Series 1
+|Real Name |N/A (key=53338427)
+|File Name |Chevelle_SS
+|Model |Chevelle
+|Version |SS-396 Sport Coupe
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |6489
+|Power (BHP) |350 bhp @ 5200 rpm
+|Torque (Nm) |563 Nm @ 3400 rpm
+|Redline (RPM) |6000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.310
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.520
+|2 |1.880
+|3 |1.460
+|4 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1905
+|Length (mm) |5024
+|Height (mm) |1318
+|Wheelbase (mm) |2921
+|Weight (kg) |1628
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |6.50 s
+|0 - 100 mph (s) |16.30 s
+|Top Speed (km/h) |206.0 km/h
+|Braking 100–0 km/h (s) |135.00
+|Quarter Mile (s) |14.50 s
+|Grip Coefficient |890
+|Overturning Coefficient |95
+|Handling |21
+|Sharpness Coefficient |92
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/58674122.adoc[V-RENT (ECR_A_2350)]
+
+//end::available-shops[]

@@ -1,0 +1,40 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |77060
+|Manufacturer ID |N/A (key=54338337)
+|Manufacturer Name |Ford
+|Logo File |N/A (key=54338337)
+|Number of Cars |23
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270613-escort-1600.adoc[Escort RS1600] |Escort |RS1600 |79900264 (0x04C32E68) |$35,000 |120 |183.0
+|xref:cars/6000270525-escort-rs.adoc[Escort RS Cosworth] |Escort |RS Cosworth |78900264 (0x04B3EC28) |$46,350 |224 |223.0
+|xref:cars/1221647242-focus.adoc[Focus RS] |Focus |RS |77900264 (0x04A4A9E8) |$51,600 |300 |279.0
+|xref:cars/6000270376-must-65.adoc[N/A (key=61038407) GT Hardtop 289] |N/A (key=61038407) |GT Hardtop 289 |79900264 (0x04C32E68) |$35,000 |271 |189.0
+|xref:cars/6000270536-mustang-drag.adoc[N/A (key=61038407) GT Hardtop 289 Dragster] |N/A (key=61038407) |GT Hardtop 289 Dragster |73900264 (0x0467A0E8) |$185,000 |2100 |490.0
+|xref:cars/91367513-must-68.adoc[N/A (key=61038407) GT Fastback 2+2 390] |N/A (key=61038407) |GT Fastback 2+2 390 |79900264 (0x04C32E68) |$50,000 |325 |206.0
+|xref:cars/6000270375-must-svt.adoc[N/A (key=61038407) SVT Cobra R] |N/A (key=61038407) |SVT Cobra R |76900264 (0x049567A8) |$50,000 |385 |351.0
+|xref:cars/1189757832-must-vol.adoc[Mustang GT N/A (key=56533407)] |Mustang GT |N/A (key=56533407) |77900264 (0x04A4A9E8) |$30,000 |300 |311.0
+|xref:cars/6000270319-must-gt.adoc[Mustang GT N/A (key=58538407)] |Mustang GT |N/A (key=58538407) |77900264 (0x04A4A9E8) |$25,000 |300 |311.0
+|xref:cars/6000270858-mustang-gtr.adoc[N/A (key=61038407) GT-R Concept] |N/A (key=61038407) |GT-R Concept |75900264 (0x04862568) |$405,000 |440 |300.0
+|xref:cars/917192226-s281-conv.adoc[N/A (key=61038407) Boss 302] |N/A (key=61038407) |Boss 302 |76900264 (0x049567A8) |$53,000 |444 |360.0
+|xref:cars/6000270648-must-roush.adoc[N/A (key=61038407) Roush Stage 3] |N/A (key=61038407) |Roush Stage 3 |75900264 (0x04862568) |$98,000 |565 |316.0
+|xref:cars/6000270614-must-2015.adoc[Mustang GT Premium Fastback] |Mustang GT |Premium Fastback |76900264 (0x049567A8) |$40,000 |420 |359.0
+|xref:cars/6000270856-cobra-concept.adoc[Shelby Cobra N/A (key=55982366)] |Shelby Cobra |N/A (key=55982366) |74900264 (0x0476E328) |$750,000 |605 |395.0
+|xref:cars/6000270857-gr1-concept.adoc[Shelby GR-1 N/A (key=55982366)] |Shelby GR-1 |N/A (key=55982366) |74900264 (0x0476E328) |$795,000 |605 |395.0
+|xref:cars/6000270377-thund-57.adoc[Thunderbird 312 Super V8 Ford-O-Matic] |Thunderbird |312 Super V8 Ford-O-Matic |79900264 (0x04C32E68) |$72,000 |270 |194.0
+|xref:cars/6000270537-thunder-drag.adoc[Thunderbird 312 Super V8 Dragster] |Thunderbird |312 Super V8 Dragster |73900264 (0x0467A0E8) |$240,000 |2100 |490.0
+|xref:cars/52121853-thund-57.adoc[Thunderbird 312 Super V8 Ford-O-Matic] |Thunderbird |312 Super V8 Ford-O-Matic |79900264 (0x04C32E68) |$72,000 |270 |194.0
+|xref:cars/6000270867-transit-van.adoc[Transit 3.2 Duratorq TCDi] |Transit |3.2 Duratorq TCDi |78900264 (0x04B3EC28) |$21,250 |198 |248.0
+|xref:cars/6000270871-transit-super.adoc[Transit Super Sport Van] |Transit |Super Sport Van |78900264 (0x04B3EC28) |$95,110 |532 |273.0
+|xref:cars/1221757198-must-gt.adoc[Mustang GT N/A (key=58538407)] |Mustang GT |N/A (key=58538407) |77900264 (0x04A4A9E8) |$25,000 |300 |240.0
+|xref:cars/6000270318-ford-gt.adoc[N/A (key=54638407) N/A (key=57356917)] |N/A (key=54638407) |N/A (key=57356917) |73900264 (0x0467A0E8) |$177,000 |550 |419.0
+|xref:cars/70220210-ford-gt.adoc[N/A (key=54638407) N/A (key=53338427)] |N/A (key=54638407) |N/A (key=53338427) |74900264 (0x0476E328) |$177,000 |500 |306.0
+|===
+

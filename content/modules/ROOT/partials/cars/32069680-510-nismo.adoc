@@ -1,0 +1,104 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: nissan-datsun-1600-510-nismo
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |32069680
+|Brand |xref:brands/8542108.adoc[Nissan]
+|Group |78900264 (0x04B3EC28)
+|Price |$117,500
+|Car Name |Datsun
+|Real Name |N/A (key=53338427)
+|File Name |510_Nismo
+|Model |Datsun 1600
+|Version |(510)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |543709 (0x00084BDD)
+|Displacement (cc) |1989
+|Power (BHP) |227 bhp @ 5600 rpm
+|Torque (Nm) |197 Nm @ 3600 rpm
+|Redline (RPM) |6000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |4.444
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.957
+|2 |1.858
+|3 |1.311
+|4 |1.000
+|5 |0.852
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1560
+|Length (mm) |4070
+|Height (mm) |1400
+|Wheelbase (mm) |2420
+|Weight (kg) |947
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |6.20 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |210.0 km/h
+|Braking 100–0 km/h (s) |125.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |910
+|Overturning Coefficient |105
+|Handling |42
+|Sharpness Coefficient |95
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

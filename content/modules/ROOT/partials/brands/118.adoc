@@ -1,0 +1,19 @@
+:page-aliases: panoz
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |118
+|Manufacturer ID |Panoz
+|Manufacturer Name |N/A (key=8918357)
+|Logo File |Panoz
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

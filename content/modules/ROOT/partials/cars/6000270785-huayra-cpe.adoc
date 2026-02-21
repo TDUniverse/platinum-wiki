@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: pagani-huayra-coupe
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270785
+|Brand |xref:brands/8152830.adoc[Pagani]
+|Group |73900264 (0x0467A0E8)
+|Price |$1,450,000
+|Car Name |Huayra
+|Real Name |N/A (key=53338427)
+|File Name |Huayra_Cpe
+|Model |N/A (key=1008761775001)
+|Version |N/A (key=57356917)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |603709 (0x0009363D)
+|Displacement (cc) |5980
+|Power (BHP) |720 bhp @ 5800 rpm
+|Torque (Nm) |1000 Nm @ 2250 rpm
+|Redline (RPM) |6500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.360
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.377
+|2 |2.859
+|3 |1.921
+|4 |1.368
+|5 |1.000
+|6 |0.820
+|7 |0.728
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |2036
+|Length (mm) |4605
+|Height (mm) |1169
+|Wheelbase (mm) |2795
+|Weight (kg) |1440
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.00 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |350.0 km/h
+|Braking 100–0 km/h (s) |111.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1050
+|Overturning Coefficient |100
+|Handling |75
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/550893706.adoc[PAGANI - SPYKER (ECD_8I_3712)]
+
+//end::available-shops[]

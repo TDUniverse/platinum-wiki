@@ -1,0 +1,6 @@
+= Subaru - N/A (key=59448407) WRX STI GD9 (GDB)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270824-wrx04-gd9.adoc[]

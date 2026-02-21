@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: dodge-n-a-key-58238407-n-a-key-56638427
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |915344490
+|Brand |xref:brands/768658.adoc[Dodge]
+|Group |74900264 (0x0476E328)
+|Price |$92,000
+|Car Name |N/A (key=58238407)
+|Real Name |N/A (key=53338427)
+|File Name |Viper_SR
+|Model |N/A (key=58238407)
+|Version |N/A (key=56638427)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |593709 (0x00090F2D)
+|Displacement (cc) |8382
+|Power (BHP) |600 bhp @ 6100 rpm
+|Torque (Nm) |760 Nm @ 5000 rpm
+|Redline (RPM) |6250
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.070
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.660
+|2 |1.820
+|3 |1.300
+|4 |1.000
+|5 |0.740
+|6 |0.500
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1984
+|Length (mm) |4459
+|Height (mm) |1210
+|Wheelbase (mm) |2510
+|Weight (kg) |1561
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.80 s
+|0 - 100 mph (s) |7.50 s
+|Top Speed (km/h) |480.0 km/h
+|Braking 100–0 km/h (s) |115.00
+|Quarter Mile (s) |11.50 s
+|Grip Coefficient |1020
+|Overturning Coefficient |98
+|Handling |86
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/591723820.adoc[DODGE (ECD_8B2_8575)]
+
+//end::available-shops[]

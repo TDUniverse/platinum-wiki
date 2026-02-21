@@ -1,0 +1,6 @@
+= N/A (key=57838337) - RT 12 R
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270603-rt12-r.adoc[]

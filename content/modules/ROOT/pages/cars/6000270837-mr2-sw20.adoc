@@ -1,0 +1,6 @@
+= Toyota - N/A (key=79782366) N/A (key=1006422397001)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270837-mr2-sw20.adoc[]

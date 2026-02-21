@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: lexus-n-a-key-62033407-460-l-xf40
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |540115870
+|Brand |xref:brands/924566.adoc[Lexus]
+|Group |77900264 (0x04A4A9E8)
+|Price |$67,000
+|Car Name |N/A (key=62033407)
+|Real Name |N/A (key=53338427)
+|File Name |LS460
+|Model |N/A (key=62033407)
+|Version |460 L
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |4608
+|Power (BHP) |380 bhp @ 6400 rpm
+|Torque (Nm) |498 Nm @ 4100 rpm
+|Redline (RPM) |6400
+|Drive |55356917 (0x034CADF5)
+|Gearbox |543531 (0x00084B2B)
+|Final Drive Ratio |2.937
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.596
+|2 |2.724
+|3 |1.863
+|4 |1.464
+|5 |1.231
+|6 |1.000
+|7 |0.824
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1875
+|Length (mm) |5150
+|Height (mm) |1475
+|Wheelbase (mm) |3090
+|Weight (kg) |1965
+|Number of Seats |N/A (key=58533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.30 s
+|0 - 100 mph (s) |12.70 s
+|Top Speed (km/h) |313.0 km/h
+|Braking 100–0 km/h (s) |132.00
+|Quarter Mile (s) |13.60 s
+|Grip Coefficient |965
+|Overturning Coefficient |95
+|Handling |61
+|Sharpness Coefficient |95
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/555803712.adoc[LEXUS - TOYOTA (ECD_8J_2227)]
+
+//end::available-shops[]

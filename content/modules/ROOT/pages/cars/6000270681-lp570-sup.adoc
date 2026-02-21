@@ -1,0 +1,6 @@
+= Lamborghini - N/A (key=57338407) LP570-4 Superleggera
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270681-lp570-sup.adoc[]

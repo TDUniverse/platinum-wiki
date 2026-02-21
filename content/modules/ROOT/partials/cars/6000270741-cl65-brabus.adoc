@@ -1,0 +1,104 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: brabus-cl-klasse-sv12-s
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270741
+|Brand |xref:brands/12778906.adoc[Brabus]
+|Group |74900264 (0x0476E328)
+|Price |$615,000
+|Car Name |CL-Klasse
+|Real Name |N/A (key=53338427)
+|File Name |CL65_Brabus
+|Model |SV12 S
+|Version |Coupe Biturbo
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |603709 (0x0009363D)
+|Displacement (cc) |6322
+|Power (BHP) |730 bhp @ 5500 rpm
+|Torque (Nm) |1320 Nm @ 2100 rpm
+|Redline (RPM) |6700
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |2.650
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.588
+|2 |2.186
+|3 |1.405
+|4 |1.000
+|5 |0.831
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1871
+|Length (mm) |5084
+|Height (mm) |1418
+|Wheelbase (mm) |2955
+|Weight (kg) |2165
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.00 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |324.0 km/h
+|Braking 100–0 km/h (s) |120.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1030
+|Overturning Coefficient |101
+|Handling |66
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

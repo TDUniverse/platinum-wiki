@@ -1,0 +1,29 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |86740
+|Manufacturer ID |N/A (key=56638337)
+|Manufacturer Name |Plymouth
+|Logo File |N/A (key=56638337)
+|Number of Cars |12
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270359-cuda-71.adoc[N/A (key=1003307536001) 'Cuda 426] |N/A (key=1003307536001) |'Cuda 426 |79900264 (0x04C32E68) |$135,000 |425 |195.0
+|xref:cars/6000270362-cuda-72.adoc[N/A (key=103382366) Six-Pack AAR] |N/A (key=103382366) |Six-Pack AAR |79900264 (0x04C32E68) |$155,000 |290 |189.0
+|xref:cars/6000270789-cuda-spo.adoc[N/A (key=1003307536001) 'Cuda 426] |N/A (key=1003307536001) |'Cuda 426 |79900264 (0x04C32E68) |$135,000 |425 |195.0
+|xref:cars/21536199-cuda-aar.adoc[N/A (key=103382366) Six-Pack AAR] |N/A (key=103382366) |Six-Pack AAR |79900264 (0x04C32E68) |$155,000 |290 |189.0
+|xref:cars/38537624-cuda-spo.adoc[N/A (key=1003307536001) 'Cuda 426] |N/A (key=1003307536001) |'Cuda 426 |79900264 (0x04C32E68) |$135,000 |425 |195.0
+|xref:cars/6000270360-gtx-71.adoc[GTX Hemi] |GTX |Hemi |79900264 (0x04C32E68) |$85,000 |425 |196.0
+|xref:cars/6000270792-gtx-drag.adoc[GTX Hemi Dragster] |GTX |Hemi Dragster |73900264 (0x0467A0E8) |$85,000 |2100 |490.0
+|xref:cars/6000270361-superbird.adoc[N/A (key=60238407) N/A (key=1003307536001)] |N/A (key=60238407) |N/A (key=1003307536001) |79900264 (0x04C32E68) |$200,000 |425 |195.0
+|xref:cars/6000270622-superbird-nascar.adoc[N/A (key=60238407) R. Petty] |N/A (key=60238407) |R. Petty |79900264 (0x04C32E68) |$260,000 |425 |298.0
+|xref:cars/46672868-superbird-sunoco.adoc[N/A (key=60238407) Sunoco] |N/A (key=60238407) |Sunoco |79900264 (0x04C32E68) |$260,000 |425 |298.0
+|xref:cars/73350660-superbird-texaco.adoc[N/A (key=60238407) Texaco] |N/A (key=60238407) |Texaco |79900264 (0x04C32E68) |$260,000 |425 |298.0
+|xref:cars/18323961-superbird-sunoco.adoc[N/A (key=60238407) Sunoco] |N/A (key=60238407) |Sunoco |79900264 (0x04C32E68) |$260,000 |425 |298.0
+|===
+

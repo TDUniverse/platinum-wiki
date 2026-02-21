@@ -1,0 +1,21 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |924266
+|Manufacturer ID |N/A (key=57538337)
+|Manufacturer Name |Lotus
+|Logo File |N/A (key=57538337)
+|Number of Cars |4
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/550659019-car.adoc[N/A (key=58838407) N/A (key=55538427)] |N/A (key=58838407) |N/A (key=55538427) |77900264 (0x04A4A9E8) |$43,200 |189 |250.0
+|xref:cars/581779037-car.adoc[Sport Exige 240R ] |Sport Exige |240R  |76900264 (0x049567A8) |$82,000 |243 |250.0
+|xref:cars/6000270704-exige-s.adoc[N/A (key=59838407) N/A (key=57738427)] |N/A (key=59838407) |N/A (key=57738427) |75900264 (0x04862568) |$105,000 |345 |321.0
+|xref:cars/705428965-car.adoc[N/A (key=57838407) N/A (key=553709)] |N/A (key=57838407) |N/A (key=553709) |76900264 (0x049567A8) |$111,000 |350 |274.0
+|===
+

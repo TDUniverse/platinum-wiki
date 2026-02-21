@@ -1,0 +1,19 @@
+:page-aliases: kit-renaultsport
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6052
+|Manufacturer ID |Kit RenaultSport
+|Manufacturer Name |RenaultSport
+|Logo File |Kit RenaultSport
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

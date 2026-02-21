@@ -1,0 +1,6 @@
+= Studebaker
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$brands/145.adoc[]

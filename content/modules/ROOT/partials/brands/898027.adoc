@@ -1,0 +1,30 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |898027
+|Manufacturer ID |N/A (key=58538337)
+|Manufacturer Name |Maserati
+|Logo File |N/A (key=58538337)
+|Number of Cars |13
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270398-mas-ghibli.adoc[Ghibli Q4] |Ghibli |Q4 |76900264 (0x049567A8) |$95,000 |404 |334.0
+|xref:cars/548713017-mas-rst-90.adoc[GranSport Spyder 90th Anniversary] |GranSport |Spyder 90th Anniversary |76900264 (0x049567A8) |$113,000 |396 |266.0
+|xref:cars/903887207-gransport.adoc[N/A (key=62093667) N/A (key=58538407)] |N/A (key=62093667) |N/A (key=58538407) |76900264 (0x049567A8) |$107,500 |396 |266.0
+|xref:cars/6000270565-mas-granturismo.adoc[GranTurismo S] |GranTurismo |S |76900264 (0x049567A8) |$166,500 |434 |335.0
+|xref:cars/6000270706-mas-levante.adoc[Levante N/A (key=57738427)] |Levante |N/A (key=57738427) |77900264 (0x04A4A9E8) |$135,000 |424 |354.0
+|xref:cars/47235520-mas-levante.adoc[Levante N/A (key=57738427)] |Levante |N/A (key=57738427) |77900264 (0x04A4A9E8) |$135,000 |424 |354.0
+|xref:cars/6000270399-mas-quat.adoc[Quattroporte GT S] |Quattroporte |GT S |76900264 (0x049567A8) |$154,000 |434 |342.0
+|xref:cars/65414474-mas-quatgts.adoc[Quattroporte GTS GranSport] |Quattroporte |GTS GranSport |75900264 (0x04862568) |$177,000 |523 |355.0
+|xref:cars/67566089-mas-quatgts.adoc[Quattroporte GTS GranSport] |Quattroporte |GTS GranSport |75900264 (0x04862568) |$177,000 |523 |355.0
+|xref:cars/61355504-mas-mc12.adoc[N/A (key=61538407) Stradale] |N/A (key=61538407) |Stradale |73900264 (0x0467A0E8) |$1,350,000 |624 |307.0
+|xref:cars/698390544-mas-gt.adoc[N/A (key=57538407) Touring] |N/A (key=57538407) |Touring |79900264 (0x04C32E68) |$315,000 |256 |210.0
+|xref:cars/698656360-mas-mc12.adoc[N/A (key=61538407) Stradale] |N/A (key=61538407) |Stradale |73900264 (0x0467A0E8) |$1,350,000 |624 |307.0
+|xref:cars/704744681-car.adoc[N/A (key=56993667) Cambiocorsa] |N/A (key=56993667) |Cambiocorsa |76900264 (0x049567A8) |$103,000 |390 |264.0
+|===
+

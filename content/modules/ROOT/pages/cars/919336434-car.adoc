@@ -1,0 +1,6 @@
+= Mercedes-Benz - N/A (key=53838407) GTR Street Version
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/919336434-car.adoc[]

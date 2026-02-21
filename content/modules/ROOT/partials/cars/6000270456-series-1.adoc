@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: shelby-series-one-n-a-key-5366317
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270456
+|Brand |xref:brands/9643703.adoc[Shelby]
+|Group |75900264 (0x04862568)
+|Price |$88,000
+|Car Name |Series One
+|Real Name |N/A (key=53338427)
+|File Name |Series_1
+|Model |Series
+|Version |N/A (key=54533427)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |3995
+|Power (BHP) |320 bhp @ 6000 rpm
+|Torque (Nm) |393 Nm @ 4400 rpm
+|Redline (RPM) |6500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.420
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.660
+|2 |1.780
+|3 |1.300
+|4 |1.000
+|5 |0.840
+|6 |0.600
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1943
+|Length (mm) |4293
+|Height (mm) |1194
+|Wheelbase (mm) |2443
+|Weight (kg) |1202
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.40 s
+|0 - 100 mph (s) |11.00 s
+|Top Speed (km/h) |384.0 km/h
+|Braking 100–0 km/h (s) |113.00
+|Quarter Mile (s) |12.80 s
+|Grip Coefficient |1030
+|Overturning Coefficient |101
+|Handling |90
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/550413704.adoc[US INDEPENDENTS (ECD_8A_9610)]
+
+//end::available-shops[]

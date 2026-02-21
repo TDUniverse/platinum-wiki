@@ -1,0 +1,19 @@
+:page-aliases: kit-tracer
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6039
+|Manufacturer ID |Kit Tracer
+|Manufacturer Name |Tracer
+|Logo File |Kit Tracer
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

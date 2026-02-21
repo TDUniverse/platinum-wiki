@@ -1,0 +1,19 @@
+:page-aliases: kit-mcr
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |80677163
+|Manufacturer ID |Kit MCR
+|Manufacturer Name |Matchless Crowd Racing
+|Logo File |Kit MCR
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

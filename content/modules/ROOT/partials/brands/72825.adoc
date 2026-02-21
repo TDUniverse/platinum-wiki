@@ -1,0 +1,33 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |72825
+|Manufacturer ID |N/A (key=56338337)
+|Manufacturer Name |Alfa Romeo
+|Logo File |N/A (key=56338337)
+|Number of Cars |16
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270629-alfa-4c.adoc[4C N/A (key=58538407)] |4C |N/A (key=58538407) |75900264 (0x04862568) |$165,000 |237 |280.0
+|xref:cars/5924263241-alfa-155.adoc[155 N/A (key=15088639)] |155 |N/A (key=15088639) |78900264 (0x04B3EC28) |$22,000 |188 |206.0
+|xref:cars/5924263239-alfa-33.adoc[Tipo 33 Stradale] |Tipo 33 |Stradale |79900264 (0x04C32E68) |$2,185,000 |241 |232.0
+|xref:cars/5924263236-alfa-8c.adoc[N/A (key=55638407) N/A (key=58982366)] |N/A (key=55638407) |N/A (key=58982366) |75900264 (0x04862568) |$240,000 |444 |286.0
+|xref:cars/5924263237-8c-spy.adoc[N/A (key=55638407) N/A (key=56993667)] |N/A (key=55638407) |N/A (key=56993667) |75900264 (0x04862568) |$250,000 |444 |286.0
+|xref:cars/75463868-8c-spy.adoc[N/A (key=55638407) N/A (key=56993667)] |N/A (key=55638407) |N/A (key=56993667) |75900264 (0x04862568) |$250,000 |444 |286.0
+|xref:cars/96939458-alfa-8c.adoc[N/A (key=55638407) N/A (key=58982366)] |N/A (key=55638407) |N/A (key=58982366) |75900264 (0x04862568) |$240,000 |444 |286.0
+|xref:cars/5924263240-alfa-gta.adoc[Giulia Sprint GTA] |Giulia Sprint |GTA |79900264 (0x04C32E68) |$113,000 |131 |194.0
+|xref:cars/5924263238-alfa-tz3.adoc[TZ3 Stradale] |TZ3 |Stradale |74900264 (0x0476E328) |$560,000 |600 |481.0
+|xref:cars/70033960-giulia.adoc[Giulia N/A (key=61538427)] |Giulia |N/A (key=61538427) |79900264 (0x04C32E68) |$0 |127 |218.0
+|xref:cars/25655670-giulia-qv.adoc[Giulia Quadrifoglio] |Giulia |Quadrifoglio |75900264 (0x04862568) |$77,250 |503 |291.0
+|xref:cars/75738178-giulia-qv.adoc[Giulia Quadrifoglio] |Giulia |Quadrifoglio |75900264 (0x04862568) |$77,250 |503 |291.0
+|xref:cars/1244127953-246-dino-gts.adoc[Montreal N/A (key=57356917)] |Montreal |N/A (key=57356917) |79900264 (0x04C32E68) |$59,000 |227 |212.0
+|xref:cars/57142377-alfa-gt-sp.adoc[N/A (key=54638407) 3.2 V6 24v Sport Technical Kit] |N/A (key=54638407) |3.2 V6 24v Sport Technical Kit |77900264 (0x04A4A9E8) |$42,000 |260 |270.0
+|xref:cars/63518960-car.adoc[N/A (key=54638407) V6 24v] |N/A (key=54638407) |V6 24v |78900264 (0x04B3EC28) |$38,000 |237 |238.0
+|xref:cars/637314272-alfa-brera.adoc[N/A (key=54933407) 3.2 V6 JTS Q4 Sky View] |N/A (key=54933407) |3.2 V6 JTS Q4 Sky View |78900264 (0x04B3EC28) |$47,250 |256 |265.0
+|===
+

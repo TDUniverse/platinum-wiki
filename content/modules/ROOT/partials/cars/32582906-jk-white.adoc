@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: jeep-wrangler-2-door-jk-tuned
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |32582906
+|Brand |xref:brands/836.adoc[Jeep]
+|Group |78900264 (0x04B3EC28)
+|Price |$35,000
+|Car Name |Wrangler 2-door
+|Real Name |N/A (key=53338427)
+|File Name |JK_White
+|Model |Wrangler
+|Version |JK Rubicon
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |583709 (0x0008E81D)
+|Displacement (cc) |3604
+|Power (BHP) |297 bhp @ 6400 rpm
+|Torque (Nm) |367 Nm @ 4800 rpm
+|Redline (RPM) |6600
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |4.100
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.459
+|2 |2.614
+|3 |1.723
+|4 |1.245
+|5 |1.000
+|6 |0.838
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1873
+|Length (mm) |3881
+|Height (mm) |1836
+|Wheelbase (mm) |2424
+|Weight (kg) |1830
+|Number of Seats |N/A (key=59533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |7.00 s
+|0 - 100 mph (s) |19.30 s
+|Top Speed (km/h) |268.0 km/h
+|Braking 100–0 km/h (s) |139.00
+|Quarter Mile (s) |15.00 s
+|Grip Coefficient |930
+|Overturning Coefficient |101
+|Handling |30
+|Sharpness Coefficient |98
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

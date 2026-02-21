@@ -1,0 +1,19 @@
+:page-aliases: voxan
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |160
+|Manufacturer ID |Voxan
+|Manufacturer Name |N/A (key=8478357)
+|Logo File |Voxan
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

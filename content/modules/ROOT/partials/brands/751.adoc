@@ -1,0 +1,21 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |751
+|Manufacturer ID |N/A (key=71538337)
+|Manufacturer Name |Rolls-Royce
+|Logo File |N/A (key=71538337)
+|Number of Cars |4
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270815-rolls-dawn.adoc[Dawn N/A (key=57356917)] |Dawn |N/A (key=57356917) |76900264 (0x049567A8) |$685,000 |562 |419.0
+|xref:cars/10883411-rolls-dawn.adoc[Dawn N/A (key=57356917)] |Dawn |N/A (key=57356917) |76900264 (0x049567A8) |$685,000 |562 |419.0
+|xref:cars/87844914-rolls-dawn.adoc[Dawn N/A (key=57356917)] |Dawn |N/A (key=57356917) |76900264 (0x049567A8) |$685,000 |562 |419.0
+|xref:cars/6000270814-rolls-wraith.adoc[Wraith N/A (key=57356917)] |Wraith |N/A (key=57356917) |75900264 (0x04862568) |$650,000 |623 |401.0
+|===
+

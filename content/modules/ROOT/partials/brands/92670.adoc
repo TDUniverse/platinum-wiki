@@ -1,0 +1,29 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |92670
+|Manufacturer ID |N/A (key=57638337)
+|Manufacturer Name |Pontiac
+|Logo File |N/A (key=57638337)
+|Number of Cars |12
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270619-g8-gxp.adoc[G8 GXP] |G8 |GXP |76900264 (0x049567A8) |$57,200 |415 |370.0
+|xref:cars/20565629-g8-gxp.adoc[G8 GXP] |G8 |GXP |76900264 (0x049567A8) |$57,200 |415 |370.0
+|xref:cars/1139121456-firebird.adoc[Firebird WS6 Trans Am] |Firebird WS6 |Trans Am |77900264 (0x04A4A9E8) |$39,500 |320 |391.0
+|xref:cars/6000270329-trans-am.adoc[Firebird N/A (key=300401557)] |Firebird |N/A (key=300401557) |79900264 (0x04C32E68) |$30,000 |310 |177.0
+|xref:cars/6000270513-judge-drag.adoc[GTO® The Judge Dragster] |GTO® |The Judge Dragster |79900264 (0x04C32E68) |$110,000 |375 |230.0
+|xref:cars/932820187-gto-judge.adoc[GTO The Judge N/A (key=57356917)] |GTO The Judge |N/A (key=57356917) |79900264 (0x04C32E68) |$110,000 |370 |185.0
+|xref:cars/6000270358-gto-65.adoc[GTO 389 Tri-Power] |GTO |389 Tri-Power |79900264 (0x04C32E68) |$60,000 |360 |182.0
+|xref:cars/6000270512-gto-drag.adoc[GTO 389 Dragster] |GTO |389 Dragster |73900264 (0x0467A0E8) |$220,000 |2100 |490.0
+|xref:cars/31140148-gto-65.adoc[GTO 389 Tri-Power] |GTO |389 Tri-Power |79900264 (0x04C32E68) |$60,000 |360 |182.0
+|xref:cars/6000270618-gto-04.adoc[GTO 5.7 Coupe] |GTO |5.7 Coupe |77900264 (0x04A4A9E8) |$45,700 |350 |355.0
+|xref:cars/703965360-trans-am.adoc[Firebird™ N/A (key=53338427)] |Firebird™ |N/A (key=53338427) |79900264 (0x04C32E68) |$30,000 |300 |201.0
+|xref:cars/6000270617-solstice-rst.adoc[Solstice 2.4 i 16v] |Solstice 2.4 |i 16v |78900264 (0x04B3EC28) |$25,000 |177 |284.0
+|===
+

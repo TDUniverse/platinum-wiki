@@ -1,0 +1,6 @@
+= Jaguar - XK 4.2 N/A (key=56533407)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/1182887077-xk-x150.adoc[]

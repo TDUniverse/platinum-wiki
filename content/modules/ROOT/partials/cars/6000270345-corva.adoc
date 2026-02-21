@@ -1,0 +1,103 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: chevrolet-full-size-impala-409-ss
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270345
+|Brand |xref:brands/983687.adoc[Chevrolet]
+|Group |79900264 (0x04C32E68)
+|Price |$72,500
+|Car Name |Full-Size Impala
+|Real Name |N/A (key=53338427)
+|File Name |Corva
+|Model |Impala
+|Version |Sport Coupe 409 Turbo-Fire SS
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |6702
+|Power (BHP) |425 bhp @ 5400 rpm
+|Torque (Nm) |576 Nm @ 4200 rpm
+|Redline (RPM) |5500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.080
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.560
+|2 |1.910
+|3 |1.480
+|4 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1984
+|Length (mm) |5331
+|Height (mm) |1400
+|Wheelbase (mm) |3023
+|Weight (kg) |1692
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |6.20 s
+|0 - 100 mph (s) |14.10 s
+|Top Speed (km/h) |256.0 km/h
+|Braking 100–0 km/h (s) |140.00
+|Quarter Mile (s) |14.50 s
+|Grip Coefficient |900
+|Overturning Coefficient |94
+|Handling |19
+|Sharpness Coefficient |92
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/622256831.adoc[CHEVROLET CLASSIC (ECD_12C_7853)]
+
+//end::available-shops[]

@@ -1,0 +1,20 @@
+:page-aliases: kit-tommykaira
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6053
+|Manufacturer ID |Kit Tommykaira
+|Manufacturer Name |Tommykaira
+|Logo File |Kit Tommykaira
+|Number of Cars |1
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270458-22b-tm.adoc[M20b N/A (key=57356917)] |M20b |N/A (key=57356917) |76900264 (0x049567A8) |$155,000 |365 |301.0
+|===
+

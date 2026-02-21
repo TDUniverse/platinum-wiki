@@ -1,0 +1,19 @@
+:page-aliases: kit-gd9
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6084
+|Manufacturer ID |Kit GD9
+|Manufacturer Name |GD9
+|Logo File |Kit GD9
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

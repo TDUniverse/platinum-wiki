@@ -1,0 +1,19 @@
+:page-aliases: kit-tom-h
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6055
+|Manufacturer ID |Kit Tom H
+|Manufacturer Name |Tom H
+|Logo File |Kit Tom H
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

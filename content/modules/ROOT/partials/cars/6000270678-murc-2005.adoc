@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: lamborghini-murcielago-coupe
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270678
+|Brand |xref:brands/864426.adoc[Lamborghini]
+|Group |74900264 (0x0476E328)
+|Price |$245,000
+|Car Name |Murcielago
+|Real Name |N/A (key=53338427)
+|File Name |Murc_2005
+|Model |Murciélago
+|Version |N/A (key=58538407)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |603709 (0x0009363D)
+|Displacement (cc) |6192
+|Power (BHP) |571 bhp @ 7500 rpm
+|Torque (Nm) |650 Nm @ 5400 rpm
+|Redline (RPM) |7500
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.141
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.941
+|2 |2.056
+|3 |1.520
+|4 |1.179
+|5 |1.030
+|6 |0.914
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |2045
+|Length (mm) |4580
+|Height (mm) |1135
+|Wheelbase (mm) |2665
+|Weight (kg) |1650
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.80 s
+|0 - 100 mph (s) |7.90 s
+|Top Speed (km/h) |314.0 km/h
+|Braking 100–0 km/h (s) |122.00
+|Quarter Mile (s) |11.70 s
+|Grip Coefficient |1000
+|Overturning Coefficient |104
+|Handling |83
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/611473716.adoc[LAMBORGHINI (ECD_8G_9776)]
+
+//end::available-shops[]

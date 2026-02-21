@@ -1,0 +1,19 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |74920
+|Manufacturer ID |N/A (key=58438337)
+|Manufacturer Name |Ginetta
+|Logo File |N/A (key=58438337)
+|Number of Cars |2
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270315-f400.adoc[F400 N/A (key=57356917)] |F400 |N/A (key=57356917) |74900264 (0x0476E328) |$150,000 |384 |330.0
+|xref:cars/1218220598-car.adoc[Supercharged GTS Prototype 2005] |Supercharged GTS |Prototype 2005 |74900264 (0x0476E328) |$150,000 |400 |330.0
+|===
+

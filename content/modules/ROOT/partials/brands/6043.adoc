@@ -1,0 +1,19 @@
+:page-aliases: kit-silk
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6043
+|Manufacturer ID |Kit Silk
+|Manufacturer Name |Silk Automotive
+|Logo File |Kit Silk
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

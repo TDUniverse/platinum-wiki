@@ -1,0 +1,6 @@
+= Ferrari - N/A (key=58438407) N/A (key=54638407)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270312-246-dino-gt.adoc[]

@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: caterham-n-a-key-61938407-620r
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270671
+|Brand |xref:brands/898117.adoc[Caterham]
+|Group |74900264 (0x0476E328)
+|Price |$75,000
+|Car Name |N/A (key=61938407)
+|Real Name |N/A (key=53338427)
+|File Name |Seven_620R
+|Model |N/A (key=61938407)
+|Version |620R
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |563709 (0x000899FD)
+|Displacement (cc) |1999
+|Power (BHP) |311 bhp @ 7700 rpm
+|Torque (Nm) |297 Nm @ 7350 rpm
+|Redline (RPM) |8600
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.620
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.400
+|2 |1.840
+|3 |1.482
+|4 |1.260
+|5 |1.104
+|6 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1697
+|Length (mm) |3304
+|Height (mm) |1100
+|Wheelbase (mm) |2377
+|Weight (kg) |545
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.30 s
+|0 - 100 mph (s) |6.50 s
+|Top Speed (km/h) |221.0 km/h
+|Braking 100–0 km/h (s) |105.00
+|Quarter Mile (s) |11.10 s
+|Grip Coefficient |1090
+|Overturning Coefficient |105
+|Handling |90
+|Sharpness Coefficient |98
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

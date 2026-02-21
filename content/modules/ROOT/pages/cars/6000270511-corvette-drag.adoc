@@ -1,0 +1,6 @@
+= Chevrolet - Corvette® C2 Stingray Dragster
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270511-corvette-drag.adoc[]

@@ -1,0 +1,19 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |906
+|Manufacturer ID |N/A (key=61438337)
+|Manufacturer Name |Infiniti
+|Logo File |N/A (key=61438337)
+|Number of Cars |2
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270574-g37-cpe.adoc[G37 S Coupe] |G37 |S Coupe |76900264 (0x049567A8) |$58,700 |330 |297.0
+|xref:cars/76357218-g37-cpe.adoc[G37 S Coupe] |G37 |S Coupe |76900264 (0x049567A8) |$58,700 |330 |297.0
+|===
+

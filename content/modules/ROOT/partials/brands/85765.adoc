@@ -1,0 +1,37 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |85765
+|Manufacturer ID |N/A (key=53538337)
+|Manufacturer Name |Koenigsegg
+|Logo File |N/A (key=53538337)
+|Number of Cars |20
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/121344912-car.adoc[CC8S N/A (key=57356917)] |CC8S |N/A (key=57356917) |73900264 (0x0467A0E8) |$538,000 |646 |370.0
+|xref:cars/19423097-regera-roof.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|xref:cars/27490916-regera-carbroof.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|xref:cars/30562911-one1-red.adoc[One:1 N/A (key=57356917)] |One:1 |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,400,000 |1341 |437.0
+|xref:cars/31244505-regera-black.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|xref:cars/42434726-one1-white.adoc[One:1 N/A (key=57356917)] |One:1 |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,400,000 |1341 |437.0
+|xref:cars/43646665-agera-by.adoc[Agera N/A (key=57356917)] |Agera |N/A (key=57356917) |73900264 (0x0467A0E8) |$950,000 |928 |380.0
+|xref:cars/46508944-regera-carbon.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|xref:cars/48791173-agera-br.adoc[Agera N/A (key=57356917)] |Agera |N/A (key=57356917) |73900264 (0x0467A0E8) |$950,000 |928 |380.0
+|xref:cars/54077101-regera-carbroof.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|xref:cars/6000270321-car.adoc[CCX N/A (key=57356917)] |CCX |N/A (key=57356917) |73900264 (0x0467A0E8) |$700,000 |795 |380.0
+|xref:cars/6000270386-koen-agera.adoc[Agera N/A (key=57356917)] |Agera |N/A (key=57356917) |73900264 (0x0467A0E8) |$950,000 |928 |380.0
+|xref:cars/6000270542-koen-regera.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|xref:cars/6000270600-one-1.adoc[One:1 N/A (key=57356917)] |One:1 |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,400,000 |1341 |437.0
+|xref:cars/6000270665-ccx-spo.adoc[CCX N/A (key=57356917)] |CCX |N/A (key=57356917) |73900264 (0x0467A0E8) |$750,000 |795 |380.0
+|xref:cars/69458260-agera-rg.adoc[Agera N/A (key=57356917)] |Agera |N/A (key=57356917) |73900264 (0x0467A0E8) |$950,000 |928 |380.0
+|xref:cars/77277051-regera-white.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|xref:cars/84672939-one1-yellow.adoc[One:1 N/A (key=57356917)] |One:1 |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,400,000 |1341 |437.0
+|xref:cars/8944912-car.adoc[CCR N/A (key=53338427)] |CCR |N/A (key=53338427) |73900264 (0x0467A0E8) |$595,000 |806 |395.0
+|xref:cars/92744136-regera-blue.adoc[Regera N/A (key=57356917)] |Regera |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
+|===
+

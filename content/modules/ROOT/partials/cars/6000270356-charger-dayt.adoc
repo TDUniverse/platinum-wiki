@@ -1,0 +1,103 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: dodge-n-a-key-56238407-daytona-426-hemi
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270356
+|Brand |xref:brands/768658.adoc[Dodge]
+|Group |79900264 (0x04C32E68)
+|Price |$313,500
+|Car Name |N/A (key=56238407)
+|Real Name |N/A (key=53338427)
+|File Name |Charger_Dayt
+|Model |N/A (key=56238407)
+|Version |Daytona 426 Hemi
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |6974
+|Power (BHP) |425 bhp @ 5000 rpm
+|Torque (Nm) |664 Nm @ 4000 rpm
+|Redline (RPM) |5000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.540
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.650
+|2 |1.930
+|3 |1.390
+|4 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1948
+|Length (mm) |5740
+|Height (mm) |1346
+|Wheelbase (mm) |2972
+|Weight (kg) |1900
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.90 s
+|0 - 100 mph (s) |13.80 s
+|Top Speed (km/h) |213.0 km/h
+|Braking 100–0 km/h (s) |150.00
+|Quarter Mile (s) |14.10 s
+|Grip Coefficient |950
+|Overturning Coefficient |95
+|Handling |25
+|Sharpness Coefficient |92
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

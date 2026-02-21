@@ -1,0 +1,6 @@
+= Triumph - N/A (key=53738407) 995i
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/1208897332-daytona-955i.adoc[]

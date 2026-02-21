@@ -1,0 +1,23 @@
+:page-aliases: oldsmobile
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |871
+|Manufacturer ID |Oldsmobile
+|Manufacturer Name |N/A (key=7978357)
+|Logo File |Oldsmobile
+|Number of Cars |4
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270346-olds-445.adoc[Hurst/Olds 4-4-2 Holiday Coupe] |Hurst/Olds |4-4-2 Holiday Coupe |79900264 (0x04C32E68) |$85,000 |380 |190.0
+|xref:cars/6000270515-olds-drag.adoc[Hurst/Olds 4-4-2 Holiday Coupe Dragster] |Hurst/Olds |4-4-2 Holiday Coupe Dragster |73900264 (0x0467A0E8) |$285,000 |2100 |490.0
+|xref:cars/98587476-olds-442.adoc[Hurst/Olds 4-4-2 Holiday Coupe] |Hurst/Olds |4-4-2 Holiday Coupe |79900264 (0x04C32E68) |$85,000 |380 |190.0
+|xref:cars/10536046-olds-442.adoc[Hurst/Olds 4-4-2 Holiday Coupe] |Hurst/Olds |4-4-2 Holiday Coupe |79900264 (0x04C32E68) |$85,000 |380 |190.0
+|===
+

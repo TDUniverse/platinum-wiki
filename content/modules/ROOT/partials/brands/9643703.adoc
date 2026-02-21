@@ -1,0 +1,30 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |9643703
+|Manufacturer ID |N/A (key=60638337)
+|Manufacturer Name |Shelby
+|Logo File |N/A (key=60638337)
+|Number of Cars |13
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/1213119631-shelb-gt500.adoc[GT500 N/A (key=57356917)] |GT500 |N/A (key=57356917) |79900264 (0x04C32E68) |$160,000 |355 |191.0
+|xref:cars/6000270334-shelb-gt500.adoc[GT500® N/A (key=57356917)] |GT500® |N/A (key=57356917) |79900264 (0x04C32E68) |$200,000 |355 |220.0
+|xref:cars/6000270604-gt500-kr.adoc[GT500 KR] |GT500 |KR |79900264 (0x04C32E68) |$208,000 |400 |192.0
+|xref:cars/6000270606-gt500-eleonor.adoc[GT500 Eleanor] |GT500 |Eleanor |76900264 (0x049567A8) |$362,000 |535 |261.0
+|xref:cars/54079908-gt500kr-white.adoc[GT500 KR] |GT500 |KR |79900264 (0x04C32E68) |$205,000 |400 |192.0
+|xref:cars/81074950-gt500kr-white.adoc[GT500 KR] |GT500 |KR |79900264 (0x04C32E68) |$205,000 |400 |192.0
+|xref:cars/6000270374-must-gt500.adoc[N/A (key=61038407) GT500] |N/A (key=61038407) |GT500 |75900264 (0x04862568) |$62,000 |540 |413.0
+|xref:cars/6000270456-series-1.adoc[Series N/A (key=54533427)] |Series |N/A (key=54533427) |75900264 (0x04862568) |$88,000 |320 |384.0
+|xref:cars/1222147005-car.adoc[N/A (key=59938407) Daytona Coupe #CSX2299] |N/A (key=59938407) |Daytona Coupe #CSX2299 |79900264 (0x04C32E68) |$1,350,000 |380 |327.0
+|xref:cars/15556725-car.adoc[N/A (key=59938407) Daytona Coupe #CSX2299] |N/A (key=59938407) |Daytona Coupe #CSX2299 |79900264 (0x04C32E68) |$1,350,000 |380 |327.0
+|xref:cars/606298799-car.adoc[N/A (key=59938407) 427 S/C] |N/A (key=59938407) |427 S/C |79900264 (0x04C32E68) |$850,000 |410 |241.0
+|xref:cars/96116941-weineck-780.adoc[N/A (key=59938407) Weineck 780cui Limited Edition] |N/A (key=59938407) |Weineck 780cui Limited Edition |73900264 (0x0467A0E8) |$1,600,000 |1085 |300.0
+|xref:cars/97287508-car.adoc[N/A (key=59938407) 427 S/C] |N/A (key=59938407) |427 S/C |79900264 (0x04C32E68) |$850,000 |410 |241.0
+|===
+

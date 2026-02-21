@@ -1,0 +1,6 @@
+= Volvo - XC90 T8 R-Design
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/81575625-xc90-t8.adoc[]

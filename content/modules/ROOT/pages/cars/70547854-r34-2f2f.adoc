@@ -1,0 +1,6 @@
+= Nissan - N/A (key=53448407) GT-R (R34) V-Spec II 2Fast 2Furious
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/70547854-r34-2f2f.adoc[]

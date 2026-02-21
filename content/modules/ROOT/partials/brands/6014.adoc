@@ -1,0 +1,19 @@
+:page-aliases: kit-uras
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6014
+|Manufacturer ID |Kit URAS
+|Manufacturer Name |URAS
+|Logo File |Kit URAS
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

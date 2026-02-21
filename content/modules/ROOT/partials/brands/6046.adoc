@@ -1,0 +1,19 @@
+:page-aliases: kit-top-secret
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6046
+|Manufacturer ID |Kit Top Secret
+|Manufacturer Name |Top Secret
+|Logo File |Kit Top Secret
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

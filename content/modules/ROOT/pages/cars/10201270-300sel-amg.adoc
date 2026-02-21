@@ -1,0 +1,6 @@
+= Mercedes-Benz - 300 SEL 6.8 AMG
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/10201270-300sel-amg.adoc[]

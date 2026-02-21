@@ -1,0 +1,19 @@
+:page-aliases: kit-viper
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6051
+|Manufacturer ID |Kit Viper
+|Manufacturer Name |Viper
+|Logo File |Kit Viper
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

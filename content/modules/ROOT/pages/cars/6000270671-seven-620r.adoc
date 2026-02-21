@@ -1,0 +1,6 @@
+= Caterham - N/A (key=61938407) 620R
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270671-seven-620r.adoc[]

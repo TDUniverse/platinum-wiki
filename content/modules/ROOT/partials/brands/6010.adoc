@@ -1,0 +1,19 @@
+:page-aliases: kit-damd
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6010
+|Manufacturer ID |Kit DAMD
+|Manufacturer Name |DAMD
+|Logo File |Kit DAMD
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

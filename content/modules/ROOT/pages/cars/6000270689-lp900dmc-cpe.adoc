@@ -1,0 +1,6 @@
+= Lamborghini - Aventador LP900-4 DMC Molto Veloce
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270689-lp900dmc-cpe.adoc[]

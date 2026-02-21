@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: lamborghini-revent-n-coupe
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |87357619
+|Brand |xref:brands/864426.adoc[Lamborghini]
+|Group |73900264 (0x0467A0E8)
+|Price |$1,500,000
+|Car Name |Reventón
+|Real Name |N/A (key=53338427)
+|File Name |Reventon
+|Model |Reventón
+|Version |N/A (key=58538407)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |603709 (0x0009363D)
+|Displacement (cc) |6496
+|Power (BHP) |641 bhp @ 7500 rpm
+|Torque (Nm) |660 Nm @ 6000 rpm
+|Redline (RPM) |7500
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.141
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.091
+|2 |2.105
+|3 |1.565
+|4 |1.241
+|5 |1.065
+|6 |0.939
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |2058
+|Length (mm) |4700
+|Height (mm) |1135
+|Wheelbase (mm) |2665
+|Weight (kg) |1665
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.60 s
+|0 - 100 mph (s) |7.20 s
+|Top Speed (km/h) |325.0 km/h
+|Braking 100–0 km/h (s) |120.00
+|Quarter Mile (s) |11.40 s
+|Grip Coefficient |1020
+|Overturning Coefficient |104
+|Handling |84
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

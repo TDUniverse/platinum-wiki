@@ -1,0 +1,6 @@
+= Nissan - 350Z Nismo S-Tune
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/1133391037-350z-nismo.adoc[]

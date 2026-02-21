@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: alfa-romeo-giulia-qv-type-952
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |25655670
+|Brand |xref:brands/72825.adoc[Alfa Romeo]
+|Group |75900264 (0x04862568)
+|Price |$77,250
+|Car Name |Giulia
+|Real Name |N/A (key=53338427)
+|File Name |Giulia_QV
+|Model |Giulia
+|Version |Quadrifoglio
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |583709 (0x0008E81D)
+|Displacement (cc) |2891
+|Power (BHP) |503 bhp @ 6500 rpm
+|Torque (Nm) |600 Nm @ 2500 rpm
+|Redline (RPM) |6500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.090
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.055
+|2 |2.396
+|3 |1.582
+|4 |1.192
+|5 |1.000
+|6 |0.872
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1863
+|Length (mm) |4639
+|Height (mm) |1426
+|Wheelbase (mm) |2820
+|Weight (kg) |1595
+|Number of Seats |N/A (key=56338408)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.00 s
+|0 - 100 mph (s) |8.30 s
+|Top Speed (km/h) |291.0 km/h
+|Braking 100–0 km/h (s) |115.00
+|Quarter Mile (s) |12.00 s
+|Grip Coefficient |1040
+|Overturning Coefficient |99
+|Handling |91
+|Sharpness Coefficient |101
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/589863713.adoc[ALFA ROMEO (ECD_8F_3655)]
+
+//end::available-shops[]

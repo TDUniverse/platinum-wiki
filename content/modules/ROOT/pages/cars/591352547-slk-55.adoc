@@ -1,0 +1,6 @@
+= Mercedes-Benz - N/A (key=61738407) N/A (key=55738427)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/591352547-slk-55.adoc[]

@@ -1,0 +1,17 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |105
+|Manufacturer ID |N/A (key=87938337)
+|Manufacturer Name |MG
+|Logo File |N/A (key=87938337)
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

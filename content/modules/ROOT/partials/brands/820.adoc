@@ -1,0 +1,20 @@
+:page-aliases: gemballa
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |820
+|Manufacturer ID |Gemballa
+|Manufacturer Name |N/A (key=7628357)
+|Logo File |Gemballa
+|Number of Cars |1
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270705-mig-u1.adoc[MIG-U1 N/A (key=57356917)] |MIG-U1 |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,500,000 |700 |359.0
+|===
+

@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: noble-n-a-key-57733407-n-a-key-53338427
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |698404775
+|Brand |xref:brands/773468.adoc[Noble]
+|Group |74900264 (0x0476E328)
+|Price |$115,000
+|Car Name |N/A (key=57733407)
+|Real Name |N/A (key=53338427)
+|File Name |N/A (key=57733407)
+|Model |N/A (key=57733407)
+|Version |N/A (key=57356917)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |583709 (0x0008E81D)
+|Displacement (cc) |2968
+|Power (BHP) |425 bhp @ 6500 rpm
+|Torque (Nm) |529 Nm @ 5000 rpm
+|Redline (RPM) |7200
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.870
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.150
+|2 |1.950
+|3 |1.520
+|4 |1.190
+|5 |0.930
+|6 |0.730
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1885
+|Length (mm) |4089
+|Height (mm) |1143
+|Wheelbase (mm) |2438
+|Weight (kg) |1060
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.60 s
+|0 - 100 mph (s) |7.30 s
+|Top Speed (km/h) |281.0 km/h
+|Braking 100–0 km/h (s) |115.00
+|Quarter Mile (s) |11.40 s
+|Grip Coefficient |1050
+|Overturning Coefficient |103
+|Handling |95
+|Sharpness Coefficient |99
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: n-a-key-6138357-x-series-x5-e70-m-package
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270660
+|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Group |76900264 (0x049567A8)
+|Price |$175,000
+|Car Name |X-series
+|Real Name |N/A (key=53338427)
+|File Name |X5_M
+|Model |X5
+|Version |M E70 Performance Package
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |4395
+|Power (BHP) |580 bhp @ 6000 rpm
+|Torque (Nm) |700 Nm @ 2500 rpm
+|Redline (RPM) |6600
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.909
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.171
+|2 |2.340
+|3 |1.521
+|4 |1.143
+|5 |0.867
+|6 |0.691
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1994
+|Length (mm) |4851
+|Height (mm) |1764
+|Wheelbase (mm) |2933
+|Weight (kg) |2135
+|Number of Seats |N/A (key=58533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.00 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |323.0 km/h
+|Braking 100–0 km/h (s) |125.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1030
+|Overturning Coefficient |99
+|Handling |45
+|Sharpness Coefficient |98
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

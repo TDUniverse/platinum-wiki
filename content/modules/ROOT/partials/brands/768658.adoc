@@ -1,0 +1,62 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |768658
+|Manufacturer ID |N/A (key=56438337)
+|Manufacturer Name |Dodge
+|Logo File |N/A (key=56438337)
+|Number of Cars |45
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270357-coronet-sb.adoc[Coronet Super Bee 426 Hemi] |Coronet |Super Bee 426 Hemi |79900264 (0x04C32E68) |$80,000 |425 |200.0
+|xref:cars/6000270510-coronet-drag.adoc[Coronet Super Bee 426 Hemi Dragster] |Coronet |Super Bee 426 Hemi Dragster |73900264 (0x0467A0E8) |$245,000 |2100 |490.0
+|xref:cars/83448947-coronet-sb.adoc[Coronet Super Bee 426 Hemi] |Coronet |Super Bee 426 Hemi |79900264 (0x04C32E68) |$80,000 |425 |200.0
+|xref:cars/6000270864-ram-srt10.adoc[Ram SRT10] |Ram |SRT10 |77900264 (0x04A4A9E8) |$87,000 |500 |377.0
+|xref:cars/6000270869-ram-vis.adoc[Ram SRT-10 ViS Racing Diablo] |Ram |SRT-10 ViS Racing Diablo |76900264 (0x049567A8) |$127,000 |545 |377.0
+|xref:cars/37604505-ram-srt10.adoc[Ram SRT10] |Ram |SRT10 |77900264 (0x04A4A9E8) |$87,000 |500 |377.0
+|xref:cars/51221344640-viper-gts.adoc[N/A (key=58238407) N/A (key=62938407)] |N/A (key=58238407) |N/A (key=62938407) |75900264 (0x04862568) |$81,000 |450 |419.0
+|xref:cars/51221344641-viper-gtsr.adoc[N/A (key=58238407) GTS-R] |N/A (key=58238407) |GTS-R |74900264 (0x0476E328) |$160,000 |468 |419.0
+|xref:cars/22125524-viper-gtsr.adoc[N/A (key=58238407) GTS-R] |N/A (key=58238407) |GTS-R |74900264 (0x0476E328) |$160,000 |468 |419.0
+|xref:cars/1108350118-car.adoc[N/A (key=58238407) SRT GTS] |N/A (key=58238407) |SRT GTS |73900264 (0x0467A0E8) |$115,000 |640 |330.0
+|xref:cars/1219815842-charger-sb.adoc[N/A (key=56238407) Super Bee 426 Hemi] |N/A (key=56238407) |Super Bee 426 Hemi |79900264 (0x04C32E68) |$45,000 |425 |192.0
+|xref:cars/1219816155-car.adoc[N/A (key=57238407) R/T] |N/A (key=57238407) |R/T |79900264 (0x04C32E68) |$27,000 |425 |233.0
+|xref:cars/1221344640-viper-cpe.adoc[N/A (key=58238407) SRT10 Coupe] |N/A (key=58238407) |SRT10 Coupe |74900264 (0x0476E328) |$87,000 |500 |508.0
+|xref:cars/1221911046-s281sc-conv.adoc[N/A (key=56238407) SRT8] |N/A (key=56238407) |SRT8 |76900264 (0x049567A8) |$51,000 |470 |314.0
+|xref:cars/1231910920-s281sc-cpe.adoc[N/A (key=57238407) SRT8] |N/A (key=57238407) |SRT8 |76900264 (0x049567A8) |$47,000 |425 |409.0
+|xref:cars/13381620-srt10-police.adoc[N/A (key=58238407) SRT10 Coupe Police Car] |N/A (key=58238407) |SRT10 Coupe Police Car |73900264 (0x0467A0E8) |$185,000 |895 |480.0
+|xref:cars/33842615-charger-rt.adoc[N/A (key=56238407) R/T 426 Hemi TorqueFlite] |N/A (key=56238407) |R/T 426 Hemi TorqueFlite |79900264 (0x04C32E68) |$125,000 |425 |207.0
+|xref:cars/35255252-srt10police-blue.adoc[N/A (key=58238407) SRT10 Coupe Police Car] |N/A (key=58238407) |SRT10 Coupe Police Car |73900264 (0x0467A0E8) |$185,000 |895 |480.0
+|xref:cars/38392438-charger-dayt.adoc[N/A (key=56238407) Daytona 426 Hemi] |N/A (key=56238407) |Daytona 426 Hemi |79900264 (0x04C32E68) |$313,500 |425 |213.0
+|xref:cars/6000270313-car.adoc[N/A (key=57238407) N/A (key=300401050)] |N/A (key=57238407) |N/A (key=300401050) |79900264 (0x04C32E68) |$35,000 |425 |195.0
+|xref:cars/6000270355-charger-rt.adoc[N/A (key=56238407) R/T 426 Hemi TorqueFlite] |N/A (key=56238407) |R/T 426 Hemi TorqueFlite |79900264 (0x04C32E68) |$125,000 |425 |207.0
+|xref:cars/6000270356-charger-dayt.adoc[N/A (key=56238407) Daytona 426 Hemi] |N/A (key=56238407) |Daytona 426 Hemi |79900264 (0x04C32E68) |$313,500 |425 |213.0
+|xref:cars/6000270507-challenger-drag.adoc[N/A (key=57238407) N/A (key=300401052)] |N/A (key=57238407) |N/A (key=300401052) |73900264 (0x0467A0E8) |$35,000 |2100 |490.0
+|xref:cars/6000270508-charger-drag.adoc[N/A (key=56238407) R/T 426 Hemi Dragster] |N/A (key=56238407) |R/T 426 Hemi Dragster |73900264 (0x0467A0E8) |$125,000 |2200 |490.0
+|xref:cars/6000270516-viper-stripe.adoc[N/A (key=58238407) SRT GTS] |N/A (key=58238407) |SRT GTS |73900264 (0x0467A0E8) |$115,000 |640 |330.0
+|xref:cars/6000270517-viper-ta.adoc[N/A (key=58238407) SRT TA] |N/A (key=58238407) |SRT TA |73900264 (0x0467A0E8) |$140,000 |640 |330.0
+|xref:cars/6000270518-viper-acr.adoc[N/A (key=58238407) SRT ACR] |N/A (key=58238407) |SRT ACR |73900264 (0x0467A0E8) |$170,000 |645 |422.0
+|xref:cars/6000270519-viper-acr2.adoc[N/A (key=58238407) SRT ACR] |N/A (key=58238407) |SRT ACR |73900264 (0x0467A0E8) |$170,000 |645 |422.0
+|xref:cars/6000270611-viper-cpe.adoc[N/A (key=58238407) SRT10 Coupe] |N/A (key=58238407) |SRT10 Coupe |74900264 (0x0476E328) |$87,000 |600 |480.0
+|xref:cars/6000270634-chall-stripe.adoc[N/A (key=57238407) SRT8] |N/A (key=57238407) |SRT8 |76900264 (0x049567A8) |$47,000 |425 |409.0
+|xref:cars/6000270635-chall-2015.adoc[N/A (key=57238407) R/T Shaker] |N/A (key=57238407) |R/T Shaker |77900264 (0x04A4A9E8) |$41,000 |375 |370.0
+|xref:cars/6000270636-srt10-stripe.adoc[N/A (key=58238407) N/A (key=56638427)] |N/A (key=58238407) |N/A (key=56638427) |74900264 (0x0476E328) |$85,000 |600 |480.0
+|xref:cars/6000270637-srt10-acr.adoc[N/A (key=58238407) SRT10 ACR] |N/A (key=58238407) |SRT10 ACR |73900264 (0x0467A0E8) |$110,000 |600 |480.0
+|xref:cars/6000270727-chall-hell.adoc[N/A (key=57238407) SRT Hellcat] |N/A (key=57238407) |SRT Hellcat |75900264 (0x04862568) |$67,000 |707 |351.0
+|xref:cars/6000270728-char-hell.adoc[N/A (key=56238407) SRT Hellcat] |N/A (key=56238407) |SRT Hellcat |75900264 (0x04862568) |$74,000 |707 |351.0
+|xref:cars/6000270790-chall-demon.adoc[N/A (key=57238407) SRT Demon] |N/A (key=57238407) |SRT Demon |74900264 (0x0476E328) |$95,000 |840 |304.0
+|xref:cars/6000270791-chall-lb.adoc[N/A (key=57238407) SRT Liberty Walk] |N/A (key=57238407) |SRT Liberty Walk |73900264 (0x0467A0E8) |$285,000 |997 |480.0
+|xref:cars/68536114-challlb-white.adoc[N/A (key=57238407) SRT Liberty Walk] |N/A (key=57238407) |SRT Liberty Walk |73900264 (0x0467A0E8) |$285,000 |997 |480.0
+|xref:cars/79911719-chall-stripe.adoc[N/A (key=57238407) SRT8] |N/A (key=57238407) |SRT8 |76900264 (0x049567A8) |$47,000 |425 |409.0
+|xref:cars/85255792-s281sc-conv.adoc[N/A (key=56238407) SRT8] |N/A (key=56238407) |SRT8 |76900264 (0x049567A8) |$51,000 |470 |314.0
+|xref:cars/86560807-srt10police-black.adoc[N/A (key=58238407) SRT10 Coupe Police Car] |N/A (key=58238407) |SRT10 Coupe Police Car |73900264 (0x0467A0E8) |$185,000 |895 |480.0
+|xref:cars/87576466-charger-69.adoc[N/A (key=56238407) R/T 426 Hemi] |N/A (key=56238407) |R/T 426 Hemi |79900264 (0x04C32E68) |$128,500 |425 |200.0
+|xref:cars/915344490-viper-sr.adoc[N/A (key=58238407) N/A (key=56638427)] |N/A (key=58238407) |N/A (key=56638427) |74900264 (0x0476E328) |$92,000 |600 |480.0
+|xref:cars/93646200-viper-stripe.adoc[N/A (key=58238407) SRT GTS] |N/A (key=58238407) |SRT GTS |73900264 (0x0467A0E8) |$115,000 |640 |330.0
+|xref:cars/96122432-challlb-tran.adoc[N/A (key=57238407) SRT Liberty Walk] |N/A (key=57238407) |SRT Liberty Walk |73900264 (0x0467A0E8) |$285,000 |997 |480.0
+|===
+

@@ -1,0 +1,59 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |865967
+|Manufacturer ID |N/A (key=61538337)
+|Manufacturer Name |Mercedes-Benz
+|Logo File |N/A (key=61538337)
+|Number of Cars |42
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/1245053135-300-sl.adoc[300 SL N/A (key=56738427)] |300 SL |N/A (key=56738427) |79900264 (0x04C32E68) |$2,370,000 |240 |214.0
+|xref:cars/6000270724-amg-gt.adoc[AMG N/A (key=15090300)] |AMG |N/A (key=15090300) |74900264 (0x0476E328) |$365,000 |456 |357.0
+|xref:cars/6000270740-amg-gtr.adoc[AMG GT R] |AMG |GT R |73900264 (0x0467A0E8) |$455,000 |577 |344.0
+|xref:cars/1074527109-c-klasse-c204.adoc[C 63 AMG Black Series] |C |63 AMG Black Series |75900264 (0x04862568) |$130,000 |510 |389.0
+|xref:cars/6000270746-c63-blackspo.adoc[C 63 AMG Black Series] |C |63 AMG Black Series |75900264 (0x04862568) |$130,000 |510 |389.0
+|xref:cars/6000270723-c-63.adoc[C 63 AMG] |C |63 AMG |76900264 (0x049567A8) |$85,000 |451 |378.0
+|xref:cars/6000270745-c63-wald.adoc[C 63 AMG Wald] |C |63 AMG Wald |75900264 (0x04862568) |$110,000 |493 |378.0
+|xref:cars/6000270418-cl-65.adoc[N/A (key=54838407) N/A (key=56592366)] |N/A (key=54838407) |N/A (key=56592366) |75900264 (0x04862568) |$165,000 |604 |324.0
+|xref:cars/916337925-clk-klasse.adoc[N/A (key=53838407) DTM AMG] |N/A (key=53838407) |DTM AMG |74900264 (0x0476E328) |$309,400 |574 |297.0
+|xref:cars/6000270326-clk-klasse.adoc[N/A (key=53838407) N/A (key=55738427)] |N/A (key=53838407) |N/A (key=55738427) |77900264 (0x04A4A9E8) |$89,400 |362 |283.0
+|xref:cars/592136555-cls-klasse.adoc[N/A (key=55733407) 63 AMG S 4MATIC] |N/A (key=55733407) |63 AMG S 4MATIC |75900264 (0x04862568) |$127,000 |577 |371.0
+|xref:cars/6000270417-e-63.adoc[E 63 AMG] |E |63 AMG |75900264 (0x04862568) |$120,000 |518 |379.0
+|xref:cars/6000270725-g-55.adoc[G N/A (key=55738427)] |G |N/A (key=55738427) |78900264 (0x04B3EC28) |$150,000 |500 |256.0
+|xref:cars/6000270751-g65-black.adoc[G 65 AMG Black Edition] |G |65 AMG Black Edition |77900264 (0x04A4A9E8) |$265,000 |621 |266.0
+|xref:cars/6000270752-g-65.adoc[G N/A (key=56592366)] |G |N/A (key=56592366) |77900264 (0x04A4A9E8) |$245,000 |621 |266.0
+|xref:cars/6000270756-g55-hamann.adoc[G 55 AMG Hamann Typhoon] |G |55 AMG Hamann Typhoon |77900264 (0x04A4A9E8) |$300,000 |600 |256.0
+|xref:cars/96461085-g-65.adoc[G N/A (key=56592366)] |G |N/A (key=56592366) |77900264 (0x04A4A9E8) |$245,000 |621 |266.0
+|xref:cars/6000270726-ml-63.adoc[ML 63 AMG] |ML |63 AMG |77900264 (0x04A4A9E8) |$142,000 |503 |365.0
+|xref:cars/6000270419-s-65.adoc[N/A (key=57738427) N/A (key=56592366)] |N/A (key=57738427) |N/A (key=56592366) |75900264 (0x04862568) |$215,000 |603 |324.0
+|xref:cars/89207747-s-65.adoc[N/A (key=57738427) N/A (key=56592366)] |N/A (key=57738427) |N/A (key=56592366) |75900264 (0x04862568) |$215,000 |603 |324.0
+|xref:cars/6000270415-300-sel.adoc[300 SEL 6.3] |300 SEL |6.3 |79900264 (0x04C32E68) |$212,000 |300 |246.0
+|xref:cars/10201270-300sel-amg.adoc[300 SEL 6.8 AMG] |300 SEL |6.8 AMG |79900264 (0x04C32E68) |$347,000 |428 |246.0
+|xref:cars/1230253255-sl-klasse.adoc[N/A (key=60738407) N/A (key=56592366)] |N/A (key=60738407) |N/A (key=56592366) |75900264 (0x04862568) |$225,000 |603 |336.0
+|xref:cars/6000270420-sl-500.adoc[N/A (key=60738407) 500] |N/A (key=60738407) |500 |77900264 (0x04A4A9E8) |$65,000 |315 |253.0
+|xref:cars/6000270563-sl65-black.adoc[N/A (key=60738407) 65 AMG Black Series] |N/A (key=60738407) |65 AMG Black Series |74900264 (0x0476E328) |$350,000 |661 |325.0
+|xref:cars/6000270564-sl65-spo.adoc[N/A (key=60738407) 65 AMG Black Series] |N/A (key=60738407) |65 AMG Black Series |74900264 (0x0476E328) |$325,000 |661 |325.0
+|xref:cars/57726588-sl65-spo.adoc[N/A (key=60738407) 65 AMG Black Series] |N/A (key=60738407) |65 AMG Black Series |74900264 (0x0476E328) |$325,000 |661 |325.0
+|xref:cars/591352547-slk-55.adoc[N/A (key=61738407) N/A (key=55738427)] |N/A (key=61738407) |N/A (key=55738427) |77900264 (0x04A4A9E8) |$72,850 |355 |323.0
+|xref:cars/6000270416-slk-amg.adoc[N/A (key=61738407) N/A (key=55738427)] |N/A (key=61738407) |N/A (key=55738427) |76900264 (0x049567A8) |$82,850 |416 |381.0
+|xref:cars/6000270421-sls-amg.adoc[SLS AMG] |SLS |AMG |74900264 (0x0476E328) |$455,000 |563 |320.0
+|xref:cars/55229892-sls-black.adoc[SLS AMG Black Series] |SLS |AMG Black Series |73900264 (0x0467A0E8) |$700,000 |622 |360.0
+|xref:cars/61164159-sls-amg.adoc[SLS AMG] |SLS |AMG |74900264 (0x0476E328) |$455,000 |563 |320.0
+|xref:cars/48593088-slr-722.adoc[N/A (key=55838407) Mclaren 722 Edition] |N/A (key=55838407) |Mclaren 722 Edition |73900264 (0x0467A0E8) |$570,000 |641 |345.0
+|xref:cars/591336547-car.adoc[N/A (key=53838407) N/A (key=55738427)] |N/A (key=53838407) |N/A (key=55738427) |76900264 (0x049567A8) |$89,400 |362 |250.0
+|xref:cars/6000270327-car.adoc[N/A (key=55838407) Mclaren] |N/A (key=55838407) |Mclaren |73900264 (0x0467A0E8) |$460,000 |617 |345.0
+|xref:cars/6000270749-clk-lm.adoc[N/A (key=53838407) N/A (key=56933427)] |N/A (key=53838407) |N/A (key=56933427) |73900264 (0x0467A0E8) |$1,530,000 |630 |342.0
+|xref:cars/6000270750-clk-rst.adoc[N/A (key=53838407) GTR Roadster] |N/A (key=53838407) |GTR Roadster |73900264 (0x0467A0E8) |$1,450,000 |603 |342.0
+|xref:cars/63946586-clkss-rst.adoc[N/A (key=53838407) GTR Super Sport Roadster] |N/A (key=53838407) |GTR Super Sport Roadster |73900264 (0x0467A0E8) |$1,870,000 |711 |342.0
+|xref:cars/80989114-clkss-cpe.adoc[N/A (key=53838407) GTR Super Sport Street Version] |N/A (key=53838407) |GTR Super Sport Street Version |73900264 (0x0467A0E8) |$1,400,000 |711 |342.0
+|xref:cars/86138792-clkss-lm.adoc[N/A (key=53838407) GTR Super Sport] |N/A (key=53838407) |GTR Super Sport |73900264 (0x0467A0E8) |$1,950,000 |711 |342.0
+|xref:cars/919336434-car.adoc[N/A (key=53838407) GTR Street Version] |N/A (key=53838407) |GTR Street Version |73900264 (0x0467A0E8) |$980,000 |603 |342.0
+|xref:cars/94025825-car.adoc[N/A (key=53838407) GTR Street Version] |N/A (key=53838407) |GTR Street Version |73900264 (0x0467A0E8) |$980,000 |603 |342.0
+|===
+

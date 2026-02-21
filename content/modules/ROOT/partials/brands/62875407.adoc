@@ -1,0 +1,19 @@
+:page-aliases: kit-hennessey
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |62875407
+|Manufacturer ID |Kit Hennessey
+|Manufacturer Name |Hennessey Performance
+|Logo File |Kit Hennessey
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

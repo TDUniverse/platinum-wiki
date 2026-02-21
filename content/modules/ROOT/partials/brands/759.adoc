@@ -1,0 +1,20 @@
+:page-aliases: acura
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |759
+|Manufacturer ID |Acura
+|Manufacturer Name |N/A (key=7238357)
+|Logo File |Acura
+|Number of Cars |1
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/5924263235-nsx.adoc[NSX Type S] |NSX |Type S |76900264 (0x049567A8) |$91,500 |290 |284.0
+|===
+

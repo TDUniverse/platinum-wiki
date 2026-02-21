@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: mv-agusta-brutale-streetbike
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |1268792919
+|Brand |xref:brands/937.adoc[MV Agusta]
+|Group |77800264 (0x04A32348)
+|Price |$16,000
+|Car Name |Brutale
+|Real Name |N/A (key=53338427)
+|File Name |Brutal
+|Model |F4 Brutale
+|Version |910S
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |563709 (0x000899FD)
+|Displacement (cc) |909
+|Power (BHP) |136 bhp @ 11000 rpm
+|Torque (Nm) |96 Nm @ 7900 rpm
+|Redline (RPM) |12000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |2.800
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.920
+|2 |2.125
+|3 |1.777
+|4 |1.500
+|5 |1.318
+|6 |1.210
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |844
+|Length (mm) |2030
+|Height (mm) |1060
+|Wheelbase (mm) |1425
+|Weight (kg) |185
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.50 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |257.0 km/h
+|Braking 100–0 km/h (s) |118.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1050
+|Overturning Coefficient |102
+|Handling |92
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/557056819.adoc[EUROPEAN MOTORCYCLES (EBD_12A_2237)]
+
+//end::available-shops[]

@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: aston-martin-n-a-key-55138407-n-a-key-55638427
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270305
+|Brand |xref:brands/868295.adoc[Aston Martin]
+|Group |76900264 (0x049567A8)
+|Price |$161,000
+|Car Name |N/A (key=55138407)
+|Real Name |N/A (key=53338427)
+|File Name |DB9_Vol
+|Model |Virage
+|Version |N/A (key=58538407)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |603709 (0x0009363D)
+|Displacement (cc) |5935
+|Power (BHP) |450 bhp @ 6000 rpm
+|Torque (Nm) |570 Nm @ 5000 rpm
+|Redline (RPM) |6800
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.150
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.170
+|2 |2.340
+|3 |1.520
+|4 |1.140
+|5 |0.870
+|6 |0.690
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1875
+|Length (mm) |4710
+|Height (mm) |1270
+|Wheelbase (mm) |2740
+|Weight (kg) |1710
+|Number of Seats |2+2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.90 s
+|0 - 100 mph (s) |11.00 s
+|Top Speed (km/h) |300.0 km/h
+|Braking 100–0 km/h (s) |133.00
+|Quarter Mile (s) |13.20 s
+|Grip Coefficient |1000
+|Overturning Coefficient |98
+|Handling |76
+|Sharpness Coefficient |98
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

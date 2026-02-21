@@ -1,0 +1,22 @@
+:page-aliases: peugeot
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |738
+|Manufacturer ID |Peugeot
+|Manufacturer Name |N/A (key=7028357)
+|Logo File |Peugeot
+|Number of Cars |3
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270429-205-t16.adoc[205 Turbo 16] |205 |Turbo 16 |79900264 (0x04C32E68) |$75,000 |197 |232.0
+|xref:cars/6000270788-308-gti.adoc[N/A (key=56033407) GTi 1.6 THP] |N/A (key=56033407) |GTi 1.6 THP |78900264 (0x04B3EC28) |$31,500 |197 |253.0
+|xref:cars/6000270411-mclaren-mp4.adoc[206 GTi N/A (key=57356917)] |206 GTi |N/A (key=57356917) |78900264 (0x04B3EC28) |$15,500 |136 |225.0
+|===
+

@@ -1,0 +1,34 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |924566
+|Manufacturer ID |N/A (key=56538337)
+|Manufacturer Name |Lexus
+|Logo File |N/A (key=61338337)
+|Number of Cars |17
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/534315870-ls600hl.adoc[N/A (key=63033407) 350 F-Sport] |N/A (key=63033407) |350 F-Sport |77900264 (0x04A4A9E8) |$70,000 |310 |350.0
+|xref:cars/539110870-gs-350.adoc[N/A (key=63033407) 350] |N/A (key=63033407) |350 |77900264 (0x04A4A9E8) |$60,000 |306 |350.0
+|xref:cars/93644187-ls600hl.adoc[N/A (key=63033407) 350 F-Sport] |N/A (key=63033407) |350 F-Sport |77900264 (0x04A4A9E8) |$70,000 |310 |350.0
+|xref:cars/700912892-is.adoc[IS-F N/A (key=57356917)] |IS-F |N/A (key=57356917) |76900264 (0x049567A8) |$85,000 |417 |318.0
+|xref:cars/539012870-is350.adoc[IS 300 N/A (key=57356917)] |IS 300 |N/A (key=57356917) |78900264 (0x04B3EC28) |$26,350 |215 |225.0
+|xref:cars/6000270703-is300-trd.adoc[IS 300 N/A (key=57356917)] |IS 300 |N/A (key=57356917) |77900264 (0x04A4A9E8) |$45,500 |297 |290.0
+|xref:cars/6000270544-lf-a.adoc[LFA N/A (key=57356917)] |LFA |N/A (key=57356917) |74900264 (0x0476E328) |$375,000 |552 |311.0
+|xref:cars/6000270545-lfa-spo.adoc[LFA N/A (key=57356917)] |LFA |N/A (key=57356917) |74900264 (0x0476E328) |$375,000 |552 |311.0
+|xref:cars/56592138-lfa-nurb.adoc[LFA Nürburgring Package] |LFA |Nürburgring Package |73900264 (0x0467A0E8) |$445,000 |562 |311.0
+|xref:cars/81665541-lfa-spo.adoc[LFA N/A (key=57356917)] |LFA |N/A (key=57356917) |74900264 (0x0476E328) |$375,000 |552 |311.0
+|xref:cars/6000270397-sc-300.adoc[SC 300 N/A (key=57356917)] |SC 300 |N/A (key=57356917) |78900264 (0x04B3EC28) |$25,000 |225 |228.0
+|xref:cars/6000270546-sc300-2jz.adoc[SC 300 N/A (key=57356917)] |SC 300 |N/A (key=57356917) |77900264 (0x04A4A9E8) |$47,500 |285 |290.0
+|xref:cars/6000270547-sc300-ait.adoc[SC 300 Ait Racing Velocity] |SC 300 |Ait Racing Velocity |77900264 (0x04A4A9E8) |$55,000 |285 |290.0
+|xref:cars/6000270548-sc300-extreme.adoc[SC 300 Extreme Dimensions O-Design] |SC 300 |Extreme Dimensions O-Design |77900264 (0x04A4A9E8) |$55,000 |285 |290.0
+|xref:cars/6000270549-sc300-vision.adoc[SC 300 Vision Velocity] |SC 300 |Vision Velocity |77900264 (0x04A4A9E8) |$55,000 |285 |290.0
+|xref:cars/6000270550-sc300-v.adoc[SC 300 V-Speed] |SC 300 |V-Speed |77900264 (0x04A4A9E8) |$55,000 |285 |290.0
+|xref:cars/540115870-ls460.adoc[N/A (key=62033407) 460 L] |N/A (key=62033407) |460 L |77900264 (0x04A4A9E8) |$67,000 |380 |313.0
+|===
+

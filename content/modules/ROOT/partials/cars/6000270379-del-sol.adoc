@@ -1,0 +1,104 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: honda-crx-del-sol-sir
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270379
+|Brand |xref:brands/7853.adoc[Honda]
+|Group |78900264 (0x04B3EC28)
+|Price |$17,000
+|Car Name |CRX Del Sol
+|Real Name |N/A (key=53338427)
+|File Name |Del_Sol
+|Model |CRX Del Sol
+|Version |SiR
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |563709 (0x000899FD)
+|Displacement (cc) |1595
+|Power (BHP) |168 bhp @ 6800 rpm
+|Torque (Nm) |157 Nm @ 6300 rpm
+|Redline (RPM) |7000
+|Drive |56356917 (0x035BF035)
+|Gearbox |543531 (0x00084B2B)
+|Final Drive Ratio |4.400
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.230
+|2 |2.105
+|3 |1.458
+|4 |1.107
+|5 |0.848
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1695
+|Length (mm) |4005
+|Height (mm) |1255
+|Wheelbase (mm) |2370
+|Weight (kg) |1100
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |7.60 s
+|0 - 100 mph (s) |19.80 s
+|Top Speed (km/h) |227.0 km/h
+|Braking 100–0 km/h (s) |120.00
+|Quarter Mile (s) |15.70 s
+|Grip Coefficient |1000
+|Overturning Coefficient |99
+|Handling |82
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/541293706.adoc[HONDA (ECD_8I_7703)]
+
+//end::available-shops[]

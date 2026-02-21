@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: chevrolet-2002-camaro-ss-anniversary
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270351
+|Brand |xref:brands/983687.adoc[Chevrolet]
+|Group |77900264 (0x04A4A9E8)
+|Price |$38,000
+|Car Name |2002 Camaro
+|Real Name |N/A (key=53338427)
+|File Name |Cam_Any
+|Model |Camaro
+|Version |SS 35th Anniversary
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |5665
+|Power (BHP) |325 bhp @ 5200 rpm
+|Torque (Nm) |475 Nm @ 4000 rpm
+|Redline (RPM) |6000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.420
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.660
+|2 |1.780
+|3 |1.300
+|4 |1.000
+|5 |0.740
+|6 |0.500
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1882
+|Length (mm) |4915
+|Height (mm) |1300
+|Wheelbase (mm) |2568
+|Weight (kg) |1547
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.40 s
+|0 - 100 mph (s) |12.00 s
+|Top Speed (km/h) |391.0 km/h
+|Braking 100–0 km/h (s) |130.00
+|Quarter Mile (s) |13.60 s
+|Grip Coefficient |940
+|Overturning Coefficient |92
+|Handling |56
+|Sharpness Coefficient |95
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/609156820.adoc[CHEVROLET (ECD_12B_4711)]
+
+//end::available-shops[]

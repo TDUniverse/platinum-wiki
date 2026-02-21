@@ -1,0 +1,6 @@
+= Alfa Romeo - 155 N/A (key=15088639)
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/5924263241-alfa-155.adoc[]

@@ -1,0 +1,19 @@
+:page-aliases: maybach
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |856
+|Manufacturer ID |Maybach
+|Manufacturer Name |N/A (key=7878357)
+|Logo File |Maybach
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

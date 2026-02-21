@@ -1,0 +1,17 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |157
+|Manufacturer ID |N/A (key=85338337)
+|Manufacturer Name |Trabant
+|Logo File |N/A (key=85338337)
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

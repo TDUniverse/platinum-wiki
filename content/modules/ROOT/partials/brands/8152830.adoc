@@ -1,0 +1,29 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |8152830
+|Manufacturer ID |N/A (key=55638337)
+|Manufacturer Name |Pagani
+|Logo File |N/A (key=55638337)
+|Number of Cars |12
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270785-huayra-cpe.adoc[N/A (key=1008761775001) N/A (key=57356917)] |N/A (key=1008761775001) |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,450,000 |720 |350.0
+|xref:cars/6000270786-huayra-bc.adoc[N/A (key=1008761775001) BC] |N/A (key=1008761775001) |BC |73900264 (0x0467A0E8) |$2,700,000 |789 |350.0
+|xref:cars/6000270787-huayra-carbon.adoc[N/A (key=1008761775001) BC] |N/A (key=1008761775001) |BC |73900264 (0x0467A0E8) |$2,700,000 |789 |350.0
+|xref:cars/35498479-huayra-carbon.adoc[N/A (key=1008761775001) BC] |N/A (key=1008761775001) |BC |73900264 (0x0467A0E8) |$2,700,000 |789 |350.0
+|xref:cars/91564263-huayra-cpe.adoc[N/A (key=1008761775001) N/A (key=57356917)] |N/A (key=1008761775001) |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,450,000 |720 |350.0
+|xref:cars/55814442-zonda-r.adoc[N/A (key=55038407) N/A (key=54633427)] |N/A (key=55038407) |N/A (key=54633427) |73900264 (0x0467A0E8) |$2,100,000 |739 |354.0
+|xref:cars/569208607-zonda-c.adoc[N/A (key=55038407) C12 S 7.3] |N/A (key=55038407) |C12 S 7.3 |74900264 (0x0476E328) |$414,000 |547 |354.0
+|xref:cars/569209475-car.adoc[N/A (key=55038407) C12 S 7.3 Roadster] |N/A (key=55038407) |C12 S 7.3 Roadster |74900264 (0x0476E328) |$575,900 |547 |354.0
+|xref:cars/6000270426-zondaf-cpe.adoc[N/A (key=55038407) F] |N/A (key=55038407) |F |73900264 (0x0467A0E8) |$538,000 |594 |354.0
+|xref:cars/6000270427-zondaf-rst.adoc[N/A (key=55038407) N/A (key=103682366)] |N/A (key=55038407) |N/A (key=103682366) |73900264 (0x0467A0E8) |$647,000 |641 |354.0
+|xref:cars/6000270428-zonda-cinque.adoc[N/A (key=55038407) Cinque] |N/A (key=55038407) |Cinque |73900264 (0x0467A0E8) |$1,090,000 |669 |354.0
+|xref:cars/6000270599-zonda-r.adoc[N/A (key=55038407) N/A (key=54633427)] |N/A (key=55038407) |N/A (key=54633427) |73900264 (0x0467A0E8) |$2,100,000 |739 |354.0
+|===
+

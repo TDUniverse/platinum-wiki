@@ -1,0 +1,102 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: ford-mustang-mk1-gt-fastback-2-2-390
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |91367513
+|Brand |xref:brands/77060.adoc[Ford]
+|Group |79900264 (0x04C32E68)
+|Price |$50,000
+|Car Name |Mustang (Mk1)
+|Real Name |N/A (key=53338427)
+|File Name |Must_68
+|Model |N/A (key=61038407)
+|Version |GT Fastback 2+2 390
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |6384
+|Power (BHP) |325 bhp @ 4800 rpm
+|Torque (Nm) |579 Nm @ 3200 rpm
+|Redline (RPM) |6000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |543531 (0x00084B2B)
+|Final Drive Ratio |2.750
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.460
+|2 |1.460
+|3 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1801
+|Length (mm) |4663
+|Height (mm) |1311
+|Wheelbase (mm) |2743
+|Weight (kg) |1525
+|Number of Seats |2+2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |6.90 s
+|0 - 100 mph (s) |18.00 s
+|Top Speed (km/h) |206.0 km/h
+|Braking 100–0 km/h (s) |160.00
+|Quarter Mile (s) |14.90 s
+|Grip Coefficient |920
+|Overturning Coefficient |96
+|Handling |20
+|Sharpness Coefficient |92
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/557256829.adoc[US MUSCLES (ECD_12C_2235)]
+
+//end::available-shops[]

@@ -1,0 +1,7 @@
+= Ground Effects
+:page-aliases: kit-ground-effects
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$brands/45595588.adoc[]

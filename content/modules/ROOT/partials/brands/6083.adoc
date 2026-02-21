@@ -1,0 +1,19 @@
+:page-aliases: kit-hb-ballistix
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6083
+|Manufacturer ID |Kit HB Ballistix
+|Manufacturer Name |HB Ballistix
+|Logo File |Kit HB Ballistix
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

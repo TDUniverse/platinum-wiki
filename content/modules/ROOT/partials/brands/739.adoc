@@ -1,0 +1,24 @@
+:page-aliases: lancia
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |739
+|Manufacturer ID |Lancia
+|Manufacturer Name |N/A (key=7038357)
+|Logo File |Lancia
+|Number of Cars |5
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270794-rally-037.adoc[Rally 037 Stradale] |Rally |037 Stradale |79900264 (0x04C32E68) |$315,000 |202 |220.0
+|xref:cars/6000270795-rally037-spo.adoc[Rally 037 Stradale] |Rally |037 Stradale |79900264 (0x04C32E68) |$330,000 |202 |220.0
+|xref:cars/81602715-rally037-spo.adoc[Rally 037 Stradale] |Rally |037 Stradale |79900264 (0x04C32E68) |$330,000 |202 |220.0
+|xref:cars/6000270541-stratos-hf.adoc[Stratos HF Stradale] |Stratos |HF Stradale |79900264 (0x04C32E68) |$375,000 |188 |219.0
+|xref:cars/37294453-stratos-hf.adoc[Stratos HF Stradale] |Stratos |HF Stradale |79900264 (0x04C32E68) |$375,000 |188 |219.0
+|===
+

@@ -1,0 +1,19 @@
+:page-aliases: kit-chevrolet-racing
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6018
+|Manufacturer ID |Kit Chevrolet Racing
+|Manufacturer Name |Chevrolet Racing
+|Logo File |Kit Chevrolet Racing
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

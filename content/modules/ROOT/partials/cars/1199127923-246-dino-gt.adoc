@@ -1,0 +1,104 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: ferrari-dino-246-cpe
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |1199127923
+|Brand |xref:brands/81940960.adoc[Ferrari]
+|Group |79900264 (0x04C32E68)
+|Price |$45,000
+|Car Name |Dino 246
+|Real Name |N/A (key=53338427)
+|File Name |246_Dino_GT
+|Model |N/A (key=58438407)
+|Version |N/A (key=54638407)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |583709 (0x0008E81D)
+|Displacement (cc) |2419
+|Power (BHP) |195 bhp @ 7600 rpm
+|Torque (Nm) |225 Nm @ 5500 rpm
+|Redline (RPM) |7600
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.710
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.070
+|2 |2.120
+|3 |1.520
+|4 |1.250
+|5 |0.860
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1702
+|Length (mm) |4343
+|Height (mm) |1150
+|Wheelbase (mm) |2309
+|Weight (kg) |1080
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |7.50 s
+|0 - 100 mph (s) |21.50 s
+|Top Speed (km/h) |245.0 km/h
+|Braking 100–0 km/h (s) |120.00
+|Quarter Mile (s) |15.90 s
+|Grip Coefficient |1000
+|Overturning Coefficient |100
+|Handling |80
+|Sharpness Coefficient |104
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

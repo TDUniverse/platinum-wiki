@@ -1,0 +1,6 @@
+= Lexus - N/A (key=62033407) 460 L
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/540115870-ls460.adoc[]

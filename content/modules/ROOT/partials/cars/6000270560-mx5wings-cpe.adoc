@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: mazda-n-a-key-300401316-roadster-wings-west-na-roof
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270560
+|Brand |xref:brands/727727.adoc[Mazda]
+|Group |78900264 (0x04B3EC28)
+|Price |$14,500
+|Car Name |N/A (key=300401316)
+|Real Name |N/A (key=53338427)
+|File Name |MX5Wings_Cpe
+|Model |MX-5
+|Version |Miata Wings West
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |563709 (0x000899FD)
+|Displacement (cc) |1840
+|Power (BHP) |145 bhp @ 6400 rpm
+|Torque (Nm) |180 Nm @ 4800 rpm
+|Redline (RPM) |7000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.750
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.760
+|2 |2.270
+|3 |1.650
+|4 |1.250
+|5 |1.000
+|6 |0.840
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1675
+|Length (mm) |3975
+|Height (mm) |1230
+|Wheelbase (mm) |2265
+|Weight (kg) |970
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |7.80 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |224.0 km/h
+|Braking 100–0 km/h (s) |125.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |880
+|Overturning Coefficient |98
+|Handling |64
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

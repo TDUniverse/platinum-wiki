@@ -1,0 +1,19 @@
+:page-aliases: kit-bowler
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6072
+|Manufacturer ID |Kit Bowler
+|Manufacturer Name |Bowler Off-Road
+|Logo File |Kit Bowler
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

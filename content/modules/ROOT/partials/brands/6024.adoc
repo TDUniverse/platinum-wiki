@@ -1,0 +1,19 @@
+:page-aliases: kit-inf
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6024
+|Manufacturer ID |Kit InF
+|Manufacturer Name |InF
+|Logo File |Kit InF
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

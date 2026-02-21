@@ -1,0 +1,6 @@
+= Lamborghini - N/A (key=55338407) SV
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/921827346-car.adoc[]

@@ -1,0 +1,19 @@
+:page-aliases: honda-bike
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |829
+|Manufacturer ID |Honda Bike
+|Manufacturer Name |Honda
+|Logo File |Honda Bike
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

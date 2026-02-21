@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: dodge-n-a-key-57238407-srt-lb-no-livery
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |96122432
+|Brand |xref:brands/768658.adoc[Dodge]
+|Group |73900264 (0x0467A0E8)
+|Price |$285,000
+|Car Name |N/A (key=57238407)
+|Real Name |N/A (key=53338427)
+|File Name |ChallLB_Tran
+|Model |N/A (key=57238407)
+|Version |SRT Liberty Walk
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |6166
+|Power (BHP) |997 bhp @ 6200 rpm
+|Torque (Nm) |965 Nm @ 4800 rpm
+|Redline (RPM) |6500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |2.620
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.714
+|2 |3.143
+|3 |2.106
+|4 |1.667
+|5 |1.285
+|6 |1.000
+|7 |0.839
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |2001
+|Length (mm) |5017
+|Height (mm) |1416
+|Wheelbase (mm) |2950
+|Weight (kg) |1897
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.20 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |480.0 km/h
+|Braking 100–0 km/h (s) |110.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1150
+|Overturning Coefficient |93
+|Handling |67
+|Sharpness Coefficient |92
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

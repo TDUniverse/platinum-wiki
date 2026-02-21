@@ -1,0 +1,20 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |74425
+|Manufacturer ID |N/A (key=60738337)
+|Manufacturer Name |Kawasaki
+|Logo File |N/A (key=60738337)
+|Number of Cars |3
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/1208480632-zx10r.adoc[Ninja N/A (key=59548407)] |Ninja |N/A (key=59548407) |76800264 (0x0493E108) |$23,500 |184 |295.0
+|xref:cars/1208880589-car.adoc[Ninja N/A (key=57703667)] |Ninja |N/A (key=57703667) |76800264 (0x0493E108) |$24,000 |178 |295.0
+|xref:cars/1229390461-car.adoc[N/A (key=57933407) N/A (key=57356917)] |N/A (key=57933407) |N/A (key=57356917) |77800264 (0x04A32348) |$10,100 |127 |245.0
+|===
+

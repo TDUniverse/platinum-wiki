@@ -1,0 +1,21 @@
+:page-aliases: rossion
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |29678233
+|Manufacturer ID |ROSSION
+|Manufacturer Name |Rossion
+|Logo File |ROSSION
+|Number of Cars |2
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/31734452-rossion-q1.adoc[Q1 N/A (key=57356917)] |Q1 |N/A (key=57356917) |74900264 (0x0476E328) |$120,500 |450 |281.0
+|xref:cars/75592220-rossion-q1.adoc[Q1 N/A (key=57356917)] |Q1 |N/A (key=57356917) |74900264 (0x0476E328) |$120,500 |450 |281.0
+|===
+

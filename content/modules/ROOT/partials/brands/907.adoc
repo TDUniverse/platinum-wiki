@@ -1,0 +1,27 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |907
+|Manufacturer ID |N/A (key=62338337)
+|Manufacturer Name |Bugatti
+|Logo File |N/A (key=62338337)
+|Number of Cars |10
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270339-eb110.adoc[EB110 SS] |EB110 |SS |73900264 (0x0467A0E8) |$900,000 |603 |323.0
+|xref:cars/67517523-eb110.adoc[EB110 SS] |EB110 |SS |73900264 (0x0467A0E8) |$900,000 |603 |323.0
+|xref:cars/6000270340-veyron.adoc[Veyron N/A (key=57356917)] |Veyron |N/A (key=57356917) |73900264 (0x0467A0E8) |$2,750,000 |987 |393.0
+|xref:cars/6000270628-eb-chiron.adoc[Chiron N/A (key=57356917)] |Chiron |N/A (key=57356917) |73900264 (0x0467A0E8) |$4,150,000 |1479 |426.0
+|xref:cars/84145376-chiron-sport.adoc[Chiron Sport] |Chiron |Sport |73900264 (0x0467A0E8) |$5,100,000 |1479 |426.0
+|xref:cars/17858462-eb-divo.adoc[Divo N/A (key=57356917)] |Divo |N/A (key=57356917) |73900264 (0x0467A0E8) |$5,800,000 |1479 |426.0
+|xref:cars/31215966-eb-chiron.adoc[Chiron N/A (key=57356917)] |Chiron |N/A (key=57356917) |73900264 (0x0467A0E8) |$4,150,000 |1479 |426.0
+|xref:cars/30372906-veyron.adoc[Veyron N/A (key=57356917)] |Veyron |N/A (key=57356917) |73900264 (0x0467A0E8) |$2,750,000 |987 |393.0
+|xref:cars/6000270341-veyron-ss.adoc[Veyron Super Sport] |Veyron |Super Sport |73900264 (0x0467A0E8) |$3,700,000 |1183 |393.0
+|xref:cars/84443724-type-57sc.adoc[Type 57SC Atlantic] |Type 57SC |Atlantic |79900264 (0x04C32E68) |$0 |210 |198.0
+|===
+

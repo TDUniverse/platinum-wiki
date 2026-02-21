@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: n-a-key-6138357-4-series-m4-f82-lb-akrapovic
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270734
+|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Group |73900264 (0x0467A0E8)
+|Price |$355,000
+|Car Name |4-Series
+|Real Name |N/A (key=53338427)
+|File Name |F82_Akr
+|Model |M4
+|Version |F82 Liberty Walk Akrapovic
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |4361
+|Power (BHP) |886 bhp @ 5600 rpm
+|Torque (Nm) |915 Nm @ 3900 rpm
+|Redline (RPM) |7000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.462
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.806
+|2 |2.593
+|3 |1.701
+|4 |1.277
+|5 |1.000
+|6 |0.844
+|7 |0.671
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1870
+|Length (mm) |4671
+|Height (mm) |1383
+|Wheelbase (mm) |2812
+|Weight (kg) |1515
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.40 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |412.0 km/h
+|Braking 100–0 km/h (s) |105.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1200
+|Overturning Coefficient |100
+|Handling |85
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

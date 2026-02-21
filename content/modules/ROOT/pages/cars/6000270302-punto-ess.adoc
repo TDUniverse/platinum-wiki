@@ -1,0 +1,6 @@
+= N/A (key=7098357) - Punto Evo Sport 1.4 MultiAir
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270302-punto-ess.adoc[]

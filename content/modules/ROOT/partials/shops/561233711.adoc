@@ -1,0 +1,28 @@
+:page-aliases: ecd-8c-7726
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |561233711
+|Key |ECD_8C_7726
+|Libelle |6163697
+|Libelle Localized |EUROPEAN CLASSIC
+|Cars Available |14
+|===
+
+== Cars
+* xref:cars/5924263242-a110.adoc[A110]
+* xref:cars/6000270794-rally-037.adoc[Rally_037]
+* xref:cars/6000270541-stratos-hf.adoc[Stratos_HF]
+* xref:cars/6000270312-246-dino-gt.adoc[246_Dino_GT]
+* xref:cars/6000270642-595-abarth.adoc[595_Abarth]
+* xref:cars/6000270625-242-turbo.adoc[242_turbo]
+* xref:cars/6000270429-205-t16.adoc[205_T16]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]
+* xref:cars/61085282-car.adoc[N/A (key=53338427)]

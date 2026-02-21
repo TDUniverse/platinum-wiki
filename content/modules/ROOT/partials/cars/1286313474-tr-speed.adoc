@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: triumph-speedtriple-streetbike
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |1286313474
+|Brand |xref:brands/80863204.adoc[Triumph]
+|Group |77800264 (0x04A32348)
+|Price |$11,500
+|Car Name |SpeedTriple
+|Real Name |N/A (key=53338427)
+|File Name |TR_speed
+|Model |Speed Triple
+|Version |N/A (key=57356917)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |564709 (0x00089DE5)
+|Displacement (cc) |1050
+|Power (BHP) |128 bhp @ 9100 rpm
+|Torque (Nm) |105 Nm @ 5100 rpm
+|Redline (RPM) |10000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |2.800
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.920
+|2 |2.125
+|3 |1.777
+|4 |1.500
+|5 |1.318
+|6 |1.210
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |809
+|Length (mm) |2128
+|Height (mm) |1085
+|Wheelbase (mm) |1477
+|Weight (kg) |189
+|Number of Seats |N/A (key=55533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.30 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |250.0 km/h
+|Braking 100–0 km/h (s) |124.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1050
+|Overturning Coefficient |100
+|Handling |80
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/586256825.adoc[TRIUMPH (EBD_12C_1557)]
+
+//end::available-shops[]

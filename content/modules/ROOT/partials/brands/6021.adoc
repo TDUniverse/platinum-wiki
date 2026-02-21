@@ -1,0 +1,19 @@
+:page-aliases: kit-ford-racing
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6021
+|Manufacturer ID |Kit Ford Racing
+|Manufacturer Name |Ford Racing
+|Logo File |Kit Ford Racing
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

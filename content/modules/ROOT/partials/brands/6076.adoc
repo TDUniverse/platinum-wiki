@@ -1,0 +1,19 @@
+:page-aliases: kit-shine-street
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6076
+|Manufacturer ID |Kit Shine Street
+|Manufacturer Name |Shine Street
+|Logo File |Kit Shine Street
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

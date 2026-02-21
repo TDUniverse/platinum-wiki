@@ -1,0 +1,18 @@
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |9933
+|Manufacturer ID |N/A (key=62738337)
+|Manufacturer Name |Suzuki
+|Logo File |N/A (key=62738337)
+|Number of Cars |1
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/65911678-gsx-r.adoc[GSX-R 1000] |GSX-R |1000 |76800264 (0x0493E108) |$21,500 |182 |299.0
+|===
+

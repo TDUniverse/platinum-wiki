@@ -1,0 +1,19 @@
+:page-aliases: kit-abt
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6086
+|Manufacturer ID |Kit ABT
+|Manufacturer Name |ABT
+|Logo File |Kit ABT
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

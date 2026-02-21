@@ -1,0 +1,19 @@
+:page-aliases: kit-vision
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6029
+|Manufacturer ID |Kit Vision
+|Manufacturer Name |Vision
+|Logo File |Kit Vision
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

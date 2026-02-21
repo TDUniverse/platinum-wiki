@@ -1,0 +1,103 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: volkswagen-1200-k-fer-turbo-typ-1
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |83844970
+|Brand |xref:brands/7836.adoc[Volkswagen]
+|Group |79900264 (0x04C32E68)
+|Price |$51,500
+|Car Name |1200 Käfer
+|Real Name |N/A (key=53338427)
+|File Name |Kafer_Beetle
+|Model |1200
+|Version |Käfer (Typ-1)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |563629 (0x000899AD)
+|Engine Type |613709 (0x00095D4D)
+|Displacement (cc) |1192
+|Power (BHP) |132 bhp @ 3900 rpm
+|Torque (Nm) |157 Nm @ 4200 rpm
+|Redline (RPM) |5000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.350
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.800
+|2 |2.060
+|3 |1.260
+|4 |0.890
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1539
+|Length (mm) |4079
+|Height (mm) |1500
+|Wheelbase (mm) |2400
+|Weight (kg) |887
+|Number of Seats |N/A (key=58533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |11.60 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |185.0 km/h
+|Braking 100–0 km/h (s) |130.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |850
+|Overturning Coefficient |104
+|Handling |17
+|Sharpness Coefficient |92
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

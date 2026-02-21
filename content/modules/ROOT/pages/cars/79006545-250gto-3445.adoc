@@ -1,0 +1,6 @@
+= Ferrari - N/A (key=57438407) #3445GT 64' Targa Florio
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/79006545-250gto-3445.adoc[]

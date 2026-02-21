@@ -1,0 +1,6 @@
+= Plymouth - N/A (key=60238407) Sunoco
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/46672868-superbird-sunoco.adoc[]

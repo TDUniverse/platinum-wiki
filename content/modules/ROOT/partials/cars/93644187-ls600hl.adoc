@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: lexus-gs-350-f-sport-v-rent
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |93644187
+|Brand |xref:brands/924566.adoc[Lexus]
+|Group |77900264 (0x04A4A9E8)
+|Price |$70,000
+|Car Name |GS 350
+|Real Name |N/A (key=53338427)
+|File Name |LS600HL
+|Model |N/A (key=63033407)
+|Version |350 F-Sport
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |583709 (0x0008E81D)
+|Displacement (cc) |3456
+|Power (BHP) |310 bhp @ 6400 rpm
+|Torque (Nm) |376 Nm @ 4100 rpm
+|Redline (RPM) |6600
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.615
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.520
+|2 |2.042
+|3 |1.400
+|4 |1.000
+|5 |0.716
+|6 |0.586
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1840
+|Length (mm) |4845
+|Height (mm) |1455
+|Wheelbase (mm) |2850
+|Weight (kg) |1721
+|Number of Seats |N/A (key=58533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |6.10 s
+|0 - 100 mph (s) |14.20 s
+|Top Speed (km/h) |350.0 km/h
+|Braking 100–0 km/h (s) |125.00
+|Quarter Mile (s) |14.20 s
+|Grip Coefficient |1030
+|Overturning Coefficient |99
+|Handling |75
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/61224125.adoc[V-RENT (ECR_A_7871)]
+
+//end::available-shops[]

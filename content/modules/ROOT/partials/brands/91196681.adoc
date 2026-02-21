@@ -1,0 +1,23 @@
+:page-aliases: zelectric
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |91196681
+|Manufacturer ID |ZELECTRIC
+|Manufacturer Name |Zelectric Motors
+|Logo File |ZELECTRIC
+|Number of Cars |4
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/16370350-zelectric-kafer.adoc[1200 Käfer (Typ-1)] |1200 |Käfer (Typ-1) |78900264 (0x04B3EC28) |$74,000 |135 |185.0
+|xref:cars/82494684-zelectric-beetle.adoc[1200 Käfer (Typ-1)] |1200 |Käfer (Typ-1) |78900264 (0x04B3EC28) |$76,000 |135 |185.0
+|xref:cars/78514354-zelectric-karmann.adoc[N/A (key=1009282057001) Ghia (Typ-14)] |N/A (key=1009282057001) |Ghia (Typ-14) |78900264 (0x04B3EC28) |$91,000 |135 |185.0
+|xref:cars/37940359-zelectric-kombi.adoc[Samba Bus Typ 2 (T1)] |Samba |Bus Typ 2 (T1) |78900264 (0x04B3EC28) |$130,450 |135 |185.0
+|===
+

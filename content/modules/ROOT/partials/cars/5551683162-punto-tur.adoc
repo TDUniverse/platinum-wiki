@@ -1,0 +1,104 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: n-a-key-7098357-punto-evo-1-4-multiair-single-tip
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |5551683162
+|Brand |xref:brands/745.adoc[N/A (key=7098357)]
+|Group |77900264 (0x04A4A9E8)
+|Price |$35,000
+|Car Name |Punto
+|Real Name |N/A (key=53338427)
+|File Name |punto_tur
+|Model |Punto
+|Version |Evo Sport 1.4 MultiAir
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |563709 (0x000899FD)
+|Displacement (cc) |1368
+|Power (BHP) |210 bhp @ 5400 rpm
+|Torque (Nm) |285 Nm @ 3200 rpm
+|Redline (RPM) |7000
+|Drive |56356917 (0x035BF035)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.200
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.209
+|2 |2.015
+|3 |1.452
+|4 |1.165
+|5 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1687
+|Length (mm) |4065
+|Height (mm) |1450
+|Wheelbase (mm) |2510
+|Weight (kg) |1015
+|Number of Seats |N/A (key=58533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.30 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |230.0 km/h
+|Braking 100–0 km/h (s) |110.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1080
+|Overturning Coefficient |103
+|Handling |85
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

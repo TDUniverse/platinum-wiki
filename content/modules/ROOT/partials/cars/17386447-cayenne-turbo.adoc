@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: porsche-cayenne-turbo-v-rent
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |17386447
+|Brand |xref:brands/902.adoc[Porsche]
+|Group |76900264 (0x049567A8)
+|Price |$395,000
+|Car Name |Cayenne Turbo
+|Real Name |N/A (key=53338427)
+|File Name |Cayenne_Turbo
+|Model |Cayenne
+|Version |Turbo
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |3996
+|Power (BHP) |542 bhp @ 5750 rpm
+|Torque (Nm) |770 Nm @ 1960 rpm
+|Redline (RPM) |6800
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.150
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |5.970
+|2 |3.240
+|3 |2.080
+|4 |1.420
+|5 |1.050
+|6 |0.840
+|7 |0.680
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1983
+|Length (mm) |4926
+|Height (mm) |1673
+|Wheelbase (mm) |2895
+|Weight (kg) |2178
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.90 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |410.0 km/h
+|Braking 100–0 km/h (s) |124.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1010
+|Overturning Coefficient |101
+|Handling |48
+|Sharpness Coefficient |95
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/61224127.adoc[V-RENT (ECR_A_7873)]
+
+//end::available-shops[]

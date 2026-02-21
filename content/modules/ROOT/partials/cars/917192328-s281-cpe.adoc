@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: chevrolet-2012-camaro-zl1-v8
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |917192328
+|Brand |xref:brands/983687.adoc[Chevrolet]
+|Group |75900264 (0x04862568)
+|Price |$59,000
+|Car Name |2012 Camaro
+|Real Name |N/A (key=53338427)
+|File Name |S281_Cpe
+|Model |Camaro
+|Version |ZL1
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |6162
+|Power (BHP) |580 bhp @ 6000 rpm
+|Torque (Nm) |754 Nm @ 4200 rpm
+|Redline (RPM) |7000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.730
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.660
+|2 |1.780
+|3 |1.300
+|4 |1.000
+|5 |0.800
+|6 |0.630
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1918
+|Length (mm) |4836
+|Height (mm) |1376
+|Wheelbase (mm) |2852
+|Weight (kg) |1869
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.10 s
+|0 - 100 mph (s) |8.50 s
+|Top Speed (km/h) |326.0 km/h
+|Braking 100–0 km/h (s) |124.00
+|Quarter Mile (s) |12.00 s
+|Grip Coefficient |990
+|Overturning Coefficient |98
+|Handling |63
+|Sharpness Coefficient |98
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

@@ -1,0 +1,6 @@
+= Lamborghini - Aventador LP969-4 Novitec Torado Bi Kompressor
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270692-novitec-lp969.adoc[]

@@ -1,0 +1,19 @@
+:page-aliases: rwb-porsche
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6007
+|Manufacturer ID |RWB Porsche
+|Manufacturer Name |RAUH-Welt BEGRIFF
+|Logo File |RWB Porsche
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+

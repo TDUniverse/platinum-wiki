@@ -1,0 +1,103 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: shelby-gt-500-coupe
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270334
+|Brand |xref:brands/9643703.adoc[Shelby]
+|Group |79900264 (0x04C32E68)
+|Price |$200,000
+|Car Name |GT 500
+|Real Name |N/A (key=53338427)
+|File Name |Shelb_GT500
+|Model |GT500®
+|Version |N/A (key=57356917)
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |7016
+|Power (BHP) |355 bhp @ 5400 rpm
+|Torque (Nm) |570 Nm @ 3200 rpm
+|Redline (RPM) |6000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.890
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.320
+|2 |1.690
+|3 |1.290
+|4 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1815
+|Length (mm) |4740
+|Height (mm) |1310
+|Wheelbase (mm) |2743
+|Weight (kg) |1563
+|Number of Seats |2+2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |6.20 s
+|0 - 100 mph (s) |17.50 s
+|Top Speed (km/h) |220.0 km/h
+|Braking 100–0 km/h (s) |160.00
+|Quarter Mile (s) |15.00 s
+|Grip Coefficient |930
+|Overturning Coefficient |100
+|Handling |20
+|Sharpness Coefficient |96
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

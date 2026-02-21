@@ -1,0 +1,30 @@
+:page-aliases: brabus
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |12778906
+|Manufacturer ID |BRABUS
+|Manufacturer Name |Brabus
+|Logo File |BRABUS
+|Number of Cars |11
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/6000270739-c63-brabus.adoc[Bullit N/A (key=57356917)] |Bullit |N/A (key=57356917) |74900264 (0x0476E328) |$335,000 |720 |378.0
+|xref:cars/6000270743-bullit-800.adoc[Bullit 800] |Bullit |800 |73900264 (0x0467A0E8) |$385,000 |789 |378.0
+|xref:cars/6000270744-bullit-spo.adoc[Bullit 800] |Bullit |800 |73900264 (0x0467A0E8) |$395,000 |789 |378.0
+|xref:cars/6000270741-cl65-brabus.adoc[SV12 S Coupe Biturbo] |SV12 S |Coupe Biturbo |74900264 (0x0476E328) |$615,000 |730 |324.0
+|xref:cars/6000270742-e63-brabus.adoc[E V12] |E |V12 |74900264 (0x0476E328) |$430,000 |788 |379.0
+|xref:cars/70554795-e63-brabus.adoc[E V12] |E |V12 |74900264 (0x0476E328) |$430,000 |788 |379.0
+|xref:cars/6000270753-g63-brabus.adoc[B63-620 Widestar] |B63-620 |Widestar |78900264 (0x04B3EC28) |$215,000 |611 |266.0
+|xref:cars/6000270754-brabus-g800.adoc[G 800 Widestar] |G 800 |Widestar |77900264 (0x04A4A9E8) |$600,000 |788 |266.0
+|xref:cars/6000270755-g800-biturbo.adoc[G 800 6.0 Biturbo Widestar] |G 800 |6.0 Biturbo Widestar |77900264 (0x04A4A9E8) |$700,000 |788 |266.0
+|xref:cars/27437879-g800-biturbo.adoc[G 800 6.0 Biturbo Widestar] |G 800 |6.0 Biturbo Widestar |77900264 (0x04A4A9E8) |$700,000 |788 |266.0
+|xref:cars/6000270757-ml63-brabus.adoc[ML 63 Biturbo Widestar] |ML |63 Biturbo Widestar |76900264 (0x049567A8) |$382,000 |641 |365.0
+|===
+

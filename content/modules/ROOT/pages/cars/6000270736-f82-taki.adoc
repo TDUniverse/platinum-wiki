@@ -1,0 +1,6 @@
+= N/A (key=6138357) - M4 F82 D1GP Tokisaki Kurumi
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/6000270736-f82-taki.adoc[]

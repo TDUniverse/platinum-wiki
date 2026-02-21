@@ -1,0 +1,6 @@
+= Mine's - N/A (key=53448407) GT-R R32.5 V-Spec N1
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/21
+
+include::partial$cars/15822404-minesr32-black.adoc[]

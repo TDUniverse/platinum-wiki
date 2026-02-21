@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: n-a-key-6138357-3-series-e92-coupe-gts-v-rent
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |90273633
+|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Group |75900264 (0x04862568)
+|Price |$150,000
+|Car Name |3-series
+|Real Name |N/A (key=53338427)
+|File Name |E92_GTS
+|Model |M3
+|Version |E92 GTS
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |4361
+|Power (BHP) |444 bhp @ 8000 rpm
+|Torque (Nm) |440 Nm @ 3900 rpm
+|Redline (RPM) |8000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.154
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.780
+|2 |3.056
+|3 |2.153
+|4 |1.678
+|5 |1.390
+|6 |1.203
+|7 |1.000
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1804
+|Length (mm) |4615
+|Height (mm) |1425
+|Wheelbase (mm) |2760
+|Weight (kg) |1530
+|Number of Seats |N/A (key=57533427)
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.20 s
+|0 - 100 mph (s) |9.10 s
+|Top Speed (km/h) |298.0 km/h
+|Braking 100–0 km/h (s) |115.00
+|Quarter Mile (s) |12.30 s
+|Grip Coefficient |1080
+|Overturning Coefficient |102
+|Handling |80
+|Sharpness Coefficient |103
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/54114120.adoc[V-RENT (ECR_A_6703)]
+
+//end::available-shops[]

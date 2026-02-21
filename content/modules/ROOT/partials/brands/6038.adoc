@@ -1,0 +1,19 @@
+:page-aliases: kit-g-speed
+
+== Identity
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6038
+|Manufacturer ID |Kit G-Speed
+|Manufacturer Name |G-Speed
+|Logo File |Kit G-Speed
+|Number of Cars |0
+|===
+
+== Cars
+[cols="2,2,2,1,1,1,1",options="header"]
+|===
+|Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|===
+
