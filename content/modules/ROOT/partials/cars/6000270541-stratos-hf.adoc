@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270541
 |Brand |xref:brands/739.adoc[Lancia]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$375,000
 |Car Name |Stratos Coupe
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Central
+|Engine Type |V6
 |Displacement (cc) |2418
 |Power (BHP) |188 bhp @ 7000 rpm
 |Torque (Nm) |216 Nm @ 4500 rpm
 |Redline (RPM) |8800
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.824
 |Number of Turbos |0
 |===

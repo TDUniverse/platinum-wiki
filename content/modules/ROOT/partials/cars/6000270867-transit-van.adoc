@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270867
 |Brand |xref:brands/77060.adoc[Ford]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$21,250
 |Car Name |Transit Van
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |614709 (0x00096135)
+|Engine Location |Front
+|Engine Type |5-cyl in-line
 |Displacement (cc) |3196
 |Power (BHP) |198 bhp @ 4500 rpm
 |Torque (Nm) |470 Nm @ 2500 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |4.100
 |Number of Turbos |0
 |===

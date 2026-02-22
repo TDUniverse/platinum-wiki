@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1218220598
 |Brand |xref:brands/74920.adoc[Ginetta]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$150,000
 |Car Name |GTS
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Central
+|Engine Type |V6
 |Displacement (cc) |2968
 |Power (BHP) |400 bhp @ 6500 rpm
 |Torque (Nm) |527 Nm @ 4770 rpm
 |Redline (RPM) |7500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.870
 |Number of Turbos |1
 |===

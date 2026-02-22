@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1219816155
 |Brand |xref:brands/768658.adoc[Dodge]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$27,000
 |Car Name |Challenger
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |6981
 |Power (BHP) |425 bhp @ 5000 rpm
 |Torque (Nm) |664 Nm @ 4000 rpm
 |Redline (RPM) |5000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.360
 |Number of Turbos |0
 |===

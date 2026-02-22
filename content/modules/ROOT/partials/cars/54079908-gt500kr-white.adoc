@@ -12,7 +12,7 @@
 |Field |Value
 |ID |54079908
 |Brand |xref:brands/9643703.adoc[Shelby]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$205,000
 |Car Name |GT 500
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |6997
 |Power (BHP) |400 bhp @ 5600 rpm
 |Torque (Nm) |624 Nm @ 3200 rpm
 |Redline (RPM) |6000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.500
 |Number of Turbos |0
 |===

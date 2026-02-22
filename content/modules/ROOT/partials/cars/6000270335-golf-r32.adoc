@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270335
 |Brand |xref:brands/7836.adoc[Volkswagen]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$42,370
 |Car Name |Golf R32
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Front
+|Engine Type |V6
 |Displacement (cc) |3189
 |Power (BHP) |247 bhp @ 6300 rpm
 |Torque (Nm) |320 Nm @ 2500 rpm
 |Redline (RPM) |6500
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |563531 (0x0008994B)
+|Drive |4WD
+|Gearbox |Sequential
 |Final Drive Ratio |4.240
 |Number of Turbos |0
 |===

@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270485
 |Brand |xref:brands/742.adoc[Volvo]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$48,000
 |Car Name |850
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |614709 (0x00096135)
+|Engine Location |Front
+|Engine Type |5-cyl in-line
 |Displacement (cc) |2319
 |Power (BHP) |237 bhp @ 5400 rpm
 |Torque (Nm) |330 Nm @ 2400 rpm
 |Redline (RPM) |6800
-|Drive |56356917 (0x035BF035)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Front Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |2.540
 |Number of Turbos |1
 |===

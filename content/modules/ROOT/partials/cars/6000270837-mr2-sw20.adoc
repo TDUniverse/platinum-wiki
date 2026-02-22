@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270837
 |Brand |xref:brands/900.adoc[Toyota]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$27,500
 |Car Name |MR2
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Central
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1998
 |Power (BHP) |242 bhp @ 6000 rpm
 |Torque (Nm) |302 Nm @ 4000 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |4.285
 |Number of Turbos |1
 |===

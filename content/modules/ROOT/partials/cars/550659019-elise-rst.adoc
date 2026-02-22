@@ -12,7 +12,7 @@
 |Field |Value
 |ID |550659019
 |Brand |xref:brands/924266.adoc[Lotus]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$43,200
 |Car Name |Elise
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Central
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1796
 |Power (BHP) |189 bhp @ 7800 rpm
 |Torque (Nm) |181 Nm @ 6800 rpm
 |Redline (RPM) |7800
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |4.529
 |Number of Turbos |0
 |===

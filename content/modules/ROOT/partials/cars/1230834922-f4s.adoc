@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1230834922
 |Brand |xref:brands/937.adoc[MV Agusta]
-|Group |76800264 (0x0493E108)
+|Group |mA
 |Price |$45,000
 |Car Name |1000 F4 S
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Central
+|Engine Type |4-cyl in-line
 |Displacement (cc) |909
 |Power (BHP) |173 bhp @ 11750 rpm
 |Torque (Nm) |113 Nm @ 9200 rpm
 |Redline (RPM) |12850
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |2.800
 |Number of Turbos |0
 |===

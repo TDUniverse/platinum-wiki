@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270595
 |Brand |xref:brands/8542108.adoc[Nissan]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$72,000
 |Car Name |Silvia (S15)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2568
 |Power (BHP) |337 bhp @ 6400 rpm
 |Torque (Nm) |354 Nm @ 4800 rpm
 |Redline (RPM) |7200
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.692
 |Number of Turbos |1
 |===

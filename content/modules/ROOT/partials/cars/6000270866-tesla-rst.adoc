@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270866
 |Brand |xref:brands/858.adoc[Tesla]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$122,550
 |Car Name |Roadster
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |300400934 (0x11E7C126)
+|Engine Location |Central
+|Engine Type |AC induction motors
 |Displacement (cc) |1
 |Power (BHP) |288 bhp @ 1000 rpm
 |Torque (Nm) |400 Nm @ 2500 rpm
 |Redline (RPM) |5000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |8.270
 |Number of Turbos |0
 |===

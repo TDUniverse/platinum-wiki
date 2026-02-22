@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270714
 |Brand |xref:brands/727727.adoc[Mazda]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$65,100
 |Car Name |RX-7 (FD3S)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |554709 (0x000876D5)
+|Engine Location |Front
+|Engine Type |Rotary engine
 |Displacement (cc) |2012
 |Power (BHP) |304 bhp @ 6500 rpm
 |Torque (Nm) |385 Nm @ 5000 rpm
 |Redline (RPM) |7500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.500
 |Number of Turbos |1
 |===

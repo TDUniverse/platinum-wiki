@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1286313474
 |Brand |xref:brands/80863204.adoc[Triumph]
-|Group |77800264 (0x04A32348)
+|Group |mB
 |Price |$11,500
 |Car Name |SpeedTriple
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |564709 (0x00089DE5)
+|Engine Location |Central
+|Engine Type |3-cyl in-line
 |Displacement (cc) |1050
 |Power (BHP) |128 bhp @ 9100 rpm
 |Torque (Nm) |105 Nm @ 5100 rpm
 |Redline (RPM) |10000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |2.800
 |Number of Turbos |0
 |===

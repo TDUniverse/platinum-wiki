@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270347
 |Brand |xref:brands/983687.adoc[Chevrolet]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$50,000
 |Car Name |Corvette
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |5733
 |Power (BHP) |330 bhp @ 5800 rpm
 |Torque (Nm) |461 Nm @ 4000 rpm
 |Redline (RPM) |6500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.450
 |Number of Turbos |0
 |===

@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270325
 |Brand |xref:brands/85793347.adoc[Mclaren]
-|Group |73900264 (0x0467A0E8)
+|Group |A
 |Price |$1,500,000
 |Car Name |F1
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |Central
+|Engine Type |V12
 |Displacement (cc) |6064
 |Power (BHP) |591 bhp @ 7500 rpm
 |Torque (Nm) |527 Nm @ 4500 rpm
 |Redline (RPM) |8500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.010
 |Number of Turbos |0
 |===

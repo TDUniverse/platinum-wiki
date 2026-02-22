@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270473
 |Brand |xref:brands/913.adoc[Subaru]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$44,000
 |Car Name |Legacy RS
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |613709 (0x00095D4D)
+|Engine Location |Front
+|Engine Type |flathead 4-cyl
 |Displacement (cc) |1994
 |Power (BHP) |277 bhp @ 6400 rpm
 |Torque (Nm) |302 Nm @ 4000 rpm
 |Redline (RPM) |7000
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |4WD
+|Gearbox |Automatic
 |Final Drive Ratio |4.280
 |Number of Turbos |1
 |===

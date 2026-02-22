@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270612
 |Brand |xref:brands/983687.adoc[Chevrolet]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$24,250
 |Car Name |Caprice
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |5733
 |Power (BHP) |260 bhp @ 5000 rpm
 |Torque (Nm) |447 Nm @ 2400 rpm
 |Redline (RPM) |6500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.080
 |Number of Turbos |0
 |===

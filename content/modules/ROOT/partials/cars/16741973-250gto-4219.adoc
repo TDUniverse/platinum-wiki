@@ -12,7 +12,7 @@
 |Field |Value
 |ID |16741973
 |Brand |xref:brands/81940960.adoc[Ferrari]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$6,000,000
 |Car Name |250 GTO
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |Front
+|Engine Type |V12
 |Displacement (cc) |2953
 |Power (BHP) |296 bhp @ 7500 rpm
 |Torque (Nm) |294 Nm @ 5500 rpm
 |Redline (RPM) |8500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.660
 |Number of Turbos |0
 |===

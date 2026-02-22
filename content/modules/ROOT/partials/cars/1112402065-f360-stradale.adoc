@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1112402065
 |Brand |xref:brands/81940960.adoc[Ferrari]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$171,000
 |Car Name |360
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Central
+|Engine Type |V8
 |Displacement (cc) |3586
 |Power (BHP) |419 bhp @ 8500 rpm
 |Torque (Nm) |373 Nm @ 4750 rpm
 |Redline (RPM) |8500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |4.440
 |Number of Turbos |0
 |===

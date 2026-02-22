@@ -12,7 +12,7 @@
 |Field |Value
 |ID |539012870
 |Brand |xref:brands/924566.adoc[Lexus]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$26,350
 |Car Name |IS 300
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2997
 |Power (BHP) |215 bhp @ 5800 rpm
 |Torque (Nm) |296 Nm @ 3800 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.909
 |Number of Turbos |0
 |===

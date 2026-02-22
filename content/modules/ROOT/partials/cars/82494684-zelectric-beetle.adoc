@@ -12,7 +12,7 @@
 |Field |Value
 |ID |82494684
 |Brand |xref:brands/91196681.adoc[Zelectric Motors]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$76,000
 |Car Name |1200 Käfer
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |563629 (0x000899AD)
-|Engine Type |300400934 (0x11E7C126)
+|Engine Location |Rear
+|Engine Type |AC induction motors
 |Displacement (cc) |1
 |Power (BHP) |135 bhp @ 1000 rpm
 |Torque (Nm) |283 Nm @ 1200 rpm
 |Redline (RPM) |5000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |8.270
 |Number of Turbos |0
 |===

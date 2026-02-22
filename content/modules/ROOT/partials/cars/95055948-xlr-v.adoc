@@ -12,7 +12,7 @@
 |Field |Value
 |ID |95055948
 |Brand |xref:brands/74340517.adoc[Cadillac]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$100,000
 |Car Name |XLR
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |4371
 |Power (BHP) |443 bhp @ 6400 rpm
 |Torque (Nm) |561 Nm @ 3900 rpm
 |Redline (RPM) |6500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |2.560
 |Number of Turbos |0
 |===

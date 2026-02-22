@@ -12,7 +12,7 @@
 |Field |Value
 |ID |922904690
 |Brand |xref:brands/1220916237.adoc[Wiesmann]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$70,000
 |Car Name |Roadster
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |3246
 |Power (BHP) |338 bhp @ 7400 rpm
 |Torque (Nm) |365 Nm @ 4900 rpm
 |Redline (RPM) |8000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |3.230
 |Number of Turbos |0
 |===

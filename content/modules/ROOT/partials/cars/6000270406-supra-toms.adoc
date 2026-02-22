@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270406
 |Brand |xref:brands/900.adoc[Toyota]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$124,000
 |Car Name |Supra RZ
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2997
 |Power (BHP) |397 bhp @ 5600 rpm
 |Torque (Nm) |523 Nm @ 4800 rpm
 |Redline (RPM) |6800
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.132
 |Number of Turbos |1
 |===

@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270380
 |Brand |xref:brands/7853.adoc[Honda]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$19,000
 |Car Name |Civic
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Front
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1595
 |Power (BHP) |160 bhp @ 6200 rpm
 |Torque (Nm) |151 Nm @ 6000 rpm
 |Redline (RPM) |7100
-|Drive |56356917 (0x035BF035)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Front Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |4.400
 |Number of Turbos |0
 |===

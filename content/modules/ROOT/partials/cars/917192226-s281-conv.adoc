@@ -12,7 +12,7 @@
 |Field |Value
 |ID |917192226
 |Brand |xref:brands/77060.adoc[Ford]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$53,000
 |Car Name |Mustang (Mk5-II)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |4952
 |Power (BHP) |444 bhp @ 7400 rpm
 |Torque (Nm) |515 Nm @ 4500 rpm
 |Redline (RPM) |7500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.730
 |Number of Turbos |0
 |===

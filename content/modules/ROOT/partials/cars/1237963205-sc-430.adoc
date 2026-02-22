@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1237963205
 |Brand |xref:brands/8542108.adoc[Nissan]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$65,000
 |Car Name |SC430
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2567
 |Power (BHP) |288 bhp @ 5600 rpm
 |Torque (Nm) |430 Nm @ 3400 rpm
 |Redline (RPM) |7800
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |4WD
+|Gearbox |Automatic
 |Final Drive Ratio |3.769
 |Number of Turbos |1
 |===

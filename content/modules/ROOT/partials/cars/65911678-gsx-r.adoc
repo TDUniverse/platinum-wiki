@@ -12,7 +12,7 @@
 |Field |Value
 |ID |65911678
 |Brand |xref:brands/9933.adoc[Suzuki]
-|Group |76800264 (0x0493E108)
+|Group |mA
 |Price |$21,500
 |Car Name |GSX-R 1000
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Central
+|Engine Type |4-cyl in-line
 |Displacement (cc) |998
 |Power (BHP) |182 bhp @ 12000 rpm
 |Torque (Nm) |117 Nm @ 10000 rpm
 |Redline (RPM) |13000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |2.800
 |Number of Turbos |0
 |===

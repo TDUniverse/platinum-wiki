@@ -12,7 +12,7 @@
 |Field |Value
 |ID |78135718
 |Brand |xref:brands/908.adoc[Mitsubishi]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$134,700
 |Car Name |GTO (Z15A)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Front
+|Engine Type |V6
 |Displacement (cc) |2972
 |Power (BHP) |403 bhp @ 5500 rpm
 |Torque (Nm) |537 Nm @ 3500 rpm
 |Redline (RPM) |5700
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |4WD
+|Gearbox |Automatic
 |Final Drive Ratio |2.820
 |Number of Turbos |1
 |===

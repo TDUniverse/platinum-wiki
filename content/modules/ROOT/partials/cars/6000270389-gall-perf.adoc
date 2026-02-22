@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270389
 |Brand |xref:brands/864426.adoc[Lamborghini]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$235,000
 |Car Name |Gallardo LP570
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |593709 (0x00090F2D)
+|Engine Location |Central
+|Engine Type |V10
 |Displacement (cc) |5204
 |Power (BHP) |562 bhp @ 7800 rpm
 |Torque (Nm) |540 Nm @ 4500 rpm
 |Redline (RPM) |8100
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |563531 (0x0008994B)
+|Drive |4WD
+|Gearbox |Sequential
 |Final Drive Ratio |3.600
 |Number of Turbos |0
 |===

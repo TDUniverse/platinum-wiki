@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270671
 |Brand |xref:brands/898117.adoc[Caterham]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$75,000
 |Car Name |Seven
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Front
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1999
 |Power (BHP) |311 bhp @ 7700 rpm
 |Torque (Nm) |297 Nm @ 7350 rpm
 |Redline (RPM) |8600
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.620
 |Number of Turbos |0
 |===

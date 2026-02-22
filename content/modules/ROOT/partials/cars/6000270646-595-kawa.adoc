@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270646
 |Brand |xref:brands/745.adoc[Fiat]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$65,500
 |Car Name |Cinquecento
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |563629 (0x000899AD)
-|Engine Type |604709 (0x00093A25)
+|Engine Location |Rear
+|Engine Type |flathead 2-cyl
 |Displacement (cc) |998
 |Power (BHP) |184 bhp @ 10500 rpm
 |Torque (Nm) |115 Nm @ 9500 rpm
 |Redline (RPM) |11000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |0.900
 |Number of Turbos |0
 |===

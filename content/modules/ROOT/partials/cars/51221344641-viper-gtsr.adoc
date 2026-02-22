@@ -12,7 +12,7 @@
 |Field |Value
 |ID |51221344641
 |Brand |xref:brands/768658.adoc[Dodge]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$160,000
 |Car Name |Viper GTS-R
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |593709 (0x00090F2D)
+|Engine Location |Front
+|Engine Type |V10
 |Displacement (cc) |7990
 |Power (BHP) |468 bhp @ 5300 rpm
 |Torque (Nm) |673 Nm @ 3700 rpm
 |Redline (RPM) |6250
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.070
 |Number of Turbos |0
 |===

@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270522
 |Brand |xref:brands/868295.adoc[Aston Martin]
-|Group |75900264 (0x04862568)
+|Group |C
 |Price |$145,000
 |Car Name |AMV12
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |Front
+|Engine Type |V12
 |Displacement (cc) |5935
 |Power (BHP) |510 bhp @ 6500 rpm
 |Torque (Nm) |570 Nm @ 5000 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.710
 |Number of Turbos |0
 |===

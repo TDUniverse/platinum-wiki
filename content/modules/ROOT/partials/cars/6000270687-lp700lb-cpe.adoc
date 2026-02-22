@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270687
 |Brand |xref:brands/864426.adoc[Lamborghini]
-|Group |73900264 (0x0467A0E8)
+|Group |A
 |Price |$895,000
 |Car Name |Aventador
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |Central
+|Engine Type |V12
 |Displacement (cc) |6498
 |Power (BHP) |1012 bhp @ 8250 rpm
 |Torque (Nm) |967 Nm @ 5500 rpm
 |Redline (RPM) |8500
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |563531 (0x0008994B)
+|Drive |4WD
+|Gearbox |Sequential
 |Final Drive Ratio |2.980
 |Number of Turbos |1
 |===

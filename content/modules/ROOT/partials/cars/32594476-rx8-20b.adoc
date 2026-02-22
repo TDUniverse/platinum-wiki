@@ -12,7 +12,7 @@
 |Field |Value
 |ID |32594476
 |Brand |xref:brands/727727.adoc[Mazda]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$64,000
 |Car Name |RX-8 (SE3P)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |554709 (0x000876D5)
+|Engine Location |Front
+|Engine Type |Rotary engine
 |Displacement (cc) |1308
 |Power (BHP) |320 bhp @ 8000 rpm
 |Torque (Nm) |360 Nm @ 5500 rpm
 |Redline (RPM) |8500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.500
 |Number of Turbos |1
 |===

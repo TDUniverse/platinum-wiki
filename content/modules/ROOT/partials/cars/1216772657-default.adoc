@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1216772657
 |Brand |xref:brands/1172730087.adoc[Car Not Downloaded]
-|Group |92900264 (0x05898BA8)
+|Group |Z
 |Price |$250,000
 |Car Name |DEFAULTCAR
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |57356917 (0x036B3275)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |??
+|Engine Type |V12
 |Displacement (cc) |6192
 |Power (BHP) |1000 bhp @ 10000 rpm
 |Torque (Nm) |1500 Nm @ 10000 rpm
 |Redline (RPM) |10000
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |4WD
+|Gearbox |Mechanical
 |Final Drive Ratio |2.530
 |Number of Turbos |0
 |===

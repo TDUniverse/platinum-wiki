@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270680
 |Brand |xref:brands/864426.adoc[Lamborghini]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$200,500
 |Car Name |Gallardo LP550-2 VB
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |593709 (0x00090F2D)
+|Engine Location |Central
+|Engine Type |V10
 |Displacement (cc) |5204
 |Power (BHP) |543 bhp @ 7800 rpm
 |Torque (Nm) |540 Nm @ 6500 rpm
 |Redline (RPM) |8100
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.600
 |Number of Turbos |0
 |===

@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270624
 |Brand |xref:brands/742.adoc[Volvo]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$65,200
 |Car Name |S60 T6 AWD
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2953
 |Power (BHP) |325 bhp @ 5400 rpm
 |Torque (Nm) |480 Nm @ 2100 rpm
 |Redline (RPM) |6500
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |4WD
+|Gearbox |Automatic
 |Final Drive Ratio |3.330
 |Number of Turbos |1
 |===

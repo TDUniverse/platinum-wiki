@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270779
 |Brand |xref:brands/8542108.adoc[Nissan]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$70,000
 |Car Name |Skyline
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |1989
 |Power (BHP) |158 bhp @ 5000 rpm
 |Torque (Nm) |177 Nm @ 3600 rpm
 |Redline (RPM) |6000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |4.444
 |Number of Turbos |0
 |===

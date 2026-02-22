@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1193140602
 |Brand |xref:brands/905.adoc[BMW]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$195,000
 |Car Name |M1 (E26)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Central
+|Engine Type |6-cyl in-line
 |Displacement (cc) |3453
 |Power (BHP) |274 bhp @ 6500 rpm
 |Torque (Nm) |330 Nm @ 5000 rpm
 |Redline (RPM) |6700
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |4.220
 |Number of Turbos |0
 |===

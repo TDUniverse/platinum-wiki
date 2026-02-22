@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270603
 |Brand |xref:brands/7932.adoc[RUF]
-|Group |73900264 (0x0467A0E8)
+|Group |A
 |Price |$425,000
 |Car Name |RT 12
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |563629 (0x000899AD)
-|Engine Type |573709 (0x0008C10D)
+|Engine Location |Rear
+|Engine Type |flathead 6-cyl
 |Displacement (cc) |3800
 |Power (BHP) |720 bhp @ 7000 rpm
 |Torque (Nm) |940 Nm @ 3500 rpm
 |Redline (RPM) |7000
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |4WD
+|Gearbox |Mechanical
 |Final Drive Ratio |3.440
 |Number of Turbos |1
 |===

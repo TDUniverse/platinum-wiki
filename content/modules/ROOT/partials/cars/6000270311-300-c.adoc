@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270311
 |Brand |xref:brands/927987.adoc[Chrysler]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$50,000
 |Car Name |300C
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |6059
 |Power (BHP) |425 bhp @ 6000 rpm
 |Torque (Nm) |569 Nm @ 4800 rpm
 |Redline (RPM) |6400
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.060
 |Number of Turbos |0
 |===

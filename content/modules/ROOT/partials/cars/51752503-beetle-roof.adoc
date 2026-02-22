@@ -12,7 +12,7 @@
 |Field |Value
 |ID |51752503
 |Brand |xref:brands/7836.adoc[Volkswagen]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$53,500
 |Car Name |1200 Käfer
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |563629 (0x000899AD)
-|Engine Type |613709 (0x00095D4D)
+|Engine Location |Rear
+|Engine Type |flathead 4-cyl
 |Displacement (cc) |1192
 |Power (BHP) |132 bhp @ 3900 rpm
 |Torque (Nm) |157 Nm @ 4200 rpm
 |Redline (RPM) |5000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.350
 |Number of Turbos |1
 |===

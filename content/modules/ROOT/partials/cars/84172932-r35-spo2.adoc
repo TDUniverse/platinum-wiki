@@ -12,7 +12,7 @@
 |Field |Value
 |ID |84172932
 |Brand |xref:brands/8542108.adoc[Nissan]
-|Group |73900264 (0x0467A0E8)
+|Group |A
 |Price |$540,000
 |Car Name |GT-R
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Front
+|Engine Type |V6
 |Displacement (cc) |3799
 |Power (BHP) |895 bhp @ 6400 rpm
 |Torque (Nm) |910 Nm @ 3500 rpm
 |Redline (RPM) |7100
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |563531 (0x0008994B)
+|Drive |4WD
+|Gearbox |Sequential
 |Final Drive Ratio |3.700
 |Number of Turbos |1
 |===

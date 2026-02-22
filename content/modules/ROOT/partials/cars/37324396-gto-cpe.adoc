@@ -12,7 +12,7 @@
 |Field |Value
 |ID |37324396
 |Brand |xref:brands/913.adoc[Subaru]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$140,000
 |Car Name |Impreza 22B
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |613709 (0x00095D4D)
+|Engine Location |Front
+|Engine Type |flathead 4-cyl
 |Displacement (cc) |2212
 |Power (BHP) |335 bhp @ 6000 rpm
 |Torque (Nm) |403 Nm @ 4200 rpm
 |Redline (RPM) |8000
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |4WD
+|Gearbox |Mechanical
 |Final Drive Ratio |3.416
 |Number of Turbos |1
 |===

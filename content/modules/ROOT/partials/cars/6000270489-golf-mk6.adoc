@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270489
 |Brand |xref:brands/7836.adoc[Volkswagen]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$49,380
 |Car Name |Golf R
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Front
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1984
 |Power (BHP) |266 bhp @ 6000 rpm
 |Torque (Nm) |351 Nm @ 2500 rpm
 |Redline (RPM) |6900
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |4WD
+|Gearbox |Mechanical
 |Final Drive Ratio |4.240
 |Number of Turbos |1
 |===

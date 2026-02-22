@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270424
 |Brand |xref:brands/908.adoc[Mitsubishi]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$42,500
 |Car Name |Lancer
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Front
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1997
 |Power (BHP) |276 bhp @ 6500 rpm
 |Torque (Nm) |373 Nm @ 3000 rpm
 |Redline (RPM) |7100
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |4WD
+|Gearbox |Mechanical
 |Final Drive Ratio |4.529
 |Number of Turbos |1
 |===

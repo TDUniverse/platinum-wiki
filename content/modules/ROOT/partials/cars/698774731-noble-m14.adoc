@@ -12,7 +12,7 @@
 |Field |Value
 |ID |698774731
 |Brand |xref:brands/773468.adoc[Noble]
-|Group |73900264 (0x0467A0E8)
+|Group |A
 |Price |$251,000
 |Car Name |M600
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Central
+|Engine Type |V8
 |Displacement (cc) |4414
 |Power (BHP) |650 bhp @ 6500 rpm
 |Torque (Nm) |960 Nm @ 4500 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.700
 |Number of Turbos |1
 |===

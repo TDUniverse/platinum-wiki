@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270652
 |Brand |xref:brands/7853.adoc[Honda]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$155,000
 |Car Name |NSX NA1
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Central
+|Engine Type |V6
 |Displacement (cc) |3179
 |Power (BHP) |309 bhp @ 7300 rpm
 |Torque (Nm) |345 Nm @ 5300 rpm
 |Redline (RPM) |7300
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.763
 |Number of Turbos |0
 |===

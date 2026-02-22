@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270807
 |Brand |xref:brands/902.adoc[Porsche]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$395,000
 |Car Name |Cayenne Turbo
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |3996
 |Power (BHP) |542 bhp @ 5750 rpm
 |Torque (Nm) |770 Nm @ 1960 rpm
 |Redline (RPM) |6800
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |563531 (0x0008994B)
+|Drive |4WD
+|Gearbox |Sequential
 |Final Drive Ratio |3.150
 |Number of Turbos |1
 |===

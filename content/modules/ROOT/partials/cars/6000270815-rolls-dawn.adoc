@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270815
 |Brand |xref:brands/751.adoc[Rolls-Royce]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$685,000
 |Car Name |Dawn
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |Front
+|Engine Type |V12
 |Displacement (cc) |6592
 |Power (BHP) |562 bhp @ 5250 rpm
 |Torque (Nm) |780 Nm @ 1500 rpm
 |Redline (RPM) |6800
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |2.810
 |Number of Turbos |1
 |===

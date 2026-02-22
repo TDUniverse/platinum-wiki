@@ -12,7 +12,7 @@
 |Field |Value
 |ID |61048408
 |Brand |xref:brands/75077404.adoc[TRAFFIC]
-|Group |92900264 (0x05898BA8)
+|Group |Z
 |Price |$0
 |Car Name |Fullsize
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |4196
 |Power (BHP) |130 bhp @ 5800 rpm
 |Torque (Nm) |155 Nm @ 5800 rpm
 |Redline (RPM) |7500
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |4WD
+|Gearbox |Mechanical
 |Final Drive Ratio |4.235
 |Number of Turbos |0
 |===

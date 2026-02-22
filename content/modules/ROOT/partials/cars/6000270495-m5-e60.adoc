@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270495
 |Brand |xref:brands/905.adoc[BMW]
-|Group |75900264 (0x04862568)
+|Group |C
 |Price |$110,000
 |Car Name |5-series
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |593709 (0x00090F2D)
+|Engine Location |Front
+|Engine Type |V10
 |Displacement (cc) |4999
 |Power (BHP) |500 bhp @ 6800 rpm
 |Torque (Nm) |520 Nm @ 6100 rpm
 |Redline (RPM) |7200
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |3.615
 |Number of Turbos |0
 |===

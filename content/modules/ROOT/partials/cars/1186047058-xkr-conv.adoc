@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1186047058
 |Brand |xref:brands/7824.adoc[Jaguar]
-|Group |75900264 (0x04862568)
+|Group |C
 |Price |$135,000
 |Car Name |XK (X150-II)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |5000
 |Power (BHP) |550 bhp @ 6000 rpm
 |Torque (Nm) |681 Nm @ 2500 rpm
 |Redline (RPM) |6500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |3.310
 |Number of Turbos |1
 |===

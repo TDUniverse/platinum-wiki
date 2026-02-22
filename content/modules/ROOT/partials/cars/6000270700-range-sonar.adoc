@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270700
 |Brand |xref:brands/756.adoc[Land Rover]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$175,000
 |Car Name |Range Rover 5.0
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |5000
 |Power (BHP) |545 bhp @ 6000 rpm
 |Torque (Nm) |650 Nm @ 2500 rpm
 |Redline (RPM) |7000
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |563531 (0x0008994B)
+|Drive |4WD
+|Gearbox |Sequential
 |Final Drive Ratio |3.540
 |Number of Turbos |1
 |===

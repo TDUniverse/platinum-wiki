@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270377
 |Brand |xref:brands/77060.adoc[Ford]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$72,000
 |Car Name |Thunderbird (Mk1)
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |5115
 |Power (BHP) |270 bhp @ 4800 rpm
 |Torque (Nm) |456 Nm @ 3600 rpm
 |Redline (RPM) |5500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.100
 |Number of Turbos |0
 |===

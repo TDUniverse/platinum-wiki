@@ -12,7 +12,7 @@
 |Field |Value
 |ID |34690210
 |Brand |xref:brands/9144.adoc[TVR]
-|Group |75900264 (0x04862568)
+|Group |C
 |Price |$98,000
 |Car Name |Tuscan
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |3996
 |Power (BHP) |390 bhp @ 7000 rpm
 |Torque (Nm) |420 Nm @ 5250 rpm
 |Redline (RPM) |7500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.730
 |Number of Turbos |0
 |===

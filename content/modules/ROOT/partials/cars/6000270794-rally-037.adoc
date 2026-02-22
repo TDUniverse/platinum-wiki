@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270794
 |Brand |xref:brands/739.adoc[Lancia]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$315,000
 |Car Name |037 Coupe
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Central
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1995
 |Power (BHP) |202 bhp @ 7000 rpm
 |Torque (Nm) |234 Nm @ 5000 rpm
 |Redline (RPM) |7800
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |5.250
 |Number of Turbos |1
 |===

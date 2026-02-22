@@ -12,7 +12,7 @@
 |Field |Value
 |ID |18033958
 |Brand |xref:brands/900.adoc[Toyota]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$50,000
 |Car Name |Corolla Trueno
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2997
 |Power (BHP) |271 bhp @ 6600 rpm
 |Torque (Nm) |360 Nm @ 4500 rpm
 |Redline (RPM) |7500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |4.470
 |Number of Turbos |1
 |===

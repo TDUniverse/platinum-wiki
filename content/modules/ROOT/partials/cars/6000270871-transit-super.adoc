@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270871
 |Brand |xref:brands/77060.adoc[Ford]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$95,110
 |Car Name |Transit Van
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Central
+|Engine Type |V6
 |Displacement (cc) |3496
 |Power (BHP) |532 bhp @ 6800 rpm
 |Torque (Nm) |634 Nm @ 4500 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |4.100
 |Number of Turbos |1
 |===

@@ -12,7 +12,7 @@
 |Field |Value
 |ID |10000870
 |Brand |xref:brands/8542108.adoc[Nissan]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$55,000
 |Car Name |Skyline GT-R
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2568
 |Power (BHP) |276 bhp @ 6800 rpm
 |Torque (Nm) |392 Nm @ 4400 rpm
 |Redline (RPM) |8000
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |4WD
+|Gearbox |Automatic
 |Final Drive Ratio |3.545
 |Number of Turbos |1
 |===

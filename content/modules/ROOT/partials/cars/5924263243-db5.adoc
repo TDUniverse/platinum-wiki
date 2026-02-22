@@ -12,7 +12,7 @@
 |Field |Value
 |ID |5924263243
 |Brand |xref:brands/868295.adoc[Aston Martin]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$3,500,000
 |Car Name |DB5 Coupe
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |573709 (0x0008C10D)
+|Engine Location |Front
+|Engine Type |flathead 6-cyl
 |Displacement (cc) |3996
 |Power (BHP) |325 bhp @ 5750 rpm
 |Torque (Nm) |393 Nm @ 4500 rpm
 |Redline (RPM) |5900
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.770
 |Number of Turbos |0
 |===

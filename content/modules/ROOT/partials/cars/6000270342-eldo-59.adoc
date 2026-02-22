@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270342
 |Brand |xref:brands/74340517.adoc[Cadillac]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$250,000
 |Car Name |Eldorado Biarritz
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |6384
 |Power (BHP) |345 bhp @ 4800 rpm
 |Torque (Nm) |590 Nm @ 3400 rpm
 |Redline (RPM) |6000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.210
 |Number of Turbos |0
 |===

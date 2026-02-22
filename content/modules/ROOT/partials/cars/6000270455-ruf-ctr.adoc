@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270455
 |Brand |xref:brands/7932.adoc[RUF]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$340,000
 |Car Name |CTR
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |563629 (0x000899AD)
-|Engine Type |573709 (0x0008C10D)
+|Engine Location |Rear
+|Engine Type |flathead 6-cyl
 |Displacement (cc) |3367
 |Power (BHP) |463 bhp @ 5950 rpm
 |Torque (Nm) |553 Nm @ 5100 rpm
 |Redline (RPM) |6800
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.370
 |Number of Turbos |1
 |===

@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270436
 |Brand |xref:brands/902.adoc[Porsche]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$88,000
 |Car Name |911 SC
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |563629 (0x000899AD)
-|Engine Type |573709 (0x0008C10D)
+|Engine Location |Rear
+|Engine Type |flathead 6-cyl
 |Displacement (cc) |2994
 |Power (BHP) |201 bhp @ 5900 rpm
 |Torque (Nm) |267 Nm @ 4300 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.880
 |Number of Turbos |0
 |===

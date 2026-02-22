@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270351
 |Brand |xref:brands/983687.adoc[Chevrolet]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$38,000
 |Car Name |2002 Camaro
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |5665
 |Power (BHP) |325 bhp @ 5200 rpm
 |Torque (Nm) |475 Nm @ 4000 rpm
 |Redline (RPM) |6000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.420
 |Number of Turbos |0
 |===

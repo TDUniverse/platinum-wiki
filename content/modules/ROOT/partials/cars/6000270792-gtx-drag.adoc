@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270792
 |Brand |xref:brands/86740.adoc[Plymouth]
-|Group |73900264 (0x0467A0E8)
+|Group |A
 |Price |$85,000
 |Car Name |GTX Hemi
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |6974
 |Power (BHP) |2100 bhp @ 4700 rpm
 |Torque (Nm) |1800 Nm @ 3200 rpm
 |Redline (RPM) |5000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |3.540
 |Number of Turbos |0
 |===

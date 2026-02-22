@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270564
 |Brand |xref:brands/865967.adoc[Mercedes-Benz]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$325,000
 |Car Name |SL-Klasse
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |Front
+|Engine Type |V12
 |Displacement (cc) |5980
 |Power (BHP) |661 bhp @ 5400 rpm
 |Torque (Nm) |1000 Nm @ 2200 rpm
 |Redline (RPM) |6000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |563531 (0x0008994B)
+|Drive |Rear Wheel Drive
+|Gearbox |Sequential
 |Final Drive Ratio |2.650
 |Number of Turbos |1
 |===

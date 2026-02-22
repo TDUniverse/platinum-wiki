@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1208897332
 |Brand |xref:brands/80863204.adoc[Triumph]
-|Group |76800264 (0x0493E108)
+|Group |mA
 |Price |$11,500
 |Car Name |955i Daytona
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |553629 (0x0008729D)
-|Engine Type |564709 (0x00089DE5)
+|Engine Location |Central
+|Engine Type |3-cyl in-line
 |Displacement (cc) |955
 |Power (BHP) |147 bhp @ 10700 rpm
 |Torque (Nm) |100 Nm @ 8200 rpm
 |Redline (RPM) |10800
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |2.800
 |Number of Turbos |0
 |===

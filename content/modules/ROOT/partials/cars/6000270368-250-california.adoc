@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270368
 |Brand |xref:brands/81940960.adoc[Ferrari]
-|Group |79900264 (0x04C32E68)
+|Group |G
 |Price |$3,850,000
 |Car Name |250 GT
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |603709 (0x0009363D)
+|Engine Location |Front
+|Engine Type |V12
 |Displacement (cc) |2953
 |Power (BHP) |276 bhp @ 6500 rpm
 |Torque (Nm) |275 Nm @ 5000 rpm
 |Redline (RPM) |7000
-|Drive |55356917 (0x034CADF5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |Rear Wheel Drive
+|Gearbox |Mechanical
 |Final Drive Ratio |3.778
 |Number of Turbos |0
 |===

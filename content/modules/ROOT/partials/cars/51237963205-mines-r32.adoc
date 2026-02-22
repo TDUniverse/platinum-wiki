@@ -12,7 +12,7 @@
 |Field |Value
 |ID |51237963205
 |Brand |xref:brands/6005.adoc[Mine's]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$250,000
 |Car Name |Skyline GT-R
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |543709 (0x00084BDD)
+|Engine Location |Front
+|Engine Type |6-cyl in-line
 |Displacement (cc) |2569
 |Power (BHP) |618 bhp @ 7400 rpm
 |Torque (Nm) |617 Nm @ 5400 rpm
 |Redline (RPM) |8500
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |4WD
+|Gearbox |Automatic
 |Final Drive Ratio |3.769
 |Number of Turbos |1
 |===

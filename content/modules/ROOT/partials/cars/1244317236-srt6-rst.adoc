@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1244317236
 |Brand |xref:brands/927987.adoc[Chrysler]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$56,000
 |Car Name |Crossfire
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |583709 (0x0008E81D)
+|Engine Location |Front
+|Engine Type |V6
 |Displacement (cc) |3199
 |Power (BHP) |330 bhp @ 6100 rpm
 |Torque (Nm) |420 Nm @ 3500 rpm
 |Redline (RPM) |6400
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |3.080
 |Number of Turbos |0
 |===

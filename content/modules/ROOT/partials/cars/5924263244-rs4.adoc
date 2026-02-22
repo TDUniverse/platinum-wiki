@@ -12,7 +12,7 @@
 |Field |Value
 |ID |5924263244
 |Brand |xref:brands/80715.adoc[Audi]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$80,000
 |Car Name |RS4
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |4163
 |Power (BHP) |414 bhp @ 7800 rpm
 |Torque (Nm) |430 Nm @ 5500 rpm
 |Redline (RPM) |8000
-|Drive |54356917 (0x033D6BB5)
-|Gearbox |573531 (0x0008C05B)
+|Drive |4WD
+|Gearbox |Mechanical
 |Final Drive Ratio |4.111
 |Number of Turbos |0
 |===

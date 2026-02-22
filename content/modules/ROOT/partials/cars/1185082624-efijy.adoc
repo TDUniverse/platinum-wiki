@@ -12,7 +12,7 @@
 |Field |Value
 |ID |1185082624
 |Brand |xref:brands/12121982.adoc[Holden]
-|Group |76900264 (0x049567A8)
+|Group |D
 |Price |$300,000
 |Car Name |EFIGY
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |6000
 |Power (BHP) |645 bhp @ 6400 rpm
 |Torque (Nm) |775 Nm @ 4200 rpm
 |Redline (RPM) |6500
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |2.820
 |Number of Turbos |1
 |===

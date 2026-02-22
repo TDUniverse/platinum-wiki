@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270865
 |Brand |xref:brands/8567333.adoc[Saleen]
-|Group |78900264 (0x04B3EC28)
+|Group |F
 |Price |$85,350
 |Car Name |F-Series Truck
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |553709 (0x000872ED)
+|Engine Location |Front
+|Engine Type |V8
 |Displacement (cc) |5396
 |Power (BHP) |450 bhp @ 5200 rpm
 |Torque (Nm) |677 Nm @ 4000 rpm
 |Redline (RPM) |6400
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |2.610
 |Number of Turbos |1
 |===

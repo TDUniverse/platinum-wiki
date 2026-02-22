@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270535
 |Brand |xref:brands/7853.adoc[Honda]
-|Group |77900264 (0x04A4A9E8)
+|Group |E
 |Price |$75,000
 |Car Name |Integra DC2
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |563709 (0x000899FD)
+|Engine Location |Front
+|Engine Type |4-cyl in-line
 |Displacement (cc) |1797
 |Power (BHP) |210 bhp @ 7600 rpm
 |Torque (Nm) |220 Nm @ 6800 rpm
 |Redline (RPM) |8200
-|Drive |56356917 (0x035BF035)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Front Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |4.400
 |Number of Turbos |0
 |===

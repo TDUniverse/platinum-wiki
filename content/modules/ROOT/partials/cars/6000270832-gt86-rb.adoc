@@ -12,7 +12,7 @@
 |Field |Value
 |ID |6000270832
 |Brand |xref:brands/900.adoc[Toyota]
-|Group |74900264 (0x0476E328)
+|Group |B
 |Price |$288,500
 |Car Name |GT86
 |Real Name |??
@@ -29,14 +29,14 @@
 [cols="1,1",options="header"]
 |===
 |Field |Value
-|Engine Location |543629 (0x00084B8D)
-|Engine Type |613709 (0x00095D4D)
+|Engine Location |Front
+|Engine Type |flathead 4-cyl
 |Displacement (cc) |2457
 |Power (BHP) |545 bhp @ 7000 rpm
 |Torque (Nm) |667 Nm @ 6600 rpm
 |Redline (RPM) |7250
-|Drive |55356917 (0x034CADF5)
-|Gearbox |543531 (0x00084B2B)
+|Drive |Rear Wheel Drive
+|Gearbox |Automatic
 |Final Drive Ratio |4.100
 |Number of Turbos |1
 |===
