@@ -1,6 +1,6 @@
 = Ford - Thunderbird 312 Super V8 Ford-O-Matic
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/52121853-thund-57.adoc[]

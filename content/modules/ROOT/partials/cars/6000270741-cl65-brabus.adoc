@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$615,000
 |Car Name |CL-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |CL65_Brabus
 |Model |SV12 S
 |Version |Coupe Biturbo
@@ -69,7 +69,7 @@
 |Height (mm) |1418
 |Wheelbase (mm) |2955
 |Weight (kg) |2165
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

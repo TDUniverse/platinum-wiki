@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$58,700
 |Car Name |Skyline Coupe
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |G37_Cpe
 |Model |G37
 |Version |S Coupe

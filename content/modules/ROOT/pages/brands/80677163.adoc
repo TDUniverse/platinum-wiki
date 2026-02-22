@@ -1,7 +1,6 @@
 = Matchless Crowd Racing
-:page-aliases: kit-mcr
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$brands/80677163.adoc[]

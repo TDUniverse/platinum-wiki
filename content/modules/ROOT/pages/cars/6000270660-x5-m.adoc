@@ -1,6 +1,6 @@
-= N/A (key=6138357) - X5 M E70 Performance Package
+= BMW - X5 M E70 Performance Package
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270660-x5-m.adoc[]

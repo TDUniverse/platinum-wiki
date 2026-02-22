@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-53938337-n-a-key-54638407-mf5
+:page-aliases: wiesmann-gt-mf5
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,13 +11,13 @@
 |===
 |Field |Value
 |ID |6000270868
-|Brand |xref:brands/1220916237.adoc[N/A (key=53938337)]
+|Brand |xref:brands/1220916237.adoc[Wiesmann]
 |Group |74900264 (0x0476E328)
 |Price |$235,000
-|Car Name |N/A (key=54638407)
-|Real Name |N/A (key=53338427)
+|Car Name |GT
+|Real Name |??
 |File Name |Wies_MF5
-|Model |N/A (key=54638407)
+|Model |GT
 |Version |MF5
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1170
 |Wheelbase (mm) |2507
 |Weight (kg) |1380
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

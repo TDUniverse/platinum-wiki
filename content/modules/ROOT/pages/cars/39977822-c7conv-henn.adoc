@@ -1,6 +1,6 @@
 = Chevrolet - Corvette C7 Stingray Convertible HPE700 Supercharged
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/39977822-c7conv-henn.adoc[]

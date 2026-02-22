@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: nissan-370-z-n-a-key-58538407
+:page-aliases: nissan-370-z-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |76900264 (0x049567A8)
 |Price |$51,430
 |Car Name |370 Z
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |370Z
 |Model |370Z
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1316
 |Wheelbase (mm) |2550
 |Weight (kg) |1472
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

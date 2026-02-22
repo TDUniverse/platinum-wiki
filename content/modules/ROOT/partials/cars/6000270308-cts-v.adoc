@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: cadillac-cts-v
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270308
+|Brand |xref:brands/74340517.adoc[Cadillac]
+|Group |77900264 (0x04A4A9E8)
+|Price |$51,500
+|Car Name |CTS
+|Real Name |??
+|File Name |CTS_V
+|Model |CTS-V
+|Version |??
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |5967
+|Power (BHP) |400 bhp @ 6000 rpm
+|Torque (Nm) |536 Nm @ 4400 rpm
+|Redline (RPM) |6600
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.730
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.970
+|2 |2.070
+|3 |1.430
+|4 |1.000
+|5 |0.840
+|6 |0.560
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1793
+|Length (mm) |4864
+|Height (mm) |1455
+|Wheelbase (mm) |2880
+|Weight (kg) |1746
+|Number of Seats |2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.70 s
+|0 - 100 mph (s) |11.00 s
+|Top Speed (km/h) |367.0 km/h
+|Braking 100–0 km/h (s) |115.00
+|Quarter Mile (s) |13.00 s
+|Grip Coefficient |990
+|Overturning Coefficient |95
+|Handling |70
+|Sharpness Coefficient |99
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/586156881.adoc[CADILLAC - PONTIAC (ECD_12B2_1554)]
+
+//end::available-shops[]

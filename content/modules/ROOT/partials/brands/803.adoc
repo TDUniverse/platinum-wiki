@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |803
-|Manufacturer ID |N/A (key=75238337)
+|Manufacturer ID |Dauer
 |Manufacturer Name |Dauer
-|Logo File |N/A (key=75238337)
+|Logo File |Dauer
 |Number of Cars |0
 |===
 

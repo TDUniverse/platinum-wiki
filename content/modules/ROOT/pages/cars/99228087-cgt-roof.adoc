@@ -1,6 +1,6 @@
-= Porsche - N/A (key=76382366) N/A (key=54638407)
+= Porsche - Carrera GT
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/99228087-cgt-roof.adoc[]

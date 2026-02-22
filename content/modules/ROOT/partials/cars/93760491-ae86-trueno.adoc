@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$13,000
 |Car Name |Corolla Trueno
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |AE86_Trueno
 |Model |Sprinter Trueno
 |Version |GT-Apex
@@ -69,7 +69,7 @@
 |Height (mm) |1335
 |Wheelbase (mm) |2400
 |Weight (kg) |940
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

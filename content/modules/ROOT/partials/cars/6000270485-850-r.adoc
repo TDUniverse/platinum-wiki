@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: volvo-n-a-key-15090319-r-wagon
+:page-aliases: volvo-850-r-wagon
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/742.adoc[Volvo]
 |Group |78900264 (0x04B3EC28)
 |Price |$48,000
-|Car Name |N/A (key=15090319)
-|Real Name |N/A (key=53338427)
+|Car Name |850
+|Real Name |??
 |File Name |850_R
 |Model |850
 |Version |R
@@ -68,7 +68,7 @@
 |Height (mm) |1415
 |Wheelbase (mm) |2660
 |Weight (kg) |1545
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

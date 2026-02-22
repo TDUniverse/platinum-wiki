@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |760
-|Manufacturer ID |N/A (key=72438337)
+|Manufacturer ID |Dacia
 |Manufacturer Name |Dacia
-|Logo File |N/A (key=72438337)
+|Logo File |Dacia
 |Number of Cars |0
 |===
 

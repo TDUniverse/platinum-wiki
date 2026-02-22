@@ -1,0 +1,6 @@
+= Mercedes-Benz - SL 65 AMG
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/1230253255-sl-65-amg.adoc[]

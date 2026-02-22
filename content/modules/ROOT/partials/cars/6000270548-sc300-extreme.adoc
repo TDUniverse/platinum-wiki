@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$55,000
 |Car Name |SC
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |SC300_Extreme
 |Model |SC 300
 |Version |Extreme Dimensions O-Design
@@ -70,7 +70,7 @@
 |Height (mm) |1350
 |Wheelbase (mm) |2690
 |Weight (kg) |1530
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

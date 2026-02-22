@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$75,800
 |Car Name |Touareg V8
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Touareg_TDi
 |Model |Touareg
 |Version |V8 TDi
@@ -71,7 +71,7 @@
 |Height (mm) |1704
 |Wheelbase (mm) |2893
 |Weight (kg) |2264
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

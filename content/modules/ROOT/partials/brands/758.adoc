@@ -1,12 +1,10 @@
-:page-aliases: vauxhall
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |758
 |Manufacturer ID |Vauxhall
-|Manufacturer Name |N/A (key=7228357)
+|Manufacturer Name |Vauxhall
 |Logo File |Vauxhall
 |Number of Cars |0
 |===

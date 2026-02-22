@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |767
-|Manufacturer ID |N/A (key=73138337)
+|Manufacturer ID |Daihatsu
 |Manufacturer Name |Daihatsu
-|Logo File |N/A (key=73138337)
+|Logo File |Daihatsu
 |Number of Cars |0
 |===
 

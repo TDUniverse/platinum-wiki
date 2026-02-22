@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: pontiac-firebird-ws6-trans-am
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |1139121456
+|Brand |xref:brands/92670.adoc[Pontiac]
+|Group |77900264 (0x04A4A9E8)
+|Price |$39,500
+|Car Name |Firebird
+|Real Name |??
+|File Name |SSR
+|Model |Firebird WS6
+|Version |Trans Am
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |5665
+|Power (BHP) |320 bhp @ 5200 rpm
+|Torque (Nm) |475 Nm @ 4400 rpm
+|Redline (RPM) |6000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.420
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.660
+|2 |1.780
+|3 |1.300
+|4 |1.000
+|5 |0.740
+|6 |0.500
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1890
+|Length (mm) |4920
+|Height (mm) |1316
+|Wheelbase (mm) |2568
+|Weight (kg) |1585
+|Number of Seats |2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.40 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |391.0 km/h
+|Braking 100–0 km/h (s) |140.00
+|Quarter Mile (s) |13.10 s
+|Grip Coefficient |950
+|Overturning Coefficient |92
+|Handling |57
+|Sharpness Coefficient |95
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/586156881.adoc[CADILLAC - PONTIAC (ECD_12B2_1554)]
+
+//end::available-shops[]

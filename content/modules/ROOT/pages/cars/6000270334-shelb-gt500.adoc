@@ -1,6 +1,6 @@
-= Shelby - GT500® N/A (key=57356917)
+= Shelby - GT500® ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270334-shelb-gt500.adoc[]

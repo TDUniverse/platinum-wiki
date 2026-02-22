@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$50,000
 |Car Name |Corvette
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |C4_GS
 |Model |Corvette
 |Version |C4 Grand Sport
@@ -70,7 +70,7 @@
 |Height (mm) |1176
 |Wheelbase (mm) |2443
 |Weight (kg) |1496
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

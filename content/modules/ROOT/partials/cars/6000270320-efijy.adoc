@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: kia-stinger-gt
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270320
+|Brand |xref:brands/868.adoc[Kia]
+|Group |76900264 (0x049567A8)
+|Price |$50,100
+|Car Name |Stinger
+|Real Name |??
+|File Name |Efijy
+|Model |Stinger
+|Version |3.3T GT
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |583709 (0x0008E81D)
+|Displacement (cc) |3342
+|Power (BHP) |365 bhp @ 6000 rpm
+|Torque (Nm) |510 Nm @ 1400 rpm
+|Redline (RPM) |6500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.538
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.964
+|2 |2.468
+|3 |1.610
+|4 |1.176
+|5 |1.000
+|6 |0.832
+|7 |0.652
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1870
+|Length (mm) |4830
+|Height (mm) |1400
+|Wheelbase (mm) |2905
+|Weight (kg) |1780
+|Number of Seats |5
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |5.10 s
+|0 - 100 mph (s) |11.70 s
+|Top Speed (km/h) |314.0 km/h
+|Braking 100–0 km/h (s) |120.00
+|Quarter Mile (s) |13.20 s
+|Grip Coefficient |1000
+|Overturning Coefficient |99
+|Handling |78
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/557286833.adoc[BRITISH INDEPENDENTS (ECD_15C_2255)]
+
+//end::available-shops[]

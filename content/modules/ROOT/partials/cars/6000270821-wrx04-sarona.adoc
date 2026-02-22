@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$75,500
 |Car Name |Impreza WRX STi
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |WRX04_Sarona
-|Model |N/A (key=59448407)
+|Model |Impreza
 |Version |WRX STI Sarona (GDB)
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1435
 |Wheelbase (mm) |2525
 |Weight (kg) |1390
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

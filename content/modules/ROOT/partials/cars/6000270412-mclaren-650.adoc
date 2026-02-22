@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$87,000
 |Car Name |Mustang (Mk4-II)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mclaren_650
-|Model |N/A (key=58933407)
+|Model |S281
 |Version |Supercharged Coupe
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1320
 |Wheelbase (mm) |2573
 |Weight (kg) |1485
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

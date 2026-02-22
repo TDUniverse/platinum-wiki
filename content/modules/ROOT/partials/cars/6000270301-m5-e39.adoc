@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-5-series-m5-e39
+:page-aliases: bmw-5-series-m5-e39
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270301
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |76900264 (0x049567A8)
 |Price |$107,000
 |Car Name |5-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |M5_E39
 |Model |M5
 |Version |E39
@@ -70,7 +70,7 @@
 |Height (mm) |1432
 |Wheelbase (mm) |2830
 |Weight (kg) |1720
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$39,240
 |Car Name |Golf R32
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Golf_MK4
 |Model |Golf
 |Version |R32 (MkIV)
@@ -70,7 +70,7 @@
 |Height (mm) |1414
 |Wheelbase (mm) |2518
 |Weight (kg) |1460
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

@@ -1,12 +1,10 @@
-:page-aliases: ssc
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |141
 |Manufacturer ID |SSC
-|Manufacturer Name |N/A (key=9128357)
+|Manufacturer Name |SSC
 |Logo File |SSC
 |Number of Cars |0
 |===

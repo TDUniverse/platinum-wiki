@@ -1,6 +1,6 @@
-= Dodge - N/A (key=57238407) SRT Demon
+= Dodge - Challenger SRT Demon
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270790-chall-demon.adoc[]

@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$212,000
 |Car Name |S-Klasse (W109)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |300_SEL
 |Model |300 SEL
 |Version |6.3
@@ -68,7 +68,7 @@
 |Height (mm) |1420
 |Wheelbase (mm) |2865
 |Weight (kg) |1780
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

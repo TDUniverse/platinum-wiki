@@ -1,12 +1,10 @@
-:page-aliases: opel
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |740
 |Manufacturer ID |Opel
-|Manufacturer Name |N/A (key=7048357)
+|Manufacturer Name |Opel
 |Logo File |Opel
 |Number of Cars |0
 |===

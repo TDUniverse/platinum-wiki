@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$155,000
 |Car Name |NSX NA1
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |NSX_Tuned
 |Model |NSX
 |Version |Type S Zero
@@ -70,7 +70,7 @@
 |Height (mm) |1160
 |Wheelbase (mm) |2530
 |Weight (kg) |1230
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

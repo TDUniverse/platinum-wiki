@@ -15,7 +15,7 @@
 |Group |77800264 (0x04A32348)
 |Price |$16,000
 |Car Name |Brutale
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Brutal
 |Model |F4 Brutale
 |Version |910S
@@ -70,7 +70,7 @@
 |Height (mm) |1060
 |Wheelbase (mm) |1425
 |Weight (kg) |185
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

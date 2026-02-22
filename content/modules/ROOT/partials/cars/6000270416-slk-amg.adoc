@@ -15,10 +15,10 @@
 |Group |76900264 (0x049567A8)
 |Price |$82,850
 |Car Name |SLK-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |SLK_AMG
-|Model |N/A (key=61738407)
-|Version |N/A (key=55738427)
+|Model |SLK
+|Version |55 AMG
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1300
 |Wheelbase (mm) |2430
 |Weight (kg) |1535
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

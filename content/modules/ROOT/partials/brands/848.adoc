@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |848
-|Manufacturer ID |N/A (key=78338337)
+|Manufacturer ID |Ligier
 |Manufacturer Name |Ligier
-|Logo File |N/A (key=78338337)
+|Logo File |Ligier
 |Number of Cars |0
 |===
 

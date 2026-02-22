@@ -1,6 +1,6 @@
-= N/A (key=8108357) - Model S N/A (key=1007294959001)
+= Tesla - Model S P85D
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270872-model-s.adoc[]

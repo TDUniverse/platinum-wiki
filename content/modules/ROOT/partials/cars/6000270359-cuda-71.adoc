@@ -15,9 +15,9 @@
 |Group |79900264 (0x04C32E68)
 |Price |$135,000
 |Car Name |Barracuda
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Cuda_71
-|Model |N/A (key=1003307536001)
+|Model |Hemi
 |Version |'Cuda 426
 |===
 
@@ -68,7 +68,7 @@
 |Height (mm) |1300
 |Wheelbase (mm) |2743
 |Weight (kg) |1704
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mercedes-benz-n-a-key-53838407-gtr-super-sport-roadster
+:page-aliases: mercedes-benz-clk-gtr-super-sport-roadster
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/865967.adoc[Mercedes-Benz]
 |Group |73900264 (0x0467A0E8)
 |Price |$1,870,000
-|Car Name |N/A (key=53838407)
-|Real Name |N/A (key=53338427)
+|Car Name |CLK
+|Real Name |??
 |File Name |CLKSS_Rst
-|Model |N/A (key=53838407)
+|Model |CLK
 |Version |GTR Super Sport Roadster
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1164
 |Wheelbase (mm) |2670
 |Weight (kg) |1545
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

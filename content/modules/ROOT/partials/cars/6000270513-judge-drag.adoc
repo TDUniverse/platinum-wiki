@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$110,000
 |Car Name |GTO
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Judge_Drag
 |Model |GTO®
 |Version |The Judge Dragster
@@ -68,7 +68,7 @@
 |Height (mm) |1328
 |Wheelbase (mm) |2845
 |Weight (kg) |1590
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

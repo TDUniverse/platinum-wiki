@@ -1,6 +1,6 @@
-= N/A (key=6138357) - M3 N/A (key=56933427)
+= BMW - M3 GTR
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270504-e46-spo.adoc[]

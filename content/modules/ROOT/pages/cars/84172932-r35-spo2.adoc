@@ -1,6 +1,6 @@
 = Nissan - GT-R (R35) Liberty Walk
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/84172932-r35-spo2.adoc[]

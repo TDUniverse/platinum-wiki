@@ -15,10 +15,10 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$27,500
 |Car Name |BRZ
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Sub_BRZ
 |Model |BRZ
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2570
 |Weight (kg) |1256
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

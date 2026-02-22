@@ -1,5 +1,3 @@
-:page-aliases: kit-tom-h
-
 == Identity
 [cols="1,1",options="header"]
 |===

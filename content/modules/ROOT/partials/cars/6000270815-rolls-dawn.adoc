@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: rolls-royce-dawn-n-a-key-300400837
+:page-aliases: rolls-royce-dawn-f01
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |76900264 (0x049567A8)
 |Price |$685,000
 |Car Name |Dawn
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Rolls_Dawn
 |Model |Dawn
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1502
 |Wheelbase (mm) |3112
 |Weight (kg) |2560
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

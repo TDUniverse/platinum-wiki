@@ -15,10 +15,10 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$1,350,000
 |Car Name |P1
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |P1_Paint
 |Model |P1
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1188
 |Wheelbase (mm) |2670
 |Weight (kg) |1450
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

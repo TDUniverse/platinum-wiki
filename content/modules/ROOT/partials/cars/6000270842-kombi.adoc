@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$75,450
 |Car Name |Samba Bus
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Kombi
 |Model |Samba
 |Version |Bus Typ 2 (T1)
@@ -68,7 +68,7 @@
 |Height (mm) |1940
 |Wheelbase (mm) |2400
 |Weight (kg) |1095
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

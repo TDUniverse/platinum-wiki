@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: pagani-n-a-key-55038407-f-roadster
+:page-aliases: pagani-zonda-f-roadster
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/8152830.adoc[Pagani]
 |Group |73900264 (0x0467A0E8)
 |Price |$647,000
-|Car Name |N/A (key=55038407)
-|Real Name |N/A (key=53338427)
+|Car Name |Zonda
+|Real Name |??
 |File Name |ZondaF_Rst
-|Model |N/A (key=55038407)
-|Version |N/A (key=103682366)
+|Model |Zonda
+|Version |F Roadster
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1151
 |Wheelbase (mm) |2730
 |Weight (kg) |1371
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

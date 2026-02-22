@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$24,980
 |Car Name |CR-Z
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |CR_Z
 |Model |CR-Z
 |Version |a
@@ -70,7 +70,7 @@
 |Height (mm) |1395
 |Wheelbase (mm) |2435
 |Weight (kg) |1140
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

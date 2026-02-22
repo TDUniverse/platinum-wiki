@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |80715
-|Manufacturer ID |N/A (key=59338337)
+|Manufacturer ID |AUDI
 |Manufacturer Name |Audi
-|Logo File |N/A (key=59338337)
+|Logo File |AUDI
 |Number of Cars |24
 |===
 
@@ -13,29 +13,29 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
+|xref:cars/551683160-a3-v6.adoc[A3 3.2 quattro DSG] |A3 |3.2 quattro DSG |78900264 (0x04B3EC28) |$37,000 |250 |245.0
+|xref:cars/5551683160-a3-v6.adoc[A3 3.2 quattro DSG] |A3 |3.2 quattro DSG |78900264 (0x04B3EC28) |$37,000 |255 |245.0
+|xref:cars/6000270306-a3-v6.adoc[A3 3.2 quattro DSG] |A3 |3.2 quattro DSG |78900264 (0x04B3EC28) |$37,000 |247 |249.0
+|xref:cars/611792908-rs4.adoc[RS4 quattro Saloon] |RS4 |quattro Saloon |76900264 (0x049567A8) |$80,000 |420 |311.0
+|xref:cars/380893340-a4-s4.adoc[S4 quattro (B6)] |S4 |quattro (B6) |77900264 (0x04A4A9E8) |$55,000 |339 |273.0
+|xref:cars/84266076-a4-s4.adoc[S4 quattro (B6)] |S4 |quattro (B6) |77900264 (0x04A4A9E8) |$55,000 |339 |273.0
 |xref:cars/84083164-a5-s5.adoc[S5 Coupe (F5)] |S5 |Coupe (F5) |76900264 (0x049567A8) |$71,500 |349 |304.0
-|xref:cars/538230904-a6-s6.adoc[N/A (key=57338427) quattro (C5)] |N/A (key=57338427) |quattro (C5) |77900264 (0x04A4A9E8) |$95,000 |450 |300.0
-|xref:cars/46846524-a6-s6.adoc[N/A (key=57338427) quattro (C5)] |N/A (key=57338427) |quattro (C5) |77900264 (0x04A4A9E8) |$95,000 |450 |300.0
+|xref:cars/551813498-a6-v8.adoc[RS6 quattro (C6)] |RS6 |quattro (C6) |75900264 (0x04862568) |$166,000 |572 |364.0
+|xref:cars/93059533-rs6-c6.adoc[RS6 quattro (C6)] |RS6 |quattro (C6) |75900264 (0x04862568) |$190,000 |572 |364.0
+|xref:cars/96474766-a6-v8.adoc[RS6 quattro (C6)] |RS6 |quattro (C6) |75900264 (0x04862568) |$166,000 |572 |364.0
+|xref:cars/538230904-a6-s6.adoc[RS6 quattro (C5)] |RS6 |quattro (C5) |77900264 (0x04A4A9E8) |$95,000 |450 |300.0
+|xref:cars/46846524-a6-s6.adoc[RS6 quattro (C5)] |RS6 |quattro (C5) |77900264 (0x04A4A9E8) |$95,000 |450 |300.0
 |xref:cars/5924263249-rs2-avant.adoc[RS2 Avant] |RS2 |Avant |77900264 (0x04A4A9E8) |$74,000 |310 |257.0
 |xref:cars/6000270395-jalpa-86.adoc[R8 V10 quattro Plus] |R8 |V10 quattro Plus |74900264 (0x0476E328) |$287,500 |610 |311.0
 |xref:cars/36142656-jalpa-86.adoc[R8 V10 quattro Plus] |R8 |V10 quattro Plus |74900264 (0x0476E328) |$287,500 |610 |311.0
 |xref:cars/6000270524-r8-v8.adoc[R8 5.2 FSi quattro] |R8 |5.2 FSi quattro |74900264 (0x0476E328) |$240,000 |525 |301.0
 |xref:cars/6000270670-r8-lb.adoc[R8 5.2 FSi LMX Liberty Walk] |R8 |5.2 FSi LMX Liberty Walk |73900264 (0x0467A0E8) |$410,000 |907 |395.0
-|xref:cars/5924263247-rs4-avant.adoc[N/A (key=62347407) Avant quattro (B8)] |N/A (key=62347407) |Avant quattro (B8) |76900264 (0x049567A8) |$83,000 |444 |360.0
+|xref:cars/5924263244-rs4.adoc[RS4 quattro (B7)] |RS4 quattro |(B7) |76900264 (0x049567A8) |$80,000 |414 |293.0
+|xref:cars/60208596-rs4.adoc[RS4 quattro (B7)] |RS4 quattro |(B7) |76900264 (0x049567A8) |$80,000 |414 |293.0
+|xref:cars/5924263247-rs4-avant.adoc[RS4 Avant quattro (B8)] |RS4 |Avant quattro (B8) |76900264 (0x049567A8) |$83,000 |444 |360.0
 |xref:cars/5924263248-rs5.adoc[RS5 quattro (8T)] |RS5 |quattro (8T) |75900264 (0x04862568) |$125,000 |444 |370.0
-|xref:cars/1096032410-car.adoc[N/A (key=62338407) 3.2 quattro] |N/A (key=62338407) |3.2 quattro |78900264 (0x04B3EC28) |$46,900 |247 |256.0
-|xref:cars/380893340-a4-s4.adoc[N/A (key=53483667) quattro (B6)] |N/A (key=53483667) |quattro (B6) |77900264 (0x04A4A9E8) |$55,000 |339 |273.0
-|xref:cars/551683160-car.adoc[N/A (key=58338407) 3.2 quattro DSG] |N/A (key=58338407) |3.2 quattro DSG |78900264 (0x04B3EC28) |$37,000 |250 |245.0
-|xref:cars/551813498-car.adoc[RS6 quattro (C6)] |RS6 |quattro (C6) |75900264 (0x04862568) |$166,000 |572 |364.0
-|xref:cars/5551683160-car.adoc[N/A (key=58338407) 3.2 quattro DSG] |N/A (key=58338407) |3.2 quattro DSG |78900264 (0x04B3EC28) |$37,000 |255 |245.0
-|xref:cars/5924263244-car.adoc[RS4 quattro (B7)] |RS4 quattro |(B7) |76900264 (0x049567A8) |$80,000 |414 |293.0
-|xref:cars/5924263246-audi-s4.adoc[N/A (key=53483667) S-Tronic quattro (B8)] |N/A (key=53483667) |S-Tronic quattro (B8) |77900264 (0x04A4A9E8) |$65,000 |329 |327.0
-|xref:cars/6000270306-car.adoc[N/A (key=58338407) 3.2 quattro DSG] |N/A (key=58338407) |3.2 quattro DSG |78900264 (0x04B3EC28) |$37,000 |247 |249.0
-|xref:cars/60208596-car.adoc[RS4 quattro (B7)] |RS4 quattro |(B7) |76900264 (0x049567A8) |$80,000 |414 |293.0
-|xref:cars/611792908-car.adoc[N/A (key=62347407) quattro Saloon] |N/A (key=62347407) |quattro Saloon |76900264 (0x049567A8) |$80,000 |420 |311.0
-|xref:cars/63686879-tt-tek.adoc[N/A (key=62338407) 3.2 quattro TEK] |N/A (key=62338407) |3.2 quattro TEK |77900264 (0x04A4A9E8) |$67,000 |296 |256.0
-|xref:cars/84266076-a4-s4.adoc[N/A (key=53483667) quattro (B6)] |N/A (key=53483667) |quattro (B6) |77900264 (0x04A4A9E8) |$55,000 |339 |273.0
-|xref:cars/93059533-rs6-c6.adoc[RS6 quattro (C6)] |RS6 |quattro (C6) |75900264 (0x04862568) |$190,000 |572 |364.0
-|xref:cars/96474766-car.adoc[RS6 quattro (C6)] |RS6 |quattro (C6) |75900264 (0x04862568) |$166,000 |572 |364.0
+|xref:cars/5924263246-audi-s4.adoc[S4 S-Tronic quattro (B8)] |S4 |S-Tronic quattro (B8) |77900264 (0x04A4A9E8) |$65,000 |329 |327.0
+|xref:cars/1096032410-tt-cpe-qs.adoc[TT 3.2 quattro] |TT |3.2 quattro |78900264 (0x04B3EC28) |$46,900 |247 |256.0
+|xref:cars/63686879-tt-tek.adoc[TT 3.2 quattro TEK] |TT |3.2 quattro TEK |77900264 (0x04A4A9E8) |$67,000 |296 |256.0
 |===
 

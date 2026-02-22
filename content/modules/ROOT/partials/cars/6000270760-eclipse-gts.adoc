@@ -15,10 +15,10 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$23,450
 |Car Name |Eclipse (3G)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Eclipse_GTS
-|Model |N/A (key=57448407)
-|Version |N/A (key=62938407)
+|Model |Eclipse
+|Version |GTS
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1311
 |Wheelbase (mm) |2560
 |Weight (kg) |1470
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

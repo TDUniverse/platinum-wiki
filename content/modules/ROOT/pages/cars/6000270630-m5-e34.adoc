@@ -1,6 +1,6 @@
-= N/A (key=6138357) - M5 E34
+= BMW - M5 E34
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270630-m5-e34.adoc[]

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |84783
-|Manufacturer ID |N/A (key=62638337)
+|Manufacturer ID |SPYK
 |Manufacturer Name |Spyker
-|Logo File |N/A (key=62638337)
+|Logo File |SPYK
 |Number of Cars |3
 |===
 
@@ -13,8 +13,8 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/1174137367-spyk-rst.adoc[N/A (key=58038407) N/A (key=56993667)] |N/A (key=58038407) |N/A (key=56993667) |75900264 (0x04862568) |$260,500 |395 |299.0
-|xref:cars/1285237823-spyk-cpe.adoc[N/A (key=58038407) N/A (key=53738427)] |N/A (key=58038407) |N/A (key=53738427) |75900264 (0x04862568) |$235,500 |395 |299.0
-|xref:cars/96414415-spyk-rst-t.adoc[N/A (key=58038407) Aileron] |N/A (key=58038407) |Aileron |75900264 (0x04862568) |$267,500 |395 |325.0
+|xref:cars/1285237823-spyk-cpe.adoc[C8 Laviolette] |C8 |Laviolette |75900264 (0x04862568) |$235,500 |395 |299.0
+|xref:cars/96414415-spyk-rst-t.adoc[C8 Aileron] |C8 |Aileron |75900264 (0x04862568) |$267,500 |395 |325.0
+|xref:cars/1174137367-spyk-rst.adoc[C8 Spyder] |C8 |Spyder |75900264 (0x04862568) |$260,500 |395 |299.0
 |===
 

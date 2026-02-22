@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-57238407-r-t-shaker
+:page-aliases: dodge-challenger-r-t-shaker
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |77900264 (0x04A4A9E8)
 |Price |$41,000
-|Car Name |N/A (key=57238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Challenger
+|Real Name |??
 |File Name |Chall_2015
-|Model |N/A (key=57238407)
+|Model |Challenger
 |Version |R/T Shaker
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1460
 |Wheelbase (mm) |2950
 |Weight (kg) |1906
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$16,800
 |Car Name |Golf GTi
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Golf_MK2
 |Model |Golf
 |Version |GTi 16v (MkII)
@@ -69,7 +69,7 @@
 |Height (mm) |1405
 |Wheelbase (mm) |2475
 |Weight (kg) |1035
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

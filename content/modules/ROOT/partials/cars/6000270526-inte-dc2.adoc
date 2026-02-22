@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$32,450
 |Car Name |Integra DC2
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Inte_DC2
 |Model |Integra
 |Version |Type-R (DC2)
@@ -69,7 +69,7 @@
 |Height (mm) |1320
 |Wheelbase (mm) |2570
 |Weight (kg) |1060
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

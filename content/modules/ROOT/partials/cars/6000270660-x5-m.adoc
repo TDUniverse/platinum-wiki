@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-x-series-x5-e70-m-package
+:page-aliases: bmw-x-series-x5-e70-m-package
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270660
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |76900264 (0x049567A8)
 |Price |$175,000
 |Car Name |X-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |X5_M
 |Model |X5
 |Version |M E70 Performance Package
@@ -70,7 +70,7 @@
 |Height (mm) |1764
 |Wheelbase (mm) |2933
 |Weight (kg) |2135
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

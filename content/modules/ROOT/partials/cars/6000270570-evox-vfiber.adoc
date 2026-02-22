@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mitsubishi-n-a-key-58448407-evolution-x-vfiber-m-speed
+:page-aliases: mitsubishi-lancer-evolution-x-vfiber-m-speed
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/908.adoc[Mitsubishi]
 |Group |76900264 (0x049567A8)
 |Price |$99,000
-|Car Name |N/A (key=58448407)
-|Real Name |N/A (key=53338427)
+|Car Name |Lancer
+|Real Name |??
 |File Name |EvoX_VFiber
-|Model |N/A (key=58448407)
+|Model |Lancer
 |Version |Evolution X VFiber M-Speed
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1480
 |Wheelbase (mm) |2650
 |Weight (kg) |1547
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ducati-n-a-key-59833407-n-a-key-55933427
+:page-aliases: ducati-1000-ds
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/912618.adoc[Ducati]
 |Group |77800264 (0x04A32348)
 |Price |$14,800
-|Car Name |N/A (key=59833407)
-|Real Name |N/A (key=53338427)
+|Car Name |1000
+|Real Name |??
 |File Name |Duca_DS
 |Model |Supersport
 |Version |1000 DS
@@ -70,7 +70,7 @@
 |Height (mm) |1147
 |Wheelbase (mm) |1398
 |Weight (kg) |180
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

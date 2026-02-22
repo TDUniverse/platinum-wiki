@@ -1,6 +1,0 @@
-= Ferrari - 365 GTB/4 Daytona
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/1229585697-365.adoc[]

@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$23,340
 |Car Name |Eunos
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Miata_NC
 |Model |MX-5
 |Version |Miata (NC)
@@ -70,7 +70,7 @@
 |Height (mm) |1255
 |Wheelbase (mm) |2330
 |Weight (kg) |1132
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

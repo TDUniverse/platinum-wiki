@@ -1,5 +1,3 @@
-:page-aliases: kit-srt
-
 == Identity
 [cols="1,1",options="header"]
 |===

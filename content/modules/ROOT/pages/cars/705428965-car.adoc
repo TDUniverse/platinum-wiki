@@ -1,6 +1,0 @@
-= Lotus - N/A (key=57838407) N/A (key=553709)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/705428965-car.adoc[]

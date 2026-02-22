@@ -15,10 +15,10 @@
 |Group |75900264 (0x04862568)
 |Price |$155,000
 |Car Name |512 TR
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |512_TR
 |Model |512 TR
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1135
 |Wheelbase (mm) |2550
 |Weight (kg) |1590
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |73339795
-|Manufacturer ID |N/A (key=56938337)
+|Manufacturer ID |RED_RABBIT
 |Manufacturer Name |RED RABBIT
-|Logo File |N/A (key=56938337)
+|Logo File |RED_RABBIT
 |Number of Cars |0
 |===
 

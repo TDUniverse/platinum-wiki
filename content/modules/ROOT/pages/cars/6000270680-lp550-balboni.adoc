@@ -1,6 +1,6 @@
-= Lamborghini - N/A (key=57338407) LP550-2 Valentino Balboni
+= Lamborghini - Gallardo LP550-2 Valentino Balboni
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270680-lp550-balboni.adoc[]

@@ -15,10 +15,10 @@
 |Group |75900264 (0x04862568)
 |Price |$250,000
 |Car Name |Alfa 8C
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |8C_Spy
-|Model |N/A (key=55638407)
-|Version |N/A (key=56993667)
+|Model |8C
+|Version |Spyder
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1341
 |Wheelbase (mm) |2642
 |Weight (kg) |1530
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

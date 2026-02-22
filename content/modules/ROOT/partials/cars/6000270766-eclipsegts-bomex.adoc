@@ -15,9 +15,9 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$45,450
 |Car Name |Eclipse (3G)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |EclipseGTS_Bomex
-|Model |N/A (key=57448407)
+|Model |Eclipse
 |Version |GTS Bomex
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1311
 |Wheelbase (mm) |2560
 |Weight (kg) |1462
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

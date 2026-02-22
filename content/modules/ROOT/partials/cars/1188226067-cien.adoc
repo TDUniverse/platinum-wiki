@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: cadillac-cien-concept-car
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |1188226067
+|Brand |xref:brands/74340517.adoc[Cadillac]
+|Group |73900264 (0x0467A0E8)
+|Price |$750,000
+|Car Name |Cien
+|Real Name |??
+|File Name |Cien
+|Model |Cien™
+|Version |??
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |603709 (0x0009363D)
+|Displacement (cc) |5980
+|Power (BHP) |850 bhp @ 5750 rpm
+|Torque (Nm) |1150 Nm @ 4500 rpm
+|Redline (RPM) |6000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |3.060
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.380
+|2 |2.860
+|3 |1.920
+|4 |1.370
+|5 |1.000
+|6 |0.820
+|7 |0.730
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |2000
+|Length (mm) |4452
+|Height (mm) |1042
+|Wheelbase (mm) |2764
+|Weight (kg) |1310
+|Number of Seats |2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |2.90 s
+|0 - 100 mph (s) |6.20 s
+|Top Speed (km/h) |400.0 km/h
+|Braking 100–0 km/h (s) |123.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1000
+|Overturning Coefficient |100
+|Handling |70
+|Sharpness Coefficient |102
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

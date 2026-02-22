@@ -1,6 +1,6 @@
-= Porsche - 918 N/A (key=56993667)
+= Porsche - 918 Spyder
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270809-918-roof.adoc[]

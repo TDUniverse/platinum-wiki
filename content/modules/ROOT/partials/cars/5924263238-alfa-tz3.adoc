@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$560,000
 |Car Name |Alfa Zagato
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Alfa_TZ3
 |Model |TZ3
 |Version |Stradale
@@ -70,7 +70,7 @@
 |Height (mm) |1210
 |Wheelbase (mm) |2510
 |Weight (kg) |1450
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

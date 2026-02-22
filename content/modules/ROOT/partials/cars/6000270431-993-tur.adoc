@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$200,000
 |Car Name |911 Turbo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |993_Tur
 |Model |911 Turbo
 |Version |(993)
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2272
 |Weight (kg) |1500
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

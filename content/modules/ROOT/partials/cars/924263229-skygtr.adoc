@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: nissan-n-a-key-53448407-n-a-key-61533427
+:page-aliases: nissan-skyline-gtr34
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/8542108.adoc[Nissan]
 |Group |77900264 (0x04A4A9E8)
 |Price |$55,000
-|Car Name |N/A (key=53448407)
-|Real Name |N/A (key=53338427)
+|Car Name |Skyline
+|Real Name |??
 |File Name |SKYGTR
-|Model |N/A (key=53448407)
+|Model |Skyline
 |Version |GT-R (R34) V-Spec II
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1360
 |Wheelbase (mm) |2665
 |Weight (kg) |1540
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

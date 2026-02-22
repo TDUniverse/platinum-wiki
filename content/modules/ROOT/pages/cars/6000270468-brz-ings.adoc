@@ -1,6 +1,6 @@
-= Subaru - BRZ N/A (key=1007403028001)
+= Subaru - BRZ IGNS+1
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270468-brz-ings.adoc[]

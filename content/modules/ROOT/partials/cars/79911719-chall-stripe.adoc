@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-57238407-srt8-stripe-2
+:page-aliases: dodge-challenger-srt8-stripe-2
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |76900264 (0x049567A8)
 |Price |$47,000
-|Car Name |N/A (key=57238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Challenger
+|Real Name |??
 |File Name |Chall_Stripe
-|Model |N/A (key=57238407)
+|Model |Challenger
 |Version |SRT8
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1449
 |Wheelbase (mm) |2946
 |Weight (kg) |1880
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

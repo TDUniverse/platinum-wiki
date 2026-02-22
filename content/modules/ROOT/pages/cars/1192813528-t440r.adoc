@@ -1,0 +1,6 @@
+= TVR - Tuscan T440R
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/1192813528-t440r.adoc[]

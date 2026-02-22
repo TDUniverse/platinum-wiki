@@ -1,0 +1,6 @@
+= Audi - A3 3.2 quattro DSG
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/551683160-a3-v6.adoc[]

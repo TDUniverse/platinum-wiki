@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |104
-|Manufacturer ID |N/A (key=87838337)
+|Manufacturer ID |Messerschmitt
 |Manufacturer Name |Messerschmitt
-|Logo File |N/A (key=87838337)
+|Logo File |Messerschmitt
 |Number of Cars |0
 |===
 

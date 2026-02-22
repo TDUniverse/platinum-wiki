@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$345,000
 |Car Name |F488
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |488_GTB
 |Model |488
 |Version |GTB
@@ -71,7 +71,7 @@
 |Height (mm) |1213
 |Wheelbase (mm) |2650
 |Weight (kg) |1475
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

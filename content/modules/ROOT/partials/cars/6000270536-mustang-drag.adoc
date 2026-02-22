@@ -15,9 +15,9 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$185,000
 |Car Name |Mustang (Mk1)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mustang_Drag
-|Model |N/A (key=61038407)
+|Model |Mustang
 |Version |GT Hardtop 289 Dragster
 |===
 

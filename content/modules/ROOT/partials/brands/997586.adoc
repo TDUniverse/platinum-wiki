@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |997586
-|Manufacturer ID |N/A (key=61938337)
+|Manufacturer ID |J_GAZZARA
 |Manufacturer Name |J. GAZZARA
-|Logo File |N/A (key=61938337)
+|Logo File |J_GAZZARA
 |Number of Cars |0
 |===
 

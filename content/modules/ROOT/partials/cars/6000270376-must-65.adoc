@@ -15,9 +15,9 @@
 |Group |79900264 (0x04C32E68)
 |Price |$35,000
 |Car Name |Mustang (Mk1)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Must_65
-|Model |N/A (key=61038407)
+|Model |Mustang
 |Version |GT Hardtop 289
 |===
 

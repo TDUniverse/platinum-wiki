@@ -15,10 +15,10 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$725,000
 |Car Name |F12 Coupe
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |F12_TdF
 |Model |F12tdf
-|Version |N/A (key=53338427)
+|Version |??
 |===
 
 //end::identity[]

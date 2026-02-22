@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$362,000
 |Car Name |GT 500
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |GT500_Eleonor
 |Model |GT500
 |Version |Eleanor

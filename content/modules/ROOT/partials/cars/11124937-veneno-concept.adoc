@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$2,850,000
 |Car Name |Veneno
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Veneno_Concept
 |Model |Veneno
 |Version |LP750-4
@@ -71,7 +71,7 @@
 |Height (mm) |1170
 |Wheelbase (mm) |2700
 |Weight (kg) |1530
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

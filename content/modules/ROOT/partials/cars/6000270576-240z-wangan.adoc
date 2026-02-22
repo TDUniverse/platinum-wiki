@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$190,000
 |Car Name |Fairlady Z
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |240Z_Wangan
 |Model |Fairlady
 |Version |Z Midnight Wangan (S30)
@@ -70,7 +70,7 @@
 |Height (mm) |1290
 |Wheelbase (mm) |2305
 |Weight (kg) |1087
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |900
-|Manufacturer ID |N/A (key=54738337)
+|Manufacturer ID |TOY
 |Manufacturer Name |Toyota
-|Logo File |N/A (key=54738337)
+|Logo File |TOY
 |Number of Cars |35
 |===
 
@@ -13,8 +13,8 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270476-2000-gt.adoc[2000GT N/A (key=57356917)] |2000GT |N/A (key=57356917) |79900264 (0x04C32E68) |$1,250,000 |152 |209.0
-|xref:cars/85803320-2000-gt.adoc[2000GT N/A (key=57356917)] |2000GT |N/A (key=57356917) |79900264 (0x04C32E68) |$1,250,000 |152 |209.0
+|xref:cars/6000270476-2000-gt.adoc[2000GT ??] |2000GT |?? |79900264 (0x04C32E68) |$1,250,000 |152 |209.0
+|xref:cars/85803320-2000-gt.adoc[2000GT ??] |2000GT |?? |79900264 (0x04C32E68) |$1,250,000 |152 |209.0
 |xref:cars/6000270475-celica-st205.adoc[Celica GT-Four (ST205)] |Celica |GT-Four (ST205) |77900264 (0x04A4A9E8) |$32,000 |251 |244.0
 |xref:cars/6000270482-celica-st185.adoc[Celica GT-Four RC (ST185)] |Celica |GT-Four RC (ST185) |78900264 (0x04B3EC28) |$27,500 |235 |248.0
 |xref:cars/6000270483-celica-rally.adoc[Celica GT-Four RC WRC (ST185)] |Celica |GT-Four RC WRC (ST185) |77900264 (0x04A4A9E8) |$102,500 |255 |201.0
@@ -27,26 +27,26 @@
 |xref:cars/63280984-ae86-originclean.adoc[Sprinter Trueno GT-Apex Origin Lab] |Sprinter Trueno |GT-Apex Origin Lab |77900264 (0x04A4A9E8) |$50,000 |271 |255.0
 |xref:cars/93760491-ae86-trueno.adoc[Sprinter Trueno GT-Apex] |Sprinter Trueno |GT-Apex |79900264 (0x04C32E68) |$13,000 |128 |209.0
 |xref:cars/73727814-ae86-trueno.adoc[Sprinter Trueno GT-Apex] |Sprinter Trueno |GT-Apex |79900264 (0x04C32E68) |$13,000 |128 |209.0
-|xref:cars/1244034708-gt86.adoc[GT86 N/A (key=57356917)] |GT86 |N/A (key=57356917) |78900264 (0x04B3EC28) |$23,500 |197 |252.0
-|xref:cars/6000270474-gt86-spo.adoc[GT86 N/A (key=57356917)] |GT86 |N/A (key=57356917) |78900264 (0x04B3EC28) |$24,000 |197 |252.0
-|xref:cars/6000270832-gt86-rb.adoc[GT86 N/A (key=1008082231001)] |GT86 |N/A (key=1008082231001) |74900264 (0x0476E328) |$288,500 |545 |335.0
-|xref:cars/6000270833-gt86-rbstance.adoc[GT86 N/A (key=1008082231001)] |GT86 |N/A (key=1008082231001) |74900264 (0x0476E328) |$288,500 |545 |335.0
-|xref:cars/6000270834-gt86-li.adoc[GT86 N/A (key=1008082231001)] |GT86 |N/A (key=1008082231001) |74900264 (0x0476E328) |$288,500 |545 |335.0
-|xref:cars/6000270835-gt86-listance.adoc[GT86 N/A (key=1008082231001)] |GT86 |N/A (key=1008082231001) |74900264 (0x0476E328) |$288,500 |545 |335.0
-|xref:cars/6000270837-mr2-sw20.adoc[N/A (key=79782366) N/A (key=1006422397001)] |N/A (key=79782366) |N/A (key=1006422397001) |77900264 (0x04A4A9E8) |$27,500 |242 |238.0
-|xref:cars/1204318124-supra-rz.adoc[N/A (key=59348407) RZ] |N/A (key=59348407) |RZ |77900264 (0x04A4A9E8) |$44,000 |276 |275.0
-|xref:cars/6000270405-supra-spo.adoc[N/A (key=59348407) RZ] |N/A (key=59348407) |RZ |77900264 (0x04A4A9E8) |$44,500 |276 |275.0
-|xref:cars/6000270406-supra-toms.adoc[N/A (key=59348407) RZ] |N/A (key=59348407) |RZ |76900264 (0x049567A8) |$124,000 |397 |270.0
-|xref:cars/6000270607-supra-abflug.adoc[N/A (key=59348407) RZ Abflug S900 ] |N/A (key=59348407) |RZ Abflug S900  |73900264 (0x0467A0E8) |$244,000 |800 |345.0
-|xref:cars/6000270608-supra-drift.adoc[N/A (key=59348407) RZ D1GP] |N/A (key=59348407) |RZ D1GP |76900264 (0x049567A8) |$114,000 |475 |210.0
-|xref:cars/6000270609-supra-furious.adoc[N/A (key=59348407) RZ Furious 7] |N/A (key=59348407) |RZ Furious 7 |76900264 (0x049567A8) |$134,000 |397 |270.0
-|xref:cars/6000270610-supra-tom.adoc[N/A (key=59348407) RZ Tom H's White Beast] |N/A (key=59348407) |RZ Tom H's White Beast |75900264 (0x04862568) |$179,000 |426 |285.0
-|xref:cars/6000270836-supra-trd.adoc[N/A (key=59348407) RZ TRD E-Design] |N/A (key=59348407) |RZ TRD E-Design |75900264 (0x04862568) |$179,000 |426 |285.0
-|xref:cars/95894395-suprarz-trd.adoc[N/A (key=59348407) RZ] |N/A (key=59348407) |RZ |76900264 (0x049567A8) |$124,000 |397 |270.0
-|xref:cars/35258485-supra-fnf.adoc[N/A (key=59348407) RZ Fast and Furious] |N/A (key=59348407) |RZ Fast and Furious |74900264 (0x0476E328) |$394,000 |544 |305.0
-|xref:cars/78542456-supra-fnfroof.adoc[N/A (key=59348407) RZ Fast and Furious] |N/A (key=59348407) |RZ Fast and Furious |74900264 (0x0476E328) |$394,000 |544 |305.0
-|xref:cars/46137808-supra-rz.adoc[N/A (key=59348407) RZ] |N/A (key=59348407) |RZ |77900264 (0x04A4A9E8) |$44,000 |276 |275.0
-|xref:cars/93648321-supra-fnf.adoc[N/A (key=59348407) RZ Fast and Furious] |N/A (key=59348407) |RZ Fast and Furious |74900264 (0x0476E328) |$394,000 |544 |305.0
+|xref:cars/1244034708-solstice.adoc[GT86 ??] |GT86 |?? |78900264 (0x04B3EC28) |$23,500 |197 |252.0
+|xref:cars/6000270474-gt86-spo.adoc[GT86 ??] |GT86 |?? |78900264 (0x04B3EC28) |$24,000 |197 |252.0
+|xref:cars/6000270832-gt86-rb.adoc[GT86 Rocket Bunny] |GT86 |Rocket Bunny |74900264 (0x0476E328) |$288,500 |545 |335.0
+|xref:cars/6000270833-gt86-rbstance.adoc[GT86 Rocket Bunny] |GT86 |Rocket Bunny |74900264 (0x0476E328) |$288,500 |545 |335.0
+|xref:cars/6000270834-gt86-li.adoc[GT86 Rocket Bunny] |GT86 |Rocket Bunny |74900264 (0x0476E328) |$288,500 |545 |335.0
+|xref:cars/6000270835-gt86-listance.adoc[GT86 Rocket Bunny] |GT86 |Rocket Bunny |74900264 (0x0476E328) |$288,500 |545 |335.0
+|xref:cars/6000270837-mr2-sw20.adoc[MR2 GT (SW20)] |MR2 |GT (SW20) |77900264 (0x04A4A9E8) |$27,500 |242 |238.0
 |xref:cars/6000270481-supra-a70.adoc[Supra Turbo (A70)] |Supra Turbo |(A70) |78900264 (0x04B3EC28) |$29,300 |236 |238.0
+|xref:cars/1204318124-supra.adoc[Supra RZ] |Supra |RZ |77900264 (0x04A4A9E8) |$44,000 |276 |275.0
+|xref:cars/6000270405-supra-spo.adoc[Supra RZ] |Supra |RZ |77900264 (0x04A4A9E8) |$44,500 |276 |275.0
+|xref:cars/6000270406-supra-toms.adoc[Supra RZ] |Supra |RZ |76900264 (0x049567A8) |$124,000 |397 |270.0
+|xref:cars/6000270607-supra-abflug.adoc[Supra RZ Abflug S900 ] |Supra |RZ Abflug S900  |73900264 (0x0467A0E8) |$244,000 |800 |345.0
+|xref:cars/6000270608-supra-drift.adoc[Supra RZ D1GP] |Supra |RZ D1GP |76900264 (0x049567A8) |$114,000 |475 |210.0
+|xref:cars/6000270609-supra-furious.adoc[Supra RZ Furious 7] |Supra |RZ Furious 7 |76900264 (0x049567A8) |$134,000 |397 |270.0
+|xref:cars/6000270610-supra-tom.adoc[Supra RZ Tom H's White Beast] |Supra |RZ Tom H's White Beast |75900264 (0x04862568) |$179,000 |426 |285.0
+|xref:cars/6000270836-supra-trd.adoc[Supra RZ TRD E-Design] |Supra |RZ TRD E-Design |75900264 (0x04862568) |$179,000 |426 |285.0
+|xref:cars/95894395-suprarz-trd.adoc[Supra RZ] |Supra |RZ |76900264 (0x049567A8) |$124,000 |397 |270.0
+|xref:cars/35258485-supra-fnf.adoc[Supra RZ Fast and Furious] |Supra |RZ Fast and Furious |74900264 (0x0476E328) |$394,000 |544 |305.0
+|xref:cars/78542456-supra-fnfroof.adoc[Supra RZ Fast and Furious] |Supra |RZ Fast and Furious |74900264 (0x0476E328) |$394,000 |544 |305.0
+|xref:cars/46137808-supra.adoc[Supra RZ] |Supra |RZ |77900264 (0x04A4A9E8) |$44,000 |276 |275.0
+|xref:cars/93648321-supra-fnf.adoc[Supra RZ Fast and Furious] |Supra |RZ Fast and Furious |74900264 (0x0476E328) |$394,000 |544 |305.0
 |===
 

@@ -1,6 +1,6 @@
-= Alfa Romeo - N/A (key=54933407) 3.2 V6 JTS Q4 Sky View
+= Alfa Romeo - Brera 3.2 V6 JTS Q4 Sky View
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/637314272-alfa-brera.adoc[]

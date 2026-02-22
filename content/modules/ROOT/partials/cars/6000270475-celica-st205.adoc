@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$32,000
 |Car Name |Celica GT-Four
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Celica_ST205
 |Model |Celica
 |Version |GT-Four (ST205)
@@ -69,7 +69,7 @@
 |Height (mm) |1305
 |Wheelbase (mm) |2535
 |Weight (kg) |1390
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

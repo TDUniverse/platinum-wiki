@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$85,100
 |Car Name |RX-7 (FD3S)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |FD3S_C2
 |Model |RX-7
 |Version |FD3S C-2
@@ -70,7 +70,7 @@
 |Height (mm) |1230
 |Wheelbase (mm) |2425
 |Weight (kg) |1080
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

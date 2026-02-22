@@ -15,9 +15,9 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$65,000
 |Car Name |SL-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |SL_500
-|Model |N/A (key=60738407)
+|Model |SL
 |Version |500
 |===
 
@@ -68,7 +68,7 @@
 |Height (mm) |1303
 |Wheelbase (mm) |2515
 |Weight (kg) |1800
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

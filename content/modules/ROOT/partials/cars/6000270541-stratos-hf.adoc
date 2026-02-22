@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7038357-stratos-coupe-n-a-key-15090449
+:page-aliases: lancia-stratos-coupe-hf-stradale
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270541
-|Brand |xref:brands/739.adoc[N/A (key=7038357)]
+|Brand |xref:brands/739.adoc[Lancia]
 |Group |79900264 (0x04C32E68)
 |Price |$375,000
 |Car Name |Stratos Coupe
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Stratos_HF
 |Model |Stratos
 |Version |HF Stradale
@@ -69,7 +69,7 @@
 |Height (mm) |1110
 |Wheelbase (mm) |2180
 |Weight (kg) |980
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

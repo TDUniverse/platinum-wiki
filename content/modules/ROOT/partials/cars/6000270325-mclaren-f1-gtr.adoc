@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mclaren-n-a-key-58938407-n-a-key-56933427
+:page-aliases: mclaren-f1-gtr
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/85793347.adoc[Mclaren]
 |Group |73900264 (0x0467A0E8)
 |Price |$1,500,000
-|Car Name |N/A (key=58938407)
-|Real Name |N/A (key=53338427)
+|Car Name |F1
+|Real Name |??
 |File Name |McLaren_F1_GTR
-|Model |N/A (key=58938407)
-|Version |N/A (key=56933427)
+|Model |F1
+|Version |GTR
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1090
 |Wheelbase (mm) |2718
 |Weight (kg) |1012
-|Number of Seats |N/A (key=54533427)
+|Number of Seats |1
 |===
 
 //end::dimensions[]

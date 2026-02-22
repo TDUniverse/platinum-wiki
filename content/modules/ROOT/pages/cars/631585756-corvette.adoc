@@ -1,6 +1,0 @@
-= Chevrolet - Corvette C2 Stingray 427
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/631585756-corvette.adoc[]

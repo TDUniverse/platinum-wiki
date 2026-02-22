@@ -1,0 +1,6 @@
+= Mercedes-Benz - CLS 63 AMG S 4MATIC
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/592136555-cls-55-amg.adoc[]

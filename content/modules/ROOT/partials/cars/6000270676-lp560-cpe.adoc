@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$195,900
 |Car Name |Gallardo LP560
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |LP560_Cpe
-|Model |N/A (key=57338407)
+|Model |Gallardo
 |Version |LP560-4 Coupe
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1165
 |Wheelbase (mm) |2560
 |Weight (kg) |1500
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

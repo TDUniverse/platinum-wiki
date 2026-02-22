@@ -1,6 +1,6 @@
 = Mazda - RX-7 Type-R Fast 'n' Furious
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/37772439-fd3s-fnf.adoc[]

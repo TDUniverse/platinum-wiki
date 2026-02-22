@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-4-series-m4-f82-lb-livery
+:page-aliases: bmw-4-series-m4-f82-lb-livery
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270733
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |73900264 (0x0467A0E8)
 |Price |$355,000
 |Car Name |4-Series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |F82_LB
 |Model |M4
 |Version |F82 Liberty Walk
@@ -71,7 +71,7 @@
 |Height (mm) |1383
 |Wheelbase (mm) |2812
 |Weight (kg) |1515
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

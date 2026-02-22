@@ -1,6 +1,0 @@
-= Audi - N/A (key=62338407) 3.2 quattro
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/1096032410-car.adoc[]

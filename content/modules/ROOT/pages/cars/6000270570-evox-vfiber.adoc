@@ -1,6 +1,6 @@
-= Mitsubishi - N/A (key=58448407) Evolution X VFiber M-Speed
+= Mitsubishi - Lancer Evolution X VFiber M-Speed
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270570-evox-vfiber.adoc[]

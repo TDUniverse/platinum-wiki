@@ -1,6 +1,6 @@
-= Audi - N/A (key=53483667) S-Tronic quattro (B8)
+= Audi - S4 S-Tronic quattro (B8)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/5924263246-audi-s4.adoc[]

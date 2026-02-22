@@ -1,6 +1,0 @@
-= Alfa Romeo - N/A (key=54638407) V6 24v
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/63518960-car.adoc[]

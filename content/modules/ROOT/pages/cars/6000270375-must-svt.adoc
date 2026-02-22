@@ -1,6 +1,6 @@
-= Ford - N/A (key=61038407) SVT Cobra R
+= Ford - Mustang SVT Cobra R
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270375-must-svt.adoc[]

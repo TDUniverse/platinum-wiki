@@ -1,5 +1,3 @@
-:page-aliases: tduplat
-
 == Identity
 [cols="1,1",options="header"]
 |===

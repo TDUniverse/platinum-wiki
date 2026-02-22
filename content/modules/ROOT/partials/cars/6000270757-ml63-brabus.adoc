@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$382,000
 |Car Name |ML-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |ML63_Brabus
 |Model |ML
 |Version |63 Biturbo Widestar
@@ -71,7 +71,7 @@
 |Height (mm) |1863
 |Wheelbase (mm) |2915
 |Weight (kg) |2310
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$160,000
 |Car Name |Viper GTS-R
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |viper_gtsr
-|Model |N/A (key=58238407)
+|Model |Viper
 |Version |GTS-R
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1184
 |Wheelbase (mm) |2443
 |Weight (kg) |1463
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

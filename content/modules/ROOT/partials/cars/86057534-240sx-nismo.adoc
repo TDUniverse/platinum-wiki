@@ -15,10 +15,10 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$49,800
 |Car Name |240SX SE
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |240SX_Nismo
 |Model |240SX
-|Version |N/A (key=54033427)
+|Version |SE
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1290
 |Wheelbase (mm) |2475
 |Weight (kg) |1266
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,10 +15,10 @@
 |Group |92900264 (0x05898BA8)
 |Price |$250,000
 |Car Name |DEFAULTBIKE
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Default_Bike
-|Model |N/A (key=53338427)
-|Version |N/A (key=53338427)
+|Model |??
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1176
 |Wheelbase (mm) |1398
 |Weight (kg) |200
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

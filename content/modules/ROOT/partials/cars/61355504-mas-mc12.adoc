@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: maserati-n-a-key-61538407-stradale
+:page-aliases: maserati-mc12-stradale
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/898027.adoc[Maserati]
 |Group |73900264 (0x0467A0E8)
 |Price |$1,350,000
-|Car Name |N/A (key=61538407)
-|Real Name |N/A (key=53338427)
+|Car Name |MC12
+|Real Name |??
 |File Name |Mas_MC12
-|Model |N/A (key=61538407)
+|Model |MC12
 |Version |Stradale
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1205
 |Wheelbase (mm) |2800
 |Weight (kg) |1531
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

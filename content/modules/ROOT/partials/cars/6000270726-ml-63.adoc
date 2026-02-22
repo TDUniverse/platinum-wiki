@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$142,000
 |Car Name |ML-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |ML_63
 |Model |ML
 |Version |63 AMG
@@ -71,7 +71,7 @@
 |Height (mm) |1863
 |Wheelbase (mm) |2915
 |Weight (kg) |2235
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

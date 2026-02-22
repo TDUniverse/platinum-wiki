@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-56238407-daytona-426-hemi
+:page-aliases: dodge-charger-daytona-426-hemi
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |79900264 (0x04C32E68)
 |Price |$313,500
-|Car Name |N/A (key=56238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Charger
+|Real Name |??
 |File Name |Charger_Dayt
-|Model |N/A (key=56238407)
+|Model |Charger
 |Version |Daytona 426 Hemi
 |===
 
@@ -68,7 +68,7 @@
 |Height (mm) |1346
 |Wheelbase (mm) |2972
 |Weight (kg) |1900
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: audi-n-a-key-59338407-s4-sedan-v-rent
+:page-aliases: audi-a4-s4-sedan-v-rent
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/80715.adoc[Audi]
 |Group |77900264 (0x04A4A9E8)
 |Price |$55,000
-|Car Name |N/A (key=59338407)
-|Real Name |N/A (key=53338427)
+|Car Name |A4
+|Real Name |??
 |File Name |A4_S4
-|Model |N/A (key=53483667)
+|Model |S4
 |Version |quattro (B6)
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1415
 |Wheelbase (mm) |2651
 |Weight (kg) |1735
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

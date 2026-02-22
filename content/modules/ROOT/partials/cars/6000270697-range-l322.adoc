@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$125,000
 |Car Name |Range Rover 5.0
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Range_L322
 |Model |Range Rover
 |Version |Supercharged Autobiography
@@ -70,7 +70,7 @@
 |Height (mm) |1865
 |Wheelbase (mm) |2885
 |Weight (kg) |2735
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

@@ -1,0 +1,6 @@
+= Ferrari - 288 GTO ??
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/28068209-f288-gto.adoc[]

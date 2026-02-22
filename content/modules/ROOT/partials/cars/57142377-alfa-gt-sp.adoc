@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: alfa-romeo-n-a-key-54638407-sport-technical-kit
+:page-aliases: alfa-romeo-gt-sport-technical-kit
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/72825.adoc[Alfa Romeo]
 |Group |77900264 (0x04A4A9E8)
 |Price |$42,000
-|Car Name |N/A (key=54638407)
-|Real Name |N/A (key=53338427)
+|Car Name |GT
+|Real Name |??
 |File Name |Alfa_GT_SP
-|Model |N/A (key=54638407)
+|Model |GT
 |Version |3.2 V6 24v Sport Technical Kit
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1355
 |Wheelbase (mm) |2596
 |Weight (kg) |1410
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |911
-|Manufacturer ID |N/A (key=54838337)
+|Manufacturer ID |YAM
 |Manufacturer Name |Yamaha
-|Logo File |N/A (key=54838337)
+|Logo File |YAM
 |Number of Cars |0
 |===
 

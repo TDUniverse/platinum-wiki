@@ -1,6 +1,6 @@
-= Toyota - N/A (key=59348407) RZ Furious 7
+= Toyota - Supra RZ Furious 7
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270609-supra-furious.adoc[]

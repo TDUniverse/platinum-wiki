@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$347,000
 |Car Name |S-Klasse (W109)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |300SEL_AMG
 |Model |300 SEL
 |Version |6.8 AMG
@@ -68,7 +68,7 @@
 |Height (mm) |1320
 |Wheelbase (mm) |2865
 |Weight (kg) |1635
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

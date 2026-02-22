@@ -15,10 +15,10 @@
 |Group |76900264 (0x049567A8)
 |Price |$71,000
 |Car Name |Silvia (S15)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |S15_Autech
 |Model |Silvia
-|Version |N/A (key=15088605)
+|Version |Spec-R Aero
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2525
 |Weight (kg) |1307
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

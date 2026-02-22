@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |908
-|Manufacturer ID |N/A (key=62538337)
+|Manufacturer ID |MITSU
 |Manufacturer Name |Mitsubishi
-|Logo File |N/A (key=62538337)
+|Logo File |MITSU
 |Number of Cars |28
 |===
 
@@ -13,33 +13,33 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270758-eclipse-gsx.adoc[N/A (key=57448407) GSX] |N/A (key=57448407) |GSX |78900264 (0x04B3EC28) |$25,500 |210 |218.0
-|xref:cars/6000270759-eclipsegsx-blitz.adoc[N/A (key=57448407) GSX Blitz] |N/A (key=57448407) |GSX Blitz |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
-|xref:cars/6000270762-eclipsegsx-bomex.adoc[N/A (key=57448407) GSX Bomex] |N/A (key=57448407) |GSX Bomex |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
-|xref:cars/6000270763-eclipsegsx-invader.adoc[N/A (key=57448407) GSX Invader] |N/A (key=57448407) |GSX Invader |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
-|xref:cars/6000270764-eclipsegsx-kaminari.adoc[N/A (key=57448407) GSX Kaminari] |N/A (key=57448407) |GSX Kaminari |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
-|xref:cars/6000270765-eclipsegsx-talon.adoc[N/A (key=57448407) GSX Talon XGT] |N/A (key=57448407) |GSX Talon XGT |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
-|xref:cars/6000270760-eclipse-gts.adoc[N/A (key=57448407) N/A (key=62938407)] |N/A (key=57448407) |N/A (key=62938407) |78900264 (0x04B3EC28) |$23,450 |210 |234.0
-|xref:cars/6000270766-eclipsegts-bomex.adoc[N/A (key=57448407) GTS Bomex] |N/A (key=57448407) |GTS Bomex |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
-|xref:cars/6000270768-eclipsegts-razzi.adoc[N/A (key=57448407) GTS Razzi] |N/A (key=57448407) |GTS Razzi |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
-|xref:cars/6000270769-eclipsegts-shine.adoc[N/A (key=57448407) GTS Shine Street] |N/A (key=57448407) |GTS Shine Street |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
-|xref:cars/6000270770-eclipsegts-vis.adoc[N/A (key=57448407) GTS ViS Racing] |N/A (key=57448407) |GTS ViS Racing |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
-|xref:cars/6000270771-eclipsegts-wings.adoc[N/A (key=57448407) GTS Wings West] |N/A (key=57448407) |GTS Wings West |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
+|xref:cars/6000270758-eclipse-gsx.adoc[Eclipse GSX] |Eclipse |GSX |78900264 (0x04B3EC28) |$25,500 |210 |218.0
+|xref:cars/6000270759-eclipsegsx-blitz.adoc[Eclipse GSX Blitz] |Eclipse |GSX Blitz |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
+|xref:cars/6000270762-eclipsegsx-bomex.adoc[Eclipse GSX Bomex] |Eclipse |GSX Bomex |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
+|xref:cars/6000270763-eclipsegsx-invader.adoc[Eclipse GSX Invader] |Eclipse |GSX Invader |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
+|xref:cars/6000270764-eclipsegsx-kaminari.adoc[Eclipse GSX Kaminari] |Eclipse |GSX Kaminari |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
+|xref:cars/6000270765-eclipsegsx-talon.adoc[Eclipse GSX Talon XGT] |Eclipse |GSX Talon XGT |77900264 (0x04A4A9E8) |$45,000 |285 |265.0
+|xref:cars/6000270760-eclipse-gts.adoc[Eclipse GTS] |Eclipse |GTS |78900264 (0x04B3EC28) |$23,450 |210 |234.0
+|xref:cars/6000270766-eclipsegts-bomex.adoc[Eclipse GTS Bomex] |Eclipse |GTS Bomex |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
+|xref:cars/6000270768-eclipsegts-razzi.adoc[Eclipse GTS Razzi] |Eclipse |GTS Razzi |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
+|xref:cars/6000270769-eclipsegts-shine.adoc[Eclipse GTS Shine Street] |Eclipse |GTS Shine Street |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
+|xref:cars/6000270770-eclipsegts-vis.adoc[Eclipse GTS ViS Racing] |Eclipse |GTS ViS Racing |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
+|xref:cars/6000270771-eclipsegts-wings.adoc[Eclipse GTS Wings West] |Eclipse |GTS Wings West |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
 |xref:cars/6000270761-3000-gt.adoc[GTO Twin Turbo] |GTO |Twin Turbo |77900264 (0x04A4A9E8) |$47,200 |276 |329.0
 |xref:cars/78135718-3000-gt.adoc[GTO Twin Turbo] |GTO |Twin Turbo |76900264 (0x049567A8) |$134,700 |403 |272.0
 |xref:cars/70363250-3000-gt.adoc[GTO Twin Turbo] |GTO |Twin Turbo |77900264 (0x04A4A9E8) |$47,200 |276 |329.0
-|xref:cars/59142377-lancer.adoc[N/A (key=58448407) Evolution X GSR Premium] |N/A (key=58448407) |Evolution X GSR Premium |77900264 (0x04A4A9E8) |$52,000 |296 |249.0
-|xref:cars/6000270422-evo-9.adoc[N/A (key=58448407) Evolution IX MR] |N/A (key=58448407) |Evolution IX MR |77900264 (0x04A4A9E8) |$48,500 |286 |242.0
-|xref:cars/6000270423-evo-8.adoc[N/A (key=58448407) Evolution VIII MR] |N/A (key=58448407) |Evolution VIII MR |77900264 (0x04A4A9E8) |$48,000 |276 |242.0
-|xref:cars/6000270424-evo-6.adoc[N/A (key=58448407) Evolution VI GSR] |N/A (key=58448407) |Evolution VI GSR |77900264 (0x04A4A9E8) |$42,500 |276 |221.0
-|xref:cars/6000270566-evo9-gspeed.adoc[N/A (key=58448407) Evolution IX MR G-Speed] |N/A (key=58448407) |Evolution IX MR G-Speed |76900264 (0x049567A8) |$84,000 |352 |280.0
-|xref:cars/6000270567-evo9-tracer.adoc[N/A (key=58448407) Evolution IX MR Tracer] |N/A (key=58448407) |Evolution IX MR Tracer |76900264 (0x049567A8) |$84,000 |352 |280.0
-|xref:cars/6000270568-evo9-walker.adoc[N/A (key=58448407) Evolution IX MR Walker] |N/A (key=58448407) |Evolution IX MR Walker |76900264 (0x049567A8) |$70,000 |352 |280.0
-|xref:cars/6000270767-evo8-timeatk.adoc[N/A (key=58448407) Evolution VIII MR Time Attack] |N/A (key=58448407) |Evolution VIII MR Time Attack |76900264 (0x049567A8) |$78,000 |345 |270.0
-|xref:cars/45790049-lancer.adoc[N/A (key=58448407) Evolution X GSR Premium] |N/A (key=58448407) |Evolution X GSR Premium |77900264 (0x04A4A9E8) |$52,000 |296 |249.0
-|xref:cars/27889482-evo-6.adoc[N/A (key=58448407) Evolution VI GSR] |N/A (key=58448407) |Evolution VI GSR |77900264 (0x04A4A9E8) |$42,500 |276 |221.0
+|xref:cars/59142377-lancer.adoc[Lancer Evolution X GSR Premium] |Lancer |Evolution X GSR Premium |77900264 (0x04A4A9E8) |$52,000 |296 |249.0
+|xref:cars/6000270422-evo-9.adoc[Lancer Evolution IX MR] |Lancer |Evolution IX MR |77900264 (0x04A4A9E8) |$48,500 |286 |242.0
+|xref:cars/6000270423-evo-8.adoc[Lancer Evolution VIII MR] |Lancer |Evolution VIII MR |77900264 (0x04A4A9E8) |$48,000 |276 |242.0
+|xref:cars/6000270424-evo-6.adoc[Lancer Evolution VI GSR] |Lancer |Evolution VI GSR |77900264 (0x04A4A9E8) |$42,500 |276 |221.0
+|xref:cars/6000270566-evo9-gspeed.adoc[Lancer Evolution IX MR G-Speed] |Lancer |Evolution IX MR G-Speed |76900264 (0x049567A8) |$84,000 |352 |280.0
+|xref:cars/6000270567-evo9-tracer.adoc[Lancer Evolution IX MR Tracer] |Lancer |Evolution IX MR Tracer |76900264 (0x049567A8) |$84,000 |352 |280.0
+|xref:cars/6000270568-evo9-walker.adoc[Lancer Evolution IX MR Walker] |Lancer |Evolution IX MR Walker |76900264 (0x049567A8) |$70,000 |352 |280.0
+|xref:cars/6000270569-evox-oem.adoc[Lancer Evolution X OEM] |Lancer |Evolution X OEM |76900264 (0x049567A8) |$99,000 |357 |285.0
+|xref:cars/6000270570-evox-vfiber.adoc[Lancer Evolution X VFiber M-Speed] |Lancer |Evolution X VFiber M-Speed |76900264 (0x049567A8) |$99,000 |357 |285.0
+|xref:cars/6000270767-evo8-timeatk.adoc[Lancer Evolution VIII MR Time Attack] |Lancer |Evolution VIII MR Time Attack |76900264 (0x049567A8) |$78,000 |345 |270.0
+|xref:cars/45790049-lancer.adoc[Lancer Evolution X GSR Premium] |Lancer |Evolution X GSR Premium |77900264 (0x04A4A9E8) |$52,000 |296 |249.0
+|xref:cars/27889482-evo-6.adoc[Lancer Evolution VI GSR] |Lancer |Evolution VI GSR |77900264 (0x04A4A9E8) |$42,500 |276 |221.0
 |xref:cars/6000270425-starion-gt.adoc[Starion ESI-R] |Starion |ESI-R |79900264 (0x04C32E68) |$23,700 |188 |213.0
-|xref:cars/6000270569-evox-oem.adoc[N/A (key=58448407) Evolution X OEM] |N/A (key=58448407) |Evolution X OEM |76900264 (0x049567A8) |$99,000 |357 |285.0
-|xref:cars/6000270570-evox-vfiber.adoc[N/A (key=58448407) Evolution X VFiber M-Speed] |N/A (key=58448407) |Evolution X VFiber M-Speed |76900264 (0x049567A8) |$99,000 |357 |285.0
 |===
 

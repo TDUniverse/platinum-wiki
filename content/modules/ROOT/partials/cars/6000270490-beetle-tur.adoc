@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$31,750
 |Car Name |New
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Beetle_Tur
 |Model |New Beetle
 |Version |Turbo S
@@ -70,7 +70,7 @@
 |Height (mm) |1498
 |Wheelbase (mm) |2515
 |Weight (kg) |1366
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

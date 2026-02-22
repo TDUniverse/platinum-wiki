@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$53,000
 |Car Name |Mustang (Mk5-II)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |S281_Conv
-|Model |N/A (key=61038407)
+|Model |Mustang
 |Version |Boss 302
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1400
 |Wheelbase (mm) |2720
 |Weight (kg) |1647
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

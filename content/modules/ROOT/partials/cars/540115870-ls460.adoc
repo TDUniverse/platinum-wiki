@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: lexus-n-a-key-62033407-460-l-xf40
+:page-aliases: lexus-ls-460-l-xf40
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/924566.adoc[Lexus]
 |Group |77900264 (0x04A4A9E8)
 |Price |$67,000
-|Car Name |N/A (key=62033407)
-|Real Name |N/A (key=53338427)
+|Car Name |LS
+|Real Name |??
 |File Name |LS460
-|Model |N/A (key=62033407)
+|Model |LS
 |Version |460 L
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1475
 |Wheelbase (mm) |3090
 |Weight (kg) |1965
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-5-series-m5-e34-spoiler
+:page-aliases: bmw-5-series-m5-e34-spoiler
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270631
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |77900264 (0x04A4A9E8)
 |Price |$97,500
 |Car Name |5-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |E34_Spo
 |Model |M5
 |Version |E34
@@ -70,7 +70,7 @@
 |Height (mm) |1392
 |Wheelbase (mm) |2761
 |Weight (kg) |1650
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

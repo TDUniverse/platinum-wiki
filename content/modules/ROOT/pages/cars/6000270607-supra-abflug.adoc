@@ -1,6 +1,6 @@
-= Toyota - N/A (key=59348407) RZ Abflug S900 
+= Toyota - Supra RZ Abflug S900 
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270607-supra-abflug.adoc[]

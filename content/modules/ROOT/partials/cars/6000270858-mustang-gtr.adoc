@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ford-mustang-mk5-n-a-key-56933427
+:page-aliases: ford-mustang-mk5-gtr
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,9 +15,9 @@
 |Group |75900264 (0x04862568)
 |Price |$405,000
 |Car Name |Mustang (Mk5)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mustang_GTR
-|Model |N/A (key=61038407)
+|Model |Mustang
 |Version |GT-R Concept
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1382
 |Wheelbase (mm) |2714
 |Weight (kg) |1300
-|Number of Seats |N/A (key=54533427)
+|Number of Seats |1
 |===
 
 //end::dimensions[]

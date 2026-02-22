@@ -15,10 +15,10 @@
 |Group |79900264 (0x04C32E68)
 |Price |$160,000
 |Car Name |GT 500
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Shelb_GT500
 |Model |GT500
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]

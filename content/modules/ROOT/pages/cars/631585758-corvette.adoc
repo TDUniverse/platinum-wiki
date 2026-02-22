@@ -1,6 +1,0 @@
-= Chevrolet - Corvette® C1 1957
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/631585758-corvette.adoc[]

@@ -1,5 +1,3 @@
-:page-aliases: kit-varis
-
 == Identity
 [cols="1,1",options="header"]
 |===

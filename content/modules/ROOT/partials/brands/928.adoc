@@ -1,12 +1,10 @@
-:page-aliases: alpine
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |928
 |Manufacturer ID |Alpine
-|Manufacturer Name |N/A (key=7058357)
+|Manufacturer Name |Alpine
 |Logo File |Alpine
 |Number of Cars |2
 |===
@@ -16,6 +14,6 @@
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
 |xref:cars/5924263242-a110.adoc[A110 1600S] |A110 |1600S |79900264 (0x04C32E68) |$65,000 |136 |193.0
-|xref:cars/6000270644-gta-lm.adoc[GTA N/A (key=53438407)] |GTA |N/A (key=53438407) |78900264 (0x04B3EC28) |$44,500 |182 |231.0
+|xref:cars/6000270644-gta-lm.adoc[GTA Le Mans] |GTA |Le Mans |78900264 (0x04B3EC28) |$44,500 |182 |231.0
 |===
 

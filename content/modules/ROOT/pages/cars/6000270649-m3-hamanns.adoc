@@ -1,6 +1,6 @@
-= N/A (key=6138357) - M3 E92 Hamann Sportkit HM/M
+= BMW - M3 E92 Hamann Sportkit HM/M
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270649-m3-hamanns.adoc[]

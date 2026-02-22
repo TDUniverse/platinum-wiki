@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |755
-|Manufacturer ID |N/A (key=71938337)
+|Manufacturer ID |Hummer
 |Manufacturer Name |Hummer
-|Logo File |N/A (key=71938337)
+|Logo File |Hummer
 |Number of Cars |0
 |===
 

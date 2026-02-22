@@ -1,5 +1,3 @@
-:page-aliases: kit-hb-ballistix
-
 == Identity
 [cols="1,1",options="header"]
 |===

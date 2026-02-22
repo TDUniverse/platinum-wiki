@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$77,250
 |Car Name |Giulia
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Giulia_QV
 |Model |Giulia
 |Version |Quadrifoglio
@@ -70,7 +70,7 @@
 |Height (mm) |1426
 |Wheelbase (mm) |2820
 |Weight (kg) |1595
-|Number of Seats |N/A (key=56338408)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

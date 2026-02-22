@@ -1,6 +1,6 @@
-= Mercedes-Benz - N/A (key=53838407) GTR Super Sport
+= Mercedes-Benz - CLK GTR Super Sport
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/86138792-clkss-lm.adoc[]

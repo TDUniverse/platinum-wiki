@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |906
-|Manufacturer ID |N/A (key=61438337)
+|Manufacturer ID |INF
 |Manufacturer Name |Infiniti
-|Logo File |N/A (key=61438337)
+|Logo File |INF
 |Number of Cars |2
 |===
 

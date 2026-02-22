@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-58238407-coupe
+:page-aliases: dodge-viper-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |74900264 (0x0476E328)
 |Price |$87,000
-|Car Name |N/A (key=58238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Viper
+|Real Name |??
 |File Name |Viper_Cpe
-|Model |N/A (key=58238407)
+|Model |Viper
 |Version |SRT10 Coupe
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1234
 |Wheelbase (mm) |2510
 |Weight (kg) |1546
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

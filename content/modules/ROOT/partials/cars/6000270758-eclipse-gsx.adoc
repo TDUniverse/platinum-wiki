@@ -15,9 +15,9 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$25,500
 |Car Name |Eclipse (2G)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Eclipse_GSX
-|Model |N/A (key=57448407)
+|Model |Eclipse
 |Version |GSX
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1311
 |Wheelbase (mm) |2510
 |Weight (kg) |1415
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

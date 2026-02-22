@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |912618
-|Manufacturer ID |N/A (key=58738337)
+|Manufacturer ID |DUCAT
 |Manufacturer Name |Ducati
-|Logo File |N/A (key=58738337)
+|Logo File |DUCAT
 |Number of Cars |3
 |===
 
@@ -13,8 +13,8 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/615195554-car.adoc[N/A (key=58633407) N/A (key=54548407)] |N/A (key=58633407) |N/A (key=54548407) |77800264 (0x04A32348) |$13,500 |117 |240.0
-|xref:cars/88334891-duca-999r.adoc[N/A (key=53548407) N/A (key=54633427)] |N/A (key=53548407) |N/A (key=54633427) |76800264 (0x0493E108) |$31,450 |145 |280.0
 |xref:cars/903336930-duca-ds.adoc[Supersport 1000 DS] |Supersport |1000 DS |77800264 (0x04A32348) |$14,800 |95 |267.0
+|xref:cars/88334891-duca-999r.adoc[999 R] |999 |R |76800264 (0x0493E108) |$31,450 |145 |280.0
+|xref:cars/615195554-duca-s4r.adoc[Monster S4R] |Monster |S4R |77800264 (0x04A32348) |$13,500 |117 |240.0
 |===
 

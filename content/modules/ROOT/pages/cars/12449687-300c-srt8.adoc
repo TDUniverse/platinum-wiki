@@ -1,6 +1,6 @@
-= Chrysler - N/A (key=59733407) SRT8 (LD)
+= Chrysler - 300C SRT8 (LD)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/12449687-300c-srt8.adoc[]

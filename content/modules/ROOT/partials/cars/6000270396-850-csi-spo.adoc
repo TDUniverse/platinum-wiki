@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-8-series-850csi-spoiler
+:page-aliases: bmw-8-series-850csi-spoiler
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,13 +11,13 @@
 |===
 |Field |Value
 |ID |6000270396
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |76900264 (0x049567A8)
 |Price |$90,000
 |Car Name |8-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |850_csi_spo
-|Model |N/A (key=15088685)
+|Model |850
 |Version |csi
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1330
 |Wheelbase (mm) |2684
 |Weight (kg) |1865
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

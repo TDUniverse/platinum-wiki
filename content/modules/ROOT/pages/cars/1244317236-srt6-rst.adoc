@@ -1,0 +1,6 @@
+= Chrysler - Crossfire SRT6 Roadster
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/1244317236-srt6-rst.adoc[]

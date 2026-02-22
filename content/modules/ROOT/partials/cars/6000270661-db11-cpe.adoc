@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: aston-martin-db11-n-a-key-53338427
+:page-aliases: aston-martin-db11-item
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |74900264 (0x0476E328)
 |Price |$350,000
 |Car Name |DB11
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |DB11_Cpe
 |Model |DB11
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]

@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$455,000
 |Car Name |AMG GT R
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |AMG_GTR
 |Model |AMG
 |Version |GT R
@@ -71,7 +71,7 @@
 |Height (mm) |1284
 |Wheelbase (mm) |2630
 |Weight (kg) |1555
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

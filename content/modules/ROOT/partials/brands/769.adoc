@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |769
-|Manufacturer ID |N/A (key=73338337)
+|Manufacturer ID |Simca
 |Manufacturer Name |Simca
-|Logo File |N/A (key=73338337)
+|Logo File |Simca
 |Number of Cars |0
 |===
 

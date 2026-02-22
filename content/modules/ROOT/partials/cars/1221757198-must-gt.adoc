@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ford-n-a-key-61038407-coupe
+:page-aliases: ford-mustang-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/77060.adoc[Ford]
 |Group |77900264 (0x04A4A9E8)
 |Price |$25,000
-|Car Name |N/A (key=61038407)
-|Real Name |N/A (key=53338427)
+|Car Name |Mustang
+|Real Name |??
 |File Name |Must_GT
 |Model |Mustang GT
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1384
 |Wheelbase (mm) |2720
 |Weight (kg) |1587
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

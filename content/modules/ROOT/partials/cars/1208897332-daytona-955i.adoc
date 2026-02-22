@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: triumph-n-a-key-57648407-sportbike
+:page-aliases: triumph-955i-daytona-sportbike
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/80863204.adoc[Triumph]
 |Group |76800264 (0x0493E108)
 |Price |$11,500
-|Car Name |N/A (key=57648407)
-|Real Name |N/A (key=53338427)
+|Car Name |955i Daytona
+|Real Name |??
 |File Name |DAYTONA_955I
-|Model |N/A (key=53738407)
+|Model |Daytona
 |Version |995i
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1165
 |Wheelbase (mm) |1426
 |Weight (kg) |191
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$85,000
 |Car Name |Corvette
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |CORVET_Z06
 |Model |Corvette
 |Version |C7 Stingray Z51
@@ -71,7 +71,7 @@
 |Height (mm) |1235
 |Wheelbase (mm) |2710
 |Weight (kg) |1496
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

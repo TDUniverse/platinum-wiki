@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$114,000
 |Car Name |Supra RZ
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Supra_Drift
-|Model |N/A (key=59348407)
+|Model |Supra
 |Version |RZ D1GP
 |===
 

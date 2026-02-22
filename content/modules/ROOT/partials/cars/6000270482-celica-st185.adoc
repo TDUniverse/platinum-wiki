@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$27,500
 |Car Name |Celica GT-Four
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Celica_ST185
 |Model |Celica
 |Version |GT-Four RC (ST185)

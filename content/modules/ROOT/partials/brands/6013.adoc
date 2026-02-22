@@ -1,5 +1,3 @@
-:page-aliases: kit-r-magic
-
 == Identity
 [cols="1,1",options="header"]
 |===

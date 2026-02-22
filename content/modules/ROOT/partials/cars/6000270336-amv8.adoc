@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: aston-martin-vantage-coupe
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270336
+|Brand |xref:brands/868295.adoc[Aston Martin]
+|Group |74900264 (0x0476E328)
+|Price |$195,000
+|Car Name |Vantage
+|Real Name |??
+|File Name |AMV8
+|Model |Vantage
+|Version |Coupe
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |3982
+|Power (BHP) |503 bhp @ 6000 rpm
+|Torque (Nm) |685 Nm @ 2000 rpm
+|Redline (RPM) |7000
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |2.930
+|Number of Turbos |1
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.714
+|2 |3.143
+|3 |2.106
+|4 |1.667
+|5 |1.285
+|6 |1.000
+|7 |0.839
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1942
+|Length (mm) |4465
+|Height (mm) |1273
+|Wheelbase (mm) |2704
+|Weight (kg) |1630
+|Number of Seats |2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.80 s
+|0 - 100 mph (s) |8.30 s
+|Top Speed (km/h) |349.0 km/h
+|Braking 100–0 km/h (s) |120.00
+|Quarter Mile (s) |11.90 s
+|Grip Coefficient |1050
+|Overturning Coefficient |100
+|Handling |87
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/601056871.adoc[ASTON MARTIN (ECD_12A2_6605)]
+
+//end::available-shops[]

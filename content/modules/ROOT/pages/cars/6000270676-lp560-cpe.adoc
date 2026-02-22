@@ -1,6 +1,6 @@
-= Lamborghini - N/A (key=57338407) LP560-4 Coupe
+= Lamborghini - Gallardo LP560-4 Coupe
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270676-lp560-cpe.adoc[]

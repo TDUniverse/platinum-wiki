@@ -1,12 +1,10 @@
-:page-aliases: harley-davidson
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |825
 |Manufacturer ID |Harley Davidson
-|Manufacturer Name |N/A (key=7678357)
+|Manufacturer Name |Harley Davidson
 |Logo File |Harley Davidson
 |Number of Cars |0
 |===

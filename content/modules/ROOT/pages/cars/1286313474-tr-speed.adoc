@@ -1,6 +1,6 @@
-= Triumph - Speed Triple N/A (key=57356917)
+= Triumph - Speed Triple ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1286313474-tr-speed.adoc[]

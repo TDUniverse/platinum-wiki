@@ -1,6 +1,0 @@
-= Mercedes-Benz - N/A (key=60738407) N/A (key=56592366)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/1230253255-sl-klasse.adoc[]

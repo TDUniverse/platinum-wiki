@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$54,000
 |Car Name |Corvette
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |C5_Z06
 |Model |Corvette
 |Version |C5 Z06
@@ -70,7 +70,7 @@
 |Height (mm) |1212
 |Wheelbase (mm) |2654
 |Weight (kg) |1414
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

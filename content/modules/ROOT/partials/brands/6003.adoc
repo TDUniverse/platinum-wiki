@@ -1,5 +1,3 @@
-:page-aliases: mazda-tuner
-
 == Identity
 [cols="1,1",options="header"]
 |===

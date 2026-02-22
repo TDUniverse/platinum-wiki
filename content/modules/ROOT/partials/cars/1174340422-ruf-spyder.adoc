@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-57838337-n-a-key-54133407-n-a-key-61438427
+:page-aliases: ruf-rk-spider
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |1174340422
-|Brand |xref:brands/7932.adoc[N/A (key=57838337)]
+|Brand |xref:brands/7932.adoc[RUF]
 |Group |76900264 (0x049567A8)
 |Price |$200,000
-|Car Name |N/A (key=54133407)
-|Real Name |N/A (key=53338427)
+|Car Name |RK
+|Real Name |??
 |File Name |RUF_Spyder
-|Model |N/A (key=54133407)
-|Version |N/A (key=56993667)
+|Model |RK
+|Version |Spyder
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1115
 |Wheelbase (mm) |2377
 |Weight (kg) |1400
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

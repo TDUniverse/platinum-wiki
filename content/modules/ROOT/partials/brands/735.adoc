@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |735
-|Manufacturer ID |N/A (key=55338337)
-|Manufacturer Name |N/A (key=55338337)
-|Logo File |N/A (key=55338337)
+|Manufacturer ID |AC
+|Manufacturer Name |AC
+|Logo File |AC
 |Number of Cars |1
 |===
 
@@ -13,6 +13,6 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/632098801-ac-289.adoc[N/A (key=58538427) N/A (key=57356917)] |N/A (key=58538427) |N/A (key=57356917) |79900264 (0x04C32E68) |$100,000 |280 |201.0
+|xref:cars/632098801-ac-289.adoc[289 ??] |289 |?? |79900264 (0x04C32E68) |$100,000 |280 |201.0
 |===
 

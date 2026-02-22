@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-57838337-ctr2-993
+:page-aliases: ruf-ctr2-993
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |1289993715
-|Brand |xref:brands/7932.adoc[N/A (key=57838337)]
+|Brand |xref:brands/7932.adoc[RUF]
 |Group |74900264 (0x0476E328)
 |Price |$297,110
 |Car Name |CTR2
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |A4_DTM
 |Model |CTR2
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1300
 |Wheelbase (mm) |2271
 |Weight (kg) |1422
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,6 +1,0 @@
-= Noble - N/A (key=56038407) N/A (key=62533427)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/916575065-car.adoc[]

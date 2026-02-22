@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$447,000
 |Car Name |365
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |365_EU
 |Model |365
 |Version |GTB/4 Daytona
@@ -69,7 +69,7 @@
 |Height (mm) |1245
 |Wheelbase (mm) |2400
 |Weight (kg) |1600
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

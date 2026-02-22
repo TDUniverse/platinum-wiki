@@ -1,6 +1,6 @@
-= Chrysler - N/A (key=54238407) N/A (key=56603667)
+= Chrysler - Crossfire SRT6 Coupe
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1189317831-srt6-cpe.adoc[]

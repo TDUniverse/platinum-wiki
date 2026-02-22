@@ -1,6 +1,6 @@
-= Porsche - N/A (key=57638407) Targa 4S (991.2)
+= Porsche - 911 Targa 4S (991.2)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/18812022-991-t4s.adoc[]

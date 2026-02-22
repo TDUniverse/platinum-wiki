@@ -1,0 +1,6 @@
+= Alfa Romeo - 8C Competizione
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/96939458-8c.adoc[]

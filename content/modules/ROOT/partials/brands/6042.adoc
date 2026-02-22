@@ -1,5 +1,3 @@
-:page-aliases: kit-race
-
 == Identity
 [cols="1,1",options="header"]
 |===

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |903
-|Manufacturer ID |N/A (key=60338337)
+|Manufacturer ID |BENT
 |Manufacturer Name |Bentley
-|Logo File |N/A (key=60338337)
+|Logo File |BENT
 |Number of Cars |2
 |===
 
@@ -13,7 +13,7 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/1190174404-continental-mki.adoc[Continental SuperSports] |Continental |SuperSports |75900264 (0x04862568) |$370,000 |621 |315.0
+|xref:cars/1190174404-sixteen.adoc[Continental SuperSports] |Continental |SuperSports |75900264 (0x04862568) |$370,000 |621 |315.0
 |xref:cars/6000270793-cont-ss.adoc[Continental GT Supersports] |Continental |GT Supersports |74900264 (0x0476E328) |$450,000 |700 |322.0
 |===
 

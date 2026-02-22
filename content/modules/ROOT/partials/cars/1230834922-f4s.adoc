@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mv-agusta-n-a-key-62548407-sportbike
+:page-aliases: mv-agusta-1000-f4-s-sportbike
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/937.adoc[MV Agusta]
 |Group |76800264 (0x0493E108)
 |Price |$45,000
-|Car Name |N/A (key=62548407)
-|Real Name |N/A (key=53338427)
+|Car Name |1000 F4 S
+|Real Name |??
 |File Name |F4S
 |Model |F4
 |Version |Tamburini
@@ -70,7 +70,7 @@
 |Height (mm) |1124
 |Wheelbase (mm) |1382
 |Weight (kg) |187
-|Number of Seats |N/A (key=54533427)
+|Number of Seats |1
 |===
 
 //end::dimensions[]

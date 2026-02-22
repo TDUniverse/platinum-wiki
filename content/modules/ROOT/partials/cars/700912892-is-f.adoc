@@ -1,0 +1,106 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: lexus-is-f-xe20
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |700912892
+|Brand |xref:brands/924566.adoc[Lexus]
+|Group |76900264 (0x049567A8)
+|Price |$85,000
+|Car Name |IS
+|Real Name |??
+|File Name |IS_F
+|Model |IS-F
+|Version |??
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |4969
+|Power (BHP) |417 bhp @ 6600 rpm
+|Torque (Nm) |505 Nm @ 5200 rpm
+|Redline (RPM) |6800
+|Drive |55356917 (0x034CADF5)
+|Gearbox |563531 (0x0008994B)
+|Final Drive Ratio |2.937
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.596
+|2 |2.724
+|3 |1.863
+|4 |1.464
+|5 |1.231
+|6 |1.000
+|7 |0.824
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1815
+|Length (mm) |4660
+|Height (mm) |1415
+|Wheelbase (mm) |2730
+|Weight (kg) |1690
+|Number of Seats |4
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |4.60 s
+|0 - 100 mph (s) |10.40 s
+|Top Speed (km/h) |318.0 km/h
+|Braking 100–0 km/h (s) |125.00
+|Quarter Mile (s) |12.80 s
+|Grip Coefficient |1000
+|Overturning Coefficient |98
+|Handling |65
+|Sharpness Coefficient |98
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/555803712.adoc[LEXUS - TOYOTA (ECD_8J_2227)]
+
+//end::available-shops[]

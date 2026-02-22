@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-3-series-e46-gtr-most-wanted
+:page-aliases: bmw-3-series-e46-gtr-most-wanted
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270502
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |73900264 (0x0467A0E8)
 |Price |$380,000
 |Car Name |3-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |E46_MW
 |Model |M3
-|Version |N/A (key=56933427)
+|Version |GTR
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1372
 |Wheelbase (mm) |2731
 |Weight (kg) |1200
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

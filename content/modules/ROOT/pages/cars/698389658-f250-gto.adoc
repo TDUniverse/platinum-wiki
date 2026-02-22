@@ -1,0 +1,6 @@
+= Ferrari - 250 GTO ??
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/698389658-f250-gto.adoc[]

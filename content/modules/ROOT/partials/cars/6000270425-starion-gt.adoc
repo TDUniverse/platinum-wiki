@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mitsubishi-n-a-key-15090167-esi-r-coupe
+:page-aliases: mitsubishi-starion-esi-r-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/908.adoc[Mitsubishi]
 |Group |79900264 (0x04C32E68)
 |Price |$23,700
-|Car Name |N/A (key=15090167)
-|Real Name |N/A (key=53338427)
+|Car Name |Starion
+|Real Name |??
 |File Name |Starion_GT
 |Model |Starion
 |Version |ESI-R
@@ -69,7 +69,7 @@
 |Height (mm) |1275
 |Wheelbase (mm) |2435
 |Weight (kg) |1377
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,6 +1,6 @@
-= Audi - N/A (key=57338427) quattro (C5)
+= Audi - RS6 quattro (C5)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/538230904-a6-s6.adoc[]

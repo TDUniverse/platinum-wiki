@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-55738337-cerbera-speed-twelve
+:page-aliases: tvr-cerbera-speed-twelve
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,13 +11,13 @@
 |===
 |Field |Value
 |ID |6000270484
-|Brand |xref:brands/9144.adoc[N/A (key=55738337)]
+|Brand |xref:brands/9144.adoc[TVR]
 |Group |73900264 (0x0467A0E8)
 |Price |$744,000
 |Car Name |Cerbera
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Speed_12
-|Model |N/A (key=56938407)
+|Model |Cerbera
 |Version |Speed 12
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1100
 |Wheelbase (mm) |2642
 |Weight (kg) |1070
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

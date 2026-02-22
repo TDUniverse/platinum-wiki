@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |833
-|Manufacturer ID |N/A (key=77338337)
+|Manufacturer ID |Isuzu
 |Manufacturer Name |Isuzu
-|Logo File |N/A (key=77338337)
+|Logo File |Isuzu
 |Number of Cars |0
 |===
 

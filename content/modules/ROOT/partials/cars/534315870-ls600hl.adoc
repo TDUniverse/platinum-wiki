@@ -15,9 +15,9 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$70,000
 |Car Name |GS 350
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |LS600HL
-|Model |N/A (key=63033407)
+|Model |GS
 |Version |350 F-Sport
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1455
 |Wheelbase (mm) |2850
 |Weight (kg) |1721
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

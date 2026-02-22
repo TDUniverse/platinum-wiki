@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7098357-punto-evo-1-4-multiair-single-tip
+:page-aliases: fiat-punto-evo-1-4-multiair-single-tip
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |5551683162
-|Brand |xref:brands/745.adoc[N/A (key=7098357)]
+|Brand |xref:brands/745.adoc[Fiat]
 |Group |77900264 (0x04A4A9E8)
 |Price |$35,000
 |Car Name |Punto
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |punto_tur
 |Model |Punto
 |Version |Evo Sport 1.4 MultiAir
@@ -69,7 +69,7 @@
 |Height (mm) |1450
 |Wheelbase (mm) |2510
 |Weight (kg) |1015
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

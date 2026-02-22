@@ -1,6 +1,6 @@
-= N/A (key=6138357) - 2002 Turbo
+= BMW - 2002 Turbo
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270500-2002-turbo.adoc[]

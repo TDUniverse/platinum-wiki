@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-e46-m3-coupe
+:page-aliases: bmw-e46-m3-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270300
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |76900264 (0x049567A8)
 |Price |$80,000
 |Car Name |E46
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |M3_E46
 |Model |M3 E46
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1372
 |Wheelbase (mm) |2731
 |Weight (kg) |1495
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

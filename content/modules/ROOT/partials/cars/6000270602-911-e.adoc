@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: porsche-911-e-n-a-key-58538407
+:page-aliases: porsche-911-e-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,9 +15,9 @@
 |Group |79900264 (0x04C32E68)
 |Price |$53,200
 |Car Name |911 E
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |911_E
-|Model |N/A (key=57638407)
+|Model |911
 |Version |E
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1321
 |Wheelbase (mm) |2268
 |Weight (kg) |1077
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

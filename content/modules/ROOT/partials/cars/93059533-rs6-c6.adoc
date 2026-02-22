@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: audi-n-a-key-60338407-rs6-sedan-c6-black
+:page-aliases: audi-a6-rs6-sedan-c6-black
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/80715.adoc[Audi]
 |Group |75900264 (0x04862568)
 |Price |$190,000
-|Car Name |N/A (key=60338407)
-|Real Name |N/A (key=53338427)
+|Car Name |A6
+|Real Name |??
 |File Name |RS6_C6
 |Model |RS6
 |Version |quattro (C6)
@@ -70,7 +70,7 @@
 |Height (mm) |1456
 |Wheelbase (mm) |2846
 |Weight (kg) |1985
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

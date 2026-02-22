@@ -1,6 +1,6 @@
-= N/A (key=6138357) - M635csi N/A (key=57356917)
+= BMW - M635csi ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270338-m635.adoc[]

@@ -15,10 +15,10 @@
 |Group |75900264 (0x04862568)
 |Price |$98,000
 |Car Name |CTS
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |CTS_Cpe
 |Model |CTS-V
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1422
 |Wheelbase (mm) |2880
 |Weight (kg) |1909
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

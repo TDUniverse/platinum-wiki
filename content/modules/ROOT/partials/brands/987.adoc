@@ -1,12 +1,10 @@
-:page-aliases: iso
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |987
 |Manufacturer ID |Iso
-|Manufacturer Name |N/A (key=8678357)
+|Manufacturer Name |Iso
 |Logo File |Iso
 |Number of Cars |0
 |===

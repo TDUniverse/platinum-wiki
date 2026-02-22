@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-58238407-srt10-stripe
+:page-aliases: dodge-viper-srt10-stripe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |74900264 (0x0476E328)
 |Price |$85,000
-|Car Name |N/A (key=58238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Viper
+|Real Name |??
 |File Name |SRT10_Stripe
-|Model |N/A (key=58238407)
-|Version |N/A (key=56638427)
+|Model |Viper
+|Version |SRT10
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1210
 |Wheelbase (mm) |2510
 |Weight (kg) |1561
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

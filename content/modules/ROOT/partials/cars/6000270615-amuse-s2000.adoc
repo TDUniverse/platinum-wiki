@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: honda-n-a-key-56348407-ap1-powerhouse-amuse
+:page-aliases: honda-s2000-ap1-powerhouse-amuse
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/7853.adoc[Honda]
 |Group |74900264 (0x0476E328)
 |Price |$107,000
-|Car Name |N/A (key=56348407)
-|Real Name |N/A (key=53338427)
+|Car Name |S2000
+|Real Name |??
 |File Name |Amuse_S2000
 |Model |Amuse
 |Version |S2000 GT1
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2400
 |Weight (kg) |1180
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

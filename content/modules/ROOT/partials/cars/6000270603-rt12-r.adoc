@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-57838337-rt-12-r-coupe-997-2
+:page-aliases: ruf-rt-12-r-coupe-997-2
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270603
-|Brand |xref:brands/7932.adoc[N/A (key=57838337)]
+|Brand |xref:brands/7932.adoc[RUF]
 |Group |73900264 (0x0467A0E8)
 |Price |$425,000
 |Car Name |RT 12
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RT12_R
 |Model |RT
 |Version |12 R
@@ -70,7 +70,7 @@
 |Height (mm) |1300
 |Wheelbase (mm) |2350
 |Weight (kg) |1495
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

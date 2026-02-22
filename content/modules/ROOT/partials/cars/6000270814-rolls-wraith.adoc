@@ -15,10 +15,10 @@
 |Group |75900264 (0x04862568)
 |Price |$650,000
 |Car Name |Wraith
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Rolls_Wraith
 |Model |Wraith
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1507
 |Wheelbase (mm) |3112
 |Weight (kg) |2440
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

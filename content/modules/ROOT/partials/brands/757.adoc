@@ -1,12 +1,10 @@
-:page-aliases: mini
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |757
 |Manufacturer ID |Mini
-|Manufacturer Name |N/A (key=7218357)
+|Manufacturer Name |Mini
 |Logo File |Mini
 |Number of Cars |0
 |===

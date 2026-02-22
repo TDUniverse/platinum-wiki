@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |902
-|Manufacturer ID |N/A (key=58638337)
+|Manufacturer ID |PORSCHE
 |Manufacturer Name |Porsche
-|Logo File |N/A (key=58638337)
+|Logo File |PORSCHE
 |Number of Cars |55
 |===
 
@@ -13,9 +13,9 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270435-550-a.adoc[550 A N/A (key=56993667)] |550 A |N/A (key=56993667) |79900264 (0x04C32E68) |$547,000 |133 |201.0
-|xref:cars/6000270800-cayman-s.adoc[718 Cayman N/A (key=57738427)] |718 Cayman |N/A (key=57738427) |75900264 (0x04862568) |$115,000 |345 |397.0
-|xref:cars/60017205-cayman-s.adoc[718 Cayman N/A (key=57738427)] |718 Cayman |N/A (key=57738427) |75900264 (0x04862568) |$115,000 |345 |397.0
+|xref:cars/6000270435-550-a.adoc[550 A Spyder] |550 A |Spyder |79900264 (0x04C32E68) |$547,000 |133 |201.0
+|xref:cars/6000270800-cayman-s.adoc[718 Cayman S] |718 Cayman |S |75900264 (0x04862568) |$115,000 |345 |397.0
+|xref:cars/60017205-cayman-s.adoc[718 Cayman S] |718 Cayman |S |75900264 (0x04862568) |$115,000 |345 |397.0
 |xref:cars/6000270430-993-s.adoc[911 Carrera S (993)] |911 Carrera |S (993) |76900264 (0x049567A8) |$150,000 |281 |271.0
 |xref:cars/6000270433-993-wing.adoc[911 Carrera RAUH-Welt BEGRIFF (993)] |911 Carrera |RAUH-Welt BEGRIFF (993) |73900264 (0x0467A0E8) |$500,000 |830 |370.0
 |xref:cars/6000270434-rwb-wing.adoc[911 Carrera RAUH-Welt BEGRIFF (993)] |911 Carrera |RAUH-Welt BEGRIFF (993) |73900264 (0x0467A0E8) |$520,000 |830 |370.0
@@ -24,49 +24,49 @@
 |xref:cars/6000270440-911-black.adoc[911 Carrera 2.7 RS] |911 Carrera |2.7 RS |79900264 (0x04C32E68) |$135,000 |207 |238.0
 |xref:cars/6000270441-911-red.adoc[911 Carrera 2.7 RS] |911 Carrera |2.7 RS |79900264 (0x04C32E68) |$135,000 |207 |238.0
 |xref:cars/6000270442-911-blue.adoc[911 Carrera 2.7 RS] |911 Carrera |2.7 RS |79900264 (0x04C32E68) |$135,000 |207 |238.0
-|xref:cars/6000270805-991-carrera.adoc[N/A (key=57638407) Carrera S (991.2)] |N/A (key=57638407) |Carrera S (991.2) |75900264 (0x04862568) |$185,000 |414 |398.0
+|xref:cars/6000270805-991-carrera.adoc[911 Carrera S (991.2)] |911 |Carrera S (991.2) |75900264 (0x04862568) |$185,000 |414 |398.0
 |xref:cars/6000270812-911-green.adoc[911 Carrera 2.7 RS] |911 Carrera |2.7 RS |79900264 (0x04C32E68) |$135,000 |207 |238.0
 |xref:cars/6000270813-911-white.adoc[911 Carrera 2.7 RS] |911 Carrera |2.7 RS |79900264 (0x04C32E68) |$135,000 |207 |238.0
-|xref:cars/6000270602-911-e.adoc[N/A (key=57638407) E] |N/A (key=57638407) |E |79900264 (0x04C32E68) |$53,200 |163 |240.0
-|xref:cars/18360555-911-e.adoc[N/A (key=57638407) E] |N/A (key=57638407) |E |79900264 (0x04C32E68) |$53,200 |163 |240.0
-|xref:cars/6000270799-996-gt1.adoc[N/A (key=57638407) GT1 Straßenversion] |N/A (key=57638407) |GT1 Straßenversion |73900264 (0x0467A0E8) |$1,155,000 |537 |332.0
-|xref:cars/6000270448-997-gt2.adoc[N/A (key=57638407) GT2 (997)] |N/A (key=57638407) |GT2 (997) |74900264 (0x0476E328) |$330,000 |523 |316.0
-|xref:cars/6000270446-996-gt3.adoc[N/A (key=57638407) GT3 (996)] |N/A (key=57638407) |GT3 (996) |75900264 (0x04862568) |$240,000 |376 |304.0
-|xref:cars/6000270447-997-gt3.adoc[N/A (key=57638407) GT3 RS (997)] |N/A (key=57638407) |GT3 RS (997) |74900264 (0x0476E328) |$305,000 |409 |302.0
-|xref:cars/6000270449-991-gt3.adoc[N/A (key=57638407) GT3 RS (991)] |N/A (key=57638407) |GT3 RS (991) |73900264 (0x0467A0E8) |$430,000 |493 |329.0
-|xref:cars/6000270796-997gt3-base.adoc[N/A (key=57638407) GT3 (997)] |N/A (key=57638407) |GT3 (997) |75900264 (0x04862568) |$270,000 |409 |302.0
-|xref:cars/6000270797-997gt3-white.adoc[N/A (key=57638407) GT3 RS (997)] |N/A (key=57638407) |GT3 RS (997) |74900264 (0x0476E328) |$305,000 |409 |302.0
-|xref:cars/6000270798-997gt3-orange.adoc[N/A (key=57638407) GT3 RS (997)] |N/A (key=57638407) |GT3 RS (997) |74900264 (0x0476E328) |$305,000 |409 |302.0
-|xref:cars/6000270802-991gt3-base.adoc[N/A (key=57638407) GT3 (991)] |N/A (key=57638407) |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
-|xref:cars/6000270803-991gt3.adoc[N/A (key=57638407) GT3 (991)] |N/A (key=57638407) |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
-|xref:cars/86909434-991gt3.adoc[N/A (key=57638407) GT3 (991)] |N/A (key=57638407) |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
-|xref:cars/66749088-991gt3-base.adoc[N/A (key=57638407) GT3 (991)] |N/A (key=57638407) |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
-|xref:cars/6000270633-911-r.adoc[N/A (key=57638407) R (991)] |N/A (key=57638407) |R (991) |74900264 (0x0476E328) |$425,000 |493 |383.0
-|xref:cars/6000270436-964-sc.adoc[N/A (key=57638407) SC (930)] |N/A (key=57638407) |SC (930) |79900264 (0x04C32E68) |$88,000 |201 |237.0
-|xref:cars/74343455-991-targa.adoc[N/A (key=57638407) Targa 4S (991.2)] |N/A (key=57638407) |Targa 4S (991.2) |75900264 (0x04862568) |$237,000 |414 |404.0
-|xref:cars/18812022-991-t4s.adoc[N/A (key=57638407) Targa 4S (991.2)] |N/A (key=57638407) |Targa 4S (991.2) |75900264 (0x04862568) |$237,000 |414 |404.0
+|xref:cars/6000270602-911-e.adoc[911 E] |911 |E |79900264 (0x04C32E68) |$53,200 |163 |240.0
+|xref:cars/18360555-911-e.adoc[911 E] |911 |E |79900264 (0x04C32E68) |$53,200 |163 |240.0
+|xref:cars/6000270799-996-gt1.adoc[911 GT1 Straßenversion] |911 |GT1 Straßenversion |73900264 (0x0467A0E8) |$1,155,000 |537 |332.0
+|xref:cars/6000270448-997-gt2.adoc[911 GT2 (997)] |911 |GT2 (997) |74900264 (0x0476E328) |$330,000 |523 |316.0
+|xref:cars/6000270801-993-gt2.adoc[911 GT2 (993)] |911 |GT2 (993) |74900264 (0x0476E328) |$310,000 |424 |271.0
+|xref:cars/6000270816-991-gt2rs.adoc[911 GT2 RS (991.2)] |911 |GT2 RS (991.2) |73900264 (0x0467A0E8) |$495,000 |690 |338.0
+|xref:cars/6000270446-996-gt3.adoc[911 GT3 (996)] |911 |GT3 (996) |75900264 (0x04862568) |$240,000 |376 |304.0
+|xref:cars/6000270447-997-gt3.adoc[911 GT3 RS (997)] |911 |GT3 RS (997) |74900264 (0x0476E328) |$305,000 |409 |302.0
+|xref:cars/6000270449-991-gt3.adoc[911 GT3 RS (991)] |911 |GT3 RS (991) |73900264 (0x0467A0E8) |$430,000 |493 |329.0
+|xref:cars/6000270796-997gt3-base.adoc[911 GT3 (997)] |911 |GT3 (997) |75900264 (0x04862568) |$270,000 |409 |302.0
+|xref:cars/6000270797-997gt3-white.adoc[911 GT3 RS (997)] |911 |GT3 RS (997) |74900264 (0x0476E328) |$305,000 |409 |302.0
+|xref:cars/6000270798-997gt3-orange.adoc[911 GT3 RS (997)] |911 |GT3 RS (997) |74900264 (0x0476E328) |$305,000 |409 |302.0
+|xref:cars/6000270802-991gt3-base.adoc[911 GT3 (991)] |911 |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
+|xref:cars/6000270803-991gt3.adoc[911 GT3 (991)] |911 |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
+|xref:cars/86909434-991gt3.adoc[911 GT3 (991)] |911 |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
+|xref:cars/66749088-991gt3-base.adoc[911 GT3 (991)] |911 |GT3 (991) |74900264 (0x0476E328) |$350,000 |469 |319.0
+|xref:cars/6000270633-911-r.adoc[911 R (991)] |911 |R (991) |74900264 (0x0476E328) |$425,000 |493 |383.0
+|xref:cars/6000270436-964-sc.adoc[911 SC (930)] |911 |SC (930) |79900264 (0x04C32E68) |$88,000 |201 |237.0
+|xref:cars/74343455-991-targa.adoc[911 Targa 4S (991.2)] |911 |Targa 4S (991.2) |75900264 (0x04862568) |$237,000 |414 |404.0
+|xref:cars/18812022-991-t4s.adoc[911 Targa 4S (991.2)] |911 |Targa 4S (991.2) |75900264 (0x04862568) |$237,000 |414 |404.0
 |xref:cars/6000270431-993-tur.adoc[911 Turbo (993)] |911 Turbo |(993) |75900264 (0x04862568) |$200,000 |402 |283.0
 |xref:cars/6000270432-993-rwb.adoc[911 Turbo RAUH-Welt BEGRIFF (993)] |911 Turbo |RAUH-Welt BEGRIFF (993) |73900264 (0x0467A0E8) |$550,000 |830 |380.0
-|xref:cars/6000270438-930-tur.adoc[N/A (key=57638407) Turbo (930)] |N/A (key=57638407) |Turbo (930) |79900264 (0x04C32E68) |$120,000 |296 |278.0
-|xref:cars/6000270804-991-turbo.adoc[N/A (key=57638407) Turbo S (991.2)] |N/A (key=57638407) |Turbo S (991.2) |73900264 (0x0467A0E8) |$405,000 |572 |382.0
+|xref:cars/6000270438-930-tur.adoc[911 Turbo (930)] |911 |Turbo (930) |79900264 (0x04C32E68) |$120,000 |296 |278.0
+|xref:cars/6000270804-991-turbo.adoc[911 Turbo S (991.2)] |911 |Turbo S (991.2) |73900264 (0x0467A0E8) |$405,000 |572 |382.0
 |xref:cars/73516139-rwb-turbo.adoc[911 Turbo RAUH-Welt BEGRIFF (993)] |911 Turbo |RAUH-Welt BEGRIFF (993) |73900264 (0x0467A0E8) |$570,000 |830 |380.0
 |xref:cars/12789285-993-tur.adoc[911 Turbo (993)] |911 Turbo |(993) |75900264 (0x04862568) |$200,000 |402 |283.0
-|xref:cars/6000270451-918-spyder.adoc[918 N/A (key=56993667)] |918 |N/A (key=56993667) |73900264 (0x0467A0E8) |$900,000 |875 |400.0
-|xref:cars/6000270809-918-roof.adoc[918 N/A (key=56993667)] |918 |N/A (key=56993667) |73900264 (0x0467A0E8) |$900,000 |875 |400.0
-|xref:cars/6000270810-918-weis.adoc[918 N/A (key=1008349630001)] |918 |N/A (key=1008349630001) |73900264 (0x0467A0E8) |$990,000 |875 |400.0
-|xref:cars/6000270811-918weis-roof.adoc[918 N/A (key=1008349630001)] |918 |N/A (key=1008349630001) |73900264 (0x0467A0E8) |$990,000 |875 |400.0
-|xref:cars/25002766-918-weis.adoc[918 N/A (key=1008349630001)] |918 |N/A (key=1008349630001) |73900264 (0x0467A0E8) |$990,000 |875 |400.0
+|xref:cars/6000270451-918-spyder.adoc[918 Spyder] |918 |Spyder |73900264 (0x0467A0E8) |$900,000 |875 |400.0
+|xref:cars/6000270809-918-roof.adoc[918 Spyder] |918 |Spyder |73900264 (0x0467A0E8) |$900,000 |875 |400.0
+|xref:cars/6000270810-918-weis.adoc[918 Spyder Weissach Package] |918 |Spyder Weissach Package |73900264 (0x0467A0E8) |$990,000 |875 |400.0
+|xref:cars/6000270811-918weis-roof.adoc[918 Spyder Weissach Package] |918 |Spyder Weissach Package |73900264 (0x0467A0E8) |$990,000 |875 |400.0
+|xref:cars/25002766-918-weis.adoc[918 Spyder Weissach Package] |918 |Spyder Weissach Package |73900264 (0x0467A0E8) |$990,000 |875 |400.0
 |xref:cars/6000270444-944-s2.adoc[944 Turbo] |944 |Turbo |79900264 (0x04C32E68) |$57,000 |247 |249.0
+|xref:cars/6000270443-959-cpe.adoc[959 ??] |959 |?? |79900264 (0x04C32E68) |$1,290,000 |444 |297.0
 |xref:cars/6000270621-cayman-gt4.adoc[Cayman GT4] |Cayman |GT4 |75900264 (0x04862568) |$175,000 |380 |290.0
-|xref:cars/6000270445-boxster-s.adoc[Boxster N/A (key=57738427)] |Boxster |N/A (key=57738427) |77900264 (0x04A4A9E8) |$95,000 |256 |274.0
-|xref:cars/6000270450-carrera-gt.adoc[N/A (key=76382366) N/A (key=54638407)] |N/A (key=76382366) |N/A (key=54638407) |73900264 (0x0467A0E8) |$620,000 |604 |306.0
-|xref:cars/6000270808-cgt-roof.adoc[N/A (key=76382366) N/A (key=54638407)] |N/A (key=76382366) |N/A (key=54638407) |73900264 (0x0467A0E8) |$620,000 |604 |306.0
-|xref:cars/99228087-cgt-roof.adoc[N/A (key=76382366) N/A (key=54638407)] |N/A (key=76382366) |N/A (key=54638407) |73900264 (0x0467A0E8) |$620,000 |604 |306.0
+|xref:cars/6000270445-boxster-s.adoc[Boxster S] |Boxster |S |77900264 (0x04A4A9E8) |$95,000 |256 |274.0
+|xref:cars/6000270450-carrera-gt.adoc[Carrera GT] |Carrera |GT |73900264 (0x0467A0E8) |$620,000 |604 |306.0
+|xref:cars/6000270808-cgt-roof.adoc[Carrera GT] |Carrera |GT |73900264 (0x0467A0E8) |$620,000 |604 |306.0
+|xref:cars/99228087-cgt-roof.adoc[Carrera GT] |Carrera |GT |73900264 (0x0467A0E8) |$620,000 |604 |306.0
 |xref:cars/6000270807-cayenne-turbo.adoc[Cayenne Turbo] |Cayenne |Turbo |76900264 (0x049567A8) |$395,000 |542 |410.0
 |xref:cars/17386447-cayenne-turbo.adoc[Cayenne Turbo] |Cayenne |Turbo |76900264 (0x049567A8) |$395,000 |542 |410.0
 |xref:cars/6000270806-panamera-4s.adoc[Panamera 4S] |Panamera |4S |75900264 (0x04862568) |$265,000 |434 |392.0
-|xref:cars/6000270443-959-cpe.adoc[N/A (key=59638407) N/A (key=57356917)] |N/A (key=59638407) |N/A (key=57356917) |79900264 (0x04C32E68) |$1,290,000 |444 |297.0
-|xref:cars/6000270801-993-gt2.adoc[N/A (key=57638407) GT2 (993)] |N/A (key=57638407) |GT2 (993) |74900264 (0x0476E328) |$310,000 |424 |271.0
-|xref:cars/6000270816-991-gt2rs.adoc[N/A (key=57638407) GT2 RS (991.2)] |N/A (key=57638407) |GT2 RS (991.2) |73900264 (0x0467A0E8) |$495,000 |690 |338.0
 |===
 

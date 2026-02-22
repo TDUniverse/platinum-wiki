@@ -1,5 +1,3 @@
-:page-aliases: kit-tracer
-
 == Identity
 [cols="1,1",options="header"]
 |===

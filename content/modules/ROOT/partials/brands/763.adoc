@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |763
-|Manufacturer ID |N/A (key=72738337)
-|Manufacturer Name |N/A (key=7278357)
-|Logo File |N/A (key=72738337)
+|Manufacturer ID |Gaz
+|Manufacturer Name |Gaz
+|Logo File |Gaz
 |Number of Cars |0
 |===
 

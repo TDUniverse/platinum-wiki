@@ -1,12 +1,10 @@
-:page-aliases: melling
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |754
 |Manufacturer ID |Melling
-|Manufacturer Name |N/A (key=7188357)
+|Manufacturer Name |Melling
 |Logo File |Melling
 |Number of Cars |0
 |===

@@ -1,6 +1,6 @@
-= N/A (key=7098357) - 500 Abarth Esseesse
+= Fiat - 500 Abarth Esseesse
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270643-500-abarth.adoc[]

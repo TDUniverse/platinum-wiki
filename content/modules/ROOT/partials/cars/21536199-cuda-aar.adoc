@@ -15,9 +15,9 @@
 |Group |79900264 (0x04C32E68)
 |Price |$155,000
 |Car Name |Barracuda
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Cuda_AAR
-|Model |N/A (key=103382366)
+|Model |Barracuda
 |Version |Six-Pack AAR
 |===
 
@@ -68,7 +68,7 @@
 |Height (mm) |1313
 |Wheelbase (mm) |2743
 |Weight (kg) |1632
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

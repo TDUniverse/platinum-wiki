@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$260,000
 |Car Name |Range Rover 5.0
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Range_Wide
 |Model |Range Rover
 |Version |Startech Widebody
@@ -71,7 +71,7 @@
 |Height (mm) |1835
 |Wheelbase (mm) |2923
 |Weight (kg) |2330
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

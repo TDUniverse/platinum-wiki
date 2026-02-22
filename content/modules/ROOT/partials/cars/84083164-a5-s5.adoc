@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$71,500
 |Car Name |A5
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |A5_S5
 |Model |S5
 |Version |Coupe (F5)
@@ -71,7 +71,7 @@
 |Height (mm) |1368
 |Wheelbase (mm) |2765
 |Weight (kg) |1615
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,9 +15,9 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$53,000
 |Car Name |Impreza WRX STi
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Impreza_Spo
-|Model |N/A (key=59448407)
+|Model |Impreza
 |Version |WRX STI (GV)
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1471
 |Wheelbase (mm) |2624
 |Weight (kg) |1535
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

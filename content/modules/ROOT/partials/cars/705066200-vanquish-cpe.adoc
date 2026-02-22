@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: aston-martin-n-a-key-56138407-n-a-key-53338427
+:page-aliases: aston-martin-vanquish-item
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/868295.adoc[Aston Martin]
 |Group |75900264 (0x04862568)
 |Price |$262,900
-|Car Name |N/A (key=56138407)
-|Real Name |N/A (key=53338427)
+|Car Name |Vanquish
+|Real Name |??
 |File Name |Vanquish_Cpe
-|Model |N/A (key=56138407)
-|Version |N/A (key=57738427)
+|Model |Vanquish
+|Version |S
 |===
 
 //end::identity[]

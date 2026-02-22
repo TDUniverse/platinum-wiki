@@ -1,6 +1,0 @@
-= Alfa Romeo - N/A (key=55638407) N/A (key=58982366)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/96939458-alfa-8c.adoc[]

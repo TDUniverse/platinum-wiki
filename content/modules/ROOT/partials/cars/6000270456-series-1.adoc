@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: shelby-series-one-n-a-key-5366317
+:page-aliases: shelby-series-one-item
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |75900264 (0x04862568)
 |Price |$88,000
 |Car Name |Series One
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Series_1
 |Model |Series
-|Version |N/A (key=54533427)
+|Version |1
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1194
 |Wheelbase (mm) |2443
 |Weight (kg) |1202
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

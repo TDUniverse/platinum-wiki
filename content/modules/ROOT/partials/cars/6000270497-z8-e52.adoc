@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-z-series-e52
+:page-aliases: bmw-z-series-e52
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270497
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |76900264 (0x049567A8)
 |Price |$105,500
 |Car Name |Z-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Z8_E52
-|Model |N/A (key=59738407)
-|Version |N/A (key=57356917)
+|Model |Z8
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1317
 |Wheelbase (mm) |2505
 |Weight (kg) |1615
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

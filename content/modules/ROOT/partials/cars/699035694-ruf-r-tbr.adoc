@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-57838337-996turbor-n-a-key-53338427
+:page-aliases: ruf-996turbor-item
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |699035694
-|Brand |xref:brands/7932.adoc[N/A (key=57838337)]
+|Brand |xref:brands/7932.adoc[RUF]
 |Group |74900264 (0x0476E328)
 |Price |$200,000
 |Car Name |996turboR
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RUF_R_TBR
 |Model |Rturbo
-|Version |N/A (key=53338427)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1194
 |Wheelbase (mm) |2372
 |Weight (kg) |1531
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

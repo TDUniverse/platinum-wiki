@@ -1,6 +1,6 @@
-= N/A (key=7038357) - Rally 037 Stradale
+= Lancia - Rally 037 Stradale
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/81602715-rally037-spo.adoc[]

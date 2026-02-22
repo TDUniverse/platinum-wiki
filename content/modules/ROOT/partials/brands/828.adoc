@@ -1,12 +1,10 @@
-:page-aliases: hommell
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |828
 |Manufacturer ID |Hommell
-|Manufacturer Name |N/A (key=7708357)
+|Manufacturer Name |Hommell
 |Logo File |Hommell
 |Number of Cars |0
 |===

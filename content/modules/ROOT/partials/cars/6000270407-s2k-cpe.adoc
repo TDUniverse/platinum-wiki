@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: honda-n-a-key-56348407-ap1-type-v-roof-honda
+:page-aliases: honda-s2000-ap1-type-v-roof-honda
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/7853.adoc[Honda]
 |Group |77900264 (0x04A4A9E8)
 |Price |$42,000
-|Car Name |N/A (key=56348407)
-|Real Name |N/A (key=53338427)
+|Car Name |S2000
+|Real Name |??
 |File Name |S2k_Cpe
-|Model |N/A (key=56348407)
+|Model |S2000
 |Version |Type-V
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2400
 |Weight (kg) |1260
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

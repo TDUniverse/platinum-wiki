@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7058357-alpine-renault-gta-le-mans
+:page-aliases: alpine-alpine-renault-gta-le-mans
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270644
-|Brand |xref:brands/928.adoc[N/A (key=7058357)]
+|Brand |xref:brands/928.adoc[Alpine]
 |Group |78900264 (0x04B3EC28)
 |Price |$44,500
 |Car Name |Alpine-Renault
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |GTA_LM
 |Model |GTA
-|Version |N/A (key=53438407)
+|Version |Le Mans
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1197
 |Wheelbase (mm) |2339
 |Weight (kg) |1235
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

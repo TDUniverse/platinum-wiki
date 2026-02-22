@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$65,000
 |Car Name |300 C
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |300C_SRT8
-|Model |N/A (key=59733407)
+|Model |300C
 |Version |SRT8 (LD)
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1480
 |Wheelbase (mm) |3052
 |Weight (kg) |1980
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

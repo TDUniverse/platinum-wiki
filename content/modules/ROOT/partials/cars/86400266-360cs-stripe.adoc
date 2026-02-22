@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ferrari-n-a-key-62438407-challenge-stradale-stripe
+:page-aliases: ferrari-360-challenge-stradale-stripe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/81940960.adoc[Ferrari]
 |Group |74900264 (0x0476E328)
 |Price |$171,000
-|Car Name |N/A (key=62438407)
-|Real Name |N/A (key=53338427)
+|Car Name |360
+|Real Name |??
 |File Name |360CS_Stripe
-|Model |N/A (key=62438407)
-|Version |N/A (key=60438427)
+|Model |360
+|Version |Challenge Stradale
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1199
 |Wheelbase (mm) |2600
 |Weight (kg) |1280
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

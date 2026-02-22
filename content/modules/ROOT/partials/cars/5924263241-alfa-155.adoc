@@ -15,10 +15,10 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$22,000
 |Car Name |Alfa 155
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Alfa_155
 |Model |155
-|Version |N/A (key=15088639)
+|Version |Q4
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1440
 |Wheelbase (mm) |2540
 |Weight (kg) |1445
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ferrari-n-a-key-57438407-3589gt-63-sebring-12-hours
+:page-aliases: ferrari-250-gto-3589gt-63-sebring-12-hours
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/81940960.adoc[Ferrari]
 |Group |79900264 (0x04C32E68)
 |Price |$6,000,000
-|Car Name |N/A (key=57438407)
-|Real Name |N/A (key=53338427)
+|Car Name |250 GTO
+|Real Name |??
 |File Name |250GTO_3589
-|Model |N/A (key=57438407)
+|Model |250 GTO
 |Version |#3589GT 63' Sebring 12 Hours
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1245
 |Wheelbase (mm) |2398
 |Weight (kg) |950
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

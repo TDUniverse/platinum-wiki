@@ -1,6 +1,6 @@
-= Dodge - N/A (key=56238407) Daytona 426 Hemi
+= Dodge - Charger Daytona 426 Hemi
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/38392438-charger-dayt.adoc[]

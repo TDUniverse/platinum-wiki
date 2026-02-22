@@ -1,6 +1,0 @@
-= Ginetta - F400 N/A (key=57356917)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/6000270315-f400.adoc[]

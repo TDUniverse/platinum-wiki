@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: spyker-n-a-key-58038407-n-a-key-56993667
+:page-aliases: spyker-c8-spyder
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/84783.adoc[Spyker]
 |Group |75900264 (0x04862568)
 |Price |$260,500
-|Car Name |N/A (key=58038407)
-|Real Name |N/A (key=53338427)
+|Car Name |C8
+|Real Name |??
 |File Name |SPYK_RST
-|Model |N/A (key=58038407)
-|Version |N/A (key=56993667)
+|Model |C8
+|Version |Spyder
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1080
 |Wheelbase (mm) |2575
 |Weight (kg) |1250
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$110,000
 |Car Name |C-Klasse (W204)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |C63_Wald
 |Model |C
 |Version |63 AMG Wald
@@ -71,7 +71,7 @@
 |Height (mm) |1438
 |Wheelbase (mm) |2765
 |Weight (kg) |1765
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

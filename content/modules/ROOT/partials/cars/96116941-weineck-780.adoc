@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: shelby-n-a-key-59938407-weineck-780cui
+:page-aliases: shelby-cobra-weineck-780cui
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/9643703.adoc[Shelby]
 |Group |73900264 (0x0467A0E8)
 |Price |$1,600,000
-|Car Name |N/A (key=59938407)
-|Real Name |N/A (key=53338427)
+|Car Name |Cobra
+|Real Name |??
 |File Name |Weineck_780
-|Model |N/A (key=59938407)
+|Model |Cobra
 |Version |Weineck 780cui Limited Edition
 |===
 
@@ -68,7 +68,7 @@
 |Height (mm) |1245
 |Wheelbase (mm) |2286
 |Weight (kg) |990
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-n-a-key-15090361-f13-m
+:page-aliases: bmw-6-series-f13-m
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270496
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |75900264 (0x04862568)
 |Price |$135,000
-|Car Name |N/A (key=15090361)
-|Real Name |N/A (key=53338427)
+|Car Name |6-series
+|Real Name |??
 |File Name |M6_F13
 |Model |M6
 |Version |F13
@@ -71,7 +71,7 @@
 |Height (mm) |1374
 |Wheelbase (mm) |2851
 |Weight (kg) |1850
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

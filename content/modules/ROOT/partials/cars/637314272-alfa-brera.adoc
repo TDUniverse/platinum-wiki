@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: alfa-romeo-n-a-key-54933407-n-a-key-60538427
+:page-aliases: alfa-romeo-brera-v6
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/72825.adoc[Alfa Romeo]
 |Group |78900264 (0x04B3EC28)
 |Price |$47,250
-|Car Name |N/A (key=54933407)
-|Real Name |N/A (key=53338427)
+|Car Name |Brera
+|Real Name |??
 |File Name |Alfa_Brera
-|Model |N/A (key=54933407)
+|Model |Brera
 |Version |3.2 V6 JTS Q4 Sky View
 |===
 

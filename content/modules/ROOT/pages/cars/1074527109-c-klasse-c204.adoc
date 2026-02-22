@@ -1,6 +1,0 @@
-= Mercedes-Benz - C 63 AMG Black Series
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/1074527109-c-klasse-c204.adoc[]

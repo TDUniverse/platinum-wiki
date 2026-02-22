@@ -15,10 +15,10 @@
 |Group |75900264 (0x04862568)
 |Price |$165,000
 |Car Name |CL-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |CL_65
-|Model |N/A (key=54838407)
-|Version |N/A (key=56592366)
+|Model |CL
+|Version |65 AMG
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1418
 |Wheelbase (mm) |2955
 |Weight (kg) |2241
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,6 +1,0 @@
-= Subaru - N/A (key=59448407) 22B STi (GM)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/37324396-impreza-22b.adoc[]

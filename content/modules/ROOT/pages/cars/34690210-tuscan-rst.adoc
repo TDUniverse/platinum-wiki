@@ -1,6 +1,6 @@
-= N/A (key=55738337) - N/A (key=53938407) N/A (key=57738427)
+= TVR - Tuscan S
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/34690210-tuscan-rst.adoc[]

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |736
-|Manufacturer ID |N/A (key=70038337)
+|Manufacturer ID |Citroën
 |Manufacturer Name |Citroën
-|Logo File |N/A (key=70038337)
+|Logo File |Citroën
 |Number of Cars |0
 |===
 

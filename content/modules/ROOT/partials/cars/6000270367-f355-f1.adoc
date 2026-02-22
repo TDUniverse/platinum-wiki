@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$100,000
 |Car Name |355 F1
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |F355_F1
 |Model |F355
 |Version |F1 Berlinetta
@@ -70,7 +70,7 @@
 |Height (mm) |1170
 |Wheelbase (mm) |2450
 |Weight (kg) |1448
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

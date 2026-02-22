@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |865
-|Manufacturer ID |N/A (key=79338337)
+|Manufacturer ID |Mosler
 |Manufacturer Name |Mosler
-|Logo File |N/A (key=79338337)
+|Logo File |Mosler
 |Number of Cars |0
 |===
 

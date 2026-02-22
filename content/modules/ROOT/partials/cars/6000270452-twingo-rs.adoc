@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$20,500
 |Car Name |Twingo II
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Twingo_RS
 |Model |Twingo Sport
 |Version |Cup
@@ -69,7 +69,7 @@
 |Height (mm) |1470
 |Wheelbase (mm) |2368
 |Weight (kg) |1049
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

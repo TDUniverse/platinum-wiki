@@ -1,12 +1,10 @@
-:page-aliases: gaz
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |977
 |Manufacturer ID |Gaz
-|Manufacturer Name |N/A (key=8578357)
+|Manufacturer Name |Gaz
 |Logo File |Gaz
 |Number of Cars |0
 |===

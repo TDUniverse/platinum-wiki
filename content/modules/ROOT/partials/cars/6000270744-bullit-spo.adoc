@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$395,000
 |Car Name |C-Klasse (W204)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Bullit_Spo
 |Model |Bullit
 |Version |800
@@ -71,7 +71,7 @@
 |Height (mm) |1438
 |Wheelbase (mm) |2765
 |Weight (kg) |1734
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

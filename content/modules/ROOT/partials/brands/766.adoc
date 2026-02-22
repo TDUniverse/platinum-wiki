@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |766
-|Manufacturer ID |N/A (key=73038337)
+|Manufacturer ID |Venturi
 |Manufacturer Name |Venturi
-|Logo File |N/A (key=73038337)
+|Logo File |Venturi
 |Number of Cars |0
 |===
 

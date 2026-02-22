@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: nissan-n-a-key-62348407-amuse
+:page-aliases: nissan-350-z-amuse
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/8542108.adoc[Nissan]
 |Group |76900264 (0x049567A8)
 |Price |$77,600
-|Car Name |N/A (key=62348407)
-|Real Name |N/A (key=53338427)
+|Car Name |350 Z
+|Real Name |??
 |File Name |350Z_Amuse
 |Model |350Z
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1318
 |Wheelbase (mm) |2650
 |Weight (kg) |1489
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

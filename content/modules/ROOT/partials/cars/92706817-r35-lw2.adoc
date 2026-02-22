@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$540,000
 |Car Name |GT-R
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |R35_LW2
 |Model |GT-R (R35)
 |Version |Liberty Walk
@@ -70,7 +70,7 @@
 |Height (mm) |1370
 |Wheelbase (mm) |2780
 |Weight (kg) |1675
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

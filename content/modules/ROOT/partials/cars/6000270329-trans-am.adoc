@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: pontiac-firebird-n-a-key-300401557
+:page-aliases: pontiac-firebird-trans-am
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |79900264 (0x04C32E68)
 |Price |$30,000
 |Car Name |Firebird
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |TRANS_AM
 |Model |Firebird
-|Version |N/A (key=300401557)
+|Version |Trans Am
 |===
 
 //end::identity[]
@@ -68,7 +68,7 @@
 |Height (mm) |1276
 |Wheelbase (mm) |2743
 |Weight (kg) |1691
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

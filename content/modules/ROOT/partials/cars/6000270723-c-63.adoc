@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$85,000
 |Car Name |C-Klasse (W204)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |C_63
 |Model |C
 |Version |63 AMG
@@ -71,7 +71,7 @@
 |Height (mm) |1438
 |Wheelbase (mm) |2765
 |Weight (kg) |1780
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

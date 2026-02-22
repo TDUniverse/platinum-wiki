@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-m1-e26-cpe
+:page-aliases: bmw-m1-e26-cpe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |1193140602
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |79900264 (0x04C32E68)
 |Price |$195,000
 |Car Name |M1 (E26)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |308_GTB_QV
 |Model |M1
-|Version |N/A (key=53338424)
+|Version |??
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1140
 |Wheelbase (mm) |2560
 |Weight (kg) |1300
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

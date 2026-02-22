@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$350,000
 |Car Name |911 GT3
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |991GT3_Base
-|Model |N/A (key=57638407)
+|Model |911
 |Version |GT3 (991)
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1291
 |Wheelbase (mm) |2457
 |Weight (kg) |1430
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

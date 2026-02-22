@@ -1,6 +1,6 @@
-= N/A (key=6138357) - M6 E63
+= BMW - M6 E63
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270627-m6-e63.adoc[]

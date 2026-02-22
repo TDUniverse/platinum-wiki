@@ -15,10 +15,10 @@
 |Group |79900264 (0x04C32E68)
 |Price |$350,000
 |Car Name |Type E 4.2
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |TYPE_Cpe
 |Model |E-Type 4.2
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]
@@ -68,7 +68,7 @@
 |Height (mm) |1219
 |Wheelbase (mm) |2438
 |Weight (kg) |1300
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

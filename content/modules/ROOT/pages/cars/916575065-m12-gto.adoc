@@ -1,0 +1,6 @@
+= Noble - M12 GTO-3R
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/916575065-m12-gto.adoc[]

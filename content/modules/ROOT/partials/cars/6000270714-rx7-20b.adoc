@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$65,100
 |Car Name |RX-7 (FD3S)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RX7_20B
 |Model |RX-7
 |Version |Type R
@@ -70,7 +70,7 @@
 |Height (mm) |1230
 |Wheelbase (mm) |2425
 |Weight (kg) |1295
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

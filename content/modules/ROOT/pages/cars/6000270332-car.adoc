@@ -1,6 +1,0 @@
-= Saleen - N/A (key=55348407) N/A (key=60533427)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/6000270332-car.adoc[]

@@ -1,5 +1,3 @@
-:page-aliases: eden
-
 == Identity
 [cols="1,1",options="header"]
 |===
@@ -7,7 +5,7 @@
 |ID |85649
 |Manufacturer ID |EDEN
 |Manufacturer Name |EDEN Motors
-|Logo File |N/A (key=61338337)
+|Logo File |BMW
 |Number of Cars |0
 |===
 

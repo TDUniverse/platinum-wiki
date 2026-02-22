@@ -1,6 +1,6 @@
-= Maserati - N/A (key=57538407) Touring
+= Maserati - 3500 GT Touring
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/698390544-mas-gt.adoc[]

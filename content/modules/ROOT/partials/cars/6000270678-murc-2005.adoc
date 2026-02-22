@@ -15,10 +15,10 @@
 |Group |74900264 (0x0476E328)
 |Price |$245,000
 |Car Name |Murcielago
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Murc_2005
 |Model |Murciélago
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1135
 |Wheelbase (mm) |2665
 |Weight (kg) |1650
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

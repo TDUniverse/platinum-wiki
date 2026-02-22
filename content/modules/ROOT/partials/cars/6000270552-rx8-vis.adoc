@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$69,000
 |Car Name |RX-8 (SE3P)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RX8_VIS
 |Model |RX-8
 |Version |ViS Racing
@@ -70,7 +70,7 @@
 |Height (mm) |1340
 |Wheelbase (mm) |2700
 |Weight (kg) |1180
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

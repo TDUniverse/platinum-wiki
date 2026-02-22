@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$177,000
 |Car Name |Quattroporte GTS
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mas_QuatGTS
 |Model |Quattroporte
 |Version |GTS GranSport
@@ -71,7 +71,7 @@
 |Height (mm) |1481
 |Wheelbase (mm) |3171
 |Weight (kg) |1900
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

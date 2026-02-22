@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |883
-|Manufacturer ID |N/A (key=79938337)
+|Manufacturer ID |Proton
 |Manufacturer Name |Proton
-|Logo File |N/A (key=79938337)
+|Logo File |Proton
 |Number of Cars |0
 |===
 

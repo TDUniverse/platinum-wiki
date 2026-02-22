@@ -1,5 +1,3 @@
-:page-aliases: kit-burnout
-
 == Identity
 [cols="1,1",options="header"]
 |===

@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$21,250
 |Car Name |Transit Van
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Transit_Van
 |Model |Transit
 |Version |3.2 Duratorq TCDi
@@ -70,7 +70,7 @@
 |Height (mm) |2047
 |Wheelbase (mm) |3300
 |Weight (kg) |2037
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

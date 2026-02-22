@@ -1,12 +1,10 @@
-:page-aliases: lincoln
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |850
 |Manufacturer ID |Lincoln
-|Manufacturer Name |N/A (key=7848357)
+|Manufacturer Name |Lincoln
 |Logo File |Lincoln
 |Number of Cars |0
 |===

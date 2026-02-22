@@ -1,12 +1,10 @@
-:page-aliases: voisin
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |159
 |Manufacturer ID |Voisin
-|Manufacturer Name |N/A (key=8518357)
+|Manufacturer Name |Voisin
 |Logo File |Voisin
 |Number of Cars |0
 |===

@@ -1,6 +1,6 @@
-= N/A (key=7978357) - Hurst/Olds 4-4-2 Holiday Coupe
+= Oldsmobile - Hurst/Olds 4-4-2 Holiday Coupe
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/98587476-olds-442.adoc[]

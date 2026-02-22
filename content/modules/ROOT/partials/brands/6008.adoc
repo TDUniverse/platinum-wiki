@@ -1,5 +1,3 @@
-:page-aliases: kit-apr
-
 == Identity
 [cols="1,1",options="header"]
 |===

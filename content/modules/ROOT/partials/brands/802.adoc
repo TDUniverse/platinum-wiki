@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |802
-|Manufacturer ID |N/A (key=75138337)
+|Manufacturer ID |Datsun
 |Manufacturer Name |Datsun
-|Logo File |N/A (key=75138337)
+|Logo File |Datsun
 |Number of Cars |0
 |===
 

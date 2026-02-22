@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |7853
-|Manufacturer ID |N/A (key=60438337)
+|Manufacturer ID |HONDA
 |Manufacturer Name |Honda
-|Logo File |N/A (key=60438337)
+|Logo File |HONDA
 |Number of Cars |20
 |===
 
@@ -13,8 +13,8 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270380-ek-cpe.adoc[N/A (key=105982366) Si (EM1)] |N/A (key=105982366) |Si (EM1) |78900264 (0x04B3EC28) |$19,000 |160 |222.0
-|xref:cars/843182934-a3-v6n.adoc[N/A (key=105982366) Type-R (EK9)] |N/A (key=105982366) |Type-R (EK9) |78900264 (0x04B3EC28) |$25,000 |182 |238.0
+|xref:cars/6000270380-ek-cpe.adoc[Civic Si (EM1)] |Civic |Si (EM1) |78900264 (0x04B3EC28) |$19,000 |160 |222.0
+|xref:cars/843182934-a3-v6n.adoc[Civic Type-R (EK9)] |Civic |Type-R (EK9) |78900264 (0x04B3EC28) |$25,000 |182 |238.0
 |xref:cars/6000270381-crz-mugen.adoc[Mugen CR-Z] |Mugen |CR-Z |78900264 (0x04B3EC28) |$45,000 |167 |235.0
 |xref:cars/6000270616-cr-z.adoc[CR-Z a] |CR-Z |a |78900264 (0x04B3EC28) |$24,980 |122 |244.0
 |xref:cars/92413168-crz-spoon.adoc[Spoon CR-Z] |Spoon |CR-Z |78900264 (0x04B3EC28) |$45,000 |167 |235.0
@@ -24,14 +24,14 @@
 |xref:cars/6000270538-dc2-spo.adoc[Spoon Integra Type-R (DC2)] |Spoon Integra |Type-R (DC2) |77900264 (0x04A4A9E8) |$75,000 |210 |232.0
 |xref:cars/6000270632-nsx-szero.adoc[NSX Type S Zero] |NSX |Type S Zero |77900264 (0x04A4A9E8) |$117,500 |276 |288.0
 |xref:cars/6000270652-nsx-tuned.adoc[NSX Type S Zero] |NSX |Type S Zero |76900264 (0x049567A8) |$155,000 |309 |277.0
-|xref:cars/6000270653-nsx-rb.adoc[NSX N/A (key=1008082231001)] |NSX |N/A (key=1008082231001) |73900264 (0x0467A0E8) |$355,000 |625 |365.0
+|xref:cars/6000270653-nsx-rb.adoc[NSX Rocket Bunny] |NSX |Rocket Bunny |73900264 (0x0467A0E8) |$355,000 |625 |365.0
 |xref:cars/82488281-nsx-szero.adoc[NSX Type S Zero] |NSX |Type S Zero |77900264 (0x04A4A9E8) |$117,500 |276 |288.0
 |xref:cars/15831761-nsx-tuned.adoc[NSX Type S Zero] |NSX |Type S Zero |76900264 (0x049567A8) |$155,000 |309 |277.0
-|xref:cars/1291823209-nsx-na2.adoc[NSX-R N/A (key=54638407)] |NSX-R |N/A (key=54638407) |75900264 (0x04862568) |$450,000 |276 |280.0
-|xref:cars/6000270654-nsx-17.adoc[NSX N/A (key=57356917)] |NSX |N/A (key=57356917) |74900264 (0x0476E328) |$158,000 |573 |319.0
-|xref:cars/6000270384-s2k.adoc[N/A (key=56348407) Type-V] |N/A (key=56348407) |Type-V |77900264 (0x04A4A9E8) |$42,000 |247 |247.0
-|xref:cars/6000270404-s2k-cpe.adoc[N/A (key=56348407) Type-V] |N/A (key=56348407) |Type-V |77900264 (0x04A4A9E8) |$42,000 |247 |247.0
-|xref:cars/6000270407-s2k-cpe.adoc[N/A (key=56348407) Type-V] |N/A (key=56348407) |Type-V |77900264 (0x04A4A9E8) |$42,000 |247 |247.0
+|xref:cars/1291823209-wies-gt.adoc[NSX-R GT] |NSX-R |GT |75900264 (0x04862568) |$450,000 |276 |280.0
+|xref:cars/6000270654-nsx-17.adoc[NSX ??] |NSX |?? |74900264 (0x0476E328) |$158,000 |573 |319.0
+|xref:cars/6000270384-s2k.adoc[S2000 Type-V] |S2000 |Type-V |77900264 (0x04A4A9E8) |$42,000 |247 |247.0
+|xref:cars/6000270404-s2k-cpe.adoc[S2000 Type-V] |S2000 |Type-V |77900264 (0x04A4A9E8) |$42,000 |247 |247.0
+|xref:cars/6000270407-s2k-cpe.adoc[S2000 Type-V] |S2000 |Type-V |77900264 (0x04A4A9E8) |$42,000 |247 |247.0
 |xref:cars/6000270615-amuse-s2000.adoc[Amuse S2000 GT1] |Amuse |S2000 GT1 |74900264 (0x0476E328) |$107,000 |394 |295.0
 |===
 

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-8108357-model-s-p85d
+:page-aliases: tesla-model-s-p85d
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270872
-|Brand |xref:brands/858.adoc[N/A (key=8108357)]
+|Brand |xref:brands/858.adoc[Tesla]
 |Group |76900264 (0x049567A8)
 |Price |$180,250
 |Car Name |Model S
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Model_S
 |Model |Model S
-|Version |N/A (key=1007294959001)
+|Version |P85D
 |===
 
 //end::identity[]
@@ -65,7 +65,7 @@
 |Height (mm) |1435
 |Wheelbase (mm) |2960
 |Weight (kg) |2239
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

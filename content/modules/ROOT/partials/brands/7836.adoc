@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |7836
-|Manufacturer ID |N/A (key=58838337)
+|Manufacturer ID |VAG
 |Manufacturer Name |Volkswagen
-|Logo File |N/A (key=58838337)
+|Logo File |VAG
 |Number of Cars |29
 |===
 
@@ -21,7 +21,7 @@
 |xref:cars/6000270491-corrado-vr6.adoc[Corrado VR6] |Corrado |VR6 |78900264 (0x04B3EC28) |$25,100 |187 |213.0
 |xref:cars/6000270844-corrado-extreme.adoc[Corrado VR6 Extreme Dimensions Piranha] |Corrado |VR6 Extreme Dimensions Piranha |78900264 (0x04B3EC28) |$40,100 |215 |232.0
 |xref:cars/6000270845-corrado-r1.adoc[Corrado VR6 Extreme Dimensions R-1] |Corrado |VR6 Extreme Dimensions R-1 |78900264 (0x04B3EC28) |$40,100 |215 |232.0
-|xref:cars/6000270846-corrado-storm.adoc[Corrado N/A (key=1008374660001)] |Corrado |N/A (key=1008374660001) |78900264 (0x04B3EC28) |$40,100 |215 |232.0
+|xref:cars/6000270846-corrado-storm.adoc[Corrado VR6 Storm] |Corrado |VR6 Storm |78900264 (0x04B3EC28) |$40,100 |215 |232.0
 |xref:cars/6000270847-corrado-apr.adoc[Corrado VR6] |Corrado |VR6 |78900264 (0x04B3EC28) |$40,100 |215 |232.0
 |xref:cars/6000270486-golf-mk3.adoc[Golf GTi VR6 (MkIII)] |Golf |GTi VR6 (MkIII) |78900264 (0x04B3EC28) |$20,700 |172 |229.0
 |xref:cars/6000270488-golf-mk5.adoc[Golf GTi (MkV)] |Golf |GTi (MkV) |78900264 (0x04B3EC28) |$29,750 |197 |252.0
@@ -29,9 +29,10 @@
 |xref:cars/6000270489-golf-mk6.adoc[Golf R (MkVI)] |Golf |R (MkVI) |77900264 (0x04A4A9E8) |$49,380 |266 |260.0
 |xref:cars/6000270335-golf-r32.adoc[Golf R32 (MkV)] |Golf |R32 (MkV) |78900264 (0x04B3EC28) |$42,370 |247 |232.0
 |xref:cars/6000270487-golf-mk4.adoc[Golf R32 (MkIV)] |Golf |R32 (MkIV) |78900264 (0x04B3EC28) |$39,240 |238 |232.0
-|xref:cars/6000270493-karman-ghia.adoc[N/A (key=1009282057001) Ghia (Typ-14)] |N/A (key=1009282057001) |Ghia (Typ-14) |79900264 (0x04C32E68) |$38,500 |60 |160.0
-|xref:cars/69683507-karman-ghia.adoc[N/A (key=1009282057001) Ghia (Typ-14)] |N/A (key=1009282057001) |Ghia (Typ-14) |79900264 (0x04C32E68) |$69,000 |153 |185.0
+|xref:cars/6000270493-karman-ghia.adoc[Karmann Ghia (Typ-14)] |Karmann |Ghia (Typ-14) |79900264 (0x04C32E68) |$38,500 |60 |160.0
+|xref:cars/69683507-karman-ghia.adoc[Karmann Ghia (Typ-14)] |Karmann |Ghia (Typ-14) |79900264 (0x04C32E68) |$69,000 |153 |185.0
 |xref:cars/6000270490-beetle-tur.adoc[New Beetle Turbo S] |New Beetle |Turbo S |78900264 (0x04B3EC28) |$31,750 |178 |252.0
+|xref:cars/1176600625-golf-r32.adoc[Golf R32] |Golf |R32 |78900264 (0x04B3EC28) |$37,000 |250 |245.0
 |xref:cars/6000270842-kombi.adoc[Samba Bus Typ 2 (T1)] |Samba |Bus Typ 2 (T1) |79900264 (0x04C32E68) |$75,450 |51 |154.0
 |xref:cars/31353821-kombi.adoc[Samba Bus Typ 2 (T1)] |Samba |Bus Typ 2 (T1) |79900264 (0x04C32E68) |$110,450 |143 |185.0
 |xref:cars/6000270849-beetle-73.adoc[SuperKäfer 1303 S (Typ-1)] |SuperKäfer |1303 S (Typ-1) |79900264 (0x04C32E68) |$27,500 |50 |150.0
@@ -39,8 +40,7 @@
 |xref:cars/22471404-beetle-73.adoc[SuperKäfer 1303 S (Typ-1)] |SuperKäfer |1303 S (Typ-1) |79900264 (0x04C32E68) |$57,500 |141 |185.0
 |xref:cars/6000270841-touareg-tdi.adoc[Touareg V8 TDi] |Touareg |V8 TDi |78900264 (0x04B3EC28) |$75,800 |335 |244.0
 |xref:cars/22442763-touareg-tdi.adoc[Touareg V8 TDi] |Touareg |V8 TDi |78900264 (0x04B3EC28) |$75,800 |335 |244.0
-|xref:cars/1176600625-car.adoc[Golf N/A (key=59933407)] |Golf |N/A (key=59933407) |78900264 (0x04B3EC28) |$37,000 |250 |245.0
-|xref:cars/1214585404-car.adoc[N/A (key=623709) Syncro] |N/A (key=623709) |Syncro |74900264 (0x0476E328) |$0 |414 |350.0
-|xref:cars/54788238-car.adoc[N/A (key=623709) Syncro] |N/A (key=623709) |Syncro |74900264 (0x0476E328) |$0 |414 |350.0
+|xref:cars/1214585404-w12-cpe.adoc[W12 Syncro] |W12 |Syncro |74900264 (0x0476E328) |$0 |414 |350.0
+|xref:cars/54788238-w12-cpe.adoc[W12 Syncro] |W12 |Syncro |74900264 (0x0476E328) |$0 |414 |350.0
 |===
 

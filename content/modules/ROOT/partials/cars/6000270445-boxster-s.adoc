@@ -15,10 +15,10 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$95,000
 |Car Name |Boxster S
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Boxster_S
 |Model |Boxster
-|Version |N/A (key=57738427)
+|Version |S
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1290
 |Wheelbase (mm) |2415
 |Weight (kg) |1320
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

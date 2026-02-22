@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |7824
-|Manufacturer ID |N/A (key=62438337)
+|Manufacturer ID |JAG
 |Manufacturer Name |Jaguar
-|Logo File |N/A (key=62438337)
+|Logo File |JAG
 |Number of Cars |15
 |===
 
@@ -13,20 +13,20 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/1188980788-firepw.adoc[C-X75 N/A (key=55982366)] |C-X75 |N/A (key=55982366) |73900264 (0x0467A0E8) |$0 |890 |388.0
-|xref:cars/1221502656-type-cpe.adoc[E-Type 4.2 N/A (key=58538407)] |E-Type 4.2 |N/A (key=58538407) |79900264 (0x04C32E68) |$350,000 |265 |222.0
-|xref:cars/23711014-type-cpe.adoc[E-Type 4.2 N/A (key=58538407)] |E-Type 4.2 |N/A (key=58538407) |79900264 (0x04C32E68) |$350,000 |265 |222.0
+|xref:cars/1188980788-firepw.adoc[C-X75 Concept] |C-X75 |Concept |73900264 (0x0467A0E8) |$0 |890 |388.0
+|xref:cars/1221502656-type-cpe.adoc[E-Type 4.2 Coupe] |E-Type 4.2 |Coupe |79900264 (0x04C32E68) |$350,000 |265 |222.0
+|xref:cars/23711014-type-cpe.adoc[E-Type 4.2 Coupe] |E-Type 4.2 |Coupe |79900264 (0x04C32E68) |$350,000 |265 |222.0
 |xref:cars/6000270663-f-type-cpe.adoc[F-Type R Coupe (997.2)] |F-Type |R Coupe (997.2) |74900264 (0x0476E328) |$127,000 |542 |355.0
 |xref:cars/6000270664-f-type-svr.adoc[F-Type SVR Coupe] |F-Type |SVR Coupe |74900264 (0x0476E328) |$152,000 |567 |380.0
 |xref:cars/26842516-project-7.adoc[F-Type Project 7] |F-Type |Project 7 |74900264 (0x0476E328) |$182,000 |567 |355.0
-|xref:cars/6000270385-xf-r.adoc[XFR N/A (key=57356917)] |XFR |N/A (key=57356917) |76900264 (0x049567A8) |$180,000 |510 |331.0
-|xref:cars/67409179-xf-r.adoc[XFR N/A (key=57356917)] |XFR |N/A (key=57356917) |76900264 (0x049567A8) |$180,000 |510 |331.0
-|xref:cars/1214886443-xk-cpe.adoc[XK 4.2 N/A (key=58538407)] |XK 4.2 |N/A (key=58538407) |77900264 (0x04A4A9E8) |$75,000 |300 |324.0
-|xref:cars/1182887077-xk-x150.adoc[XK 4.2 N/A (key=56533407)] |XK 4.2 |N/A (key=56533407) |77900264 (0x04A4A9E8) |$81,000 |300 |324.0
-|xref:cars/1186047058-xk-x150-ii.adoc[XKR-S N/A (key=58538407)] |XKR-S |N/A (key=58538407) |75900264 (0x04862568) |$135,000 |550 |333.0
-|xref:cars/72695677-xk-x150-ii.adoc[XKR-S N/A (key=58538407)] |XKR-S |N/A (key=58538407) |75900264 (0x04862568) |$135,000 |550 |333.0
-|xref:cars/1218046424-xkr-x100.adoc[N/A (key=61138407) N/A (key=58538407)] |N/A (key=61138407) |N/A (key=58538407) |76900264 (0x049567A8) |$97,200 |400 |361.0
-|xref:cars/698836043-xj-220.adoc[N/A (key=59138407) N/A (key=57356917)] |N/A (key=59138407) |N/A (key=57356917) |74900264 (0x0476E328) |$520,000 |542 |366.0
-|xref:cars/94346186-xj-220.adoc[N/A (key=59138407) N/A (key=57356917)] |N/A (key=59138407) |N/A (key=57356917) |74900264 (0x0476E328) |$520,000 |542 |366.0
+|xref:cars/6000270385-xf-r.adoc[XFR ??] |XFR |?? |76900264 (0x049567A8) |$180,000 |510 |331.0
+|xref:cars/67409179-xf-r.adoc[XFR ??] |XFR |?? |76900264 (0x049567A8) |$180,000 |510 |331.0
+|xref:cars/698836043-xj-220.adoc[XJ220 ??] |XJ220 |?? |74900264 (0x0476E328) |$520,000 |542 |366.0
+|xref:cars/94346186-xj-220.adoc[XJ220 ??] |XJ220 |?? |74900264 (0x0476E328) |$520,000 |542 |366.0
+|xref:cars/1214886443-xk-cpe.adoc[XK 4.2 Coupe] |XK 4.2 |Coupe |77900264 (0x04A4A9E8) |$75,000 |300 |324.0
+|xref:cars/1182887077-xk-conv.adoc[XK 4.2 Convertible] |XK 4.2 |Convertible |77900264 (0x04A4A9E8) |$81,000 |300 |324.0
+|xref:cars/1186047058-xkr-conv.adoc[XKR-S Coupe] |XKR-S |Coupe |75900264 (0x04862568) |$135,000 |550 |333.0
+|xref:cars/72695677-xkr-conv.adoc[XKR-S Coupe] |XKR-S |Coupe |75900264 (0x04862568) |$135,000 |550 |333.0
+|xref:cars/1218046424-xkr-cpe.adoc[XKR Coupe] |XKR |Coupe |76900264 (0x049567A8) |$97,200 |400 |361.0
 |===
 

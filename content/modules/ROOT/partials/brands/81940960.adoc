@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |81940960
-|Manufacturer ID |N/A (key=59438337)
+|Manufacturer ID |FERRARI
 |Manufacturer Name |Ferrari
-|Logo File |N/A (key=59438337)
+|Logo File |FERRARI
 |Number of Cars |69
 |===
 
@@ -13,29 +13,50 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/1184713927-250.adoc[250 Testa Rossa] |250 |Testa Rossa |79900264 (0x04C32E68) |$0 |296 |271.0
+|xref:cars/1184713927-ford-cobra.adoc[250 Testa Rossa] |250 |Testa Rossa |79900264 (0x04C32E68) |$0 |296 |271.0
 |xref:cars/6000270368-250-california.adoc[250 GT California Scaglietti (SWB)] |250 GT California |Scaglietti (SWB) |79900264 (0x04C32E68) |$3,850,000 |276 |232.0
 |xref:cars/6000270521-250-lusso.adoc[250 Berlinetta Lusso] |250 |Berlinetta Lusso |79900264 (0x04C32E68) |$3,250,000 |247 |232.0
-|xref:cars/6000270363-348-ts.adoc[348 N/A (key=59538407)] |348 |N/A (key=59538407) |77900264 (0x04A4A9E8) |$65,000 |315 |261.0
+|xref:cars/698389658-f250-gto.adoc[250 GTO ??] |250 GTO |?? |79900264 (0x04C32E68) |$5,000,000 |296 |271.0
+|xref:cars/52328521-250gto-3223.adoc[250 GTO #3223GT] |250 GTO |#3223GT |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/91442186-250gto-3505.adoc[250 GTO #3505GT 62' Tourist Throphy] |250 GTO |#3505GT 62' Tourist Throphy |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/16213797-250gto-3223day.adoc[250 GTO #3223GT 64' Daytona 2000 Kilometers] |250 GTO |#3223GT 64' Daytona 2000 Kilometers |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/16741973-250gto-4219.adoc[250 GTO #4129GT 63' USRRC Laguna Seca] |250 GTO |#4129GT 63' USRRC Laguna Seca |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/14414253-250gto-3387.adoc[250 GTO #3387GT 62' Le Mans 24 Hours] |250 GTO |#3387GT 62' Le Mans 24 Hours |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/98710035-250gto-3705.adoc[250 GTO #3705GT 62' Le Mans 24 Hours] |250 GTO |#3705GT 62' Le Mans 24 Hours |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/21043945-250gto-3589.adoc[250 GTO #3589GT 63' Sebring 12 Hours] |250 GTO |#3589GT 63' Sebring 12 Hours |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/79006545-250gto-3445.adoc[250 GTO #3445GT 64' Targa Florio] |250 GTO |#3445GT 64' Targa Florio |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/20696396-250gto-3445.adoc[250 GTO #3445GT 64' Targa Florio] |250 GTO |#3445GT 64' Targa Florio |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/699219666-f288-gto.adoc[288 GTO ??] |288 GTO |?? |79900264 (0x04C32E68) |$850,000 |394 |391.0
+|xref:cars/28068209-f288-gto.adoc[288 GTO ??] |288 GTO |?? |79900264 (0x04C32E68) |$850,000 |394 |391.0
+|xref:cars/1238140632-308-gts-qv.adoc[308 GTS Quattrovalvole] |308 |GTS Quattrovalvole |79900264 (0x04C32E68) |$75,000 |237 |231.0
+|xref:cars/6000270363-348-ts.adoc[348 Spider] |348 |Spider |77900264 (0x04A4A9E8) |$65,000 |315 |261.0
 |xref:cars/6000270367-f355-f1.adoc[F355 F1 Berlinetta] |F355 |F1 Berlinetta |76900264 (0x049567A8) |$100,000 |375 |275.0
 |xref:cars/29908603-f355-black.adoc[F355 F1 Berlinetta] |F355 |F1 Berlinetta |76900264 (0x049567A8) |$100,000 |375 |275.0
-|xref:cars/1229585697-365.adoc[365 GTB/4 Daytona] |365 |GTB/4 Daytona |79900264 (0x04C32E68) |$447,000 |347 |293.0
+|xref:cars/1112402065-f360-stradale.adoc[360 Challenge Stradale] |360 |Challenge Stradale |74900264 (0x0476E328) |$171,000 |419 |279.0
+|xref:cars/86400266-360cs-stripe.adoc[360 Challenge Stradale] |360 |Challenge Stradale |74900264 (0x0476E328) |$171,000 |419 |279.0
+|xref:cars/1229585697-w12-rst.adoc[365 GTB/4 Daytona] |365 |GTB/4 Daytona |79900264 (0x04C32E68) |$447,000 |347 |293.0
 |xref:cars/6000270854-365-eu.adoc[365 GTB/4 Daytona] |365 |GTB/4 Daytona |79900264 (0x04C32E68) |$447,000 |347 |293.0
-|xref:cars/6000270855-365-rst.adoc[365 N/A (key=1006881357001)] |365 |N/A (key=1006881357001) |79900264 (0x04C32E68) |$622,000 |347 |293.0
-|xref:cars/1199604426-512-tr.adoc[512 TR N/A (key=57356917)] |512 TR |N/A (key=57356917) |75900264 (0x04862568) |$155,000 |422 |292.0
+|xref:cars/6000270855-365-rst.adoc[365 GTS/4 Daytona] |365 |GTS/4 Daytona |79900264 (0x04C32E68) |$622,000 |347 |293.0
+|xref:cars/1199604426-512-tr.adoc[512 TR ??] |512 TR |?? |75900264 (0x04862568) |$155,000 |422 |292.0
+|xref:cars/698912474-f575-m.adoc[575M Maranello F1] |575M |Maranello F1 |75900264 (0x04862568) |$230,000 |508 |297.0
+|xref:cars/698554459-f612.adoc[612 Scaglietti ??] |612 Scaglietti |?? |75900264 (0x04862568) |$260,000 |540 |321.0
 |xref:cars/6000270366-california.adoc[California T] |California |T |74900264 (0x0476E328) |$225,000 |552 |328.0
 |xref:cars/29552940-california-t.adoc[California T] |California |T |74900264 (0x0476E328) |$225,000 |552 |328.0
-|xref:cars/1199127923-246-dino-gt.adoc[N/A (key=58438407) N/A (key=54638407)] |N/A (key=58438407) |N/A (key=54638407) |79900264 (0x04C32E68) |$45,000 |195 |245.0
-|xref:cars/6000270312-246-dino-gt.adoc[N/A (key=58438407) N/A (key=54638407)] |N/A (key=58438407) |N/A (key=54638407) |79900264 (0x04C32E68) |$145,000 |192 |260.0
+|xref:cars/1199127923-246-dino-gt.adoc[Dino 246 GT] |Dino 246 |GT |79900264 (0x04C32E68) |$45,000 |195 |245.0
+|xref:cars/6000270312-246-dino-gt.adoc[Dino 246 GT] |Dino 246 |GT |79900264 (0x04C32E68) |$145,000 |192 |260.0
+|xref:cars/706378577-enzo.adoc[Enzo ??] |Enzo |?? |73900264 (0x0467A0E8) |$850,000 |650 |336.0
+|xref:cars/6000270317-enzo.adoc[Enzo ??] |Enzo |?? |73900264 (0x0467A0E8) |$850,000 |650 |336.0
+|xref:cars/6000270562-enzo-fxx.adoc[FXX ??] |FXX |?? |73900264 (0x0467A0E8) |$1,550,000 |789 |359.0
 |xref:cars/6000270520-f-12.adoc[F12 Berlinetta] |F12 |Berlinetta |73900264 (0x0467A0E8) |$625,000 |731 |402.0
 |xref:cars/6000270673-f12-lb.adoc[F12 Berlinetta Liberty Walk] |F12 |Berlinetta Liberty Walk |73900264 (0x0467A0E8) |$740,000 |947 |402.0
-|xref:cars/6000270674-f12-tdf.adoc[F12tdf N/A (key=53338427)] |F12tdf |N/A (key=53338427) |73900264 (0x0467A0E8) |$725,000 |770 |402.0
-|xref:cars/1214731890-f430.adoc[N/A (key=61093667) Berlinetta F1] |N/A (key=61093667) |Berlinetta F1 |74900264 (0x0476E328) |$150,000 |483 |285.0
-|xref:cars/1240731968-f430-rst.adoc[N/A (key=61093667) Spider F1] |N/A (key=61093667) |Spider F1 |74900264 (0x0476E328) |$170,000 |483 |305.0
-|xref:cars/6000270371-f430-scu.adoc[430 Scuderia N/A (key=57356917)] |430 Scuderia |N/A (key=57356917) |74900264 (0x0476E328) |$190,000 |503 |300.0
-|xref:cars/6000270372-f430-16m.adoc[430 Scuderia N/A (key=57356917)] |430 Scuderia |N/A (key=57356917) |74900264 (0x0476E328) |$190,000 |503 |300.0
-|xref:cars/54831536-f430-rst.adoc[N/A (key=61093667) Spider F1] |N/A (key=61093667) |Spider F1 |74900264 (0x0476E328) |$170,000 |483 |305.0
-|xref:cars/6000270316-f458.adoc[458 N/A (key=59538407)] |458 |N/A (key=59538407) |73900264 (0x0467A0E8) |$250,000 |570 |311.0
+|xref:cars/6000270674-f12-tdf.adoc[F12tdf ??] |F12tdf |?? |73900264 (0x0467A0E8) |$725,000 |770 |402.0
+|xref:cars/1192399594-f40.adoc[F40 ??] |F40 |?? |79900264 (0x04C32E68) |$1,300,000 |471 |307.0
+|xref:cars/1214731890-f430-cpe.adoc[F430 Berlinetta F1] |F430 |Berlinetta F1 |74900264 (0x0476E328) |$150,000 |483 |285.0
+|xref:cars/1240731968-f430-rst.adoc[F430 Spider F1] |F430 |Spider F1 |74900264 (0x0476E328) |$170,000 |483 |305.0
+|xref:cars/6000270371-f430-scu.adoc[430 Scuderia ??] |430 Scuderia |?? |74900264 (0x0476E328) |$190,000 |503 |300.0
+|xref:cars/6000270372-f430-16m.adoc[430 Scuderia ??] |430 Scuderia |?? |74900264 (0x0476E328) |$190,000 |503 |300.0
+|xref:cars/54831536-f430-rst.adoc[F430 Spider F1] |F430 |Spider F1 |74900264 (0x0476E328) |$170,000 |483 |305.0
+|xref:cars/6000270316-f612.adoc[458 Spider] |458 |Spider |73900264 (0x0467A0E8) |$250,000 |570 |311.0
 |xref:cars/6000270638-458-ita.adoc[458 Italia] |458 |Italia |73900264 (0x0467A0E8) |$240,000 |570 |311.0
 |xref:cars/6000270640-458-blk.adoc[458 Italia] |458 |Italia |73900264 (0x0467A0E8) |$240,000 |570 |311.0
 |xref:cars/6000270672-458-speciale.adoc[458 Speciale] |458 |Speciale |73900264 (0x0467A0E8) |$310,000 |597 |306.0
@@ -49,38 +70,17 @@
 |xref:cars/87458343-488-red.adoc[488 Pista] |488 |Pista |73900264 (0x0467A0E8) |$490,000 |710 |314.0
 |xref:cars/46626817-488-piloti.adoc[488 Pista Piloti Ferrari] |488 |Pista Piloti Ferrari |73900264 (0x0467A0E8) |$575,000 |710 |314.0
 |xref:cars/14993267-488-piloti.adoc[488 Pista Piloti Ferrari] |488 |Pista Piloti Ferrari |73900264 (0x0467A0E8) |$575,000 |710 |314.0
+|xref:cars/698399392-f50.adoc[F50 ??] |F50 |?? |74900264 (0x0476E328) |$580,000 |514 |303.0
+|xref:cars/24428390-f50.adoc[F50 ??] |F50 |?? |74900264 (0x0476E328) |$580,000 |514 |303.0
 |xref:cars/6000270639-599-gtb.adoc[599 GTB Fiorano F1] |599 |GTB Fiorano F1 |73900264 (0x0467A0E8) |$385,000 |611 |318.0
 |xref:cars/6000270666-812-superfast.adoc[812 Superfast] |812 |Superfast |73900264 (0x0467A0E8) |$755,000 |789 |402.0
 |xref:cars/95218468-812-superfast.adoc[812 Superfast] |812 |Superfast |73900264 (0x0467A0E8) |$755,000 |789 |402.0
-|xref:cars/1108350120-laferrari.adoc[LaFerrari N/A (key=57356917)] |LaFerrari |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,650,000 |949 |375.0
+|xref:cars/1108350120-550.adoc[LaFerrari ??] |LaFerrari |?? |73900264 (0x0467A0E8) |$1,650,000 |949 |375.0
 |xref:cars/81990134-lfaperta-closed.adoc[LaFerrari Aperta] |LaFerrari |Aperta |73900264 (0x0467A0E8) |$2,650,000 |949 |375.0
-|xref:cars/96022063-la-ferrari.adoc[LaFerrari N/A (key=57356917)] |LaFerrari |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,650,000 |949 |375.0
+|xref:cars/96022063-la-ferrari.adoc[LaFerrari ??] |LaFerrari |?? |73900264 (0x0467A0E8) |$1,650,000 |949 |375.0
 |xref:cars/81983701-lf-aperta.adoc[LaFerrari Aperta] |LaFerrari |Aperta |73900264 (0x0467A0E8) |$2,650,000 |949 |375.0
 |xref:cars/19831132-lf-aperta.adoc[LaFerrari Aperta] |LaFerrari |Aperta |73900264 (0x0467A0E8) |$2,650,000 |949 |375.0
-|xref:cars/6000270369-tr-84.adoc[Testarossa N/A (key=53338427)] |Testarossa |N/A (key=53338427) |79900264 (0x04C32E68) |$195,000 |385 |276.0
-|xref:cars/6000270370-tr-rst.adoc[Testarossa N/A (key=59538407)] |Testarossa |N/A (key=59538407) |79900264 (0x04C32E68) |$240,000 |385 |276.0
-|xref:cars/1112402065-f360-stradale.adoc[N/A (key=62438407) N/A (key=60438427)] |N/A (key=62438407) |N/A (key=60438427) |74900264 (0x0476E328) |$171,000 |419 |279.0
-|xref:cars/1192399594-car.adoc[N/A (key=60438407) N/A (key=57356917)] |N/A (key=60438407) |N/A (key=57356917) |79900264 (0x04C32E68) |$1,300,000 |471 |307.0
-|xref:cars/1238140632-308-gts-qv.adoc[N/A (key=56033407) GTS Quattrovalvole] |N/A (key=56033407) |GTS Quattrovalvole |79900264 (0x04C32E68) |$75,000 |237 |231.0
-|xref:cars/14414253-250gto-3387.adoc[N/A (key=57438407) #3387GT 62' Le Mans 24 Hours] |N/A (key=57438407) |#3387GT 62' Le Mans 24 Hours |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/16213797-250gto-3223day.adoc[N/A (key=57438407) #3223GT 64' Daytona 2000 Kilometers] |N/A (key=57438407) |#3223GT 64' Daytona 2000 Kilometers |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/16741973-250gto-4219.adoc[N/A (key=57438407) #4129GT 63' USRRC Laguna Seca] |N/A (key=57438407) |#4129GT 63' USRRC Laguna Seca |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/20696396-250gto-3445.adoc[N/A (key=57438407) #3445GT 64' Targa Florio] |N/A (key=57438407) |#3445GT 64' Targa Florio |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/21043945-250gto-3589.adoc[N/A (key=57438407) #3589GT 63' Sebring 12 Hours] |N/A (key=57438407) |#3589GT 63' Sebring 12 Hours |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/24428390-car.adoc[N/A (key=61438407) N/A (key=57356917)] |N/A (key=61438407) |N/A (key=57356917) |74900264 (0x0476E328) |$580,000 |514 |303.0
-|xref:cars/28068209-car.adoc[N/A (key=59438407) N/A (key=57356917)] |N/A (key=59438407) |N/A (key=57356917) |79900264 (0x04C32E68) |$850,000 |394 |391.0
-|xref:cars/52328521-250gto-3223.adoc[N/A (key=57438407) #3223GT] |N/A (key=57438407) |#3223GT |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/6000270317-car.adoc[N/A (key=56538407) N/A (key=57356917)] |N/A (key=56538407) |N/A (key=57356917) |73900264 (0x0467A0E8) |$850,000 |650 |336.0
-|xref:cars/6000270562-enzo-fxx.adoc[FXX N/A (key=57356917)] |FXX |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,550,000 |789 |359.0
-|xref:cars/698389658-car.adoc[N/A (key=57438407) N/A (key=57356917)] |N/A (key=57438407) |N/A (key=57356917) |79900264 (0x04C32E68) |$5,000,000 |296 |271.0
-|xref:cars/698399392-car.adoc[N/A (key=61438407) N/A (key=57356917)] |N/A (key=61438407) |N/A (key=57356917) |74900264 (0x0476E328) |$580,000 |514 |303.0
-|xref:cars/698554459-car.adoc[N/A (key=53538407) N/A (key=53338427)] |N/A (key=53538407) |N/A (key=53338427) |75900264 (0x04862568) |$260,000 |540 |321.0
-|xref:cars/698912474-car.adoc[N/A (key=54538407) Maranello F1] |N/A (key=54538407) |Maranello F1 |75900264 (0x04862568) |$230,000 |508 |297.0
-|xref:cars/699219666-car.adoc[N/A (key=59438407) N/A (key=57356917)] |N/A (key=59438407) |N/A (key=57356917) |79900264 (0x04C32E68) |$850,000 |394 |391.0
-|xref:cars/706378577-car.adoc[N/A (key=56538407) N/A (key=53338427)] |N/A (key=56538407) |N/A (key=53338427) |73900264 (0x0467A0E8) |$850,000 |650 |336.0
-|xref:cars/79006545-250gto-3445.adoc[N/A (key=57438407) #3445GT 64' Targa Florio] |N/A (key=57438407) |#3445GT 64' Targa Florio |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/86400266-360cs-stripe.adoc[N/A (key=62438407) N/A (key=60438427)] |N/A (key=62438407) |N/A (key=60438427) |74900264 (0x0476E328) |$171,000 |419 |279.0
-|xref:cars/91442186-250gto-3505.adoc[N/A (key=57438407) #3505GT 62' Tourist Throphy] |N/A (key=57438407) |#3505GT 62' Tourist Throphy |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
-|xref:cars/98710035-250gto-3705.adoc[N/A (key=57438407) #3705GT 62' Le Mans 24 Hours] |N/A (key=57438407) |#3705GT 62' Le Mans 24 Hours |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
+|xref:cars/6000270369-tr-84.adoc[Testarossa ??] |Testarossa |?? |79900264 (0x04C32E68) |$195,000 |385 |276.0
+|xref:cars/6000270370-tr-rst.adoc[Testarossa Spider] |Testarossa |Spider |79900264 (0x04C32E68) |$240,000 |385 |276.0
 |===
 

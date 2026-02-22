@@ -1,12 +1,10 @@
-:page-aliases: matra
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |998
 |Manufacturer ID |Matra
-|Manufacturer Name |N/A (key=7128357)
+|Manufacturer Name |Matra
 |Logo File |Matra
 |Number of Cars |0
 |===

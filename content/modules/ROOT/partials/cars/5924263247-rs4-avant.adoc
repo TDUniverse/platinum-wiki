@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$83,000
 |Car Name |RS4 B8
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RS4_Avant
-|Model |N/A (key=62347407)
+|Model |RS4
 |Version |Avant quattro (B8)
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1416
 |Wheelbase (mm) |2811
 |Weight (kg) |1795
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

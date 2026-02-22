@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-3-series-e36
+:page-aliases: bmw-3-series-e36
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270494
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |77900264 (0x04A4A9E8)
 |Price |$65,000
 |Car Name |3-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |M3_E36
 |Model |M3
 |Version |E36
@@ -70,7 +70,7 @@
 |Height (mm) |1335
 |Wheelbase (mm) |2700
 |Weight (kg) |1460
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

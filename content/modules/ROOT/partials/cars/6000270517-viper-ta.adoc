@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-58238407-srt-ta
+:page-aliases: dodge-viper-srt-ta
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |73900264 (0x0467A0E8)
 |Price |$140,000
-|Car Name |N/A (key=58238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Viper
+|Real Name |??
 |File Name |Viper_TA
-|Model |N/A (key=58238407)
+|Model |Viper
 |Version |SRT TA
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1246
 |Wheelbase (mm) |2510
 |Weight (kg) |1507
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

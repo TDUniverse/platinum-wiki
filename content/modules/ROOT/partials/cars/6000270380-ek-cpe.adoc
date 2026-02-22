@@ -15,9 +15,9 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$19,000
 |Car Name |Civic
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |EK_Cpe
-|Model |N/A (key=105982366)
+|Model |Civic
 |Version |Si (EM1)
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1374
 |Wheelbase (mm) |2620
 |Weight (kg) |1185
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

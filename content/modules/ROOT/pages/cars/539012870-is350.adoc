@@ -1,6 +1,6 @@
-= Lexus - IS 300 N/A (key=57356917)
+= Lexus - IS 300 ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/539012870-is350.adoc[]

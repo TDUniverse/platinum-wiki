@@ -1,6 +1,6 @@
-= Nissan - 240SX N/A (key=54033427)
+= Nissan - 240SX SE
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1237390819-350z-rst.adoc[]

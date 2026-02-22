@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |8714133
-|Manufacturer ID |N/A (key=59838337)
+|Manufacturer ID |SATURN
 |Manufacturer Name |Saturn
-|Logo File |N/A (key=59838337)
+|Logo File |SATURN
 |Number of Cars |1
 |===
 
@@ -13,6 +13,6 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270620-saturn-sky.adoc[Sky N/A (key=57356917)] |Sky |N/A (key=57356917) |78900264 (0x04B3EC28) |$23,000 |177 |273.0
+|xref:cars/6000270620-saturn-sky.adoc[Sky ??] |Sky |?? |78900264 (0x04B3EC28) |$23,000 |177 |273.0
 |===
 

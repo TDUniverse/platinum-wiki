@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$130,000
 |Car Name |C-Klasse (C204)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |C63_BlackSpo
 |Model |C
 |Version |63 AMG Black Series
@@ -71,7 +71,7 @@
 |Height (mm) |1387
 |Wheelbase (mm) |2765
 |Weight (kg) |1678
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7038357-037-coupe-tipo-151-stradale
+:page-aliases: lancia-037-coupe-tipo-151-stradale
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270794
-|Brand |xref:brands/739.adoc[N/A (key=7038357)]
+|Brand |xref:brands/739.adoc[Lancia]
 |Group |79900264 (0x04C32E68)
 |Price |$315,000
 |Car Name |037 Coupe
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Rally_037
 |Model |Rally
 |Version |037 Stradale
@@ -69,7 +69,7 @@
 |Height (mm) |1245
 |Wheelbase (mm) |2440
 |Weight (kg) |1170
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

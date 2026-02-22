@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |72595
-|Manufacturer ID |N/A (key=57338337)
+|Manufacturer ID |ASCA
 |Manufacturer Name |Ascari
-|Logo File |N/A (key=57338337)
+|Logo File |ASCA
 |Number of Cars |2
 |===
 
@@ -13,7 +13,7 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270303-car.adoc[N/A (key=60938407) N/A (key=57356917)] |N/A (key=60938407) |N/A (key=57356917) |74900264 (0x0476E328) |$150,000 |500 |320.0
-|xref:cars/698882776-car.adoc[N/A (key=60938407) N/A (key=57356917)] |N/A (key=60938407) |N/A (key=57356917) |74900264 (0x0476E328) |$150,000 |500 |322.0
+|xref:cars/698882776-kz1.adoc[KZ1 ??] |KZ1 |?? |74900264 (0x0476E328) |$150,000 |500 |322.0
+|xref:cars/6000270303-kz1.adoc[KZ1 ??] |KZ1 |?? |74900264 (0x0476E328) |$150,000 |500 |320.0
 |===
 

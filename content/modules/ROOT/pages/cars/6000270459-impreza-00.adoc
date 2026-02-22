@@ -1,6 +1,6 @@
-= Subaru - N/A (key=59448407) WRX STI (Type-I) (GDA)
+= Subaru - Impreza WRX STI (Type-I) (GDA)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270459-impreza-00.adoc[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: spyker-n-a-key-58038407-aileron
+:page-aliases: spyker-c8-aileron
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/84783.adoc[Spyker]
 |Group |75900264 (0x04862568)
 |Price |$267,500
-|Car Name |N/A (key=58038407)
-|Real Name |N/A (key=53338427)
+|Car Name |C8
+|Real Name |??
 |File Name |SPYK_RST_T
-|Model |N/A (key=58038407)
+|Model |C8
 |Version |Aileron
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1270
 |Wheelbase (mm) |2725
 |Weight (kg) |1560
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

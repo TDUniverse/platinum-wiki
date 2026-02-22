@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-n-a-key-15090361-e63-coupe
+:page-aliases: bmw-6-series-e63-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270627
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |75900264 (0x04862568)
 |Price |$120,500
-|Car Name |N/A (key=15090361)
-|Real Name |N/A (key=53338427)
+|Car Name |6-series
+|Real Name |??
 |File Name |M6_E63
 |Model |M6
 |Version |E63
@@ -71,7 +71,7 @@
 |Height (mm) |1372
 |Wheelbase (mm) |2781
 |Weight (kg) |1710
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

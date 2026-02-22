@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-57238407-r-t-dragster
+:page-aliases: dodge-challenger-r-t-dragster
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |73900264 (0x0467A0E8)
 |Price |$35,000
-|Car Name |N/A (key=57238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Challenger
+|Real Name |??
 |File Name |Challenger_Drag
-|Model |N/A (key=57238407)
-|Version |N/A (key=300401052)
+|Model |Challenger
+|Version |R/T 426 Hemi Dragster
 |===
 
 //end::identity[]
@@ -68,7 +68,7 @@
 |Height (mm) |1293
 |Wheelbase (mm) |2794
 |Weight (kg) |1655
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

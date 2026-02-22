@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$28,000
 |Car Name |Ibiza Cupra
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Ibiza_Cupra
 |Model |Ibiza
 |Version |Cupra 1.4 TSi
@@ -71,7 +71,7 @@
 |Height (mm) |1420
 |Wheelbase (mm) |2469
 |Weight (kg) |1172
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

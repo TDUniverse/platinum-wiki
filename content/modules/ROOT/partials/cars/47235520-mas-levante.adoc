@@ -15,10 +15,10 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$135,000
 |Car Name |Levante
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mas_Levante
 |Model |Levante
-|Version |N/A (key=57738427)
+|Version |S
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1679
 |Wheelbase (mm) |3004
 |Weight (kg) |2109
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

@@ -1,5 +1,3 @@
-:page-aliases: hennes
-
 == Identity
 [cols="1,1",options="header"]
 |===
@@ -7,7 +5,7 @@
 |ID |1137632324
 |Manufacturer ID |HENNES
 |Manufacturer Name |Hennessey
-|Logo File |N/A (key=56438337)
+|Logo File |DODGE
 |Number of Cars |0
 |===
 

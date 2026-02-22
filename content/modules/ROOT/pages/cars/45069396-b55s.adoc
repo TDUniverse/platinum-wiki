@@ -1,6 +1,6 @@
-= N/A (key=6138357) - M5 F10
+= BMW - M5 F10
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/45069396-b55s.adoc[]

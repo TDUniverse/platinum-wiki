@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$570,000
 |Car Name |911 Turbo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RWB_turbo
 |Model |911 Turbo
 |Version |RAUH-Welt BEGRIFF (993)
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2272
 |Weight (kg) |1360
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,0 +1,6 @@
+= Lotus - Esprit V8
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/705428965-esprit-v8.adoc[]

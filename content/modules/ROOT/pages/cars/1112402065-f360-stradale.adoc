@@ -1,6 +1,6 @@
-= Ferrari - N/A (key=62438407) N/A (key=60438427)
+= Ferrari - 360 Challenge Stradale
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1112402065-f360-stradale.adoc[]

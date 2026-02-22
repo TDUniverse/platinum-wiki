@@ -1,6 +1,6 @@
-= N/A (key=53938337) - N/A (key=5666317) MF3
+= Wiesmann - Roadster MF3
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/922904690-wies-rst.adoc[]

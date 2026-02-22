@@ -1,6 +1,6 @@
-= N/A (key=6138357) - M1 N/A (key=53338424)
+= BMW - M1 ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1193140602-308-gtb-qv.adoc[]

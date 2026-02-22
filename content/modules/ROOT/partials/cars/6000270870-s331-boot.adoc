@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$85,350
 |Car Name |F-Series Truck
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |S331_Boot
 |Model |S331
 |Version |Supercharged
@@ -68,7 +68,7 @@
 |Height (mm) |1803
 |Wheelbase (mm) |3670
 |Weight (kg) |2420
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

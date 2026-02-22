@@ -1,12 +1,10 @@
-:page-aliases: maybach
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |856
 |Manufacturer ID |Maybach
-|Manufacturer Name |N/A (key=7878357)
+|Manufacturer Name |Maybach
 |Logo File |Maybach
 |Number of Cars |0
 |===

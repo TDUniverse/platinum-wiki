@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$95,000
 |Car Name |Ghibli Q4
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mas_Ghibli
 |Model |Ghibli
 |Version |Q4
@@ -71,7 +71,7 @@
 |Height (mm) |1461
 |Wheelbase (mm) |2998
 |Weight (kg) |1870
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

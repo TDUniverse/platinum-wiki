@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$153,000
 |Car Name |Impreza WRX STi
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Impreza_RallyX
-|Model |N/A (key=59448407)
+|Model |Impreza
 |Version |WRX STI RallyX (GR)
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1476
 |Wheelbase (mm) |2620
 |Weight (kg) |1435
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

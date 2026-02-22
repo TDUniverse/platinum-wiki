@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$124,000
 |Car Name |Supra RZ
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Supra_Toms
-|Model |N/A (key=59348407)
+|Model |Supra
 |Version |RZ
 |===
 

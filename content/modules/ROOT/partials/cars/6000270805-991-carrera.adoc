@@ -15,9 +15,9 @@
 |Group |75900264 (0x04862568)
 |Price |$185,000
 |Car Name |911 Carrera
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |991_Carrera
-|Model |N/A (key=57638407)
+|Model |911
 |Version |Carrera S (991.2)
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1296
 |Wheelbase (mm) |2450
 |Weight (kg) |1440
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

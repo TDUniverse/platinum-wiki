@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |913
-|Manufacturer ID |N/A (key=53738337)
+|Manufacturer ID |SUB
 |Manufacturer Name |Subaru
-|Logo File |N/A (key=53738337)
+|Logo File |SUB
 |Number of Cars |33
 |===
 
@@ -13,37 +13,37 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270462-sub-brz.adoc[BRZ N/A (key=57356917)] |BRZ |N/A (key=57356917) |78900264 (0x04B3EC28) |$27,500 |197 |252.0
+|xref:cars/6000270462-sub-brz.adoc[BRZ ??] |BRZ |?? |78900264 (0x04B3EC28) |$27,500 |197 |252.0
 |xref:cars/6000270463-brz-apr.adoc[BRZ APR] |BRZ |APR |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270464-brz-cwest.adoc[BRZ C-West] |BRZ |C-West |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270465-brz-damd.adoc[BRZ DAMD] |BRZ |DAMD |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270466-brz-greddy.adoc[BRZ GReddy ] |BRZ |GReddy  |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270467-brz-greddy2.adoc[BRZ GReddy +] |BRZ |GReddy + |77900264 (0x04A4A9E8) |$57,700 |264 |265.0
-|xref:cars/6000270468-brz-ings.adoc[BRZ N/A (key=1007403028001)] |BRZ |N/A (key=1007403028001) |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
+|xref:cars/6000270468-brz-ings.adoc[BRZ IGNS+1] |BRZ |IGNS+1 |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270469-brz-rmagic.adoc[BRZ R Magic] |BRZ |R Magic |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270470-brz-uras.adoc[BRZ URAS] |BRZ |URAS |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270471-brz-varis.adoc[BRZ Varis] |BRZ |Varis |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
-|xref:cars/6000270820-brz-rb.adoc[BRZ N/A (key=1008082231001)] |BRZ |N/A (key=1008082231001) |74900264 (0x0476E328) |$292,500 |545 |335.0
-|xref:cars/6000270829-brz-stance.adoc[BRZ N/A (key=1008082231001)] |BRZ |N/A (key=1008082231001) |74900264 (0x0476E328) |$292,500 |545 |335.0
-|xref:cars/701819911-impreza-22b.adoc[N/A (key=59448407) 22B STi (GM)] |N/A (key=59448407) |22B STi (GM) |77900264 (0x04A4A9E8) |$50,000 |276 |301.0
-|xref:cars/6000270819-22b-wrc.adoc[N/A (key=59448407) 22B STi WRC] |N/A (key=59448407) |22B STi WRC |76900264 (0x049567A8) |$200,000 |345 |235.0
-|xref:cars/6000270823-22b-bomb.adoc[N/A (key=59448407) 22B STi Bomb] |N/A (key=59448407) |22B STi Bomb |76900264 (0x049567A8) |$125,000 |335 |301.0
-|xref:cars/6000270830-22b-hb.adoc[N/A (key=59448407) 22B STi HB Ballistix] |N/A (key=59448407) |22B STi HB Ballistix |76900264 (0x049567A8) |$125,000 |335 |301.0
-|xref:cars/6000270831-22b-vis.adoc[N/A (key=59448407) 22B STi ViS Racing Demon] |N/A (key=59448407) |22B STi ViS Racing Demon |76900264 (0x049567A8) |$125,000 |335 |301.0
-|xref:cars/37324396-impreza-22b.adoc[N/A (key=59448407) 22B STi (GM)] |N/A (key=59448407) |22B STi (GM) |76900264 (0x049567A8) |$140,000 |335 |301.0
-|xref:cars/58142377-impreza-wrx-sti.adoc[N/A (key=59448407) WRX STI (GV)] |N/A (key=59448407) |WRX STI (GV) |77900264 (0x04A4A9E8) |$54,200 |305 |277.0
-|xref:cars/6000270459-impreza-00.adoc[N/A (key=59448407) WRX STI (Type-I) (GDA)] |N/A (key=59448407) |WRX STI (Type-I) (GDA) |77900264 (0x04A4A9E8) |$43,500 |276 |253.0
-|xref:cars/6000270460-impreza-04.adoc[N/A (key=59448407) WRX STI (Type-II) (GDB)] |N/A (key=59448407) |WRX STI (Type-II) (GDB) |77900264 (0x04A4A9E8) |$47,500 |276 |253.0
-|xref:cars/6000270461-impreza-06.adoc[N/A (key=59448407) WRX STI (GDC)] |N/A (key=59448407) |WRX STI (GDC) |77900264 (0x04A4A9E8) |$50,300 |276 |253.0
-|xref:cars/6000270817-sti-wrx.adoc[N/A (key=59448407) WRX STI (Type-II) (GDB)] |N/A (key=59448407) |WRX STI (Type-II) (GDB) |76900264 (0x049567A8) |$80,000 |335 |254.0
-|xref:cars/6000270818-impreza-08.adoc[N/A (key=59448407) WRX STI (GR)] |N/A (key=59448407) |WRX STI (GR) |77900264 (0x04A4A9E8) |$53,000 |305 |277.0
-|xref:cars/6000270821-wrx04-sarona.adoc[N/A (key=59448407) WRX STI Sarona (GDB)] |N/A (key=59448407) |WRX STI Sarona (GDB) |76900264 (0x049567A8) |$75,500 |335 |254.0
-|xref:cars/6000270822-impreza-st204.adoc[N/A (key=59448407) WRX STI S204 (GDC)] |N/A (key=59448407) |WRX STI S204 (GDC) |77900264 (0x04A4A9E8) |$75,300 |320 |254.0
-|xref:cars/6000270824-wrx04-gd9.adoc[N/A (key=59448407) WRX STI GD9 (GDB)] |N/A (key=59448407) |WRX STI GD9 (GDB) |76900264 (0x049567A8) |$75,500 |335 |254.0
-|xref:cars/6000270825-sti-specc.adoc[N/A (key=59448407) WRX STI Spec C (GDB)] |N/A (key=59448407) |WRX STI Spec C (GDB) |76900264 (0x049567A8) |$75,500 |335 |254.0
-|xref:cars/6000270826-impreza-rallyx.adoc[N/A (key=59448407) WRX STI RallyX (GR)] |N/A (key=59448407) |WRX STI RallyX (GR) |76900264 (0x049567A8) |$153,000 |345 |214.0
-|xref:cars/6000270827-impreza-carbon.adoc[N/A (key=59448407) WRX STI (GR)] |N/A (key=59448407) |WRX STI (GR) |76900264 (0x049567A8) |$90,500 |345 |277.0
-|xref:cars/6000270828-impreza-spo.adoc[N/A (key=59448407) WRX STI (GV)] |N/A (key=59448407) |WRX STI (GV) |77900264 (0x04A4A9E8) |$53,000 |305 |277.0
+|xref:cars/6000270820-brz-rb.adoc[BRZ Rocket Bunny] |BRZ |Rocket Bunny |74900264 (0x0476E328) |$292,500 |545 |335.0
+|xref:cars/6000270829-brz-stance.adoc[BRZ Rocket Bunny] |BRZ |Rocket Bunny |74900264 (0x0476E328) |$292,500 |545 |335.0
+|xref:cars/701819911-gto-cpe.adoc[Impreza 22B STi (GM)] |Impreza |22B STi (GM) |77900264 (0x04A4A9E8) |$50,000 |276 |301.0
+|xref:cars/6000270819-22b-wrc.adoc[Impreza 22B STi WRC] |Impreza |22B STi WRC |76900264 (0x049567A8) |$200,000 |345 |235.0
+|xref:cars/6000270823-22b-bomb.adoc[Impreza 22B STi Bomb] |Impreza |22B STi Bomb |76900264 (0x049567A8) |$125,000 |335 |301.0
+|xref:cars/6000270830-22b-hb.adoc[Impreza 22B STi HB Ballistix] |Impreza |22B STi HB Ballistix |76900264 (0x049567A8) |$125,000 |335 |301.0
+|xref:cars/6000270831-22b-vis.adoc[Impreza 22B STi ViS Racing Demon] |Impreza |22B STi ViS Racing Demon |76900264 (0x049567A8) |$125,000 |335 |301.0
+|xref:cars/37324396-gto-cpe.adoc[Impreza 22B STi (GM)] |Impreza |22B STi (GM) |76900264 (0x049567A8) |$140,000 |335 |301.0
+|xref:cars/58142377-impreza.adoc[Impreza WRX STI (GV)] |Impreza |WRX STI (GV) |77900264 (0x04A4A9E8) |$54,200 |305 |277.0
+|xref:cars/6000270459-impreza-00.adoc[Impreza WRX STI (Type-I) (GDA)] |Impreza |WRX STI (Type-I) (GDA) |77900264 (0x04A4A9E8) |$43,500 |276 |253.0
+|xref:cars/6000270460-impreza-04.adoc[Impreza WRX STI (Type-II) (GDB)] |Impreza |WRX STI (Type-II) (GDB) |77900264 (0x04A4A9E8) |$47,500 |276 |253.0
+|xref:cars/6000270461-impreza-06.adoc[Impreza WRX STI (GDC)] |Impreza |WRX STI (GDC) |77900264 (0x04A4A9E8) |$50,300 |276 |253.0
+|xref:cars/6000270817-sti-wrx.adoc[Impreza WRX STI (Type-II) (GDB)] |Impreza |WRX STI (Type-II) (GDB) |76900264 (0x049567A8) |$80,000 |335 |254.0
+|xref:cars/6000270818-impreza-08.adoc[Impreza WRX STI (GR)] |Impreza |WRX STI (GR) |77900264 (0x04A4A9E8) |$53,000 |305 |277.0
+|xref:cars/6000270821-wrx04-sarona.adoc[Impreza WRX STI Sarona (GDB)] |Impreza |WRX STI Sarona (GDB) |76900264 (0x049567A8) |$75,500 |335 |254.0
+|xref:cars/6000270822-impreza-st204.adoc[Impreza WRX STI S204 (GDC)] |Impreza |WRX STI S204 (GDC) |77900264 (0x04A4A9E8) |$75,300 |320 |254.0
+|xref:cars/6000270824-wrx04-gd9.adoc[Impreza WRX STI GD9 (GDB)] |Impreza |WRX STI GD9 (GDB) |76900264 (0x049567A8) |$75,500 |335 |254.0
+|xref:cars/6000270825-sti-specc.adoc[Impreza WRX STI Spec C (GDB)] |Impreza |WRX STI Spec C (GDB) |76900264 (0x049567A8) |$75,500 |335 |254.0
+|xref:cars/6000270826-impreza-rallyx.adoc[Impreza WRX STI RallyX (GR)] |Impreza |WRX STI RallyX (GR) |76900264 (0x049567A8) |$153,000 |345 |214.0
+|xref:cars/6000270827-impreza-carbon.adoc[Impreza WRX STI (GR)] |Impreza |WRX STI (GR) |76900264 (0x049567A8) |$90,500 |345 |277.0
+|xref:cars/6000270828-impreza-spo.adoc[Impreza WRX STI (GV)] |Impreza |WRX STI (GV) |77900264 (0x04A4A9E8) |$53,000 |305 |277.0
 |xref:cars/6000270472-legacy-rs.adoc[Legacy RS] |Legacy |RS |78900264 (0x04B3EC28) |$19,000 |217 |247.0
 |xref:cars/6000270473-legacy-rally.adoc[Legacy RS] |Legacy |RS |77900264 (0x04A4A9E8) |$44,000 |277 |214.0
 |===

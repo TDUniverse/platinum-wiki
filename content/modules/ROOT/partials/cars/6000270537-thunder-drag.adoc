@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$240,000
 |Car Name |Thunderbird (Mk1)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Thunder_Drag
 |Model |Thunderbird
 |Version |312 Super V8 Dragster
@@ -68,7 +68,7 @@
 |Height (mm) |1311
 |Wheelbase (mm) |2591
 |Weight (kg) |1590
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

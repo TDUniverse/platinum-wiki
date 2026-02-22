@@ -1,12 +1,10 @@
-:page-aliases: delage
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |965
 |Manufacturer ID |Delage
-|Manufacturer Name |N/A (key=7538357)
+|Manufacturer Name |Delage
 |Logo File |Delage
 |Number of Cars |0
 |===

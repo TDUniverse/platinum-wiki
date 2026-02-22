@@ -1,5 +1,3 @@
-:page-aliases: kit-svt-ford
-
 == Identity
 [cols="1,1",options="header"]
 |===

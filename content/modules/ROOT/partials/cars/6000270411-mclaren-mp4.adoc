@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7028357-mp4-12c
+:page-aliases: peugeot-mp4-12c
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270411
-|Brand |xref:brands/738.adoc[N/A (key=7028357)]
+|Brand |xref:brands/738.adoc[Peugeot]
 |Group |78900264 (0x04B3EC28)
 |Price |$15,500
 |Car Name |MP4
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mclaren_MP4
 |Model |206 GTi
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1428
 |Wheelbase (mm) |2442
 |Weight (kg) |1170
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

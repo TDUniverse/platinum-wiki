@@ -1,6 +1,6 @@
-= Mclaren - N/A (key=58938407) N/A (key=57356917)
+= Mclaren - F1 ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/69868717-mclaren-f1.adoc[]

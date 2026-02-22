@@ -1,6 +1,6 @@
 = Nissan - Fairlady Z Ground Effects Type NS-047-KT
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/45889464-z33-ground.adoc[]

@@ -15,9 +15,9 @@
 |Group |79900264 (0x04C32E68)
 |Price |$50,000
 |Car Name |Mustang (Mk1)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Must_68
-|Model |N/A (key=61038407)
+|Model |Mustang
 |Version |GT Fastback 2+2 390
 |===
 

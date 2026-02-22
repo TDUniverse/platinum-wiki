@@ -1,6 +1,6 @@
-= N/A (key=57838337) - CTR2 N/A (key=57356917)
+= RUF - CTR2 ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1289993715-a4-dtm.adoc[]

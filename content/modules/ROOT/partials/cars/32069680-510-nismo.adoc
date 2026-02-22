@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$117,500
 |Car Name |Datsun
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |510_Nismo
 |Model |Datsun 1600
 |Version |(510)
@@ -69,7 +69,7 @@
 |Height (mm) |1400
 |Wheelbase (mm) |2420
 |Weight (kg) |947
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

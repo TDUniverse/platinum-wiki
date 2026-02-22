@@ -15,10 +15,10 @@
 |Group |74900264 (0x0476E328)
 |Price |$375,000
 |Car Name |LF
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |LF_A
 |Model |LFA
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1220
 |Wheelbase (mm) |2605
 |Weight (kg) |1480
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$48,000
 |Car Name |Megane Coupe
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Megane_RS
 |Model |Sport Megane
 |Version |275 Cup-S
@@ -70,7 +70,7 @@
 |Height (mm) |1422
 |Wheelbase (mm) |2646
 |Weight (kg) |1394
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

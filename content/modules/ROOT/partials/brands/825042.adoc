@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |825042
-|Manufacturer ID |N/A (key=58938337)
-|Manufacturer Name |N/A (key=58938337)
-|Logo File |N/A (key=58938337)
+|Manufacturer ID |HCICK
+|Manufacturer Name |HCICK
+|Logo File |HCICK
 |Number of Cars |0
 |===
 

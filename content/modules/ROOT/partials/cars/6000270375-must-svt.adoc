@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$50,000
 |Car Name |Mustang (Mk4-II)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Must_SVT
-|Model |N/A (key=61038407)
+|Model |Mustang
 |Version |SVT Cobra R
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1320
 |Wheelbase (mm) |2573
 |Weight (kg) |1624
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

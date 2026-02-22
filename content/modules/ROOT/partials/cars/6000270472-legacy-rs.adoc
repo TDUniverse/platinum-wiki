@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$19,000
 |Car Name |Legacy RS
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Legacy_RS
 |Model |Legacy
 |Version |RS
@@ -69,7 +69,7 @@
 |Height (mm) |1395
 |Wheelbase (mm) |2580
 |Weight (kg) |1290
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

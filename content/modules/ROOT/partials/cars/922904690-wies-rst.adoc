@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-53938337-n-a-key-55933407-mf3
+:page-aliases: wiesmann-roadster-mf3
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,13 +11,13 @@
 |===
 |Field |Value
 |ID |922904690
-|Brand |xref:brands/1220916237.adoc[N/A (key=53938337)]
+|Brand |xref:brands/1220916237.adoc[Wiesmann]
 |Group |76900264 (0x049567A8)
 |Price |$70,000
-|Car Name |N/A (key=55933407)
-|Real Name |N/A (key=53338427)
+|Car Name |Roadster
+|Real Name |??
 |File Name |Wies_RST
-|Model |N/A (key=5666317)
+|Model |Roadster
 |Version |MF3
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1160
 |Wheelbase (mm) |2375
 |Weight (kg) |1180
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

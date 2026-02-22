@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: koenigsegg-n-a-key-60538407-regera-carbon-hybrid-v-rent
+:page-aliases: koenigsegg-cc-regera-carbon-hybrid-v-rent
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/85765.adoc[Koenigsegg]
 |Group |73900264 (0x0467A0E8)
 |Price |$1,900,000
-|Car Name |N/A (key=60538407)
-|Real Name |N/A (key=53338427)
+|Car Name |CC
+|Real Name |??
 |File Name |Regera_CarbRoof
 |Model |Regera
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -65,7 +65,7 @@
 |Height (mm) |1110
 |Wheelbase (mm) |2662
 |Weight (kg) |1628
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

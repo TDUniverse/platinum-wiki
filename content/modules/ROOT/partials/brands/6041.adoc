@@ -1,5 +1,3 @@
-:page-aliases: kit-kbd
-
 == Identity
 [cols="1,1",options="header"]
 |===

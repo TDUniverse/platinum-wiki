@@ -15,9 +15,9 @@
 |Group |75900264 (0x04862568)
 |Price |$179,000
 |Car Name |Supra RZ
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Supra_TRD
-|Model |N/A (key=59348407)
+|Model |Supra
 |Version |RZ TRD E-Design
 |===
 

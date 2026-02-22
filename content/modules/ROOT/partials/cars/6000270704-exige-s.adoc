@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: lotus-n-a-key-59838407-n-a-key-57738427
+:page-aliases: lotus-exige-s
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/924266.adoc[Lotus]
 |Group |75900264 (0x04862568)
 |Price |$105,000
-|Car Name |N/A (key=59838407)
-|Real Name |N/A (key=53338427)
+|Car Name |Exige
+|Real Name |??
 |File Name |Exige_S
-|Model |N/A (key=59838407)
-|Version |N/A (key=57738427)
+|Model |Exige
+|Version |S
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1129
 |Wheelbase (mm) |2370
 |Weight (kg) |1176
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-3-series-e92-coupe-hamann-sportkit
+:page-aliases: bmw-3-series-e92-coupe-hamann-sportkit
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270649
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |75900264 (0x04862568)
 |Price |$170,000
 |Car Name |3-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |M3_HamannS
 |Model |M3
 |Version |E92 Hamann Sportkit HM/M
@@ -70,7 +70,7 @@
 |Height (mm) |1425
 |Wheelbase (mm) |2760
 |Weight (kg) |1560
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

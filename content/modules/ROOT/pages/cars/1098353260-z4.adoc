@@ -1,0 +1,6 @@
+= BMW - 1M Coupe
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/1098353260-z4.adoc[]

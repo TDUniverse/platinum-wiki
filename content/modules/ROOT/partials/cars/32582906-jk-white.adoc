@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$35,000
 |Car Name |Wrangler 2-door
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |JK_White
 |Model |Wrangler
 |Version |JK Rubicon
@@ -70,7 +70,7 @@
 |Height (mm) |1836
 |Wheelbase (mm) |2424
 |Weight (kg) |1830
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$197,000
 |Car Name |Huracan
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Huracan_LP580
 |Model |Huracán
 |Version |LP580-2
@@ -71,7 +71,7 @@
 |Height (mm) |1165
 |Wheelbase (mm) |2620
 |Weight (kg) |1490
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

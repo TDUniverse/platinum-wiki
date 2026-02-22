@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$154,000
 |Car Name |Quattroporte GT S
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mas_Quat
 |Model |Quattroporte
 |Version |GT S
@@ -70,7 +70,7 @@
 |Height (mm) |1423
 |Wheelbase (mm) |3064
 |Weight (kg) |1990
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

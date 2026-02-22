@@ -15,10 +15,10 @@
 |Group |79900264 (0x04C32E68)
 |Price |$200,000
 |Car Name |Roadrunner
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Superbird
-|Model |N/A (key=60238407)
-|Version |N/A (key=1003307536001)
+|Model |Superbird
+|Version |Hemi
 |===
 
 //end::identity[]
@@ -68,7 +68,7 @@
 |Height (mm) |1346
 |Wheelbase (mm) |2946
 |Weight (kg) |1928
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

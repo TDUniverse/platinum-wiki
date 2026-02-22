@@ -15,9 +15,9 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$244,000
 |Car Name |Supra RZ
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Supra_Abflug
-|Model |N/A (key=59348407)
+|Model |Supra
 |Version |RZ Abflug S900 
 |===
 

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7098357-cinquecento-abarth-esse-esse-typ-110
+:page-aliases: fiat-cinquecento-abarth-esse-esse-typ-110
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270642
-|Brand |xref:brands/745.adoc[N/A (key=7098357)]
+|Brand |xref:brands/745.adoc[Fiat]
 |Group |79900264 (0x04C32E68)
 |Price |$9,950
 |Car Name |Cinquecento
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |595_Abarth
 |Model |595 Abarth
 |Version |Esse-esse
@@ -68,7 +68,7 @@
 |Height (mm) |1325
 |Wheelbase (mm) |1840
 |Weight (kg) |570
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

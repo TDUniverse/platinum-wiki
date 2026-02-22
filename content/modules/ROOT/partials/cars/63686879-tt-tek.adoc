@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: audi-n-a-key-62338407-3-2-quattro-tek
+:page-aliases: audi-tt-3-2-quattro-tek
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/80715.adoc[Audi]
 |Group |77900264 (0x04A4A9E8)
 |Price |$67,000
-|Car Name |N/A (key=62338407)
-|Real Name |N/A (key=53338427)
+|Car Name |TT
+|Real Name |??
 |File Name |TT_Tek
-|Model |N/A (key=62338407)
+|Model |TT
 |Version |3.2 quattro TEK
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1345
 |Wheelbase (mm) |2429
 |Weight (kg) |1430
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

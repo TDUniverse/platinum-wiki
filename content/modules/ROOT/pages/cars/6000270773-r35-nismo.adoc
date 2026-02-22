@@ -1,6 +1,6 @@
-= Nissan - GT-R (R35) N/A (key=58733427)
+= Nissan - GT-R (R35) Nismo
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270773-r35-nismo.adoc[]

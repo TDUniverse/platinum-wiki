@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |1231628
-|Manufacturer ID |N/A (key=55038337)
-|Manufacturer Name |N/A (key=55038337)
-|Logo File |N/A (key=61338337)
+|Manufacturer ID |Nismo
+|Manufacturer Name |Nismo
+|Logo File |BMW
 |Number of Cars |0
 |===
 

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |737
-|Manufacturer ID |N/A (key=70138337)
+|Manufacturer ID |Renault
 |Manufacturer Name |Renault
-|Logo File |N/A (key=70138337)
+|Logo File |Renault
 |Number of Cars |3
 |===
 
@@ -13,7 +13,7 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270453-clio-v6.adoc[Sport Clio N/A (key=583709)] |Sport Clio |N/A (key=583709) |77900264 (0x04A4A9E8) |$55,000 |252 |283.0
+|xref:cars/6000270453-clio-v6.adoc[Sport Clio V6] |Sport Clio |V6 |77900264 (0x04A4A9E8) |$55,000 |252 |283.0
 |xref:cars/6000270454-megane-rs.adoc[Sport Megane 275 Cup-S] |Sport Megane |275 Cup-S |77900264 (0x04A4A9E8) |$48,000 |271 |256.0
 |xref:cars/6000270452-twingo-rs.adoc[Twingo Sport Cup] |Twingo Sport |Cup |78900264 (0x04B3EC28) |$20,500 |131 |195.0
 |===

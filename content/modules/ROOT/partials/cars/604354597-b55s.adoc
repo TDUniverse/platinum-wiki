@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-5-series-m5-f10
+:page-aliases: bmw-5-series-m5-f10
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |604354597
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |75900264 (0x04862568)
 |Price |$115,000
 |Car Name |5-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |B55S
 |Model |M5
 |Version |F10
@@ -71,7 +71,7 @@
 |Height (mm) |1456
 |Wheelbase (mm) |2964
 |Weight (kg) |1870
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

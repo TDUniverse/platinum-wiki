@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$430,000
 |Car Name |E-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |E63_Brabus
 |Model |E
 |Version |V12
@@ -71,7 +71,7 @@
 |Height (mm) |1440
 |Wheelbase (mm) |2874
 |Weight (kg) |1980
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

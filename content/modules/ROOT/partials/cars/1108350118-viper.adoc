@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: dodge-viper-srt-gts
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |1108350118
+|Brand |xref:brands/768658.adoc[Dodge]
+|Group |73900264 (0x0467A0E8)
+|Price |$115,000
+|Car Name |Viper
+|Real Name |??
+|File Name |Viper
+|Model |Viper
+|Version |SRT GTS
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |593709 (0x00090F2D)
+|Displacement (cc) |8382
+|Power (BHP) |640 bhp @ 6150 rpm
+|Torque (Nm) |814 Nm @ 4950 rpm
+|Redline (RPM) |6200
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.550
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |2.260
+|2 |1.580
+|3 |1.190
+|4 |1.000
+|5 |0.770
+|6 |0.630
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1941
+|Length (mm) |4463
+|Height (mm) |1246
+|Wheelbase (mm) |2510
+|Weight (kg) |1556
+|Number of Seats |2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.50 s
+|0 - 100 mph (s) |7.10 s
+|Top Speed (km/h) |330.0 km/h
+|Braking 100–0 km/h (s) |115.00
+|Quarter Mile (s) |11.30 s
+|Grip Coefficient |1050
+|Overturning Coefficient |100
+|Handling |86
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (1)
+
+* xref:shops/591723820.adoc[DODGE (ECD_8B2_8575)]
+
+//end::available-shops[]

@@ -1,12 +1,10 @@
-:page-aliases: nsu
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |114
 |Manufacturer ID |NSU
-|Manufacturer Name |N/A (key=8878357)
+|Manufacturer Name |NSU
 |Logo File |NSU
 |Number of Cars |0
 |===

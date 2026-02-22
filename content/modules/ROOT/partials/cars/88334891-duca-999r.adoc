@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ducati-n-a-key-53548407-n-a-key-54633427
+:page-aliases: ducati-999-r
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/912618.adoc[Ducati]
 |Group |76800264 (0x0493E108)
 |Price |$31,450
-|Car Name |N/A (key=53548407)
-|Real Name |N/A (key=53338427)
+|Car Name |999
+|Real Name |??
 |File Name |Duca_999R
-|Model |N/A (key=53548407)
-|Version |N/A (key=54633427)
+|Model |999
+|Version |R
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1140
 |Wheelbase (mm) |1466
 |Weight (kg) |193
-|Number of Seats |N/A (key=54533427)
+|Number of Seats |1
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$72,000
 |Car Name |Thunderbird (Mk1)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Thund_57
 |Model |Thunderbird
 |Version |312 Super V8 Ford-O-Matic
@@ -67,7 +67,7 @@
 |Height (mm) |1311
 |Wheelbase (mm) |2591
 |Weight (kg) |1590
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

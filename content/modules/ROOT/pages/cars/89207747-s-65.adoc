@@ -1,6 +1,6 @@
-= Mercedes-Benz - N/A (key=57738427) N/A (key=56592366)
+= Mercedes-Benz - S 65 AMG
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/89207747-s-65.adoc[]

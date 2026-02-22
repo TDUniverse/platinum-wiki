@@ -1,6 +1,0 @@
-= Ducati - N/A (key=58633407) N/A (key=54548407)
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/615195554-car.adoc[]

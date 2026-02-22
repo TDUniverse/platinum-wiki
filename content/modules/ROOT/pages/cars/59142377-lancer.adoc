@@ -1,6 +1,6 @@
-= Mitsubishi - N/A (key=58448407) Evolution X GSR Premium
+= Mitsubishi - Lancer Evolution X GSR Premium
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/59142377-lancer.adoc[]

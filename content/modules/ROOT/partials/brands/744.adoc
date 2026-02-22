@@ -1,12 +1,10 @@
-:page-aliases: rover
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |744
 |Manufacturer ID |Rover
-|Manufacturer Name |N/A (key=7088357)
+|Manufacturer Name |Rover
 |Logo File |Rover
 |Number of Cars |0
 |===

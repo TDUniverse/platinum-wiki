@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$127,000
 |Car Name |Type F
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |F_Type_Cpe
 |Model |F-Type
 |Version |R Coupe (997.2)
@@ -71,7 +71,7 @@
 |Height (mm) |1314
 |Wheelbase (mm) |2622
 |Weight (kg) |1650
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

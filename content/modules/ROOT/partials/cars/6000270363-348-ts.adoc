@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ferrari-348-n-a-key-59538407
+:page-aliases: ferrari-348-spider
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$65,000
 |Car Name |348
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |348_TS
 |Model |348
-|Version |N/A (key=59538407)
+|Version |Spider
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1170
 |Wheelbase (mm) |2450
 |Weight (kg) |1485
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

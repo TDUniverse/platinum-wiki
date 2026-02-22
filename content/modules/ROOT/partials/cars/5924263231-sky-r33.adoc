@@ -15,9 +15,9 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$49,000
 |Car Name |Skyline GT-R
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Sky_R33
-|Model |N/A (key=53448407)
+|Model |Skyline
 |Version |GT-R (R33) V-Spec
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1360
 |Wheelbase (mm) |2720
 |Weight (kg) |1540
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

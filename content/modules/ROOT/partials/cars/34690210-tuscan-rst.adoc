@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-55738337-n-a-key-53938407-s-roof
+:page-aliases: tvr-tuscan-s-roof
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |34690210
-|Brand |xref:brands/9144.adoc[N/A (key=55738337)]
+|Brand |xref:brands/9144.adoc[TVR]
 |Group |75900264 (0x04862568)
 |Price |$98,000
-|Car Name |N/A (key=53938407)
-|Real Name |N/A (key=53338427)
+|Car Name |Tuscan
+|Real Name |??
 |File Name |Tuscan_Rst
-|Model |N/A (key=53938407)
-|Version |N/A (key=57738427)
+|Model |Tuscan
+|Version |S
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1200
 |Wheelbase (mm) |2361
 |Weight (kg) |1100
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,6 +1,6 @@
-= Saleen - N/A (key=58933407) Supercharged Convertible
+= Saleen - S281 Supercharged Convertible
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1189750545-s281e-conv.adoc[]

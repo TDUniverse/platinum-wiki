@@ -1,5 +1,3 @@
-:page-aliases: kit-extreme-dimensions
-
 == Identity
 [cols="1,1",options="header"]
 |===

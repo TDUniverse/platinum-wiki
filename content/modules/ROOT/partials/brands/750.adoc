@@ -1,12 +1,10 @@
-:page-aliases: vaz
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |750
 |Manufacturer ID |Vaz
-|Manufacturer Name |N/A (key=7148357)
+|Manufacturer Name |Vaz
 |Logo File |Vaz
 |Number of Cars |0
 |===

@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$75,000
 |Car Name |Integra DC2
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |DC2_Spoon
 |Model |Spoon Integra
 |Version |Type-R (DC2)
@@ -69,7 +69,7 @@
 |Height (mm) |1320
 |Wheelbase (mm) |2570
 |Weight (kg) |1080
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

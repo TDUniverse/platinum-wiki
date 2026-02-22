@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: maserati-granturismo-n-a-key-15090489
+:page-aliases: maserati-granturismo-s-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$166,500
 |Car Name |GranTurismo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mas_Granturismo
 |Model |GranTurismo
 |Version |S

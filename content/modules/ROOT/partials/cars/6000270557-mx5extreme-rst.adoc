@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mazda-n-a-key-300401316-roadster-extreme-dimensions-na
+:page-aliases: mazda-eunos-roadster-extreme-dimensions-na
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/727727.adoc[Mazda]
 |Group |77900264 (0x04A4A9E8)
 |Price |$14,500
-|Car Name |N/A (key=300401316)
-|Real Name |N/A (key=53338427)
+|Car Name |Eunos
+|Real Name |??
 |File Name |MX5Extreme_Rst
 |Model |MX-5
 |Version |Miata Extreme Dimensions
@@ -70,7 +70,7 @@
 |Height (mm) |1230
 |Wheelbase (mm) |2265
 |Weight (kg) |950
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,0 +1,6 @@
+= Cadillac - CTS-V™ ??
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/95215035-cts-v.adoc[]

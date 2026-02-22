@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |8542108
-|Manufacturer ID |N/A (key=53638337)
+|Manufacturer ID |NISSAN
 |Manufacturer Name |Nissan
-|Logo File |N/A (key=53638337)
+|Logo File |NISSAN
 |Number of Cars |77
 |===
 
@@ -13,16 +13,20 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/1237390819-350z-rst.adoc[240SX N/A (key=54033427)] |240SX |N/A (key=54033427) |78900264 (0x04B3EC28) |$22,000 |155 |212.0
+|xref:cars/1237390819-350z-rst.adoc[240SX SE] |240SX |SE |78900264 (0x04B3EC28) |$22,000 |155 |212.0
 |xref:cars/6000270577-240sx-bsport.adoc[240SX SE Extreme Dimensions B-Sport] |240SX |SE Extreme Dimensions B-Sport |77900264 (0x04A4A9E8) |$47,000 |258 |223.0
 |xref:cars/6000270578-240sx-kbd.adoc[240SX SE KBD GP1] |240SX |SE KBD GP1 |77900264 (0x04A4A9E8) |$47,000 |258 |223.0
 |xref:cars/6000270579-240sx-race.adoc[240SX SE Race] |240SX |SE Race |77900264 (0x04A4A9E8) |$47,000 |258 |223.0
 |xref:cars/6000270580-240sx-silk.adoc[240SX SE Silk Automotive BMX] |240SX |SE Silk Automotive BMX |77900264 (0x04A4A9E8) |$47,000 |258 |223.0
 |xref:cars/6000270581-240sx-vfiber.adoc[240SX SE VFiber] |240SX |SE VFiber |77900264 (0x04A4A9E8) |$47,000 |258 |223.0
 |xref:cars/6000270582-240sx-vspeed.adoc[240SX SE Extreme Dimensions V-Speed] |240SX |SE Extreme Dimensions V-Speed |77900264 (0x04A4A9E8) |$47,000 |258 |223.0
-|xref:cars/86057534-240sx-nismo.adoc[240SX N/A (key=54033427)] |240SX |N/A (key=54033427) |77900264 (0x04A4A9E8) |$49,800 |258 |237.0
-|xref:cars/1133391164-370z.adoc[370Z N/A (key=58538407)] |370Z |N/A (key=58538407) |76900264 (0x049567A8) |$51,430 |332 |297.0
-|xref:cars/6000270408-370z-nismo.adoc[370Z N/A (key=58733427)] |370Z |N/A (key=58733427) |76900264 (0x049567A8) |$76,930 |350 |296.0
+|xref:cars/86057534-240sx-nismo.adoc[240SX SE] |240SX |SE |77900264 (0x04A4A9E8) |$49,800 |258 |237.0
+|xref:cars/1214391034-350z-cpe.adoc[350Z Coupe] |350Z |Coupe |77900264 (0x04A4A9E8) |$35,100 |280 |250.0
+|xref:cars/1133391037-350z-nismo.adoc[350Z Nismo S-Tune] |350Z |Nismo S-Tune |77900264 (0x04A4A9E8) |$52,600 |296 |293.0
+|xref:cars/6000270328-350z-cpe.adoc[350Z Coupe] |350Z |Coupe |77900264 (0x04A4A9E8) |$35,100 |287 |268.0
+|xref:cars/90117905-350z-amuse.adoc[350Z Coupe] |350Z |Coupe |76900264 (0x049567A8) |$77,600 |409 |293.0
+|xref:cars/1133391164-370z.adoc[370Z Coupe] |370Z |Coupe |76900264 (0x049567A8) |$51,430 |332 |297.0
+|xref:cars/6000270408-370z-nismo.adoc[370Z Nismo] |370Z |Nismo |76900264 (0x049567A8) |$76,930 |350 |296.0
 |xref:cars/6000270409-370z-amuse.adoc[Amuse 370Z] |Amuse |370Z |75900264 (0x04862568) |$92,430 |395 |296.0
 |xref:cars/5631585759-datsun.adoc[Datsun 1600 (510)] |Datsun 1600 |(510) |79900264 (0x04C32E68) |$30,000 |95 |163.0
 |xref:cars/32069680-510-nismo.adoc[Datsun 1600 (510)] |Datsun 1600 |(510) |78900264 (0x04B3EC28) |$117,500 |227 |210.0
@@ -35,60 +39,56 @@
 |xref:cars/35270882-z33-street.adoc[Fairlady Z Street Scene] |Fairlady Z |Street Scene |76900264 (0x049567A8) |$68,000 |402 |293.0
 |xref:cars/35277515-300zx-nismo.adoc[Fairlady Z Twin Turbo 2seater (Z32)] |Fairlady |Z Twin Turbo 2seater (Z32) |76900264 (0x049567A8) |$67,750 |311 |281.0
 |xref:cars/14128524-300-zx.adoc[Fairlady Z Twin Turbo 2seater (Z32)] |Fairlady |Z Twin Turbo 2seater (Z32) |77900264 (0x04A4A9E8) |$32,250 |276 |272.0
-|xref:cars/1133391244-gt-r.adoc[GT-R (R35) Black Edition] |GT-R (R35) |Black Edition |74900264 (0x0476E328) |$135,000 |542 |292.0
+|xref:cars/1133391244-gtr.adoc[GT-R (R35) Black Edition] |GT-R (R35) |Black Edition |74900264 (0x0476E328) |$135,000 |542 |292.0
 |xref:cars/6000270590-r35-lw.adoc[GT-R (R35) Liberty Walk] |GT-R (R35) |Liberty Walk |73900264 (0x0467A0E8) |$540,000 |895 |390.0
 |xref:cars/6000270592-r35-spo.adoc[GT-R (R35) Liberty Walk] |GT-R (R35) |Liberty Walk |73900264 (0x0467A0E8) |$540,000 |895 |390.0
-|xref:cars/6000270773-r35-nismo.adoc[GT-R (R35) N/A (key=58733427)] |GT-R (R35) |N/A (key=58733427) |73900264 (0x0467A0E8) |$345,000 |591 |292.0
+|xref:cars/6000270773-r35-nismo.adoc[GT-R (R35) Nismo] |GT-R (R35) |Nismo |73900264 (0x0467A0E8) |$345,000 |591 |292.0
 |xref:cars/92706817-r35-lw2.adoc[GT-R (R35) Liberty Walk] |GT-R (R35) |Liberty Walk |73900264 (0x0467A0E8) |$540,000 |895 |390.0
 |xref:cars/84172932-r35-spo2.adoc[GT-R (R35) Liberty Walk] |GT-R (R35) |Liberty Walk |73900264 (0x0467A0E8) |$540,000 |895 |390.0
-|xref:cars/52560176-gt-r.adoc[GT-R (R35) Black Edition] |GT-R (R35) |Black Edition |74900264 (0x0476E328) |$135,000 |542 |292.0
-|xref:cars/5924263234-s15.adoc[Silvia N/A (key=15088605)] |Silvia |N/A (key=15088605) |77900264 (0x04A4A9E8) |$32,500 |247 |267.0
-|xref:cars/6000270591-s15-burnout.adoc[Silvia N/A (key=1004797614001)] |Silvia |N/A (key=1004797614001) |76900264 (0x049567A8) |$72,000 |337 |267.0
-|xref:cars/6000270593-s15-c2.adoc[Silvia N/A (key=1009653841001)] |Silvia |N/A (key=1009653841001) |76900264 (0x049567A8) |$72,000 |337 |267.0
-|xref:cars/6000270594-s15-cwest.adoc[Silvia N/A (key=1009605886001)] |Silvia |N/A (key=1009605886001) |76900264 (0x049567A8) |$72,000 |337 |267.0
-|xref:cars/6000270595-s15-nismo.adoc[Silvia N/A (key=1006477772001)] |Silvia |N/A (key=1006477772001) |76900264 (0x049567A8) |$72,000 |337 |267.0
-|xref:cars/6000270596-s15-top.adoc[Silvia N/A (key=1002739595001)] |Silvia |N/A (key=1002739595001) |76900264 (0x049567A8) |$80,000 |337 |267.0
-|xref:cars/6000270597-s15-d1gp.adoc[Silvia N/A (key=1004611813001)] |Silvia |N/A (key=1004611813001) |75900264 (0x04862568) |$155,000 |537 |265.0
-|xref:cars/6000270598-s15-tr.adoc[Silvia N/A (key=1002632909001)] |Silvia |N/A (key=1002632909001) |76900264 (0x049567A8) |$72,000 |337 |267.0
-|xref:cars/6000270772-s15-crew.adoc[Silvia N/A (key=1006950070001)] |Silvia |N/A (key=1006950070001) |76900264 (0x049567A8) |$80,000 |337 |255.0
+|xref:cars/52560176-gtr.adoc[GT-R (R35) Black Edition] |GT-R (R35) |Black Edition |74900264 (0x0476E328) |$135,000 |542 |292.0
+|xref:cars/1237963205-sc-430.adoc[Skyline GT-R R32 V-Spec] |Skyline |GT-R R32 V-Spec |78900264 (0x04B3EC28) |$65,000 |288 |250.0
+|xref:cars/5924263234-s15.adoc[Silvia Spec-R Aero] |Silvia |Spec-R Aero |77900264 (0x04A4A9E8) |$32,500 |247 |267.0
+|xref:cars/6000270591-s15-burnout.adoc[Silvia Spec-R Aero Burnout] |Silvia |Spec-R Aero Burnout |76900264 (0x049567A8) |$72,000 |337 |267.0
+|xref:cars/6000270593-s15-c2.adoc[Silvia Spec-R Aero C-2] |Silvia |Spec-R Aero C-2 |76900264 (0x049567A8) |$72,000 |337 |267.0
+|xref:cars/6000270594-s15-cwest.adoc[Silvia Spec-R Aero C-West] |Silvia |Spec-R Aero C-West |76900264 (0x049567A8) |$72,000 |337 |267.0
+|xref:cars/6000270595-s15-nismo.adoc[Silvia Spec-R Aero Nismo] |Silvia |Spec-R Aero Nismo |76900264 (0x049567A8) |$72,000 |337 |267.0
+|xref:cars/6000270596-s15-top.adoc[Silvia Spec-R Aero Top Secret] |Silvia |Spec-R Aero Top Secret |76900264 (0x049567A8) |$80,000 |337 |267.0
+|xref:cars/6000270597-s15-d1gp.adoc[Silvia Spec-R Aero Top Secret D1GP] |Silvia |Spec-R Aero Top Secret D1GP |75900264 (0x04862568) |$155,000 |537 |265.0
+|xref:cars/6000270598-s15-tr.adoc[Silvia Spec-R Aero TR Duraflex] |Silvia |Spec-R Aero TR Duraflex |76900264 (0x049567A8) |$72,000 |337 |267.0
+|xref:cars/6000270772-s15-crew.adoc[Silvia Spec-R Aero Crew] |Silvia |Spec-R Aero Crew |76900264 (0x049567A8) |$80,000 |337 |255.0
 |xref:cars/6000270782-s15-46.adoc[Silvia Spec-R Aero BRE Simoniz #46 D1GP] |Silvia |Spec-R Aero BRE Simoniz #46 D1GP |75900264 (0x04862568) |$155,000 |537 |265.0
 |xref:cars/6000270783-s15-64.adoc[Silvia Spec-R Aero BRE Simoniz #64 D1GP] |Silvia |Spec-R Aero BRE Simoniz #64 D1GP |75900264 (0x04862568) |$155,000 |537 |265.0
-|xref:cars/72967464-s15-autech.adoc[Silvia N/A (key=15088605)] |Silvia |N/A (key=15088605) |76900264 (0x049567A8) |$71,000 |337 |267.0
+|xref:cars/72967464-s15-autech.adoc[Silvia Spec-R Aero] |Silvia |Spec-R Aero |76900264 (0x049567A8) |$71,000 |337 |267.0
 |xref:cars/56621490-s15-46.adoc[Silvia Spec-R Aero BRE Simoniz #46 D1GP] |Silvia |Spec-R Aero BRE Simoniz #46 D1GP |75900264 (0x04862568) |$155,000 |537 |265.0
-|xref:cars/5924263231-sky-r33.adoc[N/A (key=53448407) GT-R (R33) V-Spec] |N/A (key=53448407) |GT-R (R33) V-Spec |77900264 (0x04A4A9E8) |$49,000 |276 |289.0
-|xref:cars/5924263232-sky-r33-n1.adoc[N/A (key=53448407) GT-R (R33) V-Spec N1] |N/A (key=53448407) |GT-R (R33) V-Spec N1 |76900264 (0x049567A8) |$101,000 |394 |289.0
-|xref:cars/5924263245-sc-430.adoc[N/A (key=53448407) GT-R (R32)] |N/A (key=53448407) |GT-R (R32) |77900264 (0x04A4A9E8) |$45,000 |276 |255.0
-|xref:cars/6000270571-skygtr.adoc[N/A (key=53448407) GT-R (R34) V-Spec II] |N/A (key=53448407) |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$55,000 |276 |318.0
-|xref:cars/6000270583-r32-abflug.adoc[N/A (key=53448407) GT-R (R32) Abflug] |N/A (key=53448407) |GT-R (R32) Abflug |76900264 (0x049567A8) |$90,000 |344 |275.0
-|xref:cars/6000270584-r32-doluck.adoc[N/A (key=53448407) GT-R (R32) Do-Luck] |N/A (key=53448407) |GT-R (R32) Do-Luck |76900264 (0x049567A8) |$90,000 |344 |275.0
-|xref:cars/6000270585-r32-topsecret.adoc[N/A (key=53448407) GT-R (R32) Top Secret] |N/A (key=53448407) |GT-R (R32) Top Secret |76900264 (0x049567A8) |$90,000 |344 |275.0
-|xref:cars/6000270586-r32-trial.adoc[N/A (key=53448407) GT-R (R32) Trial] |N/A (key=53448407) |GT-R (R32) Trial |76900264 (0x049567A8) |$90,000 |344 |275.0
-|xref:cars/6000270587-r34-nismo.adoc[N/A (key=53448407) GT-R (R34) V-Spec II Nismo] |N/A (key=53448407) |GT-R (R34) V-Spec II Nismo |76900264 (0x049567A8) |$110,000 |406 |310.0
-|xref:cars/6000270588-r34-veilside.adoc[N/A (key=53448407) GT-R (R34) V-Spec II VeilSide Street Drag] |N/A (key=53448407) |GT-R (R34) V-Spec II VeilSide Street Drag |73900264 (0x0467A0E8) |$450,000 |1500 |460.0
-|xref:cars/6000270589-r34-viper.adoc[N/A (key=53448407) GT-R (R34) V-Spec II Viper] |N/A (key=53448407) |GT-R (R34) V-Spec II Viper |76900264 (0x049567A8) |$112,000 |406 |310.0
-|xref:cars/6000270774-r33-abflug.adoc[N/A (key=53448407) GT-R (R33) V-Spec Abflug] |N/A (key=53448407) |GT-R (R33) V-Spec Abflug |76900264 (0x049567A8) |$104,000 |394 |289.0
-|xref:cars/6000270780-r33-jun.adoc[N/A (key=53448407) GT-R (R33) V-Spec JUN Auto] |N/A (key=53448407) |GT-R (R33) V-Spec JUN Auto |76900264 (0x049567A8) |$104,000 |394 |289.0
-|xref:cars/6000270781-r33-top.adoc[N/A (key=53448407) GT-R (R33) V-Spec Top Secret] |N/A (key=53448407) |GT-R (R33) V-Spec Top Secret |76900264 (0x049567A8) |$104,000 |394 |289.0
-|xref:cars/16605260-r32-nismo.adoc[N/A (key=53448407) GT-R (R32)] |N/A (key=53448407) |GT-R (R32) |76900264 (0x049567A8) |$85,000 |344 |275.0
-|xref:cars/60742674-r34-autech.adoc[N/A (key=53448407) GT-R (R34) V-Spec II] |N/A (key=53448407) |GT-R (R34) V-Spec II |76900264 (0x049567A8) |$106,000 |406 |310.0
-|xref:cars/86354272-r34-veil.adoc[N/A (key=53448407) GT-R (R34) V-Spec II] |N/A (key=53448407) |GT-R (R34) V-Spec II |76900264 (0x049567A8) |$108,000 |406 |310.0
-|xref:cars/86546539-r34-cwest.adoc[N/A (key=53448407) GT-R (R34) V-Spec II] |N/A (key=53448407) |GT-R (R34) V-Spec II |76900264 (0x049567A8) |$107,000 |406 |310.0
-|xref:cars/70547854-r34-2f2f.adoc[N/A (key=53448407) GT-R (R34) V-Spec II 2Fast 2Furious] |N/A (key=53448407) |GT-R (R34) V-Spec II 2Fast 2Furious |74900264 (0x0476E328) |$365,000 |596 |310.0
-|xref:cars/17631560-sc-430.adoc[N/A (key=53448407) GT-R (R32)] |N/A (key=53448407) |GT-R (R32) |77900264 (0x04A4A9E8) |$45,000 |276 |255.0
-|xref:cars/10000870-skygtr.adoc[N/A (key=53448407) GT-R (R34) V-Spec II] |N/A (key=53448407) |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$55,000 |276 |318.0
-|xref:cars/15695705-sky-r33.adoc[N/A (key=53448407) GT-R (R33) V-Spec] |N/A (key=53448407) |GT-R (R33) V-Spec |77900264 (0x04A4A9E8) |$49,000 |276 |289.0
-|xref:cars/1133391037-350z-nismo.adoc[350Z Nismo S-Tune] |350Z |Nismo S-Tune |77900264 (0x04A4A9E8) |$52,600 |296 |293.0
-|xref:cars/1214391034-car.adoc[350Z N/A (key=58538407)] |350Z |N/A (key=58538407) |77900264 (0x04A4A9E8) |$35,100 |280 |250.0
-|xref:cars/1237963205-sc-430.adoc[N/A (key=53448407) GT-R R32 V-Spec] |N/A (key=53448407) |GT-R R32 V-Spec |78900264 (0x04B3EC28) |$65,000 |288 |250.0
-|xref:cars/13129791-kpgc10-nismospo.adoc[N/A (key=53448407) Hard Top 2000GT-R (KPGC10)] |N/A (key=53448407) |Hard Top 2000GT-R (KPGC10) |76900264 (0x049567A8) |$165,000 |357 |285.0
-|xref:cars/17710726-kpgc10-nismo.adoc[N/A (key=53448407) Hard Top 2000GT-R (KPGC10)] |N/A (key=53448407) |Hard Top 2000GT-R (KPGC10) |76900264 (0x049567A8) |$165,000 |357 |285.0
-|xref:cars/44612186-kpgc10-spo.adoc[N/A (key=53448407) Hard Top 2000GT-R (KPGC10)] |N/A (key=53448407) |Hard Top 2000GT-R (KPGC10) |79900264 (0x04C32E68) |$70,000 |158 |210.0
-|xref:cars/5924263233-kpgc10.adoc[N/A (key=53448407) Hard Top 2000GT-R (KPGC10)] |N/A (key=53448407) |Hard Top 2000GT-R (KPGC10) |79900264 (0x04C32E68) |$70,000 |158 |210.0
-|xref:cars/6000270328-car.adoc[350Z N/A (key=58538407)] |350Z |N/A (key=58538407) |77900264 (0x04A4A9E8) |$35,100 |287 |268.0
-|xref:cars/6000270575-kpgc10-tuned.adoc[N/A (key=53448407) Hard Top 2000GT-R Custom (KPGC10)] |N/A (key=53448407) |Hard Top 2000GT-R Custom (KPGC10) |76900264 (0x049567A8) |$185,000 |357 |285.0
-|xref:cars/6000270779-kpgc10-spo.adoc[N/A (key=53448407) Hard Top 2000GT-R (KPGC10)] |N/A (key=53448407) |Hard Top 2000GT-R (KPGC10) |79900264 (0x04C32E68) |$70,000 |158 |210.0
-|xref:cars/90117905-350z-amuse.adoc[350Z N/A (key=58538407)] |350Z |N/A (key=58538407) |76900264 (0x049567A8) |$77,600 |409 |293.0
-|xref:cars/924263229-skygtr.adoc[N/A (key=53448407) GT-R (R34) V-Spec II] |N/A (key=53448407) |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$50,000 |328 |250.0
-|xref:cars/924263229-skygtr.adoc[N/A (key=53448407) GT-R (R34) V-Spec II] |N/A (key=53448407) |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$55,000 |528 |255.0
+|xref:cars/924263229-skygtr.adoc[Skyline GT-R (R34) V-Spec II] |Skyline |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$50,000 |328 |250.0
+|xref:cars/924263229-skygtr.adoc[Skyline GT-R (R34) V-Spec II] |Skyline |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$55,000 |528 |255.0
+|xref:cars/5924263233-kpgc10.adoc[Skyline Hard Top 2000GT-R (KPGC10)] |Skyline |Hard Top 2000GT-R (KPGC10) |79900264 (0x04C32E68) |$70,000 |158 |210.0
+|xref:cars/6000270575-kpgc10-tuned.adoc[Skyline Hard Top 2000GT-R Custom (KPGC10)] |Skyline |Hard Top 2000GT-R Custom (KPGC10) |76900264 (0x049567A8) |$185,000 |357 |285.0
+|xref:cars/6000270779-kpgc10-spo.adoc[Skyline Hard Top 2000GT-R (KPGC10)] |Skyline |Hard Top 2000GT-R (KPGC10) |79900264 (0x04C32E68) |$70,000 |158 |210.0
+|xref:cars/17710726-kpgc10-nismo.adoc[Skyline Hard Top 2000GT-R (KPGC10)] |Skyline |Hard Top 2000GT-R (KPGC10) |76900264 (0x049567A8) |$165,000 |357 |285.0
+|xref:cars/13129791-kpgc10-nismospo.adoc[Skyline Hard Top 2000GT-R (KPGC10)] |Skyline |Hard Top 2000GT-R (KPGC10) |76900264 (0x049567A8) |$165,000 |357 |285.0
+|xref:cars/44612186-kpgc10-spo.adoc[Skyline Hard Top 2000GT-R (KPGC10)] |Skyline |Hard Top 2000GT-R (KPGC10) |79900264 (0x04C32E68) |$70,000 |158 |210.0
+|xref:cars/5924263231-sky-r33.adoc[Skyline GT-R (R33) V-Spec] |Skyline |GT-R (R33) V-Spec |77900264 (0x04A4A9E8) |$49,000 |276 |289.0
+|xref:cars/5924263232-sky-r33-n1.adoc[Skyline GT-R (R33) V-Spec N1] |Skyline |GT-R (R33) V-Spec N1 |76900264 (0x049567A8) |$101,000 |394 |289.0
+|xref:cars/5924263245-sc-430.adoc[Skyline GT-R (R32)] |Skyline |GT-R (R32) |77900264 (0x04A4A9E8) |$45,000 |276 |255.0
+|xref:cars/6000270571-skygtr.adoc[Skyline GT-R (R34) V-Spec II] |Skyline |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$55,000 |276 |318.0
+|xref:cars/6000270583-r32-abflug.adoc[Skyline GT-R (R32) Abflug] |Skyline |GT-R (R32) Abflug |76900264 (0x049567A8) |$90,000 |344 |275.0
+|xref:cars/6000270584-r32-doluck.adoc[Skyline GT-R (R32) Do-Luck] |Skyline |GT-R (R32) Do-Luck |76900264 (0x049567A8) |$90,000 |344 |275.0
+|xref:cars/6000270585-r32-topsecret.adoc[Skyline GT-R (R32) Top Secret] |Skyline |GT-R (R32) Top Secret |76900264 (0x049567A8) |$90,000 |344 |275.0
+|xref:cars/6000270586-r32-trial.adoc[Skyline GT-R (R32) Trial] |Skyline |GT-R (R32) Trial |76900264 (0x049567A8) |$90,000 |344 |275.0
+|xref:cars/6000270587-r34-nismo.adoc[Skyline GT-R (R34) V-Spec II Nismo] |Skyline |GT-R (R34) V-Spec II Nismo |76900264 (0x049567A8) |$110,000 |406 |310.0
+|xref:cars/6000270588-r34-veilside.adoc[Skyline GT-R (R34) V-Spec II VeilSide Street Drag] |Skyline |GT-R (R34) V-Spec II VeilSide Street Drag |73900264 (0x0467A0E8) |$450,000 |1500 |460.0
+|xref:cars/6000270589-r34-viper.adoc[Skyline GT-R (R34) V-Spec II Viper] |Skyline |GT-R (R34) V-Spec II Viper |76900264 (0x049567A8) |$112,000 |406 |310.0
+|xref:cars/6000270774-r33-abflug.adoc[Skyline GT-R (R33) V-Spec Abflug] |Skyline |GT-R (R33) V-Spec Abflug |76900264 (0x049567A8) |$104,000 |394 |289.0
+|xref:cars/6000270780-r33-jun.adoc[Skyline GT-R (R33) V-Spec JUN Auto] |Skyline |GT-R (R33) V-Spec JUN Auto |76900264 (0x049567A8) |$104,000 |394 |289.0
+|xref:cars/6000270781-r33-top.adoc[Skyline GT-R (R33) V-Spec Top Secret] |Skyline |GT-R (R33) V-Spec Top Secret |76900264 (0x049567A8) |$104,000 |394 |289.0
+|xref:cars/16605260-r32-nismo.adoc[Skyline GT-R (R32)] |Skyline |GT-R (R32) |76900264 (0x049567A8) |$85,000 |344 |275.0
+|xref:cars/60742674-r34-autech.adoc[Skyline GT-R (R34) V-Spec II] |Skyline |GT-R (R34) V-Spec II |76900264 (0x049567A8) |$106,000 |406 |310.0
+|xref:cars/86354272-r34-veil.adoc[Skyline GT-R (R34) V-Spec II] |Skyline |GT-R (R34) V-Spec II |76900264 (0x049567A8) |$108,000 |406 |310.0
+|xref:cars/86546539-r34-cwest.adoc[Skyline GT-R (R34) V-Spec II] |Skyline |GT-R (R34) V-Spec II |76900264 (0x049567A8) |$107,000 |406 |310.0
+|xref:cars/70547854-r34-2f2f.adoc[Skyline GT-R (R34) V-Spec II 2Fast 2Furious] |Skyline |GT-R (R34) V-Spec II 2Fast 2Furious |74900264 (0x0476E328) |$365,000 |596 |310.0
+|xref:cars/17631560-sc-430.adoc[Skyline GT-R (R32)] |Skyline |GT-R (R32) |77900264 (0x04A4A9E8) |$45,000 |276 |255.0
+|xref:cars/10000870-skygtr.adoc[Skyline GT-R (R34) V-Spec II] |Skyline |GT-R (R34) V-Spec II |77900264 (0x04A4A9E8) |$55,000 |276 |318.0
+|xref:cars/15695705-sky-r33.adoc[Skyline GT-R (R33) V-Spec] |Skyline |GT-R (R33) V-Spec |77900264 (0x04A4A9E8) |$49,000 |276 |289.0
 |===
 

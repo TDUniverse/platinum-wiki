@@ -15,10 +15,10 @@
 |Group |75900264 (0x04862568)
 |Price |$115,000
 |Car Name |718
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Cayman_S
 |Model |718 Cayman
-|Version |N/A (key=57738427)
+|Version |S
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1295
 |Wheelbase (mm) |2475
 |Weight (kg) |1385
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

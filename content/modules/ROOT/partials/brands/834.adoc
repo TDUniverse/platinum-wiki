@@ -1,12 +1,10 @@
-:page-aliases: italdesign
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |834
 |Manufacturer ID |Italdesign
-|Manufacturer Name |N/A (key=7748357)
+|Manufacturer Name |Italdesign
 |Logo File |Italdesign
 |Number of Cars |0
 |===

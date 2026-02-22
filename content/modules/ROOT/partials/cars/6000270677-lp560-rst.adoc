@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: lamborghini-gallardo-lp560-n-a-key-56438427
+:page-aliases: lamborghini-gallardo-lp560-roadster
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$215,000
 |Car Name |Gallardo LP560
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |LP560_Rst
-|Model |N/A (key=57338407)
+|Model |Gallardo
 |Version |LP560-4 Spyder
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1184
 |Wheelbase (mm) |2560
 |Weight (kg) |1640
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

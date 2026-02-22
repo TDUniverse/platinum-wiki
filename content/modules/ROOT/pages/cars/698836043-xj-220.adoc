@@ -1,6 +1,6 @@
-= Jaguar - N/A (key=59138407) N/A (key=57356917)
+= Jaguar - XJ220 ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/698836043-xj-220.adoc[]

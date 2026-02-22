@@ -15,10 +15,10 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$25,000
 |Car Name |Mustang (Mk5)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Must_GT
 |Model |Mustang GT
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1407
 |Wheelbase (mm) |2720
 |Weight (kg) |1582
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

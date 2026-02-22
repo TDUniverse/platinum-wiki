@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-4-series-bmw-f82
+:page-aliases: bmw-4-series-bmw-f82
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270722
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |75900264 (0x04862568)
 |Price |$102,500
 |Car Name |4-Series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |M4_F82
 |Model |M4
 |Version |F82
@@ -71,7 +71,7 @@
 |Height (mm) |1383
 |Wheelbase (mm) |2812
 |Weight (kg) |1572
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,6 +1,6 @@
-= Shelby - N/A (key=59938407) Weineck 780cui Limited Edition
+= Shelby - Cobra Weineck 780cui Limited Edition
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/96116941-weineck-780.adoc[]

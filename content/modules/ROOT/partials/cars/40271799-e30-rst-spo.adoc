@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-3-series-e30-cabriolet-spoiler
+:page-aliases: bmw-3-series-e30-cabriolet-spoiler
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |40271799
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |79900264 (0x04C32E68)
 |Price |$63,000
 |Car Name |3-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |E30_Rst_Spo
 |Model |M3
 |Version |E30 Cabriolet
@@ -69,7 +69,7 @@
 |Height (mm) |1370
 |Wheelbase (mm) |2565
 |Weight (kg) |1360
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

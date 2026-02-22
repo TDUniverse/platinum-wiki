@@ -1,6 +1,6 @@
-= Ford - N/A (key=61038407) GT Fastback 2+2 390
+= Ford - Mustang GT Fastback 2+2 390
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/91367513-must-68.adoc[]

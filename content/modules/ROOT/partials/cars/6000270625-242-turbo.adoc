@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$31,750
 |Car Name |242 Turbo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |242_turbo
 |Model |242
 |Version |Turbo Evolution
@@ -69,7 +69,7 @@
 |Height (mm) |1427
 |Wheelbase (mm) |2640
 |Weight (kg) |971
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

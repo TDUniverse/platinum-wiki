@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |85359703
-|Manufacturer ID |N/A (key=59938337)
+|Manufacturer ID |SHERMAN
 |Manufacturer Name |BEN SHERMAN
-|Logo File |N/A (key=59938337)
+|Logo File |SHERMAN
 |Number of Cars |0
 |===
 

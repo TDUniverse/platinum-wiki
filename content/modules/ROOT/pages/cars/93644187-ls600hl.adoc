@@ -1,6 +1,6 @@
-= Lexus - N/A (key=63033407) 350 F-Sport
+= Lexus - GS 350 F-Sport
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/93644187-ls600hl.adoc[]

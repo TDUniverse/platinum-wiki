@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$90,200
 |Car Name |S60 T6 AWD
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |S60_Pole
 |Model |S60
 |Version |Polestar
@@ -70,7 +70,7 @@
 |Height (mm) |1484
 |Wheelbase (mm) |2776
 |Weight (kg) |1762
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

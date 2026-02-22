@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-8108357-n-a-key-5666317-sport
+:page-aliases: tesla-roadster-sport
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,13 +11,13 @@
 |===
 |Field |Value
 |ID |6000270866
-|Brand |xref:brands/858.adoc[N/A (key=8108357)]
+|Brand |xref:brands/858.adoc[Tesla]
 |Group |77900264 (0x04A4A9E8)
 |Price |$122,550
-|Car Name |N/A (key=5666317)
-|Real Name |N/A (key=53338427)
+|Car Name |Roadster
+|Real Name |??
 |File Name |Tesla_Rst
-|Model |N/A (key=5666317)
+|Model |Roadster
 |Version |Sport
 |===
 
@@ -65,7 +65,7 @@
 |Height (mm) |1117
 |Wheelbase (mm) |2300
 |Weight (kg) |1305
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

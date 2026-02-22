@@ -1,5 +1,3 @@
-:page-aliases: kit-startech
-
 == Identity
 [cols="1,1",options="header"]
 |===

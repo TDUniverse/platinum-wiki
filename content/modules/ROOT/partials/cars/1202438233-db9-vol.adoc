@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: aston-martin-virage-n-a-key-53382366
+:page-aliases: aston-martin-virage-item
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |76900264 (0x049567A8)
 |Price |$161,000
 |Car Name |Virage
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |DB9_Vol
 |Model |Virage
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]

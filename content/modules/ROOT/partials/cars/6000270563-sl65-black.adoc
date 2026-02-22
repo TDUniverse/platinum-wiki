@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$350,000
 |Car Name |SL-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |SL65_Black
-|Model |N/A (key=60738407)
+|Model |SL
 |Version |65 AMG Black Series
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1286
 |Wheelbase (mm) |2560
 |Weight (kg) |1795
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

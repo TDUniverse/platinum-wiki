@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$145,000
 |Car Name |AMV12
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |V12_Vant
 |Model |V12
 |Version |Vantage
@@ -70,7 +70,7 @@
 |Height (mm) |1241
 |Wheelbase (mm) |2600
 |Weight (kg) |1680
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

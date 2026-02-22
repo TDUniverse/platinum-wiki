@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$108,000
 |Car Name |Skyline GT-R
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |R34_Veil
-|Model |N/A (key=53448407)
+|Model |Skyline
 |Version |GT-R (R34) V-Spec II
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1360
 |Wheelbase (mm) |2665
 |Weight (kg) |1510
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

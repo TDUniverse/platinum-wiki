@@ -1,6 +1,6 @@
-= Dodge - N/A (key=57238407) SRT8
+= Dodge - Challenger SRT8
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1231910920-s281sc-cpe.adoc[]

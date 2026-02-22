@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: lamborghini-n-a-key-56933407-lp5000-s-qv
+:page-aliases: lamborghini-countach-lp5000-s-qv
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/864426.adoc[Lamborghini]
 |Group |79900264 (0x04C32E68)
 |Price |$215,000
-|Car Name |N/A (key=56933407)
-|Real Name |N/A (key=53338427)
+|Car Name |Countach
+|Real Name |??
 |File Name |Count_LP
-|Model |N/A (key=56933407)
+|Model |Countach
 |Version |LP5000 S Quattrovalvole
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1070
 |Wheelbase (mm) |2450
 |Weight (kg) |1490
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

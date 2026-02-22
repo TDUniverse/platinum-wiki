@@ -1,6 +1,6 @@
-= Saturn - Sky N/A (key=57356917)
+= Saturn - Sky ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270620-saturn-sky.adoc[]

@@ -1,6 +1,6 @@
 = Lamborghini - Aventador LP900-4 DMC Molto Veloce Roadster
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270690-lp900dmc-rst.adoc[]

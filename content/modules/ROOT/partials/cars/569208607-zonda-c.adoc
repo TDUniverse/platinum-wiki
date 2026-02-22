@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: pagani-n-a-key-55038407-c12s-7-3
+:page-aliases: pagani-zonda-c12s-7-3
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/8152830.adoc[Pagani]
 |Group |74900264 (0x0476E328)
 |Price |$414,000
-|Car Name |N/A (key=55038407)
-|Real Name |N/A (key=53338427)
+|Car Name |Zonda
+|Real Name |??
 |File Name |Zonda_C
-|Model |N/A (key=55038407)
+|Model |Zonda
 |Version |C12 S 7.3
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1151
 |Wheelbase (mm) |2730
 |Weight (kg) |1250
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

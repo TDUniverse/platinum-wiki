@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ferrari-dino-246-n-a-key-15090300
+:page-aliases: ferrari-dino-246-gt-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |79900264 (0x04C32E68)
 |Price |$145,000
 |Car Name |Dino 246
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |246_Dino_GT
-|Model |N/A (key=58438407)
-|Version |N/A (key=54638407)
+|Model |Dino 246
+|Version |GT
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1150
 |Wheelbase (mm) |2340
 |Weight (kg) |1080
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

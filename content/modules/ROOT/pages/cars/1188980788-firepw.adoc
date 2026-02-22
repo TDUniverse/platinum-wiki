@@ -1,6 +1,6 @@
-= Jaguar - C-X75 N/A (key=55982366)
+= Jaguar - C-X75 Concept
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1188980788-firepw.adoc[]

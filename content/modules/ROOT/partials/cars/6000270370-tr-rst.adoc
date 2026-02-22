@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ferrari-testarossa-n-a-key-59538407
+:page-aliases: ferrari-testarossa-spider
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |79900264 (0x04C32E68)
 |Price |$240,000
 |Car Name |Testarossa
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |TR_Rst
 |Model |Testarossa
-|Version |N/A (key=59538407)
+|Version |Spider
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1130
 |Wheelbase (mm) |2550
 |Weight (kg) |1650
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

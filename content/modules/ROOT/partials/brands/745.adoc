@@ -1,12 +1,10 @@
-:page-aliases: fiat
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |745
 |Manufacturer ID |Fiat
-|Manufacturer Name |N/A (key=7098357)
+|Manufacturer Name |Fiat
 |Logo File |Fiat
 |Number of Cars |8
 |===

@@ -1,6 +1,6 @@
 = Zelectric Motors - 1200 Käfer (Typ-1)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/16370350-zelectric-kafer.adoc[]

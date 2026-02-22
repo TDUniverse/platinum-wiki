@@ -1,6 +1,6 @@
-= Lamborghini - N/A (key=57338407) N/A (key=54033427)
+= Lamborghini - Gallardo SE
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/784850286-gall-se.adoc[]

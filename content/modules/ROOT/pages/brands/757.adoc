@@ -1,7 +1,6 @@
-= N/A (key=7218357)
-:page-aliases: mini
+= Mini
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$brands/757.adoc[]

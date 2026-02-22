@@ -1,6 +1,6 @@
 = Chevrolet - Corvette C6 Grand Sport
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/10079820-c6gs-red.adoc[]

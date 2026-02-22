@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |831
-|Manufacturer ID |N/A (key=77238337)
+|Manufacturer ID |Hyundai
 |Manufacturer Name |Hyundai
-|Logo File |N/A (key=77238337)
+|Logo File |Hyundai
 |Number of Cars |0
 |===
 

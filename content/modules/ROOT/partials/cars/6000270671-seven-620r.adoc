@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: caterham-n-a-key-61938407-620r
+:page-aliases: caterham-seven-620r
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/898117.adoc[Caterham]
 |Group |74900264 (0x0476E328)
 |Price |$75,000
-|Car Name |N/A (key=61938407)
-|Real Name |N/A (key=53338427)
+|Car Name |Seven
+|Real Name |??
 |File Name |Seven_620R
-|Model |N/A (key=61938407)
+|Model |Seven
 |Version |620R
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1100
 |Wheelbase (mm) |2377
 |Weight (kg) |545
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

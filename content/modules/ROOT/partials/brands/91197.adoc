@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |91197
-|Manufacturer ID |N/A (key=56838337)
+|Manufacturer ID |CITR
 |Manufacturer Name |Generic Car
-|Logo File |N/A (key=56838337)
+|Logo File |CITR
 |Number of Cars |0
 |===
 

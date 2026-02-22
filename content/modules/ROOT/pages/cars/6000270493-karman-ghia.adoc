@@ -1,6 +1,6 @@
-= Volkswagen - N/A (key=1009282057001) Ghia (Typ-14)
+= Volkswagen - Karmann Ghia (Typ-14)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270493-karman-ghia.adoc[]

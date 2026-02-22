@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$245,000
 |Car Name |Coronet
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Coronet_Drag
 |Model |Coronet
 |Version |Super Bee 426 Hemi Dragster
@@ -68,7 +68,7 @@
 |Height (mm) |1346
 |Wheelbase (mm) |2972
 |Weight (kg) |1735
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

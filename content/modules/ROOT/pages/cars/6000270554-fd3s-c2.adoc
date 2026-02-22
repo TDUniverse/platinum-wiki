@@ -1,6 +1,6 @@
 = Mazda - RX-7 FD3S C-2
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270554-fd3s-c2.adoc[]

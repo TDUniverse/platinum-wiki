@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: nissan-n-a-key-53448407-2000gt-r-kpgc10-nismo
+:page-aliases: nissan-skyline-2000gt-r-kpgc10-nismo
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/8542108.adoc[Nissan]
 |Group |76900264 (0x049567A8)
 |Price |$165,000
-|Car Name |N/A (key=53448407)
-|Real Name |N/A (key=53338427)
+|Car Name |Skyline
+|Real Name |??
 |File Name |KPGC10_Nismo
-|Model |N/A (key=53448407)
+|Model |Skyline
 |Version |Hard Top 2000GT-R (KPGC10)
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1370
 |Wheelbase (mm) |2570
 |Weight (kg) |1015
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

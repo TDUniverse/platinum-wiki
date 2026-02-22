@@ -1,6 +1,6 @@
-= Mclaren - N/A (key=58938407) N/A (key=56933427)
+= Mclaren - F1 GTR
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/911668799-mclaren-f1-gtr.adoc[]

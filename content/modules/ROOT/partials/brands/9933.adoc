@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |9933
-|Manufacturer ID |N/A (key=62738337)
+|Manufacturer ID |SUZ
 |Manufacturer Name |Suzuki
-|Logo File |N/A (key=62738337)
+|Logo File |SUZ
 |Number of Cars |1
 |===
 

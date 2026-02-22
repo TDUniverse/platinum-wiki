@@ -1,12 +1,10 @@
-:page-aliases: buick
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |765
 |Manufacturer ID |Buick
-|Manufacturer Name |N/A (key=7298357)
+|Manufacturer Name |Buick
 |Logo File |Buick
 |Number of Cars |0
 |===

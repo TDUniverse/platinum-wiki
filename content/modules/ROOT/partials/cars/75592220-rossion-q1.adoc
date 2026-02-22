@@ -15,10 +15,10 @@
 |Group |74900264 (0x0476E328)
 |Price |$120,500
 |Car Name |Q1
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Rossion_Q1
 |Model |Q1
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1130
 |Wheelbase (mm) |2438
 |Weight (kg) |1043
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

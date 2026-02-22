@@ -15,10 +15,10 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$27,500
 |Car Name |MR2
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |MR2_SW20
-|Model |N/A (key=79782366)
-|Version |N/A (key=1006422397001)
+|Model |MR2
+|Version |GT (SW20)
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1235
 |Wheelbase (mm) |2400
 |Weight (kg) |1280
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

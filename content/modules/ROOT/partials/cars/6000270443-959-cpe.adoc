@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: porsche-n-a-key-59638407-komfort
+:page-aliases: porsche-959-komfort
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/902.adoc[Porsche]
 |Group |79900264 (0x04C32E68)
 |Price |$1,290,000
-|Car Name |N/A (key=59638407)
-|Real Name |N/A (key=53338427)
+|Car Name |959
+|Real Name |??
 |File Name |959_Cpe
-|Model |N/A (key=59638407)
-|Version |N/A (key=57356917)
+|Model |959
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1199
 |Wheelbase (mm) |2268
 |Weight (kg) |1450
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

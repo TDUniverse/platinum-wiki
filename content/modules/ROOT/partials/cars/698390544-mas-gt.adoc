@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: maserati-n-a-key-57538407-touring
+:page-aliases: maserati-3500-gt-touring
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/898027.adoc[Maserati]
 |Group |79900264 (0x04C32E68)
 |Price |$315,000
-|Car Name |N/A (key=57538407)
-|Real Name |N/A (key=53338427)
+|Car Name |3500 GT
+|Real Name |??
 |File Name |Mas_GT
-|Model |N/A (key=57538407)
+|Model |3500 GT
 |Version |Touring
 |===
 

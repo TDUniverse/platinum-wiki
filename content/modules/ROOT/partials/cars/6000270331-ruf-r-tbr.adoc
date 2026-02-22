@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-57838337-r-turbo-996
+:page-aliases: ruf-r-turbo-996
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270331
-|Brand |xref:brands/7932.adoc[N/A (key=57838337)]
+|Brand |xref:brands/7932.adoc[RUF]
 |Group |74900264 (0x0476E328)
 |Price |$277,000
 |Car Name |R Turbo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RUF_R_TBR
 |Model |R Turbo
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1194
 |Wheelbase (mm) |2372
 |Weight (kg) |1520
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

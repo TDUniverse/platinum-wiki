@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |8681429
-|Manufacturer ID |N/A (key=55938337)
-|Manufacturer Name |N/A (key=55938337)
-|Logo File |N/A (key=55938337)
+|Manufacturer ID |ELLSON
+|Manufacturer Name |ELLSON
+|Logo File |ELLSON
 |Number of Cars |0
 |===
 

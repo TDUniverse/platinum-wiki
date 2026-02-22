@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$29,750
 |Car Name |Golf GTi
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Golf_MK5
 |Model |Golf
 |Version |GTi (MkV)
@@ -70,7 +70,7 @@
 |Height (mm) |1466
 |Wheelbase (mm) |2578
 |Weight (kg) |1336
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

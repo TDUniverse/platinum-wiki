@@ -1,0 +1,104 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: traffic-compact-2
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |62085282
+|Brand |xref:brands/75077404.adoc[TRAFFIC]
+|Group |92900264 (0x05898BA8)
+|Price |$0
+|Car Name |Compact
+|Real Name |??
+|File Name |??
+|Model |Compact
+|Version |2
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |543629 (0x00084B8D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |4196
+|Power (BHP) |130 bhp @ 5800 rpm
+|Torque (Nm) |155 Nm @ 5800 rpm
+|Redline (RPM) |7500
+|Drive |54356917 (0x033D6BB5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |4.235
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |3.357
+|2 |2.087
+|3 |1.469
+|4 |1.108
+|5 |0.850
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1565
+|Length (mm) |4128
+|Height (mm) |1368
+|Wheelbase (mm) |2553
+|Weight (kg) |1300
+|Number of Seats |??
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |0.00 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |180.0 km/h
+|Braking 100–0 km/h (s) |0.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1000
+|Overturning Coefficient |100
+|Handling |100
+|Sharpness Coefficient |100
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

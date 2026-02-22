@@ -1,6 +1,6 @@
-= Alfa Romeo - N/A (key=54638407) 3.2 V6 24v Sport Technical Kit
+= Alfa Romeo - GT 3.2 V6 24v Sport Technical Kit
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/57142377-alfa-gt-sp.adoc[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7978357-hurst-olds-4-4-2-holiday-coupe-455-clean-800hp
+:page-aliases: oldsmobile-hurst-olds-4-4-2-holiday-coupe-455-clean-800hp
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |10536046
-|Brand |xref:brands/871.adoc[N/A (key=7978357)]
+|Brand |xref:brands/871.adoc[Oldsmobile]
 |Group |79900264 (0x04C32E68)
 |Price |$85,000
 |Car Name |Hurst/Olds 4-4-2
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Olds_442
 |Model |Hurst/Olds
 |Version |4-4-2 Holiday Coupe
@@ -68,7 +68,7 @@
 |Height (mm) |1341
 |Wheelbase (mm) |2845
 |Weight (kg) |1686
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

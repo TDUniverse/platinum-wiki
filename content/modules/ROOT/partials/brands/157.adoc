@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |157
-|Manufacturer ID |N/A (key=85338337)
+|Manufacturer ID |Trabant
 |Manufacturer Name |Trabant
-|Logo File |N/A (key=85338337)
+|Logo File |Trabant
 |Number of Cars |0
 |===
 

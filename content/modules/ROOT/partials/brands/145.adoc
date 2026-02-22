@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |145
-|Manufacturer ID |N/A (key=90238337)
+|Manufacturer ID |Studebaker
 |Manufacturer Name |Studebaker
-|Logo File |N/A (key=90238337)
+|Logo File |Studebaker
 |Number of Cars |0
 |===
 

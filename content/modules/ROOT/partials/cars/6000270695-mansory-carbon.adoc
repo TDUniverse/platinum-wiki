@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$1,250,000
 |Car Name |Aventador
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mansory_Carbon
 |Model |Aventador
 |Version |LP1250-4 Mansory Carbonado
@@ -71,7 +71,7 @@
 |Height (mm) |1136
 |Wheelbase (mm) |2700
 |Weight (kg) |1555
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

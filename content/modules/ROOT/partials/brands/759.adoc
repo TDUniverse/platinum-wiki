@@ -1,12 +1,10 @@
-:page-aliases: acura
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |759
 |Manufacturer ID |Acura
-|Manufacturer Name |N/A (key=7238357)
+|Manufacturer Name |Acura
 |Logo File |Acura
 |Number of Cars |1
 |===

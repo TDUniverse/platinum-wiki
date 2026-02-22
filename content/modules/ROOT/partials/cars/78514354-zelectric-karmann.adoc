@@ -15,9 +15,9 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$91,000
 |Car Name |Karmann
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Zelectric_Karmann
-|Model |N/A (key=1009282057001)
+|Model |Karmann
 |Version |Ghia (Typ-14)
 |===
 
@@ -65,7 +65,7 @@
 |Height (mm) |1330
 |Wheelbase (mm) |2400
 |Weight (kg) |938
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

@@ -1,6 +1,6 @@
-= Plymouth - N/A (key=103382366) Six-Pack AAR
+= Plymouth - Barracuda Six-Pack AAR
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/21536199-cuda-aar.adoc[]

@@ -1,6 +1,0 @@
-= Aston Martin - N/A (key=54138407) GT Zagato
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/916938324-car.adoc[]

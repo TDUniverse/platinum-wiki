@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$47,000
 |Car Name |240SX SE
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |240SX_VFiber
 |Model |240SX
 |Version |SE VFiber
@@ -70,7 +70,7 @@
 |Height (mm) |1214
 |Wheelbase (mm) |2600
 |Weight (kg) |1130
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

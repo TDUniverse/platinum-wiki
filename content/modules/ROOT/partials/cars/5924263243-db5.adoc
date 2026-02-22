@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: aston-martin-db5-coupe-n-a-key-53338427
+:page-aliases: aston-martin-db5-coupe-item
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$3,500,000
 |Car Name |DB5 Coupe
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |DB5
 |Model |DB5
 |Version |Vantage
@@ -69,7 +69,7 @@
 |Height (mm) |1346
 |Wheelbase (mm) |2489
 |Weight (kg) |1465
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

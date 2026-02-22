@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: lamborghini-n-a-key-57338407-n-a-key-15088878
+:page-aliases: lamborghini-gallardo-superleggera
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/864426.adoc[Lamborghini]
 |Group |74900264 (0x0476E328)
 |Price |$210,000
-|Car Name |N/A (key=57338407)
-|Real Name |N/A (key=53338427)
+|Car Name |Gallardo
+|Real Name |??
 |File Name |Gall_Sup
-|Model |N/A (key=57338407)
+|Model |Gallardo
 |Version |Superleggera
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1165
 |Wheelbase (mm) |2560
 |Weight (kg) |1360
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

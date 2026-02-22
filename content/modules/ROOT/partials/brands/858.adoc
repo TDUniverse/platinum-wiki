@@ -1,12 +1,10 @@
-:page-aliases: tesla
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |858
 |Manufacturer ID |Tesla
-|Manufacturer Name |N/A (key=8108357)
+|Manufacturer Name |Tesla
 |Logo File |Tesla
 |Number of Cars |2
 |===
@@ -15,7 +13,7 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270872-model-s.adoc[Model S N/A (key=1007294959001)] |Model S |N/A (key=1007294959001) |76900264 (0x049567A8) |$180,250 |762 |250.0
-|xref:cars/6000270866-tesla-rst.adoc[N/A (key=5666317) Sport] |N/A (key=5666317) |Sport |77900264 (0x04A4A9E8) |$122,550 |288 |201.0
+|xref:cars/6000270872-model-s.adoc[Model S P85D] |Model S |P85D |76900264 (0x049567A8) |$180,250 |762 |250.0
+|xref:cars/6000270866-tesla-rst.adoc[Roadster Sport] |Roadster |Sport |77900264 (0x04A4A9E8) |$122,550 |288 |201.0
 |===
 

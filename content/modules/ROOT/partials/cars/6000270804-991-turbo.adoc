@@ -15,9 +15,9 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$405,000
 |Car Name |911 Turbo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |991_Turbo
-|Model |N/A (key=57638407)
+|Model |911
 |Version |Turbo S (991.2)
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1297
 |Wheelbase (mm) |2450
 |Weight (kg) |1604
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

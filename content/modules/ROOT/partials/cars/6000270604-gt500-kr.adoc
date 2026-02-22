@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$208,000
 |Car Name |GT 500
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |GT500_KR
 |Model |GT500
 |Version |KR

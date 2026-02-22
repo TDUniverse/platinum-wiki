@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7028357-205-turbo-16-road-version
+:page-aliases: peugeot-205-turbo-16-road-version
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |6000270429
-|Brand |xref:brands/738.adoc[N/A (key=7028357)]
+|Brand |xref:brands/738.adoc[Peugeot]
 |Group |79900264 (0x04C32E68)
 |Price |$75,000
 |Car Name |205 Turbo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |205_T16
 |Model |205
 |Version |Turbo 16
@@ -69,7 +69,7 @@
 |Height (mm) |1353
 |Wheelbase (mm) |2540
 |Weight (kg) |1145
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

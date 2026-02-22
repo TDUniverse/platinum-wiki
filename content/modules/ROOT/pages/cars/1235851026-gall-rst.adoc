@@ -1,6 +1,6 @@
-= Lamborghini - N/A (key=57338407) N/A (key=56993667)
+= Lamborghini - Gallardo Spyder
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1235851026-gall-rst.adoc[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mercedes-benz-n-a-key-55838407-mclaren-722-edition-c199
+:page-aliases: mercedes-benz-slr-mclaren-722-edition-c199
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/865967.adoc[Mercedes-Benz]
 |Group |73900264 (0x0467A0E8)
 |Price |$570,000
-|Car Name |N/A (key=55838407)
-|Real Name |N/A (key=53338427)
+|Car Name |SLR
+|Real Name |??
 |File Name |SLR_722
-|Model |N/A (key=55838407)
+|Model |SLR
 |Version |Mclaren 722 Edition
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1251
 |Wheelbase (mm) |2700
 |Weight (kg) |1649
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$51,500
 |Car Name |1200 Käfer
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Kafer_Beetle
 |Model |1200
 |Version |Käfer (Typ-1)
@@ -68,7 +68,7 @@
 |Height (mm) |1500
 |Wheelbase (mm) |2400
 |Weight (kg) |887
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

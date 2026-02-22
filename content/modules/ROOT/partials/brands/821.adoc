@@ -1,12 +1,10 @@
-:page-aliases: gillet
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |821
 |Manufacturer ID |Gillet
-|Manufacturer Name |N/A (key=7638357)
+|Manufacturer Name |Gillet
 |Logo File |Gillet
 |Number of Cars |0
 |===

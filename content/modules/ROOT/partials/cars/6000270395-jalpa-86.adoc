@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$287,500
 |Car Name |R8
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Jalpa_86
 |Model |R8
 |Version |V10 quattro Plus
@@ -71,7 +71,7 @@
 |Height (mm) |1240
 |Wheelbase (mm) |2650
 |Weight (kg) |1645
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

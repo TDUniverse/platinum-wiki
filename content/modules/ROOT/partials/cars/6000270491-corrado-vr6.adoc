@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$25,100
 |Car Name |Corrado Hatch
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Corrado_VR6
 |Model |Corrado
 |Version |VR6
@@ -69,7 +69,7 @@
 |Height (mm) |1318
 |Wheelbase (mm) |2469
 |Weight (kg) |1210
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

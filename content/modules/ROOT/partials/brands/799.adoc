@@ -1,12 +1,10 @@
-:page-aliases: daewoo
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |799
 |Manufacturer ID |Daewoo
-|Manufacturer Name |N/A (key=7498357)
+|Manufacturer Name |Daewoo
 |Logo File |Daewoo
 |Number of Cars |0
 |===

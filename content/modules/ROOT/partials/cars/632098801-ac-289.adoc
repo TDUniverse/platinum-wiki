@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-55338337-n-a-key-59938407-n-a-key-58538427
+:page-aliases: ac-cobra-289
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |632098801
-|Brand |xref:brands/735.adoc[N/A (key=55338337)]
+|Brand |xref:brands/735.adoc[AC]
 |Group |79900264 (0x04C32E68)
 |Price |$100,000
-|Car Name |N/A (key=59938407)
-|Real Name |N/A (key=53338427)
+|Car Name |Cobra
+|Real Name |??
 |File Name |AC_289
-|Model |N/A (key=58538427)
-|Version |N/A (key=57356917)
+|Model |289
+|Version |??
 |===
 
 //end::identity[]
@@ -68,7 +68,7 @@
 |Height (mm) |1245
 |Wheelbase (mm) |2286
 |Weight (kg) |916
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,10 +15,10 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$22,000
 |Car Name |240SX SE
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |350Z_Rst
 |Model |240SX
-|Version |N/A (key=54033427)
+|Version |SE
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1290
 |Wheelbase (mm) |2475
 |Weight (kg) |1221
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

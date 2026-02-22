@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |768
-|Manufacturer ID |N/A (key=73238337)
+|Manufacturer ID |Facel Vega
 |Manufacturer Name |Facel Vega
-|Logo File |N/A (key=73238337)
+|Logo File |Facel Vega
 |Number of Cars |0
 |===
 

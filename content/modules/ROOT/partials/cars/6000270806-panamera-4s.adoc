@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$265,000
 |Car Name |Panamera 4S
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Panamera_4S
 |Model |Panamera
 |Version |4S
@@ -71,7 +71,7 @@
 |Height (mm) |1428
 |Wheelbase (mm) |2950
 |Weight (kg) |1915
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -1,0 +1,105 @@
+:noindex:
+
+//tag::page-aliases[]
+:page-aliases: ascari-kz1-item
+//end::page-aliases[]
+
+//tag::identity[]
+== Identity
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|ID |6000270303
+|Brand |xref:brands/72595.adoc[Ascari]
+|Group |74900264 (0x0476E328)
+|Price |$150,000
+|Car Name |KZ1
+|Real Name |??
+|File Name |KZ1
+|Model |KZ1
+|Version |??
+|===
+
+//end::identity[]
+
+//tag::engine-and-drivetrain[]
+== Engine And Drivetrain
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Engine Location |553629 (0x0008729D)
+|Engine Type |553709 (0x000872ED)
+|Displacement (cc) |4941
+|Power (BHP) |500 bhp @ 7000 rpm
+|Torque (Nm) |500 Nm @ 4500 rpm
+|Redline (RPM) |7500
+|Drive |55356917 (0x034CADF5)
+|Gearbox |573531 (0x0008C05B)
+|Final Drive Ratio |3.150
+|Number of Turbos |0
+|===
+
+//end::engine-and-drivetrain[]
+
+//tag::gear-ratios[]
+=== Gear Ratios
+
+[cols="1,1",options="header"]
+|===
+|Gear |Ratio
+|1 |4.230
+|2 |2.530
+|3 |1.670
+|4 |1.230
+|5 |1.000
+|6 |0.830
+|===
+
+//end::gear-ratios[]
+
+//tag::dimensions[]
+== Dimensions
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|Width (mm) |1852
+|Length (mm) |4300
+|Height (mm) |1138
+|Wheelbase (mm) |2636
+|Weight (kg) |1330
+|Number of Seats |2
+|===
+
+//end::dimensions[]
+
+//tag::performance[]
+== Performance
+
+[cols="1,1",options="header"]
+|===
+|Field |Value
+|0 - 100 km/h (s) |3.90 s
+|0 - 100 mph (s) |0.00 s
+|Top Speed (km/h) |320.0 km/h
+|Braking 100–0 km/h (s) |110.00
+|Quarter Mile (s) |0.00 s
+|Grip Coefficient |1000
+|Overturning Coefficient |102
+|Handling |75
+|Sharpness Coefficient |102
+|===
+
+//end::performance[]
+
+NOTE: In TDU this top speed field acts as the effective gearbox scaling parameter.
+Final drive ratio has little practical effect compared to this value.
+
+//tag::available-shops[]
+== Available In Shops (0)
+
+* None
+
+//end::available-shops[]

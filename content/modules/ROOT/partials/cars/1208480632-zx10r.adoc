@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: kawasaki-n-a-key-59548407-sportbike
+:page-aliases: kawasaki-zx-10r-sportbike
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/74425.adoc[Kawasaki]
 |Group |76800264 (0x0493E108)
 |Price |$23,500
-|Car Name |N/A (key=59548407)
-|Real Name |N/A (key=53338427)
+|Car Name |ZX-10R
+|Real Name |??
 |File Name |ZX10R
 |Model |Ninja
-|Version |N/A (key=59548407)
+|Version |ZX-10R
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1104
 |Wheelbase (mm) |1395
 |Weight (kg) |170
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

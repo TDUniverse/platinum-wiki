@@ -1,6 +1,0 @@
-= Toyota - N/A (key=59348407) RZ
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/46137808-supra-rz.adoc[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7028357-308-t7-gti-200
+:page-aliases: peugeot-308-t7-gti-200
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,13 +11,13 @@
 |===
 |Field |Value
 |ID |6000270788
-|Brand |xref:brands/738.adoc[N/A (key=7028357)]
+|Brand |xref:brands/738.adoc[Peugeot]
 |Group |78900264 (0x04B3EC28)
 |Price |$31,500
 |Car Name |308 (T7)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |308_GTi
-|Model |N/A (key=56033407)
+|Model |308
 |Version |GTi 1.6 THP
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1488
 |Wheelbase (mm) |2610
 |Weight (kg) |1399
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

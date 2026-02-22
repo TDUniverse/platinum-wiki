@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ferrari-f12-coupe-n-a-key-300401130
+:page-aliases: ferrari-f12-coupe-berlinetta-liberty-walk
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$740,000
 |Car Name |F12 Coupe
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |F12_LB
 |Model |F12
 |Version |Berlinetta Liberty Walk

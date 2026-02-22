@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |896
-|Manufacturer ID |N/A (key=80838337)
+|Manufacturer ID |Talbot
 |Manufacturer Name |Talbot
-|Logo File |N/A (key=80838337)
+|Logo File |Talbot
 |Number of Cars |0
 |===
 

@@ -1,6 +1,0 @@
-= Lexus - N/A (key=63033407) 350
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/02/21
-
-include::partial$cars/539110870-gs-350.adoc[]

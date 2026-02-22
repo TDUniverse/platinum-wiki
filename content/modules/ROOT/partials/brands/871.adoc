@@ -1,12 +1,10 @@
-:page-aliases: oldsmobile
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |871
 |Manufacturer ID |Oldsmobile
-|Manufacturer Name |N/A (key=7978357)
+|Manufacturer Name |Oldsmobile
 |Logo File |Oldsmobile
 |Number of Cars |4
 |===

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |937
-|Manufacturer ID |N/A (key=61738337)
+|Manufacturer ID |MV
 |Manufacturer Name |MV Agusta
-|Logo File |N/A (key=61738337)
+|Logo File |MV
 |Number of Cars |2
 |===
 
@@ -13,7 +13,7 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/1268792919-brutal.adoc[F4 Brutale 910S] |F4 Brutale |910S |77800264 (0x04A32348) |$16,000 |136 |257.0
 |xref:cars/1230834922-f4s.adoc[F4 Tamburini] |F4 |Tamburini |76800264 (0x0493E108) |$45,000 |173 |306.0
+|xref:cars/1268792919-brutal.adoc[F4 Brutale 910S] |F4 Brutale |910S |77800264 (0x04A32348) |$16,000 |136 |257.0
 |===
 

@@ -15,9 +15,9 @@
 |Group |76900264 (0x049567A8)
 |Price |$84,000
 |Car Name |Lancer
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Evo9_GSpeed
-|Model |N/A (key=58448407)
+|Model |Lancer
 |Version |Evolution IX MR G-Speed
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1450
 |Wheelbase (mm) |2625
 |Weight (kg) |1415
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

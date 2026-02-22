@@ -1,0 +1,6 @@
+= Caterham - CSR 260
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/71272709-sev-csr.adoc[]

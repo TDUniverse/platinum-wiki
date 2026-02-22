@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: lamborghini-n-a-key-55338407-gtr-series-ii
+:page-aliases: lamborghini-diablo-gtr-series-ii
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/864426.adoc[Lamborghini]
 |Group |73900264 (0x0467A0E8)
 |Price |$700,000
-|Car Name |N/A (key=55338407)
-|Real Name |N/A (key=53338427)
+|Car Name |Diablo
+|Real Name |??
 |File Name |Diablo_GTR
-|Model |N/A (key=55338407)
-|Version |N/A (key=56933427)
+|Model |Diablo
+|Version |GTR
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1115
 |Wheelbase (mm) |2650
 |Weight (kg) |1400
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

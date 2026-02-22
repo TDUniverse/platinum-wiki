@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$59,000
 |Car Name |2012 Camaro
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |S281_Cpe
 |Model |Camaro
 |Version |ZL1
@@ -70,7 +70,7 @@
 |Height (mm) |1376
 |Wheelbase (mm) |2852
 |Weight (kg) |1869
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

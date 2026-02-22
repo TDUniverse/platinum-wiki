@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$33,190
 |Car Name |Bora V6
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Scirocco_TSi
 |Model |Bora
 |Version |V6 4Motion
@@ -70,7 +70,7 @@
 |Height (mm) |1444
 |Wheelbase (mm) |2513
 |Weight (kg) |1457
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$65,000
 |Car Name |Chevelle Series 1
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Chevelle_SS
 |Model |Chevelle
 |Version |SS-396 Sport Coupe
@@ -68,7 +68,7 @@
 |Height (mm) |1318
 |Wheelbase (mm) |2921
 |Weight (kg) |1628
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

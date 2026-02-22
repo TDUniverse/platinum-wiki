@@ -1,6 +1,6 @@
 = Audi - RS6 quattro (C6)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/93059533-rs6-c6.adoc[]

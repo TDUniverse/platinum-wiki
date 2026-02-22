@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |7935
-|Manufacturer ID |N/A (key=56038337)
-|Manufacturer Name |N/A (key=56038337)
-|Logo File |N/A (key=61338337)
+|Manufacturer ID |AMG
+|Manufacturer Name |AMG
+|Logo File |BMW
 |Number of Cars |0
 |===
 

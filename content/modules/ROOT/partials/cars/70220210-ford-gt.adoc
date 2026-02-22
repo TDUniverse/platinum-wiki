@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: ford-n-a-key-54638407-n-a-key-53338427
+:page-aliases: ford-gt-item
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/77060.adoc[Ford]
 |Group |74900264 (0x0476E328)
 |Price |$177,000
-|Car Name |N/A (key=54638407)
-|Real Name |N/A (key=53338427)
+|Car Name |GT
+|Real Name |??
 |File Name |Ford_GT
-|Model |N/A (key=54638407)
-|Version |N/A (key=53338427)
+|Model |GT
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1125
 |Wheelbase (mm) |2710
 |Weight (kg) |1538
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: porsche-918-hybrid-n-a-key-56993667
+:page-aliases: porsche-918-hybrid-spyder
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$900,000
 |Car Name |918 Hybrid
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |918_Spyder
 |Model |918
-|Version |N/A (key=56993667)
+|Version |Spyder
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1167
 |Wheelbase (mm) |2730
 |Weight (kg) |1674
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

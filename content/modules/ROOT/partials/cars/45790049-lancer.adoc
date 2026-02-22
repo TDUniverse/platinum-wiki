@@ -15,9 +15,9 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$52,000
 |Car Name |Lancer
-|Real Name |N/A (key=53338427)
-|File Name |N/A (key=58448407)
-|Model |N/A (key=58448407)
+|Real Name |??
+|File Name |Lancer
+|Model |Lancer
 |Version |Evolution X GSR Premium
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1480
 |Wheelbase (mm) |2650
 |Weight (kg) |1600
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

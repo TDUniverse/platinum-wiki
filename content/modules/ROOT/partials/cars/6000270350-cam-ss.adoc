@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$40,000
 |Car Name |2010 Camaro
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Cam_SS
 |Model |Camaro
 |Version |SS
@@ -70,7 +70,7 @@
 |Height (mm) |1376
 |Wheelbase (mm) |2852
 |Weight (kg) |1746
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

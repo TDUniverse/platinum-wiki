@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: porsche-n-a-key-300401570-993
+:page-aliases: porsche-911-gt2-993
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/902.adoc[Porsche]
 |Group |74900264 (0x0476E328)
 |Price |$310,000
-|Car Name |N/A (key=300401570)
-|Real Name |N/A (key=53338427)
+|Car Name |911 GT2
+|Real Name |??
 |File Name |993_GT2
-|Model |N/A (key=57638407)
+|Model |911
 |Version |GT2 (993)
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1265
 |Wheelbase (mm) |2272
 |Weight (kg) |1290
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |747
-|Manufacturer ID |N/A (key=71138337)
+|Manufacturer ID |Seat
 |Manufacturer Name |Seat
-|Logo File |N/A (key=71138337)
+|Logo File |Seat
 |Number of Cars |1
 |===
 

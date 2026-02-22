@@ -1,6 +1,6 @@
-= Ferrari - N/A (key=57438407) #3223GT 64' Daytona 2000 Kilometers
+= Ferrari - 250 GTO #3223GT 64' Daytona 2000 Kilometers
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/16213797-250gto-3223day.adoc[]

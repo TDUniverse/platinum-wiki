@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$394,000
 |Car Name |Supra RZ
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Supra_FnFRoof
-|Model |N/A (key=59348407)
+|Model |Supra
 |Version |RZ Fast and Furious
 |===
 

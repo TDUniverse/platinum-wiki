@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |742
-|Manufacturer ID |N/A (key=70638337)
+|Manufacturer ID |Volvo
 |Manufacturer Name |Volvo
-|Logo File |N/A (key=70638337)
+|Logo File |Volvo
 |Number of Cars |8
 |===
 
@@ -15,11 +15,11 @@
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
 |xref:cars/6000270625-242-turbo.adoc[242 Turbo Evolution] |242 |Turbo Evolution |79900264 (0x04C32E68) |$31,750 |225 |219.0
 |xref:cars/6000270851-242-spo.adoc[242 Turbo Evolution] |242 |Turbo Evolution |79900264 (0x04C32E68) |$32,750 |225 |219.0
+|xref:cars/6000270485-850-r.adoc[850 R] |850 |R |78900264 (0x04B3EC28) |$48,000 |237 |265.0
+|xref:cars/6000270852-850r-paint.adoc[850 R] |850 |R |78900264 (0x04B3EC28) |$48,000 |237 |265.0
 |xref:cars/6000270623-s60-mki.adoc[S60 R AWD] |S60 |R AWD |77900264 (0x04A4A9E8) |$52,000 |296 |283.0
 |xref:cars/6000270624-s60-mkii.adoc[S60 T6 AWD R-Design] |S60 |T6 AWD R-Design |77900264 (0x04A4A9E8) |$65,200 |325 |312.0
 |xref:cars/6000270853-s60-pole.adoc[S60 Polestar] |S60 |Polestar |76900264 (0x049567A8) |$90,200 |345 |329.0
 |xref:cars/81575625-xc90-t8.adoc[XC90 T8 R-Design] |XC90 |T8 R-Design |78900264 (0x04B3EC28) |$102,400 |401 |329.0
-|xref:cars/6000270485-850-r.adoc[850 R] |850 |R |78900264 (0x04B3EC28) |$48,000 |237 |265.0
-|xref:cars/6000270852-850r-paint.adoc[850 R] |850 |R |78900264 (0x04B3EC28) |$48,000 |237 |265.0
 |===
 

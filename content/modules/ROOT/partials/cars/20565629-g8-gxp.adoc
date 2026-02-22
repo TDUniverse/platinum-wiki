@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$57,200
 |Car Name |Commodore
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |G8_GXP
 |Model |G8
 |Version |GXP
@@ -70,7 +70,7 @@
 |Height (mm) |1466
 |Wheelbase (mm) |2916
 |Weight (kg) |1825
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

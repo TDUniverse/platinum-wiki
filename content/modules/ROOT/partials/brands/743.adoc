@@ -1,12 +1,10 @@
-:page-aliases: skoda
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |743
 |Manufacturer ID |Skoda
-|Manufacturer Name |N/A (key=7078357)
+|Manufacturer Name |Skoda
 |Logo File |Skoda
 |Number of Cars |0
 |===

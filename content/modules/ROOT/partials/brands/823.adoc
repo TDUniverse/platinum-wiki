@@ -1,12 +1,10 @@
-:page-aliases: gmc
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |823
 |Manufacturer ID |GMC
-|Manufacturer Name |N/A (key=7658357)
+|Manufacturer Name |GMC
 |Logo File |GMC
 |Number of Cars |0
 |===

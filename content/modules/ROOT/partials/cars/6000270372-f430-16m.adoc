@@ -15,10 +15,10 @@
 |Group |74900264 (0x0476E328)
 |Price |$190,000
 |Car Name |F430
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |F430_16M
 |Model |430 Scuderia
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1199
 |Wheelbase (mm) |2600
 |Weight (kg) |1350
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

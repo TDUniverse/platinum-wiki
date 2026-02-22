@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$87,000
 |Car Name |Ram
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Ram_SRT10
 |Model |Ram
 |Version |SRT10
@@ -70,7 +70,7 @@
 |Height (mm) |1890
 |Wheelbase (mm) |3061
 |Weight (kg) |2330
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

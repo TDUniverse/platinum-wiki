@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$72,500
 |Car Name |Celica GT-Four
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Celica_ViS
 |Model |Celica
 |Version |GT-Four RC ViS Racing Z Max (ST185)

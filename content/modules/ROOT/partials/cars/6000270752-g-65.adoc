@@ -15,10 +15,10 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$245,000
 |Car Name |G-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |G_65
 |Model |G
-|Version |N/A (key=56592366)
+|Version |65 AMG
 |===
 
 //end::identity[]
@@ -71,7 +71,7 @@
 |Height (mm) |1931
 |Wheelbase (mm) |2850
 |Weight (kg) |2505
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

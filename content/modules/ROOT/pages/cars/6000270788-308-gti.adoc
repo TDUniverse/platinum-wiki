@@ -1,6 +1,6 @@
-= N/A (key=7028357) - N/A (key=56033407) GTi 1.6 THP
+= Peugeot - 308 GTi 1.6 THP
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270788-308-gti.adoc[]

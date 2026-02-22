@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$175,000
 |Car Name |981
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Cayman_GT4
 |Model |Cayman
 |Version |GT4
@@ -70,7 +70,7 @@
 |Height (mm) |1266
 |Wheelbase (mm) |2484
 |Weight (kg) |1415
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

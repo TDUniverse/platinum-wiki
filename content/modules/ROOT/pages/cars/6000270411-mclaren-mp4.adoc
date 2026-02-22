@@ -1,6 +1,6 @@
-= N/A (key=7028357) - 206 GTi N/A (key=57356917)
+= Peugeot - 206 GTi ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270411-mclaren-mp4.adoc[]

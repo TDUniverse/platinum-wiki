@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |7932
-|Manufacturer ID |N/A (key=57838337)
-|Manufacturer Name |N/A (key=57838337)
-|Logo File |N/A (key=57838337)
+|Manufacturer ID |RUF
+|Manufacturer Name |RUF
+|Logo File |RUF
 |Number of Cars |9
 |===
 
@@ -13,14 +13,14 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/699035694-ruf-r-tbr.adoc[Rturbo N/A (key=53338427)] |Rturbo |N/A (key=53338427) |74900264 (0x0476E328) |$200,000 |520 |330.0
-|xref:cars/6000270455-ruf-ctr.adoc[CTR N/A (key=53338427)] |CTR |N/A (key=53338427) |79900264 (0x04C32E68) |$340,000 |463 |351.0
-|xref:cars/1289993715-a4-dtm.adoc[CTR2 N/A (key=57356917)] |CTR2 |N/A (key=57356917) |74900264 (0x0476E328) |$297,110 |513 |363.0
-|xref:cars/6000270331-ruf-r-tbr.adoc[R Turbo N/A (key=57356917)] |R Turbo |N/A (key=57356917) |74900264 (0x0476E328) |$277,000 |513 |310.0
+|xref:cars/699035694-ruf-r-tbr.adoc[Rturbo ??] |Rturbo |?? |74900264 (0x0476E328) |$200,000 |520 |330.0
+|xref:cars/6000270455-ruf-ctr.adoc[CTR ??] |CTR |?? |79900264 (0x04C32E68) |$340,000 |463 |351.0
+|xref:cars/1289993715-a4-dtm.adoc[CTR2 ??] |CTR2 |?? |74900264 (0x0476E328) |$297,110 |513 |363.0
+|xref:cars/6000270331-ruf-r-tbr.adoc[R Turbo ??] |R Turbo |?? |74900264 (0x0476E328) |$277,000 |513 |310.0
+|xref:cars/702200086-ruf-rgt.adoc[RGT ??] |RGT |?? |75900264 (0x04862568) |$255,000 |395 |295.0
+|xref:cars/1174340422-ruf-spyder.adoc[RK Spyder] |RK |Spyder |76900264 (0x049567A8) |$200,000 |420 |285.0
+|xref:cars/6000270330-ruf-spyder.adoc[RK Spyder] |RK |Spyder |75900264 (0x04862568) |$220,000 |420 |280.0
 |xref:cars/699182101-ruf-t12.adoc[RT 12] |RT |12 |74900264 (0x0476E328) |$325,000 |530 |330.0
 |xref:cars/6000270603-rt12-r.adoc[RT 12 R] |RT |12 R |73900264 (0x0467A0E8) |$425,000 |720 |341.0
-|xref:cars/1174340422-ruf-spyder.adoc[N/A (key=54133407) N/A (key=56993667)] |N/A (key=54133407) |N/A (key=56993667) |76900264 (0x049567A8) |$200,000 |420 |285.0
-|xref:cars/6000270330-ruf-spyder.adoc[N/A (key=54133407) N/A (key=56993667)] |N/A (key=54133407) |N/A (key=56993667) |75900264 (0x04862568) |$220,000 |420 |280.0
-|xref:cars/702200086-ruf-rgt.adoc[N/A (key=61833407) N/A (key=57356917)] |N/A (key=61833407) |N/A (key=57356917) |75900264 (0x04862568) |$255,000 |395 |295.0
 |===
 

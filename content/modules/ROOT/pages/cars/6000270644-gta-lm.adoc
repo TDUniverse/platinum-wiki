@@ -1,6 +1,6 @@
-= N/A (key=7058357) - GTA N/A (key=53438407)
+= Alpine - GTA Le Mans
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270644-gta-lm.adoc[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: audi-n-a-key-53483667-s-tronic-quattro-b8
+:page-aliases: audi-s4-s-tronic-quattro-b8
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/80715.adoc[Audi]
 |Group |77900264 (0x04A4A9E8)
 |Price |$65,000
-|Car Name |N/A (key=53483667)
-|Real Name |N/A (key=53338427)
+|Car Name |S4
+|Real Name |??
 |File Name |Audi_S4
-|Model |N/A (key=53483667)
+|Model |S4
 |Version |S-Tronic quattro (B8)
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1406
 |Wheelbase (mm) |2811
 |Weight (kg) |1780
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

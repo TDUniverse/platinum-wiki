@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$120,000
 |Car Name |E-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |E_63
 |Model |E
 |Version |63 AMG
@@ -71,7 +71,7 @@
 |Height (mm) |1443
 |Wheelbase (mm) |2874
 |Weight (kg) |1765
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

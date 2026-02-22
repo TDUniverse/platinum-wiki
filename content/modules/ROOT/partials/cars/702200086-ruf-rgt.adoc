@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-57838337-n-a-key-61833407-996
+:page-aliases: ruf-rgt-996
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |702200086
-|Brand |xref:brands/7932.adoc[N/A (key=57838337)]
+|Brand |xref:brands/7932.adoc[RUF]
 |Group |75900264 (0x04862568)
 |Price |$255,000
-|Car Name |N/A (key=61833407)
-|Real Name |N/A (key=53338427)
+|Car Name |RGT
+|Real Name |??
 |File Name |RUF_RGT
-|Model |N/A (key=61833407)
-|Version |N/A (key=57356917)
+|Model |RGT
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1275
 |Wheelbase (mm) |2355
 |Weight (kg) |1330
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

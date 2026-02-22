@@ -1,6 +1,6 @@
 = JAPANESE MOTORCYCLES SPECIALIST
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$shops/612156816.adoc[]

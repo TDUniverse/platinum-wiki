@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: chrysler-n-a-key-54238407-n-a-key-59638427
+:page-aliases: chrysler-crossfire-coupe-srt-6
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/927987.adoc[Chrysler]
 |Group |77900264 (0x04A4A9E8)
 |Price |$46,000
-|Car Name |N/A (key=54238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Crossfire
+|Real Name |??
 |File Name |SRT6_Cpe
-|Model |N/A (key=54238407)
-|Version |N/A (key=56603667)
+|Model |Crossfire
+|Version |SRT6 Coupe
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1307
 |Wheelbase (mm) |2400
 |Weight (kg) |1496
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

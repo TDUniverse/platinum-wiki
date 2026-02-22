@@ -15,7 +15,7 @@
 |Group |73900264 (0x0467A0E8)
 |Price |$2,200,000
 |Car Name |Sesto
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Sesto_Concept
 |Model |Sesto
 |Version |Elemento
@@ -70,7 +70,7 @@
 |Height (mm) |1018
 |Wheelbase (mm) |2560
 |Weight (kg) |999
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,6 +1,6 @@
-= Spyker - N/A (key=58038407) Aileron
+= Spyker - C8 Aileron
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/96414415-spyk-rst-t.adoc[]

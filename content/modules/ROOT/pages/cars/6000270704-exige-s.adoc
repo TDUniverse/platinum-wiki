@@ -1,6 +1,6 @@
-= Lotus - N/A (key=59838407) N/A (key=57738427)
+= Lotus - Exige S
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270704-exige-s.adoc[]

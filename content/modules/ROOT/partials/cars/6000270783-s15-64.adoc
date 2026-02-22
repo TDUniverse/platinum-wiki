@@ -15,7 +15,7 @@
 |Group |75900264 (0x04862568)
 |Price |$155,000
 |Car Name |Silvia (S15)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |S15_64
 |Model |Silvia
 |Version |Spec-R Aero BRE Simoniz #64 D1GP
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2525
 |Weight (kg) |950
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

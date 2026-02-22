@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: pontiac-n-a-key-5397567-n-a-key-55933407
+:page-aliases: pontiac-solstice-roadster
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,8 +14,8 @@
 |Brand |xref:brands/92670.adoc[Pontiac]
 |Group |78900264 (0x04B3EC28)
 |Price |$25,000
-|Car Name |N/A (key=5397567)
-|Real Name |N/A (key=53338427)
+|Car Name |Solstice
+|Real Name |??
 |File Name |Solstice_Rst
 |Model |Solstice 2.4
 |Version |i 16v
@@ -69,7 +69,7 @@
 |Height (mm) |1274
 |Wheelbase (mm) |2415
 |Weight (kg) |1297
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

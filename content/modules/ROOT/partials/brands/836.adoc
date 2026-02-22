@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |836
-|Manufacturer ID |N/A (key=77638337)
+|Manufacturer ID |Jeep
 |Manufacturer Name |Jeep
-|Logo File |N/A (key=77638337)
+|Logo File |Jeep
 |Number of Cars |6
 |===
 

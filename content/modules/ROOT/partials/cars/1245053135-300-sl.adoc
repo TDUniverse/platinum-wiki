@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: mercedes-benz-300-sl-w198-n-a-key-56738427
+:page-aliases: mercedes-benz-300-sl-w198-gullwing
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,10 +15,10 @@
 |Group |79900264 (0x04C32E68)
 |Price |$2,370,000
 |Car Name |300 SL (W198)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |300_SL
 |Model |300 SL
-|Version |N/A (key=56738427)
+|Version |Gullwing
 |===
 
 //end::identity[]
@@ -68,7 +68,7 @@
 |Height (mm) |1302
 |Wheelbase (mm) |2400
 |Weight (kg) |1295
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

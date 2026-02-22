@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |807
-|Manufacturer ID |N/A (key=75638337)
+|Manufacturer ID |Dino
 |Manufacturer Name |Dino
-|Logo File |N/A (key=75638337)
+|Logo File |Dino
 |Number of Cars |0
 |===
 

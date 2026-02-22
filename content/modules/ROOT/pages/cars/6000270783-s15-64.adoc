@@ -1,6 +1,6 @@
 = Nissan - Silvia Spec-R Aero BRE Simoniz #64 D1GP
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/6000270783-s15-64.adoc[]

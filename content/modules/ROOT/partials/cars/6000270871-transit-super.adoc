@@ -15,7 +15,7 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$95,110
 |Car Name |Transit Van
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Transit_Super
 |Model |Transit
 |Version |Super Sport Van
@@ -70,7 +70,7 @@
 |Height (mm) |1950
 |Wheelbase (mm) |3300
 |Weight (kg) |2177
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

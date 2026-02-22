@@ -1,6 +1,6 @@
-= Ferrari - 512 TR N/A (key=57356917)
+= Ferrari - 512 TR ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1199604426-512-tr.adoc[]

@@ -1,12 +1,10 @@
-:page-aliases: smart
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |138
 |Manufacturer ID |Smart
-|Manufacturer Name |N/A (key=9098357)
+|Manufacturer Name |Smart
 |Logo File |Smart
 |Number of Cars |0
 |===

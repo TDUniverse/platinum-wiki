@@ -1,12 +1,10 @@
-:page-aliases: panoz
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |118
 |Manufacturer ID |Panoz
-|Manufacturer Name |N/A (key=8918357)
+|Manufacturer Name |Panoz
 |Logo File |Panoz
 |Number of Cars |0
 |===

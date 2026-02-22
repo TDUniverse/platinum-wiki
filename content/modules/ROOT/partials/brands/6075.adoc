@@ -1,5 +1,3 @@
-:page-aliases: kit-razzi
-
 == Identity
 [cols="1,1",options="header"]
 |===

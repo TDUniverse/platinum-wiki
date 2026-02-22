@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: saleen-n-a-key-58933407-extreme-coupe
+:page-aliases: saleen-s281-extreme-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/8567333.adoc[Saleen]
 |Group |75900264 (0x04862568)
 |Price |$68,000
-|Car Name |N/A (key=58933407)
-|Real Name |N/A (key=53338427)
+|Car Name |S281
+|Real Name |??
 |File Name |S281E_Cpe
-|Model |N/A (key=58933407)
+|Model |S281
 |Version |Extreme Coupe
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1384
 |Wheelbase (mm) |2720
 |Weight (kg) |1610
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

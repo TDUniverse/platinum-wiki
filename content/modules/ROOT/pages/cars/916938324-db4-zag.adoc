@@ -1,0 +1,6 @@
+= Aston Martin - DB4 GT Zagato
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/916938324-db4-zag.adoc[]

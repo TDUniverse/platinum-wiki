@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7058357-alpine-renault-a110-1600s
+:page-aliases: alpine-alpine-renault-a110-1600s
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,11 +11,11 @@
 |===
 |Field |Value
 |ID |5924263242
-|Brand |xref:brands/928.adoc[N/A (key=7058357)]
+|Brand |xref:brands/928.adoc[Alpine]
 |Group |79900264 (0x04C32E68)
 |Price |$65,000
 |Car Name |Alpine-Renault
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |A110
 |Model |A110
 |Version |1600S
@@ -69,7 +69,7 @@
 |Height (mm) |1130
 |Wheelbase (mm) |2100
 |Weight (kg) |635
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

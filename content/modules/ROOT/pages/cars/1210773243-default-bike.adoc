@@ -1,6 +1,6 @@
-= Bike Not Downloaded - N/A (key=53338427) N/A (key=53338427)
+= Bike Not Downloaded - ?? ??
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/1210773243-default-bike.adoc[]

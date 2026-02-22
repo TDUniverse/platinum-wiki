@@ -1,0 +1,6 @@
+= Shelby - Cobra 427 S/C
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/606298799-ac-427.adoc[]

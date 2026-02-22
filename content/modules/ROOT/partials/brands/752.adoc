@@ -1,12 +1,10 @@
-:page-aliases: lada
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |752
 |Manufacturer ID |Lada
-|Manufacturer Name |N/A (key=7168357)
+|Manufacturer Name |Lada
 |Logo File |Lada
 |Number of Cars |0
 |===

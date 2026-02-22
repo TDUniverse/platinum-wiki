@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: volvo-s60-t6-awd-n-a-key-300401705
+:page-aliases: volvo-s60-t6-awd-r-design-mkii
 //end::page-aliases[]
 
 //tag::identity[]
@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$65,200
 |Car Name |S60 T6 AWD
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |S60_mkii
 |Model |S60
 |Version |T6 AWD R-Design
@@ -70,7 +70,7 @@
 |Height (mm) |1484
 |Wheelbase (mm) |2776
 |Weight (kg) |1740
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

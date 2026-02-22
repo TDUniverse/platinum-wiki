@@ -1,12 +1,10 @@
-:page-aliases: ariel
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |764
 |Manufacturer ID |Ariel
-|Manufacturer Name |N/A (key=7288357)
+|Manufacturer Name |Ariel
 |Logo File |Ariel
 |Number of Cars |0
 |===

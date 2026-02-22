@@ -1,0 +1,6 @@
+= Ginetta - Supercharged GTS Prototype 2005
+:author: platinum-wiki-generator (MeFisto94)
+:revnumber: 1.0
+:revdate: 2026/02/22
+
+include::partial$cars/1218220598-farboud.adoc[]

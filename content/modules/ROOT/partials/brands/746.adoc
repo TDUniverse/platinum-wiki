@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |746
-|Manufacturer ID |N/A (key=71038337)
+|Manufacturer ID |Saab
 |Manufacturer Name |Saab
-|Logo File |N/A (key=71038337)
+|Logo File |Saab
 |Number of Cars |0
 |===
 

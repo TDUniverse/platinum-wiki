@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |868295
-|Manufacturer ID |N/A (key=58338337)
+|Manufacturer ID |ASTON
 |Manufacturer Name |Aston Martin
-|Logo File |N/A (key=58338337)
+|Logo File |ASTON
 |Number of Cars |25
 |===
 
@@ -14,29 +14,29 @@
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
 |xref:cars/6000270522-v12-vant.adoc[V12 Vantage] |V12 |Vantage |75900264 (0x04862568) |$145,000 |510 |281.0
-|xref:cars/6000270661-db11-cpe.adoc[DB11 N/A (key=58538407)] |DB11 |N/A (key=58538407) |74900264 (0x0476E328) |$350,000 |600 |373.0
+|xref:cars/702444678-amv8.adoc[V8 Vantage ??] |V8 Vantage |?? |76900264 (0x049567A8) |$100,000 |380 |300.0
+|xref:cars/6000270661-db11-cpe.adoc[DB11 Coupe] |DB11 |Coupe |74900264 (0x0476E328) |$350,000 |600 |373.0
+|xref:cars/916938324-db4-zag.adoc[DB4 GT Zagato] |DB4 |GT Zagato |79900264 (0x04C32E68) |$4,250,000 |314 |239.0
+|xref:cars/53135851-db4-zag.adoc[DB4 GT Zagato] |DB4 |GT Zagato |79900264 (0x04C32E68) |$4,250,000 |314 |239.0
 |xref:cars/5924263243-db5.adoc[DB5 Vantage] |DB5 |Vantage |79900264 (0x04C32E68) |$3,500,000 |325 |242.0
-|xref:cars/699437593-dbs-coupe.adoc[DBS N/A (key=58538407)] |DBS |N/A (key=58538407) |75900264 (0x04862568) |$225,000 |510 |291.0
-|xref:cars/25276799-dbs-coupe.adoc[DBS N/A (key=58538407)] |DBS |N/A (key=58538407) |75900264 (0x04862568) |$225,000 |510 |291.0
-|xref:cars/6000270523-one-77.adoc[One-77 N/A (key=57356917)] |One-77 |N/A (key=57356917) |73900264 (0x0467A0E8) |$1,400,000 |749 |390.0
-|xref:cars/1202238231-v8-n600.adoc[V8 Vantage V600] |V8 Vantage |V600 |76900264 (0x049567A8) |$315,000 |603 |454.0
-|xref:cars/734237852-vanquish-2013.adoc[N/A (key=56138407) N/A (key=58538407)] |N/A (key=56138407) |N/A (key=58538407) |75900264 (0x04862568) |$310,000 |565 |354.0
-|xref:cars/85378458-vanquish-2013.adoc[N/A (key=56138407) N/A (key=58538407)] |N/A (key=56138407) |N/A (key=58538407) |75900264 (0x04862568) |$310,000 |565 |354.0
-|xref:cars/6000270336-vantage.adoc[Vantage N/A (key=58538407)] |Vantage |N/A (key=58538407) |74900264 (0x0476E328) |$195,000 |503 |349.0
-|xref:cars/1202438233-db9-vol.adoc[Virage N/A (key=58538407)] |Virage |N/A (key=58538407) |76900264 (0x049567A8) |$161,000 |490 |339.0
-|xref:cars/923756915-vulcan.adoc[Vulcan N/A (key=57356917)] |Vulcan |N/A (key=57356917) |73900264 (0x0467A0E8) |$0 |811 |370.0
-|xref:cars/6000270859-vulcan-spo.adoc[Vulcan N/A (key=57356917)] |Vulcan |N/A (key=57356917) |73900264 (0x0467A0E8) |$2,000 |811 |370.0
-|xref:cars/6000270860-vulcan1.adoc[Vulcan N/A (key=57356917)] |Vulcan |N/A (key=57356917) |73900264 (0x0467A0E8) |$2,000 |811 |370.0
-|xref:cars/6000270861-vulcan2.adoc[Vulcan N/A (key=57356917)] |Vulcan |N/A (key=57356917) |73900264 (0x0467A0E8) |$2,000 |811 |370.0
-|xref:cars/6000270862-vulcan-spo1.adoc[Vulcan N/A (key=57356917)] |Vulcan |N/A (key=57356917) |73900264 (0x0467A0E8) |$2,000 |811 |370.0
-|xref:cars/6000270863-vulcan-spo2.adoc[Vulcan N/A (key=57356917)] |Vulcan |N/A (key=57356917) |73900264 (0x0467A0E8) |$2,000 |811 |370.0
-|xref:cars/94732285-vulcan.adoc[Vulcan N/A (key=57356917)] |Vulcan |N/A (key=57356917) |73900264 (0x0467A0E8) |$0 |811 |370.0
-|xref:cars/1183238684-car.adoc[N/A (key=61648407) N/A (key=55592366)] |N/A (key=61648407) |N/A (key=55592366) |76900264 (0x049567A8) |$290,000 |434 |297.0
-|xref:cars/53135851-car.adoc[N/A (key=54138407) GT Zagato] |N/A (key=54138407) |GT Zagato |79900264 (0x04C32E68) |$4,250,000 |314 |239.0
-|xref:cars/6000270304-car.adoc[DB7 Vantage N/A (key=55592366)] |DB7 Vantage |N/A (key=55592366) |76900264 (0x049567A8) |$290,000 |434 |350.0
-|xref:cars/6000270305-db9-vol.adoc[Virage N/A (key=58538407)] |Virage |N/A (key=58538407) |76900264 (0x049567A8) |$161,000 |450 |300.0
-|xref:cars/702444678-car.adoc[V8 Vantage N/A (key=53338427)] |V8 Vantage |N/A (key=53338427) |76900264 (0x049567A8) |$100,000 |380 |300.0
-|xref:cars/705066200-vanquish-cpe.adoc[N/A (key=56138407) N/A (key=57738427)] |N/A (key=56138407) |N/A (key=57738427) |75900264 (0x04862568) |$262,900 |520 |337.0
-|xref:cars/916938324-car.adoc[N/A (key=54138407) GT Zagato] |N/A (key=54138407) |GT Zagato |79900264 (0x04C32E68) |$4,250,000 |314 |239.0
+|xref:cars/1183238684-db7-zag.adoc[DB7 Zagato] |DB7 |Zagato |76900264 (0x049567A8) |$290,000 |434 |297.0
+|xref:cars/6000270304-db7-zag.adoc[DB7 Vantage Zagato] |DB7 Vantage |Zagato |76900264 (0x049567A8) |$290,000 |434 |350.0
+|xref:cars/6000270305-db9-vol.adoc[Virage Coupe] |Virage |Coupe |76900264 (0x049567A8) |$161,000 |450 |300.0
+|xref:cars/699437593-db9-cpe.adoc[DBS Coupe] |DBS |Coupe |75900264 (0x04862568) |$225,000 |510 |291.0
+|xref:cars/25276799-db9-cpe.adoc[DBS Coupe] |DBS |Coupe |75900264 (0x04862568) |$225,000 |510 |291.0
+|xref:cars/6000270523-one-77.adoc[One-77 ??] |One-77 |?? |73900264 (0x0467A0E8) |$1,400,000 |749 |390.0
+|xref:cars/1202238231-db7.adoc[V8 Vantage V600] |V8 Vantage |V600 |76900264 (0x049567A8) |$315,000 |603 |454.0
+|xref:cars/705066200-vanquish-cpe.adoc[Vanquish S] |Vanquish |S |75900264 (0x04862568) |$262,900 |520 |337.0
+|xref:cars/734237852-dbar1.adoc[Vanquish Coupe] |Vanquish |Coupe |75900264 (0x04862568) |$310,000 |565 |354.0
+|xref:cars/85378458-dbar1.adoc[Vanquish Coupe] |Vanquish |Coupe |75900264 (0x04862568) |$310,000 |565 |354.0
+|xref:cars/6000270336-amv8.adoc[Vantage Coupe] |Vantage |Coupe |74900264 (0x0476E328) |$195,000 |503 |349.0
+|xref:cars/1202438233-db9-vol.adoc[Virage Coupe] |Virage |Coupe |76900264 (0x049567A8) |$161,000 |490 |339.0
+|xref:cars/923756915-must-gtr.adoc[Vulcan ??] |Vulcan |?? |73900264 (0x0467A0E8) |$0 |811 |370.0
+|xref:cars/6000270859-vulcan-spo.adoc[Vulcan ??] |Vulcan |?? |73900264 (0x0467A0E8) |$2,000 |811 |370.0
+|xref:cars/6000270860-vulcan1.adoc[Vulcan ??] |Vulcan |?? |73900264 (0x0467A0E8) |$2,000 |811 |370.0
+|xref:cars/6000270861-vulcan2.adoc[Vulcan ??] |Vulcan |?? |73900264 (0x0467A0E8) |$2,000 |811 |370.0
+|xref:cars/6000270862-vulcan-spo1.adoc[Vulcan ??] |Vulcan |?? |73900264 (0x0467A0E8) |$2,000 |811 |370.0
+|xref:cars/6000270863-vulcan-spo2.adoc[Vulcan ??] |Vulcan |?? |73900264 (0x0467A0E8) |$2,000 |811 |370.0
+|xref:cars/94732285-must-gtr.adoc[Vulcan ??] |Vulcan |?? |73900264 (0x0467A0E8) |$0 |811 |370.0
 |===
 

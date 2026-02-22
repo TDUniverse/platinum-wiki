@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: dodge-n-a-key-56238407-srt8-v-rent
+:page-aliases: dodge-charger-srt8-v-rent
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/768658.adoc[Dodge]
 |Group |76900264 (0x049567A8)
 |Price |$51,000
-|Car Name |N/A (key=56238407)
-|Real Name |N/A (key=53338427)
+|Car Name |Charger
+|Real Name |??
 |File Name |S281SC_Conv
-|Model |N/A (key=56238407)
+|Model |Charger
 |Version |SRT8
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1480
 |Wheelbase (mm) |3052
 |Weight (kg) |1982
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

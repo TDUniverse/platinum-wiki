@@ -15,10 +15,10 @@
 |Group |74900264 (0x0476E328)
 |Price |$288,500
 |Car Name |GT86
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |GT86_RB
 |Model |GT86
-|Version |N/A (key=1008082231001)
+|Version |Rocket Bunny
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1285
 |Wheelbase (mm) |2570
 |Weight (kg) |1265
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

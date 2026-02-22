@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: jaguar-n-a-key-59138407-v-rent
+:page-aliases: jaguar-xj220-v-rent
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/7824.adoc[Jaguar]
 |Group |74900264 (0x0476E328)
 |Price |$520,000
-|Car Name |N/A (key=59138407)
-|Real Name |N/A (key=53338427)
+|Car Name |XJ220
+|Real Name |??
 |File Name |XJ_220
-|Model |N/A (key=59138407)
-|Version |N/A (key=57356917)
+|Model |XJ220
+|Version |??
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1149
 |Wheelbase (mm) |2642
 |Weight (kg) |1470
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

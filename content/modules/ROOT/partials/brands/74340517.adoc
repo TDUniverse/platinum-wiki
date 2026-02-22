@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |74340517
-|Manufacturer ID |N/A (key=60838337)
+|Manufacturer ID |CADILAC
 |Manufacturer Name |Cadillac
-|Logo File |N/A (key=60838337)
+|Logo File |CADILAC
 |Number of Cars |7
 |===
 
@@ -13,12 +13,12 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/95215035-cts.adoc[CTS-V™ N/A (key=53338427)] |CTS-V™ |N/A (key=53338427) |76900264 (0x049567A8) |$51,500 |400 |260.0
-|xref:cars/6000270308-cts.adoc[CTS-V N/A (key=57356917)] |CTS-V |N/A (key=57356917) |77900264 (0x04A4A9E8) |$51,500 |400 |367.0
-|xref:cars/6000270505-cts-cpe.adoc[CTS-V N/A (key=58538407)] |CTS-V |N/A (key=58538407) |75900264 (0x04862568) |$98,000 |556 |308.0
+|xref:cars/1188226067-cien.adoc[Cien™ ??] |Cien™ |?? |73900264 (0x0467A0E8) |$750,000 |850 |400.0
+|xref:cars/95215035-cts-v.adoc[CTS-V™ ??] |CTS-V™ |?? |76900264 (0x049567A8) |$51,500 |400 |260.0
+|xref:cars/6000270308-cts-v.adoc[CTS-V ??] |CTS-V |?? |77900264 (0x04A4A9E8) |$51,500 |400 |367.0
+|xref:cars/6000270505-cts-cpe.adoc[CTS-V Coupe] |CTS-V |Coupe |75900264 (0x04862568) |$98,000 |556 |308.0
 |xref:cars/6000270506-cts-sdn.adoc[CTS-V Sport Sedan] |CTS-V |Sport Sedan |75900264 (0x04862568) |$77,500 |556 |308.0
 |xref:cars/6000270342-eldo-59.adoc[Eldorado Biarritz] |Eldorado |Biarritz |79900264 (0x04C32E68) |$250,000 |345 |203.0
-|xref:cars/1188226067-car.adoc[Cien™ N/A (key=53338427)] |Cien™ |N/A (key=53338427) |73900264 (0x0467A0E8) |$750,000 |850 |400.0
-|xref:cars/95055948-car.adoc[XLR-V N/A (key=57356917)] |XLR-V |N/A (key=57356917) |76900264 (0x049567A8) |$100,000 |443 |461.0
+|xref:cars/95055948-xlr-v.adoc[XLR-V ??] |XLR-V |?? |76900264 (0x049567A8) |$100,000 |443 |461.0
 |===
 

@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |8649
-|Manufacturer ID |N/A (key=57438337)
+|Manufacturer ID |EDO
 |Manufacturer Name |B. Engineering
-|Logo File |N/A (key=57438337)
+|Logo File |EDO
 |Number of Cars |1
 |===
 
@@ -13,6 +13,6 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270314-car.adoc[N/A (key=60038407) N/A (key=57356917)] |N/A (key=60038407) |N/A (key=57356917) |73900264 (0x0467A0E8) |$960,000 |670 |345.0
+|xref:cars/6000270314-edonis.adoc[Edonis ??] |Edonis |?? |73900264 (0x0467A0E8) |$960,000 |670 |345.0
 |===
 

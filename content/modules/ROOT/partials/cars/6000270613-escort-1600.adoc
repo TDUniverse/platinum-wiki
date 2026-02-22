@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$35,000
 |Car Name |Escort (MkI)
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Escort_1600
 |Model |Escort
 |Version |RS1600
@@ -68,7 +68,7 @@
 |Height (mm) |1384
 |Wheelbase (mm) |2400
 |Weight (kg) |891
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

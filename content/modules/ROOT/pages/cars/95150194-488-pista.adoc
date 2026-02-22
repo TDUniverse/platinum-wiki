@@ -1,6 +1,6 @@
 = Ferrari - 488 Pista
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/95150194-488-pista.adoc[]

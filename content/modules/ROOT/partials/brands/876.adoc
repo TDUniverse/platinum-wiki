@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |876
-|Manufacturer ID |N/A (key=79838337)
+|Manufacturer ID |Panhard
 |Manufacturer Name |Panhard
-|Logo File |N/A (key=79838337)
+|Logo File |Panhard
 |Number of Cars |0
 |===
 

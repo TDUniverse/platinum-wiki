@@ -3,8 +3,8 @@
 |===
 |Field |Value
 |ID |1220916237
-|Manufacturer ID |N/A (key=53938337)
-|Manufacturer Name |N/A (key=53938337)
+|Manufacturer ID |Wiesmann
+|Manufacturer Name |Wiesmann
 |Logo File |WIESMANN
 |Number of Cars |2
 |===
@@ -13,7 +13,7 @@
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270868-wies-mf5.adoc[N/A (key=54638407) MF5] |N/A (key=54638407) |MF5 |74900264 (0x0476E328) |$235,000 |500 |318.0
-|xref:cars/922904690-wies-rst.adoc[N/A (key=5666317) MF3] |N/A (key=5666317) |MF3 |76900264 (0x049567A8) |$70,000 |338 |322.0
+|xref:cars/6000270868-wies-mf5.adoc[GT MF5] |GT |MF5 |74900264 (0x0476E328) |$235,000 |500 |318.0
+|xref:cars/922904690-wies-rst.adoc[Roadster MF3] |Roadster |MF3 |76900264 (0x049567A8) |$70,000 |338 |322.0
 |===
 

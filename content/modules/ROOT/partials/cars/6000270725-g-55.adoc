@@ -15,10 +15,10 @@
 |Group |78900264 (0x04B3EC28)
 |Price |$150,000
 |Car Name |G-Klasse
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |G_55
 |Model |G
-|Version |N/A (key=55738427)
+|Version |55 AMG
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1931
 |Wheelbase (mm) |2850
 |Weight (kg) |2595
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

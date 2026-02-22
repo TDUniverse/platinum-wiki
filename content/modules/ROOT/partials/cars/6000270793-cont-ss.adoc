@@ -15,7 +15,7 @@
 |Group |74900264 (0x0476E328)
 |Price |$450,000
 |Car Name |Continental MkII
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Cont_SS
 |Model |Continental
 |Version |GT Supersports
@@ -71,7 +71,7 @@
 |Height (mm) |1391
 |Wheelbase (mm) |2746
 |Weight (kg) |2280
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

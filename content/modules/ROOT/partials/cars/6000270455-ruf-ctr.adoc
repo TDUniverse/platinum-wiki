@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-57838337-ctr-yellow-bird-930
+:page-aliases: ruf-ctr-yellow-bird-930
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270455
-|Brand |xref:brands/7932.adoc[N/A (key=57838337)]
+|Brand |xref:brands/7932.adoc[RUF]
 |Group |79900264 (0x04C32E68)
 |Price |$340,000
 |Car Name |CTR
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |RUF_CTR
 |Model |CTR
-|Version |N/A (key=53338427)
+|Version |??
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1311
 |Wheelbase (mm) |2273
 |Weight (kg) |1150
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$113,000
 |Car Name |GranSport
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mas_Rst_90
 |Model |GranSport
 |Version |Spyder 90th Anniversary
@@ -70,7 +70,7 @@
 |Height (mm) |1295
 |Wheelbase (mm) |2440
 |Weight (kg) |1730
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

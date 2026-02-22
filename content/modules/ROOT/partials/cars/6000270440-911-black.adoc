@@ -15,7 +15,7 @@
 |Group |79900264 (0x04C32E68)
 |Price |$135,000
 |Car Name |911 Carrera
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |911_Black
 |Model |911 Carrera
 |Version |2.7 RS
@@ -69,7 +69,7 @@
 |Height (mm) |1321
 |Wheelbase (mm) |2272
 |Weight (kg) |1075
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: aston-martin-n-a-key-55138407-n-a-key-55638427
+:page-aliases: aston-martin-db9-volante
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,11 +14,11 @@
 |Brand |xref:brands/868295.adoc[Aston Martin]
 |Group |76900264 (0x049567A8)
 |Price |$161,000
-|Car Name |N/A (key=55138407)
-|Real Name |N/A (key=53338427)
+|Car Name |DB9
+|Real Name |??
 |File Name |DB9_Vol
 |Model |Virage
-|Version |N/A (key=58538407)
+|Version |Coupe
 |===
 
 //end::identity[]

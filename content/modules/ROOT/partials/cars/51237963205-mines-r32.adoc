@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$250,000
 |Car Name |Skyline GT-R
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Mines_R32
-|Model |N/A (key=53448407)
+|Model |Skyline
 |Version |GT-R R32.5 V-Spec N1
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1305
 |Wheelbase (mm) |2615
 |Weight (kg) |1425
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

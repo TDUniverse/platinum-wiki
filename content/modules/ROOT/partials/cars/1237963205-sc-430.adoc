@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: nissan-n-a-key-60348407-rst
+:page-aliases: nissan-sc430-rst
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/8542108.adoc[Nissan]
 |Group |78900264 (0x04B3EC28)
 |Price |$65,000
-|Car Name |N/A (key=60348407)
-|Real Name |N/A (key=53338427)
+|Car Name |SC430
+|Real Name |??
 |File Name |SC_430
-|Model |N/A (key=53448407)
+|Model |Skyline
 |Version |GT-R R32 V-Spec
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1348
 |Wheelbase (mm) |2620
 |Weight (kg) |1741
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

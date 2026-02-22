@@ -1,6 +1,6 @@
-= Mine's - N/A (key=53448407) GT-R BNR34 V-Spec N1
+= Mine's - Skyline GT-R BNR34 V-Spec N1
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/21
+:revdate: 2026/02/22
 
 include::partial$cars/74861376-minesr34-blue.adoc[]

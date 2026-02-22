@@ -1,12 +1,10 @@
-:page-aliases: lancia
-
 == Identity
 [cols="1,1",options="header"]
 |===
 |Field |Value
 |ID |739
 |Manufacturer ID |Lancia
-|Manufacturer Name |N/A (key=7038357)
+|Manufacturer Name |Lancia
 |Logo File |Lancia
 |Number of Cars |5
 |===

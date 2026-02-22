@@ -15,7 +15,7 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$160,000
 |Car Name |Range Rover 5.0
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Range_SVR
 |Model |Range Rover
 |Version |Sport SVR
@@ -71,7 +71,7 @@
 |Height (mm) |1780
 |Wheelbase (mm) |2923
 |Weight (kg) |2330
-|Number of Seats |N/A (key=59533427)
+|Number of Seats |6
 |===
 
 //end::dimensions[]

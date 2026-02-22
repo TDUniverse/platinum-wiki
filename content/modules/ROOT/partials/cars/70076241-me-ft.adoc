@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: chrysler-n-a-key-55238407-four-twelve-concept
+:page-aliases: chrysler-me-four-twelve-concept
 //end::page-aliases[]
 
 //tag::identity[]
@@ -14,10 +14,10 @@
 |Brand |xref:brands/927987.adoc[Chrysler]
 |Group |73900264 (0x0467A0E8)
 |Price |$0
-|Car Name |N/A (key=55238407)
-|Real Name |N/A (key=53338427)
+|Car Name |ME
+|Real Name |??
 |File Name |ME_FT
-|Model |N/A (key=55238407)
+|Model |ME
 |Version |Four-Twelve
 |===
 
@@ -71,7 +71,7 @@
 |Height (mm) |1036
 |Wheelbase (mm) |2890
 |Weight (kg) |1310
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

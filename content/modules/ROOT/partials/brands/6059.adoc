@@ -1,5 +1,3 @@
-:page-aliases: kit-rocket-bunny
-
 == Identity
 [cols="1,1",options="header"]
 |===

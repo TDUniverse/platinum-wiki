@@ -15,7 +15,7 @@
 |Group |76900264 (0x049567A8)
 |Price |$395,000
 |Car Name |Cayenne Turbo
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Cayenne_Turbo
 |Model |Cayenne
 |Version |Turbo
@@ -71,7 +71,7 @@
 |Height (mm) |1673
 |Wheelbase (mm) |2895
 |Weight (kg) |2178
-|Number of Seats |N/A (key=57533427)
+|Number of Seats |4
 |===
 
 //end::dimensions[]

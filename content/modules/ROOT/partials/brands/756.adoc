@@ -3,9 +3,9 @@
 |===
 |Field |Value
 |ID |756
-|Manufacturer ID |N/A (key=72038337)
+|Manufacturer ID |Land Rover
 |Manufacturer Name |Land Rover
-|Logo File |N/A (key=72038337)
+|Logo File |Land Rover
 |Number of Cars |11
 |===
 

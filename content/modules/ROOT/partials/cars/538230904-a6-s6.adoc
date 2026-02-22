@@ -15,9 +15,9 @@
 |Group |77900264 (0x04A4A9E8)
 |Price |$95,000
 |Car Name |A6 C5
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |A6_S6
-|Model |N/A (key=57338427)
+|Model |RS6
 |Version |quattro (C5)
 |===
 
@@ -69,7 +69,7 @@
 |Height (mm) |1425
 |Wheelbase (mm) |2759
 |Weight (kg) |1840
-|Number of Seats |N/A (key=58533427)
+|Number of Seats |5
 |===
 
 //end::dimensions[]

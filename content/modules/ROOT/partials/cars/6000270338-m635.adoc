@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-6138357-6-series-635-coupe
+:page-aliases: bmw-6-series-635-coupe
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |6000270338
-|Brand |xref:brands/905.adoc[N/A (key=6138357)]
+|Brand |xref:brands/905.adoc[BMW]
 |Group |79900264 (0x04C32E68)
 |Price |$78,000
 |Car Name |6-series
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |M635
 |Model |M635csi
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -69,7 +69,7 @@
 |Height (mm) |1355
 |Wheelbase (mm) |2625
 |Weight (kg) |1500
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

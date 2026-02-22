@@ -15,9 +15,9 @@
 |Group |74900264 (0x0476E328)
 |Price |$235,000
 |Car Name |Gallardo LP570
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Gall_Perf
-|Model |N/A (key=57338407)
+|Model |Gallardo
 |Version |LP570-4 Performante
 |===
 
@@ -70,7 +70,7 @@
 |Height (mm) |1165
 |Wheelbase (mm) |2560
 |Weight (kg) |1575
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

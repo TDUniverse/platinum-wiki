@@ -15,10 +15,10 @@
 |Group |77800264 (0x04A32348)
 |Price |$11,500
 |Car Name |SpeedTriple
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |TR_speed
 |Model |Speed Triple
-|Version |N/A (key=57356917)
+|Version |??
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1085
 |Wheelbase (mm) |1477
 |Weight (kg) |189
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]

@@ -1,7 +1,7 @@
 :noindex:
 
 //tag::page-aliases[]
-:page-aliases: n-a-key-7458357-venom-gt-coupe-v-rent
+:page-aliases: hennessey-venom-gt-coupe-v-rent
 //end::page-aliases[]
 
 //tag::identity[]
@@ -11,14 +11,14 @@
 |===
 |Field |Value
 |ID |10588573
-|Brand |xref:brands/783.adoc[N/A (key=7458357)]
+|Brand |xref:brands/783.adoc[Hennessey]
 |Group |73900264 (0x0467A0E8)
 |Price |$750,000
 |Car Name |Venom
-|Real Name |N/A (key=53338427)
+|Real Name |??
 |File Name |Venom_GT
 |Model |Venom
-|Version |N/A (key=54638407)
+|Version |GT
 |===
 
 //end::identity[]
@@ -70,7 +70,7 @@
 |Height (mm) |1135
 |Wheelbase (mm) |2800
 |Weight (kg) |1244
-|Number of Seats |N/A (key=55533427)
+|Number of Seats |2
 |===
 
 //end::dimensions[]
