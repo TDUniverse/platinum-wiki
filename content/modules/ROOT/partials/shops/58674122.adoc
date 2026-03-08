@@ -8,7 +8,7 @@
 |Key |ECR_A_2350
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |15
+|Cars Available |11
 |===
 
 == Cars
@@ -23,7 +23,3 @@
 * xref:cars/6000270361-superbird.adoc[Plymouth - Superbird Hemi]
 * xref:cars/81074950-gt500kr-white.adoc[Shelby - GT500 KR]
 * xref:cars/97287508-ac-427.adoc[Shelby - Cobra 427 S/C]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

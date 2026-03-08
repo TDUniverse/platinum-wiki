@@ -8,7 +8,7 @@
 |Key |ECD_15A_7830
 |Libelle |250250269
 |Libelle Localized |MASERATI - FIAT
-|Cars Available |14
+|Cars Available |11
 |===
 
 == Cars
@@ -23,6 +23,3 @@
 * xref:cars/6000270643-500-abarth.adoc[Fiat - 500 Abarth Esseesse]
 * xref:cars/6000270866-tesla-rst.adoc[Tesla - Roadster Sport]
 * xref:cars/6000270872-model-s.adoc[Tesla - Model S P85D]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

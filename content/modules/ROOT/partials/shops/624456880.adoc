@@ -8,7 +8,7 @@
 |Key |ECD_12E2_9850
 |Libelle |5883697
 |Libelle Localized |VOLKSWAGEN
-|Cars Available |14
+|Cars Available |9
 |===
 
 == Cars
@@ -21,8 +21,3 @@
 * xref:cars/6000270457-ibiza-cupra.adoc[Seat - Ibiza Cupra 1.4 TSi]
 * xref:cars/6000270841-touareg-tdi.adoc[Volkswagen - Touareg V8 TDi]
 * xref:cars/54788238-w12-cpe.adoc[Volkswagen - W12 Syncro]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

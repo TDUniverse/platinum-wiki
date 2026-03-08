@@ -8,7 +8,7 @@
 |Key |ECD_15C_4754
 |Libelle |250250270
 |Libelle Localized |MCLAREN - ROLLS-ROYCE
-|Cars Available |15
+|Cars Available |9
 |===
 
 == Cars
@@ -21,9 +21,3 @@
 * xref:cars/6000270814-rolls-wraith.adoc[Rolls-Royce - Wraith ??]
 * xref:cars/63765091-mcl-senna.adoc[Mclaren - Senna ??]
 * xref:cars/6000270815-rolls-dawn.adoc[Rolls-Royce - Dawn ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

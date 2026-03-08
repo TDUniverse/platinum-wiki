@@ -8,7 +8,7 @@
 |Key |ECD_12A_6607
 |Libelle |5653697
 |Libelle Localized |JAGUAR - LAND ROVER
-|Cars Available |15
+|Cars Available |9
 |===
 
 == Cars
@@ -21,9 +21,3 @@
 * xref:cars/698836043-xj-220.adoc[Jaguar - XJ220 ??]
 * xref:cars/6000270697-range-l322.adoc[Land Rover - Range Rover Supercharged Autobiography]
 * xref:cars/6000270698-range-svr.adoc[Land Rover - Range Rover Sport SVR]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

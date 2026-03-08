@@ -8,7 +8,7 @@
 |Key |ECD_15B_2217
 |Libelle |250250272
 |Libelle Localized |GERMAN IMPORT
-|Cars Available |15
+|Cars Available |9
 |===
 
 == Cars
@@ -21,9 +21,3 @@
 * xref:cars/919336434-clk-gtr.adoc[Mercedes-Benz - CLK GTR Street Version]
 * xref:cars/6000270722-m4-f82.adoc[BMW - M4 F82]
 * xref:cars/6000270657-x5-e70.adoc[BMW - X5 M E70]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

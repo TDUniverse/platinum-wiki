@@ -8,7 +8,7 @@
 |Key |ECD_10A_7767
 |Libelle |5553697
 |Libelle Localized |FORD
-|Cars Available |14
+|Cars Available |7
 |===
 
 == Cars
@@ -19,10 +19,3 @@
 * xref:cars/917192226-s281-conv.adoc[Ford - Mustang Boss 302]
 * xref:cars/6000270374-must-gt500.adoc[Shelby - Mustang GT500]
 * xref:cars/6000270318-ford-gt.adoc[Ford - GT ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

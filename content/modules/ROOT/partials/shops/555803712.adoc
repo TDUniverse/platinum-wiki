@@ -8,7 +8,7 @@
 |Key |ECD_8J_2227
 |Libelle |5403697
 |Libelle Localized |LEXUS - TOYOTA
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/1204318124-supra.adoc[Toyota - Supra RZ]
 * xref:cars/6000270475-celica-st205.adoc[Toyota - Celica GT-Four (ST205)]
 * xref:cars/6000270837-mr2-sw20.adoc[Toyota - MR2 GT (SW20)]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

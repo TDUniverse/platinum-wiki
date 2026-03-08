@@ -8,7 +8,7 @@
 |Key |ECD_8I_3712
 |Libelle |250250267
 |Libelle Localized |PAGANI - SPYKER
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270785-huayra-cpe.adoc[Pagani - Huayra ??]
 * xref:cars/1285237823-spyk-cpe.adoc[Spyker - C8 Laviolette]
 * xref:cars/96414415-spyk-rst-t.adoc[Spyker - C8 Aileron]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

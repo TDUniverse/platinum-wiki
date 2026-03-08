@@ -8,7 +8,7 @@
 |Key |EBD_12A_2237
 |Libelle |5363697
 |Libelle Localized |EUROPEAN MOTORCYCLES
-|Cars Available |15
+|Cars Available |5
 |===
 
 == Cars
@@ -17,13 +17,3 @@
 * xref:cars/88334891-duca-999r.adoc[Ducati - 999 R]
 * xref:cars/1268792919-brutal.adoc[MV Agusta - F4 Brutale 910S]
 * xref:cars/1230834922-f4s.adoc[MV Agusta - F4 Tamburini]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

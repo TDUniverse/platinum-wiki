@@ -6,7 +6,7 @@
 |Manufacturer ID |TRAFFIC
 |Manufacturer Name |TRAFFIC
 |Logo File |TRAFFIC
-|Number of Cars |34
+|Number of Cars |33
 |===
 
 == Cars
@@ -17,7 +17,6 @@
 |xref:cars/62743864-item.adoc[Bus 2] |Bus |2 |92900264 (0x05898BA8) |$0 |150 |100.0
 |xref:cars/63743864-item.adoc[Bus 3] |Bus |3 |92900264 (0x05898BA8) |$0 |150 |100.0
 |xref:cars/62085282-item.adoc[Compact 2] |Compact |2 |92900264 (0x05898BA8) |$0 |130 |180.0
-|xref:cars/61085282-item.adoc[Compact 1] |Compact |1 |92900264 (0x05898BA8) |$0 |130 |180.0
 |xref:cars/63085282-item.adoc[Compact 3] |Compact |3 |92900264 (0x05898BA8) |$0 |130 |180.0
 |xref:cars/64085282-item.adoc[Compact 4] |Compact |4 |92900264 (0x05898BA8) |$0 |130 |180.0
 |xref:cars/65085282-item.adoc[Compact 5] |Compact |5 |92900264 (0x05898BA8) |$0 |130 |130.0

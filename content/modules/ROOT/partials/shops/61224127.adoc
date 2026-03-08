@@ -8,7 +8,7 @@
 |Key |ECR_A_7873
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |11
+|Cars Available |7
 |===
 
 == Cars
@@ -19,7 +19,3 @@
 * xref:cars/27437879-g800-biturbo.adoc[Brabus - G 800 6.0 Biturbo Widestar]
 * xref:cars/47235520-mas-levante.adoc[Maserati - Levante S]
 * xref:cars/17386447-cayenne-turbo.adoc[Porsche - Cayenne Turbo]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

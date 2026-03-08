@@ -8,7 +8,7 @@
 |Key |ECD_8I_7703
 |Libelle |250250264
 |Libelle Localized |HONDA
-|Cars Available |12
+|Cars Available |5
 |===
 
 == Cars
@@ -17,10 +17,3 @@
 * xref:cars/6000270616-cr-z.adoc[Honda - CR-Z a]
 * xref:cars/6000270526-inte-dc2.adoc[Honda - Integra Type-R (DC2)]
 * xref:cars/6000270384-s2k.adoc[Honda - S2000 Type-V]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

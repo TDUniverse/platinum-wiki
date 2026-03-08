@@ -8,7 +8,7 @@
 |Key |ECR_A_9750
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |15
+|Cars Available |11
 |===
 
 == Cars
@@ -23,7 +23,3 @@
 * xref:cars/17631560-sc-430.adoc[Nissan - Skyline GT-R (R32)]
 * xref:cars/10000870-skygtr.adoc[Nissan - Skyline GT-R (R34) V-Spec II]
 * xref:cars/74861376-minesr34-blue.adoc[Mine's - Skyline GT-R BNR34 V-Spec N1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

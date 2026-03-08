@@ -8,7 +8,7 @@
 |Key |ECD_15B_7861
 |Libelle |6253697
 |Libelle Localized |MERCEDES-BENZ
-|Cars Available |15
+|Cars Available |9
 |===
 
 == Cars
@@ -21,9 +21,3 @@
 * xref:cars/6000270420-sl-500.adoc[Mercedes-Benz - SL 500]
 * xref:cars/1230253255-sl-65-amg.adoc[Mercedes-Benz - SL 65 AMG]
 * xref:cars/6000270726-ml-63.adoc[Mercedes-Benz - ML 63 AMG]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

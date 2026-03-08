@@ -8,7 +8,7 @@
 |Key |ECD_12B_7777
 |Libelle |250250258
 |Libelle Localized |OAHU MOTORS
-|Cars Available |14
+|Cars Available |9
 |===
 
 == Cars
@@ -21,8 +21,3 @@
 * xref:cars/1197985552-cobalt-ss.adoc[Fiat - Coupé 2.0 20v Turbo]
 * xref:cars/6000270788-308-gti.adoc[Peugeot - 308 GTi 1.6 THP]
 * xref:cars/6000270612-impala-ss.adoc[Chevrolet - Impala SS]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

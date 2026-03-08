@@ -8,7 +8,7 @@
 |Key |ECD_12C_7853
 |Libelle |250250259
 |Libelle Localized |CHEVROLET CLASSIC
-|Cars Available |15
+|Cars Available |10
 |===
 
 == Cars
@@ -22,8 +22,3 @@
 * xref:cars/6000270309-cam-z28.adoc[Chevrolet - Camaro Z-28]
 * xref:cars/6000270352-nova-ss.adoc[Chevrolet - Nova SS 396]
 * xref:cars/6000270353-chevelle-ss.adoc[Chevrolet - Chevelle SS-396 Sport Coupe]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

@@ -8,7 +8,7 @@
 |Key |ECD_8B2_8575
 |Libelle |6153697
 |Libelle Localized |DODGE
-|Cars Available |15
+|Cars Available |7
 |===
 
 == Cars
@@ -19,11 +19,3 @@
 * xref:cars/51221344640-viper-gts.adoc[Dodge - Viper GTS]
 * xref:cars/1108350118-viper.adoc[Dodge - Viper SRT GTS]
 * xref:cars/6000270517-viper-ta.adoc[Dodge - Viper SRT TA]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

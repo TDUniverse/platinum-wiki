@@ -8,7 +8,7 @@
 |Key |ECD_15A_7841
 |Libelle |250250260
 |Libelle Localized |FERRARI
-|Cars Available |14
+|Cars Available |11
 |===
 
 == Cars
@@ -23,6 +23,3 @@
 * xref:cars/6000270641-488-gtb.adoc[Ferrari - 488 GTB]
 * xref:cars/6000270366-california.adoc[Ferrari - California T]
 * xref:cars/1199604426-512-tr.adoc[Ferrari - 512 TR ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

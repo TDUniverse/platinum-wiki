@@ -8,7 +8,7 @@
 |Key |ECD_8C_7427
 |Libelle |250250253
 |Libelle Localized |GERMAN CLASSIC
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270337-m5-e28.adoc[BMW - M5 E28]
 * xref:cars/6000270338-m635.adoc[BMW - M635csi ??]
 * xref:cars/1193140602-308-gtb-qv.adoc[BMW - M1 ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

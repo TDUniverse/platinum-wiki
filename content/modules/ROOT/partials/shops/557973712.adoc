@@ -8,7 +8,7 @@
 |Key |ECD_8G_4427
 |Libelle |5753697
 |Libelle Localized |LAMBORGHINI
-|Cars Available |15
+|Cars Available |7
 |===
 
 == Cars
@@ -19,11 +19,3 @@
 * xref:cars/6000270387-avent-rst.adoc[Lamborghini - Aventador LP700-4 Roadster]
 * xref:cars/6000270540-veneno-concept.adoc[Lamborghini - Veneno LP750-4]
 * xref:cars/6000270679-cent-lp770.adoc[Lamborghini - Centenario LP770-4]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

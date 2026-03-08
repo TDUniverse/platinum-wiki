@@ -8,7 +8,7 @@
 |Key |ECD_8I_4702
 |Libelle |5583697
 |Libelle Localized |JAPAN IMPORT
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270632-nsx-szero.adoc[Honda - NSX Type S Zero]
 * xref:cars/5924263235-nsx.adoc[Acura - NSX Type S]
 * xref:cars/1291823209-wies-gt.adoc[Honda - NSX-R GT]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

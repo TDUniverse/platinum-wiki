@@ -8,7 +8,7 @@
 |Key |ECD_12B_4711
 |Libelle |250250250
 |Libelle Localized |CHEVROLET
-|Cars Available |15
+|Cars Available |10
 |===
 
 == Cars
@@ -22,8 +22,3 @@
 * xref:cars/6000270348-c5-z06.adoc[Chevrolet - Corvette C5 Z06]
 * xref:cars/582585705-c6-z06.adoc[Chevrolet - Corvette C6 Z06]
 * xref:cars/6000270349-c6-zr1.adoc[Chevrolet - Corvette C6 ZR1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

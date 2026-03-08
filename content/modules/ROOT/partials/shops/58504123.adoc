@@ -8,7 +8,7 @@
 |Key |ECR_A_5151
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |15
+|Cars Available |11
 |===
 
 == Cars
@@ -23,7 +23,3 @@
 * xref:cars/67517523-eb110.adoc[Bugatti - EB110 SS]
 * xref:cars/94346186-xj-220.adoc[Jaguar - XJ220 ??]
 * xref:cars/38888245-mclaren-f1.adoc[Mclaren - F1 ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

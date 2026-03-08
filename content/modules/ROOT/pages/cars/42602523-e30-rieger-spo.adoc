@@ -1,6 +1,6 @@
 = BMW - M3 E30 Rieger Kunststoff
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/22
+:revdate: 2026/03/08
 
 include::partial$cars/42602523-e30-rieger-spo.adoc[]

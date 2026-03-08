@@ -8,7 +8,7 @@
 |Key |ECD_12E_2206
 |Libelle |250250257
 |Libelle Localized |PORSCHE
-|Cars Available |15
+|Cars Available |9
 |===
 
 == Cars
@@ -21,9 +21,3 @@
 * xref:cars/6000270633-911-r.adoc[Porsche - 911 R (991)]
 * xref:cars/6000270804-991-turbo.adoc[Porsche - 911 Turbo S (991.2)]
 * xref:cars/6000270451-918-spyder.adoc[Porsche - 918 Spyder]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

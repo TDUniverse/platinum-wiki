@@ -8,7 +8,7 @@
 |Key |ECR_A_7716
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |15
+|Cars Available |11
 |===
 
 == Cars
@@ -23,7 +23,3 @@
 * xref:cars/27490916-regera-carbroof.adoc[Koenigsegg - Regera ??]
 * xref:cars/38801702-cien.adoc[W Motors - Lykan HyperSport]
 * xref:cars/31215966-eb-chiron.adoc[Bugatti - Chiron ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

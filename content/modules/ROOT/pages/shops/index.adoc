@@ -44,7 +44,6 @@
 * xref:shops/61011606.adoc[JAPAN AUTO PARTS (EAM_I_5677)]
 * xref:shops/59157604.adoc[TIRE RACK (EAM_O_9757)]
 * xref:shops/61224127.adoc[V-RENT (ECR_A_7873)]
-* xref:shops/61224125.adoc[V-RENT (ECR_A_7871)]
 * xref:shops/55124124.adoc[V-RENT (ECR_A_7716)]
 * xref:shops/60364179.adoc[V-RENT (ECR_A_10716)]
 * xref:shops/59144122.adoc[V-RENT (ECR_A_9750)]

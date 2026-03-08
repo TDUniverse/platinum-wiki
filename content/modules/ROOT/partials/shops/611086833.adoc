@@ -8,7 +8,7 @@
 |Key |ECD_15A_6773
 |Libelle |250250260
 |Libelle Localized |FERRARI
-|Cars Available |14
+|Cars Available |11
 |===
 
 == Cars
@@ -23,6 +23,3 @@
 * xref:cars/6000270666-812-superfast.adoc[Ferrari - 812 Superfast]
 * xref:cars/6000270674-f12-tdf.adoc[Ferrari - F12tdf ??]
 * xref:cars/61355504-mas-mc12.adoc[Maserati - MC12 Stradale]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

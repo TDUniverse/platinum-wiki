@@ -1,6 +1,6 @@
 = Dodge - Charger SRT8
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/22
+:revdate: 2026/03/08
 
 include::partial$cars/1221911046-s281sc-conv.adoc[]

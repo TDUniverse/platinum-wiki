@@ -8,7 +8,7 @@
 |Key |ECD_8E_7851
 |Libelle |5763697
 |Libelle Localized |NISSAN
-|Cars Available |15
+|Cars Available |5
 |===
 
 == Cars
@@ -17,13 +17,3 @@
 * xref:cars/6000270328-350z-cpe.adoc[Nissan - 350Z Coupe]
 * xref:cars/1133391164-370z.adoc[Nissan - 370Z Coupe]
 * xref:cars/6000270574-g37-cpe.adoc[Infiniti - G37 S Coupe]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

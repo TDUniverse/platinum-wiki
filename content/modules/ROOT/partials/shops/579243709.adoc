@@ -8,7 +8,7 @@
 |Key |ECD_8D_7542
 |Libelle |250250256
 |Libelle Localized |RENAULT
-|Cars Available |15
+|Cars Available |4
 |===
 
 == Cars
@@ -16,14 +16,3 @@
 * xref:cars/6000270453-clio-v6.adoc[Renault - Sport Clio V6]
 * xref:cars/6000270454-megane-rs.adoc[Renault - Sport Megane 275 Cup-S]
 * xref:cars/6000270644-gta-lm.adoc[Alpine - GTA Le Mans]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

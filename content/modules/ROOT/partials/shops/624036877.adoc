@@ -8,7 +8,7 @@
 |Key |ECD_10A2_9851
 |Libelle |5583697
 |Libelle Localized |JAPAN IMPORT
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270423-evo-8.adoc[Mitsubishi - Lancer Evolution VIII MR]
 * xref:cars/6000270422-evo-9.adoc[Mitsubishi - Lancer Evolution IX MR]
 * xref:cars/59142377-lancer.adoc[Mitsubishi - Lancer Evolution X GSR Premium]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

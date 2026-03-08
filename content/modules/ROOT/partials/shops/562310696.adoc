@@ -8,7 +8,7 @@
 |Key |EBD_5A_8821
 |Libelle |250250262
 |Libelle Localized |CUSTOM DEALER 2
-|Cars Available |15
+|Cars Available |5
 |===
 
 == Cars
@@ -17,13 +17,3 @@
 * xref:cars/7000300107-custom-8.adoc[TDU Platinum - Custom Car 8]
 * xref:cars/7000300108-custom-9.adoc[TDU Platinum - Custom Car 9]
 * xref:cars/7000300109-custom-10.adoc[TDU Platinum - Custom Car 10]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

@@ -8,7 +8,7 @@
 |Key |ECD_8F_7756
 |Libelle |5863697
 |Libelle Localized |ALFA ROMEO
-|Cars Available |15
+|Cars Available |5
 |===
 
 == Cars
@@ -17,13 +17,3 @@
 * xref:cars/63518960-alfa-gt.adoc[Alfa Romeo - GT V6 24v]
 * xref:cars/637314272-alfa-brera.adoc[Alfa Romeo - Brera 3.2 V6 JTS Q4 Sky View]
 * xref:cars/6000270629-alfa-4c.adoc[Alfa Romeo - 4C Coupe]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

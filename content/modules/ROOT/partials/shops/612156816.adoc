@@ -8,7 +8,7 @@
 |Key |EBD_12B_7725
 |Libelle |5463697
 |Libelle Localized |JAPANESE MOTORCYCLES SPECIALIST
-|Cars Available |15
+|Cars Available |4
 |===
 
 == Cars
@@ -16,14 +16,3 @@
 * xref:cars/1208480632-zx10r.adoc[Kawasaki - Ninja ZX-10R]
 * xref:cars/1208880589-zx12r.adoc[Kawasaki - Ninja ZX-12R]
 * xref:cars/65911678-gsx-r.adoc[Suzuki - GSX-R 1000]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

@@ -1,6 +1,6 @@
 = Audi - S4 quattro (B6)
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/22
+:revdate: 2026/03/08
 
 include::partial$cars/84266076-a4-s4.adoc[]

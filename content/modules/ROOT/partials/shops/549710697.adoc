@@ -8,7 +8,7 @@
 |Key |EBD_5A_2613
 |Libelle |250250263
 |Libelle Localized |BMW
-|Cars Available |15
+|Cars Available |5
 |===
 
 == Cars
@@ -17,13 +17,3 @@
 * xref:cars/1098353260-z4.adoc[BMW - 1M Coupe]
 * xref:cars/5924263251-850.adoc[BMW - 850 csi]
 * xref:cars/6000270497-z8-e52.adoc[BMW - Z8 ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

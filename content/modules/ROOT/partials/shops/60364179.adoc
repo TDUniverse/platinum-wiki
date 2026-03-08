@@ -8,7 +8,7 @@
 |Key |ECR_A_10716
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |15
+|Cars Available |11
 |===
 
 == Cars
@@ -23,7 +23,3 @@
 * xref:cars/37294453-stratos-hf.adoc[Lancia - Stratos HF Stradale]
 * xref:cars/6000270415-300-sel.adoc[Mercedes-Benz - 300 SEL 6.3]
 * xref:cars/18360555-911-e.adoc[Porsche - 911 E]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

@@ -8,7 +8,7 @@
 |Key |ECD_8C_7726
 |Libelle |6163697
 |Libelle Localized |EUROPEAN CLASSIC
-|Cars Available |14
+|Cars Available |7
 |===
 
 == Cars
@@ -19,10 +19,3 @@
 * xref:cars/6000270642-595-abarth.adoc[Fiat - 595 Abarth Esse-esse]
 * xref:cars/6000270625-242-turbo.adoc[Volvo - 242 Turbo Evolution]
 * xref:cars/6000270429-205-t16.adoc[Peugeot - 205 Turbo 16]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

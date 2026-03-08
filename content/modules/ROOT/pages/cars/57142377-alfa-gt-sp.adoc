@@ -1,6 +1,6 @@
 = Alfa Romeo - GT 3.2 V6 24v Sport Technical Kit
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/22
+:revdate: 2026/03/08
 
 include::partial$cars/57142377-alfa-gt-sp.adoc[]

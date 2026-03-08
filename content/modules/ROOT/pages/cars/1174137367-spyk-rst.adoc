@@ -1,6 +1,6 @@
 = Spyker - C8 Spyder
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/22
+:revdate: 2026/03/08
 
 include::partial$cars/1174137367-spyk-rst.adoc[]

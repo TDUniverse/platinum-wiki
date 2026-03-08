@@ -99,9 +99,8 @@ NOTE: In TDU this top speed field acts as the effective gearbox scaling paramete
 Final drive ratio has little practical effect compared to this value.
 
 //tag::available-shops[]
-== Available In Shops (2)
+== Available In Shops (1)
 
-* xref:shops/61224125.adoc[V-RENT (ECR_A_7871)]
 * xref:shops/557456826.adoc[PORSCHE (ECD_12E_2206)]
 
 //end::available-shops[]

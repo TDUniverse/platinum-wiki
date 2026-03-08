@@ -8,7 +8,7 @@
 |Key |ECD_8I_2256
 |Libelle |5993697
 |Libelle Localized |OAHU CARS
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270856-cobra-concept.adoc[Ford - Shelby Cobra Concept]
 * xref:cars/6000270857-gr1-concept.adoc[Ford - Shelby GR-1 Concept]
 * xref:cars/70076241-me-ft.adoc[Chrysler - ME Four-Twelve]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

@@ -8,7 +8,7 @@
 |Key |ECD_12C_2235
 |Libelle |5373697
 |Libelle Localized |US MUSCLES
-|Cars Available |15
+|Cars Available |10
 |===
 
 == Cars
@@ -22,8 +22,3 @@
 * xref:cars/6000270360-gtx-71.adoc[Plymouth - GTX Hemi]
 * xref:cars/6000270362-cuda-72.adoc[Plymouth - Barracuda Six-Pack AAR]
 * xref:cars/6000270359-cuda-71.adoc[Plymouth - Hemi 'Cuda 426]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

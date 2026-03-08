@@ -8,7 +8,7 @@
 |Key |ECD_8I_5750
 |Libelle |250250266
 |Libelle Localized |SUBARU
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270818-impreza-08.adoc[Subaru - Impreza WRX STI (GR)]
 * xref:cars/58142377-impreza.adoc[Subaru - Impreza WRX STI (GV)]
 * xref:cars/6000270472-legacy-rs.adoc[Subaru - Legacy RS]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

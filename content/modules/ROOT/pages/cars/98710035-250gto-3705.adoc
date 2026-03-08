@@ -1,6 +1,6 @@
 = Ferrari - 250 GTO #3705GT 62' Le Mans 24 Hours
 :author: platinum-wiki-generator (MeFisto94)
 :revnumber: 1.0
-:revdate: 2026/02/22
+:revdate: 2026/03/08
 
 include::partial$cars/98710035-250gto-3705.adoc[]

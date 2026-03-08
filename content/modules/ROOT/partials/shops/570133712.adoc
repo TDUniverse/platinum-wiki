@@ -8,7 +8,7 @@
 |Key |ECD_8C_6636
 |Libelle |250250255
 |Libelle Localized |JAPANESE CLASSIC
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270481-supra-a70.adoc[Toyota - Supra Turbo (A70)]
 * xref:cars/6000270476-2000-gt.adoc[Toyota - 2000GT ??]
 * xref:cars/6000270425-starion-gt.adoc[Mitsubishi - Starion ESI-R]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

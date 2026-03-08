@@ -8,7 +8,7 @@
 |Key |ECR_A_1566
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |15
+|Cars Available |11
 |===
 
 == Cars
@@ -23,7 +23,3 @@
 * xref:cars/81665541-lfa-spo.adoc[Lexus - LFA ??]
 * xref:cars/93549473-720-s.adoc[Mclaren - 720S ??]
 * xref:cars/95218468-812-superfast.adoc[Ferrari - 812 Superfast]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

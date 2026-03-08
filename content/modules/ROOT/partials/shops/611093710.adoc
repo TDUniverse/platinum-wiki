@@ -8,7 +8,7 @@
 |Key |ECD_8I_5770
 |Libelle |250250265
 |Libelle Localized |BUGATTI - VOLVO
-|Cars Available |15
+|Cars Available |8
 |===
 
 == Cars
@@ -20,10 +20,3 @@
 * xref:cars/6000270624-s60-mkii.adoc[Volvo - S60 T6 AWD R-Design]
 * xref:cars/6000270485-850-r.adoc[Volvo - 850 R]
 * xref:cars/81575625-xc90-t8.adoc[Volvo - XC90 T8 R-Design]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

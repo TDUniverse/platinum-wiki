@@ -8,7 +8,7 @@
 |Key |ECD_12A2_6605
 |Libelle |5783697
 |Libelle Localized |ASTON MARTIN
-|Cars Available |15
+|Cars Available |9
 |===
 
 == Cars
@@ -21,9 +21,3 @@
 * xref:cars/6000270336-amv8.adoc[Aston Martin - Vantage Coupe]
 * xref:cars/6000270661-db11-cpe.adoc[Aston Martin - DB11 Coupe]
 * xref:cars/6000270523-one-77.adoc[Aston Martin - One-77 ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

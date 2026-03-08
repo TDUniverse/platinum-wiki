@@ -8,7 +8,7 @@
 |Key |ECD_15C_2255
 |Libelle |5853697
 |Libelle Localized |BRITISH INDEPENDENTS
-|Cars Available |15
+|Cars Available |9
 |===
 
 == Cars
@@ -21,9 +21,3 @@
 * xref:cars/916575065-m12-gto.adoc[Noble - M12 GTO-3R]
 * xref:cars/698774731-noble-m14.adoc[Noble - M600 ??]
 * xref:cars/698882776-kz1.adoc[Ascari - KZ1 ??]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

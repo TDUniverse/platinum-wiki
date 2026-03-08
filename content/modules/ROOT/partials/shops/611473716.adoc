@@ -8,7 +8,7 @@
 |Key |ECD_8G_9776
 |Libelle |5753697
 |Libelle Localized |LAMBORGHINI
-|Cars Available |15
+|Cars Available |7
 |===
 
 == Cars
@@ -19,11 +19,3 @@
 * xref:cars/921827346-diablo-gt.adoc[Lamborghini - Diablo SV]
 * xref:cars/6000270323-murc-cpe.adoc[Lamborghini - Murciélago LP640]
 * xref:cars/6000270678-murc-2005.adoc[Lamborghini - Murciélago Coupe]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

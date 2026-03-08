@@ -8,7 +8,7 @@
 |Key |ECD_10B_7531
 |Libelle |250250257
 |Libelle Localized |PORSCHE
-|Cars Available |15
+|Cars Available |7
 |===
 
 == Cars
@@ -19,11 +19,3 @@
 * xref:cars/6000270796-997gt3-base.adoc[Porsche - 911 GT3 (997)]
 * xref:cars/6000270448-997-gt2.adoc[Porsche - 911 GT2 (997)]
 * xref:cars/6000270450-carrera-gt.adoc[Porsche - Carrera GT]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

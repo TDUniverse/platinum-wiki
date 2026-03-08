@@ -8,7 +8,7 @@
 |Key |ECD_12B3_5761
 |Libelle |250250258
 |Libelle Localized |OAHU MOTORS
-|Cars Available |14
+|Cars Available |9
 |===
 
 == Cars
@@ -21,8 +21,3 @@
 * xref:cars/6000270524-r8-v8.adoc[Audi - R8 5.2 FSi quattro]
 * xref:cars/6000270395-jalpa-86.adoc[Audi - R8 V10 quattro Plus]
 * xref:cars/6000270867-transit-van.adoc[Ford - Transit 3.2 Duratorq TCDi]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

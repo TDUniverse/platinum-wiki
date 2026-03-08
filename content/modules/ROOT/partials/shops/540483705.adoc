@@ -8,7 +8,7 @@
 |Key |ECD_8H_9602
 |Libelle |250250268
 |Libelle Localized |PORSCHE CLASSIC
-|Cars Available |15
+|Cars Available |10
 |===
 
 == Cars
@@ -22,8 +22,3 @@
 * xref:cars/6000270443-959-cpe.adoc[Porsche - 959 ??]
 * xref:cars/6000270444-944-s2.adoc[Porsche - 944 Turbo]
 * xref:cars/6000270435-550-a.adoc[Porsche - 550 A Spyder]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

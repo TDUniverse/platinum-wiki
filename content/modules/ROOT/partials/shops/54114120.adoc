@@ -8,7 +8,7 @@
 |Key |ECR_A_6703
 |Libelle |5873697
 |Libelle Localized |V-RENT
-|Cars Available |15
+|Cars Available |11
 |===
 
 == Cars
@@ -23,7 +23,3 @@
 * xref:cars/85378458-dbar1.adoc[Aston Martin - Vanquish Coupe]
 * xref:cars/69596828-huracan-lp610.adoc[Lamborghini - Huracán LP610-4]
 * xref:cars/90380227-458-blk.adoc[Ferrari - 458 Italia]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]

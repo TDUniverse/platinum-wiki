@@ -8,22 +8,9 @@
 |Key |EAM_E_7747
 |Libelle |5473697
 |Libelle Localized |TODAY'S AMERICAN PARTS
-|Cars Available |15
+|Cars Available |2
 |===
 
 == Cars
 * xref:cars/6000270434-rwb-wing.adoc[Porsche - 911 Carrera RAUH-Welt BEGRIFF (993)]
 * xref:cars/6000270434-rwb-wing.adoc[Porsche - 911 Carrera RAUH-Welt BEGRIFF (993)]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
-* xref:cars/61085282-item.adoc[TRAFFIC - Compact 1]
