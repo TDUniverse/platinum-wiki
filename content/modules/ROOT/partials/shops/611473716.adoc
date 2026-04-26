@@ -8,7 +8,7 @@
 |Key |ECD_8G_9776
 |Libelle |5753697
 |Libelle Localized |LAMBORGHINI
-|Cars Available |7
+|Cars Available |6
 |===
 
 == Cars
@@ -16,6 +16,5 @@
 * xref:cars/1235851026-gall-rst.adoc[Lamborghini - Gallardo Spyder]
 * xref:cars/6000270676-lp560-cpe.adoc[Lamborghini - Gallardo LP560-4 Coupe]
 * xref:cars/6000270677-lp560-rst.adoc[Lamborghini - Gallardo LP560-4 Spyder]
-* xref:cars/921827346-diablo-gt.adoc[Lamborghini - Diablo SV]
 * xref:cars/6000270323-murc-cpe.adoc[Lamborghini - Murciélago LP640]
 * xref:cars/6000270678-murc-2005.adoc[Lamborghini - Murciélago Coupe]

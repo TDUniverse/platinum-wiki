@@ -6,7 +6,7 @@
 |Manufacturer ID |DODGE
 |Manufacturer Name |Dodge
 |Logo File |DODGE
-|Number of Cars |45
+|Number of Cars |39
 |===
 
 == Cars
@@ -33,14 +33,10 @@
 |xref:cars/6000270728-char-hell.adoc[Charger SRT Hellcat] |Charger |SRT Hellcat |75900264 (0x04862568) |$74,000 |707 |351.0
 |xref:cars/87576466-charger-69.adoc[Charger R/T 426 Hemi] |Charger |R/T 426 Hemi |79900264 (0x04C32E68) |$128,500 |425 |200.0
 |xref:cars/38392438-charger-dayt.adoc[Charger Daytona 426 Hemi] |Charger |Daytona 426 Hemi |79900264 (0x04C32E68) |$313,500 |425 |213.0
-|xref:cars/85255792-s281sc-conv.adoc[Charger SRT8] |Charger |SRT8 |76900264 (0x049567A8) |$51,000 |470 |314.0
-|xref:cars/33842615-charger-rt.adoc[Charger R/T 426 Hemi TorqueFlite] |Charger |R/T 426 Hemi TorqueFlite |79900264 (0x04C32E68) |$125,000 |425 |207.0
 |xref:cars/6000270357-coronet-sb.adoc[Coronet Super Bee 426 Hemi] |Coronet |Super Bee 426 Hemi |79900264 (0x04C32E68) |$80,000 |425 |200.0
 |xref:cars/6000270510-coronet-drag.adoc[Coronet Super Bee 426 Hemi Dragster] |Coronet |Super Bee 426 Hemi Dragster |73900264 (0x0467A0E8) |$245,000 |2100 |490.0
-|xref:cars/83448947-coronet-sb.adoc[Coronet Super Bee 426 Hemi] |Coronet |Super Bee 426 Hemi |79900264 (0x04C32E68) |$80,000 |425 |200.0
 |xref:cars/6000270864-ram-srt10.adoc[Ram SRT10] |Ram |SRT10 |77900264 (0x04A4A9E8) |$87,000 |500 |377.0
 |xref:cars/6000270869-ram-vis.adoc[Ram SRT-10 ViS Racing Diablo] |Ram |SRT-10 ViS Racing Diablo |76900264 (0x049567A8) |$127,000 |545 |377.0
-|xref:cars/37604505-ram-srt10.adoc[Ram SRT10] |Ram |SRT10 |77900264 (0x04A4A9E8) |$87,000 |500 |377.0
 |xref:cars/1221344640-viper-cpe.adoc[Viper SRT10 Coupe] |Viper |SRT10 Coupe |74900264 (0x0476E328) |$87,000 |500 |508.0
 |xref:cars/915344490-viper-sr.adoc[Viper SRT10] |Viper |SRT10 |74900264 (0x0476E328) |$92,000 |600 |480.0
 |xref:cars/1108350118-viper.adoc[Viper SRT GTS] |Viper |SRT GTS |73900264 (0x0467A0E8) |$115,000 |640 |330.0
@@ -54,8 +50,6 @@
 |xref:cars/13381620-srt10-police.adoc[Viper SRT10 Coupe Police Car] |Viper |SRT10 Coupe Police Car |73900264 (0x0467A0E8) |$185,000 |895 |480.0
 |xref:cars/35255252-srt10police-blue.adoc[Viper SRT10 Coupe Police Car] |Viper |SRT10 Coupe Police Car |73900264 (0x0467A0E8) |$185,000 |895 |480.0
 |xref:cars/86560807-srt10police-black.adoc[Viper SRT10 Coupe Police Car] |Viper |SRT10 Coupe Police Car |73900264 (0x0467A0E8) |$185,000 |895 |480.0
-|xref:cars/93646200-viper-stripe.adoc[Viper SRT GTS] |Viper |SRT GTS |73900264 (0x0467A0E8) |$115,000 |640 |330.0
-|xref:cars/51221344640-viper-gts.adoc[Viper GTS] |Viper |GTS |75900264 (0x04862568) |$81,000 |450 |419.0
 |xref:cars/51221344641-viper-gtsr.adoc[Viper GTS-R] |Viper |GTS-R |74900264 (0x0476E328) |$160,000 |468 |419.0
 |xref:cars/22125524-viper-gtsr.adoc[Viper GTS-R] |Viper |GTS-R |74900264 (0x0476E328) |$160,000 |468 |419.0
 |===

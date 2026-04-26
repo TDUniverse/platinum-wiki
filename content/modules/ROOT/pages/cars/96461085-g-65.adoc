@@ -1,6 +1,0 @@
-= Mercedes-Benz - G 65 AMG
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$cars/96461085-g-65.adoc[]

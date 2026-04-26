@@ -8,7 +8,7 @@
 |Key |ECD_8C_5165
 |Libelle |250250254
 |Libelle Localized |FERRARI CLASSIC
-|Cars Available |8
+|Cars Available |7
 |===
 
 == Cars
@@ -18,5 +18,4 @@
 * xref:cars/28068209-f288-gto.adoc[Ferrari - 288 GTO ??]
 * xref:cars/1192399594-f40.adoc[Ferrari - F40 ??]
 * xref:cars/6000270521-250-lusso.adoc[Ferrari - 250 Berlinetta Lusso]
-* xref:cars/6000270368-250-california.adoc[Ferrari - 250 GT California Scaglietti (SWB)]
 * xref:cars/698389658-f250-gto.adoc[Ferrari - 250 GTO ??]

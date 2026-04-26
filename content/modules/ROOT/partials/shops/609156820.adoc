@@ -8,13 +8,12 @@
 |Key |ECD_12B_4711
 |Libelle |250250250
 |Libelle Localized |CHEVROLET
-|Cars Available |10
+|Cars Available |9
 |===
 
 == Cars
 * xref:cars/6000270350-cam-ss.adoc[Chevrolet - Camaro SS]
 * xref:cars/6000270351-cam-any.adoc[Chevrolet - Camaro SS 35th Anniversary]
-* xref:cars/6000270347-c4-gs.adoc[Chevrolet - Corvette C4 Grand Sport]
 * xref:cars/6000270310-c6-cpe.adoc[Chevrolet - Corvette C6 Grand Sport]
 * xref:cars/619586842-c6-conv.adoc[Chevrolet - Corvette C6 Grand Sport Convertible]
 * xref:cars/619586695-corvet-z06.adoc[Chevrolet - Corvette C7 Stingray Z51]

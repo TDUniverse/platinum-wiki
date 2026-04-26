@@ -6,7 +6,7 @@
 |Manufacturer ID |VAG
 |Manufacturer Name |Volkswagen
 |Logo File |VAG
-|Number of Cars |29
+|Number of Cars |28
 |===
 
 == Cars
@@ -39,7 +39,6 @@
 |xref:cars/6000270850-beetle-be.adoc[SuperKäfer 1303 S Black Edition (Typ-1)] |SuperKäfer |1303 S Black Edition (Typ-1) |79900264 (0x04C32E68) |$57,500 |141 |185.0
 |xref:cars/22471404-beetle-73.adoc[SuperKäfer 1303 S (Typ-1)] |SuperKäfer |1303 S (Typ-1) |79900264 (0x04C32E68) |$57,500 |141 |185.0
 |xref:cars/6000270841-touareg-tdi.adoc[Touareg V8 TDi] |Touareg |V8 TDi |78900264 (0x04B3EC28) |$75,800 |335 |244.0
-|xref:cars/22442763-touareg-tdi.adoc[Touareg V8 TDi] |Touareg |V8 TDi |78900264 (0x04B3EC28) |$75,800 |335 |244.0
 |xref:cars/1214585404-w12-cpe.adoc[W12 Syncro] |W12 |Syncro |74900264 (0x0476E328) |$0 |414 |350.0
 |xref:cars/54788238-w12-cpe.adoc[W12 Syncro] |W12 |Syncro |74900264 (0x0476E328) |$0 |414 |350.0
 |===

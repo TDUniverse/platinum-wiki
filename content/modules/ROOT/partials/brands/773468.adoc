@@ -6,7 +6,7 @@
 |Manufacturer ID |NOBLE
 |Manufacturer Name |Noble
 |Logo File |NOBLE
-|Number of Cars |5
+|Number of Cars |4
 |===
 
 == Cars
@@ -17,6 +17,5 @@
 |xref:cars/698404775-m400.adoc[M400 ??] |M400 |?? |74900264 (0x0476E328) |$115,000 |425 |281.0
 |xref:cars/698774731-noble-m14.adoc[M600 ??] |M600 |?? |73900264 (0x0467A0E8) |$251,000 |650 |341.0
 |xref:cars/6000270784-m600-spo.adoc[M600 ??] |M600 |?? |73900264 (0x0467A0E8) |$297,900 |650 |341.0
-|xref:cars/90540197-noble-m14.adoc[M600 ??] |M600 |?? |73900264 (0x0467A0E8) |$251,000 |650 |341.0
 |===
 

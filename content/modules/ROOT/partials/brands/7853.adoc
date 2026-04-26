@@ -6,7 +6,7 @@
 |Manufacturer ID |HONDA
 |Manufacturer Name |Honda
 |Logo File |HONDA
-|Number of Cars |20
+|Number of Cars |19
 |===
 
 == Cars
@@ -25,7 +25,6 @@
 |xref:cars/6000270632-nsx-szero.adoc[NSX Type S Zero] |NSX |Type S Zero |77900264 (0x04A4A9E8) |$117,500 |276 |288.0
 |xref:cars/6000270652-nsx-tuned.adoc[NSX Type S Zero] |NSX |Type S Zero |76900264 (0x049567A8) |$155,000 |309 |277.0
 |xref:cars/6000270653-nsx-rb.adoc[NSX Rocket Bunny] |NSX |Rocket Bunny |73900264 (0x0467A0E8) |$355,000 |625 |365.0
-|xref:cars/82488281-nsx-szero.adoc[NSX Type S Zero] |NSX |Type S Zero |77900264 (0x04A4A9E8) |$117,500 |276 |288.0
 |xref:cars/15831761-nsx-tuned.adoc[NSX Type S Zero] |NSX |Type S Zero |76900264 (0x049567A8) |$155,000 |309 |277.0
 |xref:cars/1291823209-wies-gt.adoc[NSX-R GT] |NSX-R |GT |75900264 (0x04862568) |$450,000 |276 |280.0
 |xref:cars/6000270654-nsx-17.adoc[NSX ??] |NSX |?? |74900264 (0x0476E328) |$158,000 |573 |319.0

@@ -6,7 +6,7 @@
 |Manufacturer ID |LAMBO
 |Manufacturer Name |Lamborghini
 |Logo File |LAMBO
-|Number of Cars |57
+|Number of Cars |51
 |===
 
 == Cars
@@ -33,12 +33,10 @@
 |xref:cars/14603229-lp750svrst-white.adoc[Aventador LP750-4 SV Roadster] |Aventador |LP750-4 SV Roadster |73900264 (0x0467A0E8) |$505,000 |740 |346.0
 |xref:cars/45373424-avent-svj.adoc[Aventador SVJ] |Aventador |SVJ |73900264 (0x0467A0E8) |$520,000 |759 |339.0
 |xref:cars/71232703-svj-63.adoc[Aventador SVJ 63] |Aventador |SVJ 63 |73900264 (0x0467A0E8) |$650,000 |759 |339.0
-|xref:cars/60649261-lp750sv-rst.adoc[Aventador LP750-4 SV Roadster] |Aventador |LP750-4 SV Roadster |73900264 (0x0467A0E8) |$505,000 |740 |346.0
 |xref:cars/30110459-lp720-rst.adoc[Aventador LP720-4 50 Anniversario Roadster] |Aventador |LP720-4 50 Anniversario Roadster |73900264 (0x0467A0E8) |$445,000 |710 |339.0
 |xref:cars/6000270679-cent-lp770.adoc[Centenario LP770-4] |Centenario |LP770-4 |73900264 (0x0467A0E8) |$2,450,000 |759 |350.0
 |xref:cars/592886531-countach-25.adoc[Countach 25th Anniversary] |Countach |25th Anniversary |79900264 (0x04C32E68) |$315,000 |449 |276.0
 |xref:cars/6000270394-count-lp.adoc[Countach LP5000 S Quattrovalvole] |Countach |LP5000 S Quattrovalvole |79900264 (0x04C32E68) |$215,000 |449 |276.0
-|xref:cars/921827346-diablo-gt.adoc[Diablo SV] |Diablo |SV |74900264 (0x0476E328) |$405,000 |523 |310.0
 |xref:cars/6000270393-diablo-gtr.adoc[Diablo GTR] |Diablo |GTR |73900264 (0x0467A0E8) |$700,000 |582 |318.0
 |xref:cars/1220850733-gall-cpe.adoc[Gallardo Coupe] |Gallardo |Coupe |74900264 (0x0476E328) |$165,900 |493 |309.0
 |xref:cars/1235851026-gall-rst.adoc[Gallardo Spyder] |Gallardo |Spyder |74900264 (0x0476E328) |$193,000 |512 |341.0
@@ -55,20 +53,16 @@
 |xref:cars/6000270392-huracan-lp580.adoc[Huracán LP580-2] |Huracán |LP580-2 |74900264 (0x0476E328) |$197,000 |572 |306.0
 |xref:cars/6000270682-lp610-lb.adoc[Huracán LP610-4 Liberty Walk] |Huracán |LP610-4 Liberty Walk |73900264 (0x0467A0E8) |$430,000 |897 |395.0
 |xref:cars/6000270737-huracan-perf.adoc[Huracán Performante] |Huracán |Performante |73900264 (0x0467A0E8) |$275,000 |631 |306.0
-|xref:cars/69596828-huracan-lp610.adoc[Huracán LP610-4] |Huracán |LP610-4 |73900264 (0x0467A0E8) |$208,000 |601 |306.0
 |xref:cars/898712608-shelby-gr-1.adoc[LM002 ??] |LM002 |?? |79900264 (0x04C32E68) |$415,000 |444 |204.0
 |xref:cars/612836289-miura-sv.adoc[Miura P400SV] |Miura |P400SV |79900264 (0x04C32E68) |$1,335,000 |380 |304.0
-|xref:cars/12030574-miura-sv.adoc[Miura P400SV] |Miura |P400SV |79900264 (0x04C32E68) |$1,335,000 |380 |304.0
 |xref:cars/1221657041-murc-cpe.adoc[Murciélago Coupe] |Murciélago |Coupe |73900264 (0x0467A0E8) |$280,000 |572 |332.0
 |xref:cars/1236657334-murc-rst.adoc[Murciélago Roadster] |Murciélago |Roadster |73900264 (0x0467A0E8) |$328,000 |572 |330.0
 |xref:cars/6000270323-murc-cpe.adoc[Murciélago LP640] |Murciélago |LP640 |73900264 (0x0467A0E8) |$280,000 |632 |325.0
-|xref:cars/6000270324-murc-rst.adoc[Murciélago LP670-4 SV] |Murciélago |LP670-4 SV |73900264 (0x0467A0E8) |$385,000 |661 |325.0
 |xref:cars/6000270678-murc-2005.adoc[Murciélago Coupe] |Murciélago |Coupe |74900264 (0x0476E328) |$245,000 |571 |314.0
 |xref:cars/87864810-lp670sv-white.adoc[Murciélago LP670-4 SV] |Murciélago |LP670-4 SV |73900264 (0x0467A0E8) |$385,000 |661 |325.0
 |xref:cars/87357619-reventon.adoc[Reventón Coupe] |Reventón |Coupe |73900264 (0x0467A0E8) |$1,500,000 |641 |325.0
 |xref:cars/6000270539-sesto-concept.adoc[Sesto Elemento] |Sesto |Elemento |73900264 (0x0467A0E8) |$2,200,000 |562 |395.0
 |xref:cars/57829206-sesto-concept.adoc[Sesto Elemento] |Sesto |Elemento |73900264 (0x0467A0E8) |$2,200,000 |562 |395.0
 |xref:cars/6000270540-veneno-concept.adoc[Veneno LP750-4] |Veneno |LP750-4 |73900264 (0x0467A0E8) |$2,850,000 |740 |346.0
-|xref:cars/11124937-veneno-concept.adoc[Veneno LP750-4] |Veneno |LP750-4 |73900264 (0x0467A0E8) |$2,850,000 |740 |346.0
 |===
 

@@ -6,7 +6,7 @@
 |Manufacturer ID |PLYM
 |Manufacturer Name |Plymouth
 |Logo File |PLYM
-|Number of Cars |12
+|Number of Cars |10
 |===
 
 == Cars
@@ -17,10 +17,8 @@
 |xref:cars/6000270362-cuda-72.adoc[Barracuda Six-Pack AAR] |Barracuda |Six-Pack AAR |79900264 (0x04C32E68) |$155,000 |290 |189.0
 |xref:cars/6000270789-cuda-spo.adoc[Hemi 'Cuda 426] |Hemi |'Cuda 426 |79900264 (0x04C32E68) |$135,000 |425 |195.0
 |xref:cars/21536199-cuda-aar.adoc[Barracuda Six-Pack AAR] |Barracuda |Six-Pack AAR |79900264 (0x04C32E68) |$155,000 |290 |189.0
-|xref:cars/38537624-cuda-spo.adoc[Hemi 'Cuda 426] |Hemi |'Cuda 426 |79900264 (0x04C32E68) |$135,000 |425 |195.0
 |xref:cars/6000270360-gtx-71.adoc[GTX Hemi] |GTX |Hemi |79900264 (0x04C32E68) |$85,000 |425 |196.0
 |xref:cars/6000270792-gtx-drag.adoc[GTX Hemi Dragster] |GTX |Hemi Dragster |73900264 (0x0467A0E8) |$85,000 |2100 |490.0
-|xref:cars/6000270361-superbird.adoc[Superbird Hemi] |Superbird |Hemi |79900264 (0x04C32E68) |$200,000 |425 |195.0
 |xref:cars/6000270622-superbird-nascar.adoc[Superbird R. Petty] |Superbird |R. Petty |79900264 (0x04C32E68) |$260,000 |425 |298.0
 |xref:cars/46672868-superbird-sunoco.adoc[Superbird Sunoco] |Superbird |Sunoco |79900264 (0x04C32E68) |$260,000 |425 |298.0
 |xref:cars/73350660-superbird-texaco.adoc[Superbird Texaco] |Superbird |Texaco |79900264 (0x04C32E68) |$260,000 |425 |298.0

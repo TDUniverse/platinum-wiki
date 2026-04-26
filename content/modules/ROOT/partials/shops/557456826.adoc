@@ -8,12 +8,11 @@
 |Key |ECD_12E_2206
 |Libelle |250250257
 |Libelle Localized |PORSCHE
-|Cars Available |9
+|Cars Available |8
 |===
 
 == Cars
 * xref:cars/6000270800-cayman-s.adoc[Porsche - 718 Cayman S]
-* xref:cars/6000270806-panamera-4s.adoc[Porsche - Panamera 4S]
 * xref:cars/6000270807-cayenne-turbo.adoc[Porsche - Cayenne Turbo]
 * xref:cars/6000270805-991-carrera.adoc[Porsche - 911 Carrera S (991.2)]
 * xref:cars/74343455-991-targa.adoc[Porsche - 911 Targa 4S (991.2)]

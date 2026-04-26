@@ -8,7 +8,7 @@
 |Key |ECD_12C_2235
 |Libelle |5373697
 |Libelle Localized |US MUSCLES
-|Cars Available |10
+|Cars Available |9
 |===
 
 == Cars
@@ -18,7 +18,6 @@
 * xref:cars/1213119631-shelb-gt500.adoc[Shelby - GT500 ??]
 * xref:cars/606298799-ac-427.adoc[Shelby - Cobra 427 S/C]
 * xref:cars/15556725-shelb-day.adoc[Shelby - Cobra Daytona Coupe #CSX2299]
-* xref:cars/6000270361-superbird.adoc[Plymouth - Superbird Hemi]
 * xref:cars/6000270360-gtx-71.adoc[Plymouth - GTX Hemi]
 * xref:cars/6000270362-cuda-72.adoc[Plymouth - Barracuda Six-Pack AAR]
 * xref:cars/6000270359-cuda-71.adoc[Plymouth - Hemi 'Cuda 426]

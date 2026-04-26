@@ -1,6 +1,0 @@
-= V-RENT
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$shops/61224127.adoc[]

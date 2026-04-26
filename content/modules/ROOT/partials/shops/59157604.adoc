@@ -8,10 +8,9 @@
 |Key |EAM_O_9757
 |Libelle |5673697
 |Libelle Localized |TIRE RACK
-|Cars Available |3
+|Cars Available |2
 |===
 
 == Cars
 * xref:cars/699437593-db9-cpe.adoc[Aston Martin - DBS Coupe]
 * xref:cars/569209475-zonda-rst.adoc[Pagani - Zonda C12 S 7.3 Roadster]
-* xref:cars/63085282-item.adoc[TRAFFIC - Compact 3]

@@ -6,7 +6,7 @@
 |Manufacturer ID |MAZDA
 |Manufacturer Name |Mazda
 |Logo File |MAZDA
-|Number of Cars |33
+|Number of Cars |32
 |===
 
 == Cars
@@ -35,7 +35,6 @@
 |xref:cars/44594856-fd3s-spo.adoc[RX-7 Type R] |RX-7 |Type R |77900264 (0x04A4A9E8) |$35,100 |251 |242.0
 |xref:cars/13537259-fd3s-spo.adoc[RX-7 Type R] |RX-7 |Type R |77900264 (0x04A4A9E8) |$35,100 |251 |242.0
 |xref:cars/37772439-fd3s-fnf.adoc[RX-7 Type-R Fast 'n' Furious] |RX-7 |Type-R Fast 'n' Furious |74900264 (0x0476E328) |$325,100 |384 |297.0
-|xref:cars/84519638-mx5.adoc[RX-7 Type R] |RX-7 |Type R |77900264 (0x04A4A9E8) |$35,100 |251 |242.0
 |xref:cars/65756805-fd3s-fnf.adoc[RX-7 Type-R Fast 'n' Furious] |RX-7 |Type-R Fast 'n' Furious |74900264 (0x0476E328) |$325,100 |384 |297.0
 |xref:cars/699572006-rx8-cpe.adoc[RX-8 R3] |RX-8 |R3 |77900264 (0x04A4A9E8) |$34,000 |232 |262.0
 |xref:cars/6000270551-rx8-invader.adoc[RX-8 Invader 2] |RX-8 |Invader 2 |76900264 (0x049567A8) |$69,000 |320 |275.0

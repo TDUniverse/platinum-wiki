@@ -6,7 +6,7 @@
 |Manufacturer ID |CHRYS
 |Manufacturer Name |Chrysler
 |Logo File |CHRYS
-|Number of Cars |6
+|Number of Cars |5
 |===
 
 == Cars
@@ -14,7 +14,6 @@
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
 |xref:cars/6000270354-300c-srt8.adoc[300C SRT8 (LD)] |300C |SRT8 (LD) |76900264 (0x049567A8) |$65,000 |470 |314.0
-|xref:cars/12449687-300c-srt8.adoc[300C SRT8 (LD)] |300C |SRT8 (LD) |76900264 (0x049567A8) |$65,000 |470 |314.0
 |xref:cars/6000270311-300-c.adoc[300C SRT8 (LX)] |300C |SRT8 (LX) |76900264 (0x049567A8) |$50,000 |425 |307.0
 |xref:cars/1189317831-srt6-cpe.adoc[Crossfire SRT6 Coupe] |Crossfire |SRT6 Coupe |77900264 (0x04A4A9E8) |$46,000 |330 |284.0
 |xref:cars/1244317236-srt6-rst.adoc[Crossfire SRT6 Roadster] |Crossfire |SRT6 Roadster |77900264 (0x04A4A9E8) |$56,000 |330 |284.0

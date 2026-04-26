@@ -8,12 +8,11 @@
 |Key |ECD_8C_8567
 |Libelle |250250252
 |Libelle Localized |ITALIAN CLASSIC
-|Cars Available |8
+|Cars Available |7
 |===
 
 == Cars
 * xref:cars/698390544-mas-gt.adoc[Maserati - 3500 GT Touring]
-* xref:cars/5924263240-alfa-gta.adoc[Alfa Romeo - Giulia Sprint GTA]
 * xref:cars/1244127953-246-dino-gts.adoc[Alfa Romeo - Montreal ??]
 * xref:cars/5924263239-alfa-33.adoc[Alfa Romeo - Tipo 33 Stradale]
 * xref:cars/612836289-miura-sv.adoc[Lamborghini - Miura P400SV]

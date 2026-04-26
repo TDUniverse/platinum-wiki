@@ -8,7 +8,7 @@
 |Key |ECD_8I_3712
 |Libelle |250250267
 |Libelle Localized |PAGANI - SPYKER
-|Cars Available |8
+|Cars Available |7
 |===
 
 == Cars
@@ -16,7 +16,6 @@
 * xref:cars/569209475-zonda-rst.adoc[Pagani - Zonda C12 S 7.3 Roadster]
 * xref:cars/6000270426-zondaf-cpe.adoc[Pagani - Zonda F]
 * xref:cars/6000270427-zondaf-rst.adoc[Pagani - Zonda F Roadster]
-* xref:cars/6000270428-zonda-cinque.adoc[Pagani - Zonda Cinque]
 * xref:cars/6000270785-huayra-cpe.adoc[Pagani - Huayra ??]
 * xref:cars/1285237823-spyk-cpe.adoc[Spyker - C8 Laviolette]
 * xref:cars/96414415-spyk-rst-t.adoc[Spyker - C8 Aileron]

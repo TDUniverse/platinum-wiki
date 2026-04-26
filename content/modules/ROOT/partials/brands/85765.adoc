@@ -6,7 +6,7 @@
 |Manufacturer ID |KOEN
 |Manufacturer Name |Koenigsegg
 |Logo File |KOEN
-|Number of Cars |20
+|Number of Cars |19
 |===
 
 == Cars
@@ -32,6 +32,5 @@
 |xref:cars/42434726-one1-white.adoc[One:1 ??] |One:1 |?? |73900264 (0x0467A0E8) |$1,400,000 |1341 |437.0
 |xref:cars/84672939-one1-yellow.adoc[One:1 ??] |One:1 |?? |73900264 (0x0467A0E8) |$1,400,000 |1341 |437.0
 |xref:cars/30562911-one1-red.adoc[One:1 ??] |One:1 |?? |73900264 (0x0467A0E8) |$1,400,000 |1341 |437.0
-|xref:cars/27490916-regera-carbroof.adoc[Regera ??] |Regera |?? |73900264 (0x0467A0E8) |$1,900,000 |1489 |400.0
 |===
 

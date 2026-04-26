@@ -6,7 +6,7 @@
 |Manufacturer ID |Land Rover
 |Manufacturer Name |Land Rover
 |Logo File |Land Rover
-|Number of Cars |11
+|Number of Cars |10
 |===
 
 == Cars
@@ -23,6 +23,5 @@
 |xref:cars/6000270700-range-sonar.adoc[Range Rover Supercharged Sonar] |Range Rover |Supercharged Sonar |77900264 (0x04A4A9E8) |$175,000 |545 |347.0
 |xref:cars/6000270701-range-startech.adoc[Range Rover Startech] |Range Rover |Startech |76900264 (0x049567A8) |$220,000 |565 |319.0
 |xref:cars/6000270702-range-wide.adoc[Range Rover Startech Widebody] |Range Rover |Startech Widebody |76900264 (0x049567A8) |$260,000 |565 |319.0
-|xref:cars/98901413-range-svr.adoc[Range Rover Sport SVR] |Range Rover |Sport SVR |77900264 (0x04A4A9E8) |$160,000 |543 |319.0
 |===
 

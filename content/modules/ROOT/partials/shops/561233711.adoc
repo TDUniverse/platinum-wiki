@@ -8,11 +8,10 @@
 |Key |ECD_8C_7726
 |Libelle |6163697
 |Libelle Localized |EUROPEAN CLASSIC
-|Cars Available |7
+|Cars Available |6
 |===
 
 == Cars
-* xref:cars/5924263242-a110.adoc[Alpine - A110 1600S]
 * xref:cars/6000270794-rally-037.adoc[Lancia - Rally 037 Stradale]
 * xref:cars/6000270541-stratos-hf.adoc[Lancia - Stratos HF Stradale]
 * xref:cars/6000270312-246-dino-gt.adoc[Ferrari - Dino 246 GT]

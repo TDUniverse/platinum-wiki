@@ -1,6 +1,0 @@
-= Maserati - Quattroporte GTS GranSport
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$cars/67566089-mas-quatgts.adoc[]

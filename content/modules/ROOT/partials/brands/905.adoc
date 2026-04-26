@@ -6,14 +6,13 @@
 |Manufacturer ID |BMW
 |Manufacturer Name |BMW
 |Logo File |BMW
-|Number of Cars |49
+|Number of Cars |46
 |===
 
 == Cars
 [cols="2,2,2,1,1,1,1",options="header"]
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
-|xref:cars/6000270500-2002-turbo.adoc[2002 Turbo] |2002 |Turbo |79900264 (0x04C32E68) |$72,300 |168 |189.0
 |xref:cars/6000270494-m3-e36.adoc[M3 E36] |M3 |E36 |77900264 (0x04A4A9E8) |$65,000 |316 |304.0
 |xref:cars/6000270498-m3-e30.adoc[M3 E30] |M3 |E30 |79900264 (0x04C32E68) |$57,000 |197 |232.0
 |xref:cars/6000270502-e46-mw.adoc[M3 GTR] |M3 |GTR |73900264 (0x0467A0E8) |$380,000 |647 |385.0
@@ -33,7 +32,6 @@
 |xref:cars/42602523-e30-rieger-spo.adoc[M3 E30 Rieger Kunststoff] |M3 |E30 Rieger Kunststoff |77900264 (0x04A4A9E8) |$75,000 |257 |248.0
 |xref:cars/44365122-e30-drift.adoc[M3 E30 kvrt666 Edition] |M3 |E30 kvrt666 Edition |76900264 (0x049567A8) |$175,000 |387 |200.0
 |xref:cars/86249851-e30-drift-spo.adoc[M3 E30 kvrt666 Edition] |M3 |E30 kvrt666 Edition |76900264 (0x049567A8) |$175,000 |387 |200.0
-|xref:cars/90273633-e92-gts.adoc[M3 E92 GTS] |M3 |E92 GTS |75900264 (0x04862568) |$150,000 |444 |298.0
 |xref:cars/6000270722-m4-f82.adoc[M4 F82] |M4 |F82 |75900264 (0x04862568) |$102,500 |425 |374.0
 |xref:cars/6000270731-m4-spo.adoc[M4 F82] |M4 |F82 |75900264 (0x04862568) |$102,500 |435 |374.0
 |xref:cars/6000270732-m4-lb.adoc[M4 F82 Liberty Walk] |M4 |F82 Liberty Walk |73900264 (0x0467A0E8) |$355,000 |886 |412.0
@@ -47,7 +45,6 @@
 |xref:cars/6000270495-m5-e60.adoc[M5 E60] |M5 |E60 |75900264 (0x04862568) |$110,000 |500 |320.0
 |xref:cars/6000270630-m5-e34.adoc[M5 E34] |M5 |E34 |77900264 (0x04A4A9E8) |$97,500 |335 |304.0
 |xref:cars/6000270631-e34-spo.adoc[M5 E34] |M5 |E34 |77900264 (0x04A4A9E8) |$97,500 |335 |304.0
-|xref:cars/45069396-b55s.adoc[M5 F10] |M5 |F10 |75900264 (0x04862568) |$115,000 |552 |401.0
 |xref:cars/41118636-m5-e60.adoc[M5 E60] |M5 |E60 |75900264 (0x04862568) |$110,000 |500 |320.0
 |xref:cars/6000270499-507-rst.adoc[507 ??] |507 |?? |79900264 (0x04C32E68) |$950,000 |148 |173.0
 |xref:cars/6000270338-m635.adoc[M635csi ??] |M635csi |?? |79900264 (0x04C32E68) |$78,000 |282 |251.0

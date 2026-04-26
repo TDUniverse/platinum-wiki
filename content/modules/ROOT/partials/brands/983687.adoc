@@ -6,7 +6,7 @@
 |Manufacturer ID |CHEVY
 |Manufacturer Name |Chevrolet
 |Logo File |CHEVY
-|Number of Cars |39
+|Number of Cars |34
 |===
 
 == Cars
@@ -22,7 +22,6 @@
 |xref:cars/6000270612-impala-ss.adoc[Impala SS] |Impala |SS |78900264 (0x04B3EC28) |$24,250 |260 |296.0
 |xref:cars/6000270353-chevelle-ss.adoc[Chevelle SS-396 Sport Coupe] |Chevelle |SS-396 Sport Coupe |79900264 (0x04C32E68) |$65,000 |350 |206.0
 |xref:cars/6000270509-chevelle-drag.adoc[Chevelle SS-396 Sport Coupe Dragster] |Chevelle |SS-396 Sport Coupe Dragster |73900264 (0x0467A0E8) |$215,000 |2100 |490.0
-|xref:cars/91188383-chevelle-ss.adoc[Chevelle SS-396 Sport Coupe] |Chevelle |SS-396 Sport Coupe |79900264 (0x04C32E68) |$65,000 |350 |206.0
 |xref:cars/6000270352-nova-ss.adoc[Nova SS 396] |Nova |SS 396 |79900264 (0x04C32E68) |$35,000 |375 |184.0
 |xref:cars/6000270514-nova-drag.adoc[Nova SS 396 Dragster] |Nova |SS 396 Dragster |73900264 (0x0467A0E8) |$200,000 |2100 |490.0
 |xref:cars/582585705-c6-z06.adoc[Corvette C6 Z06] |Corvette |C6 Z06 |74900264 (0x0476E328) |$72,000 |505 |461.0
@@ -37,7 +36,6 @@
 |xref:cars/6000270310-c6-cpe.adoc[Corvette C6 Grand Sport] |Corvette |C6 Grand Sport |75900264 (0x04862568) |$61,000 |436 |380.0
 |xref:cars/6000270343-corv-53.adoc[Corvette C1 235 Blue-Flame Powerglide] |Corvette |C1 235 Blue-Flame Powerglide |79900264 (0x04C32E68) |$205,000 |150 |149.0
 |xref:cars/6000270344-corv-60.adoc[Corvette C1 283 V8 RamJet 315hp] |Corvette |C1 283 V8 RamJet 315hp |79900264 (0x04C32E68) |$85,000 |315 |208.0
-|xref:cars/6000270347-c4-gs.adoc[Corvette C4 Grand Sport] |Corvette |C4 Grand Sport |76900264 (0x049567A8) |$50,000 |330 |416.0
 |xref:cars/6000270348-c5-z06.adoc[Corvette C5 Z06] |Corvette |C5 Z06 |75900264 (0x04862568) |$54,000 |405 |386.0
 |xref:cars/6000270349-c6-zr1.adoc[Corvette C6 ZR1] |Corvette |C6 ZR1 |73900264 (0x0467A0E8) |$110,000 |638 |333.0
 |xref:cars/6000270511-corvette-drag.adoc[Corvette® C2 Stingray Dragster] |Corvette® |C2 Stingray Dragster |79900264 (0x04C32E68) |$126,000 |435 |245.0
@@ -48,9 +46,6 @@
 |xref:cars/85130701-c7-conv.adoc[Corvette C7 Stingray Convertible Z51] |Corvette |C7 Stingray Convertible Z51 |74900264 (0x0476E328) |$87,000 |460 |468.0
 |xref:cars/44908955-c7-henn.adoc[Corvette C7 Stingray HPE700 Twin Turbo] |Corvette |C7 Stingray HPE700 Twin Turbo |73900264 (0x0467A0E8) |$125,000 |707 |468.0
 |xref:cars/39977822-c7conv-henn.adoc[Corvette C7 Stingray Convertible HPE700 Supercharged] |Corvette |C7 Stingray Convertible HPE700 Supercharged |73900264 (0x0467A0E8) |$125,000 |707 |468.0
-|xref:cars/61696560-c6-cpe.adoc[Corvette C6 Grand Sport] |Corvette |C6 Grand Sport |75900264 (0x04862568) |$61,000 |436 |380.0
-|xref:cars/90422931-corv-60.adoc[Corvette C1 283 V8 RamJet 315hp] |Corvette |C1 283 V8 RamJet 315hp |79900264 (0x04C32E68) |$85,000 |315 |208.0
-|xref:cars/73752209-corv-63.adoc[Corvette C2 Stingray 427] |Corvette |C2 Stingray 427 |79900264 (0x04C32E68) |$126,000 |435 |208.0
 |xref:cars/6000270345-corva.adoc[Impala Sport Coupe 409 Turbo-Fire SS] |Impala |Sport Coupe 409 Turbo-Fire SS |79900264 (0x04C32E68) |$72,500 |425 |256.0
 |===
 

@@ -1,6 +1,0 @@
-= Porsche - 918 Spyder Weissach Package
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$cars/25002766-918-weis.adoc[]

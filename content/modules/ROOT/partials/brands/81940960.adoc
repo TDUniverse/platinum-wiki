@@ -6,7 +6,7 @@
 |Manufacturer ID |FERRARI
 |Manufacturer Name |Ferrari
 |Logo File |FERRARI
-|Number of Cars |69
+|Number of Cars |63
 |===
 
 == Cars
@@ -14,7 +14,6 @@
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
 |xref:cars/1184713927-ford-cobra.adoc[250 Testa Rossa] |250 |Testa Rossa |79900264 (0x04C32E68) |$0 |296 |271.0
-|xref:cars/6000270368-250-california.adoc[250 GT California Scaglietti (SWB)] |250 GT California |Scaglietti (SWB) |79900264 (0x04C32E68) |$3,850,000 |276 |232.0
 |xref:cars/6000270521-250-lusso.adoc[250 Berlinetta Lusso] |250 |Berlinetta Lusso |79900264 (0x04C32E68) |$3,250,000 |247 |232.0
 |xref:cars/698389658-f250-gto.adoc[250 GTO ??] |250 GTO |?? |79900264 (0x04C32E68) |$5,000,000 |296 |271.0
 |xref:cars/52328521-250gto-3223.adoc[250 GTO #3223GT] |250 GTO |#3223GT |79900264 (0x04C32E68) |$6,000,000 |296 |271.0
@@ -30,7 +29,6 @@
 |xref:cars/28068209-f288-gto.adoc[288 GTO ??] |288 GTO |?? |79900264 (0x04C32E68) |$850,000 |394 |391.0
 |xref:cars/1238140632-308-gts-qv.adoc[308 GTS Quattrovalvole] |308 |GTS Quattrovalvole |79900264 (0x04C32E68) |$75,000 |237 |231.0
 |xref:cars/6000270363-348-ts.adoc[348 Spider] |348 |Spider |77900264 (0x04A4A9E8) |$65,000 |315 |261.0
-|xref:cars/6000270367-f355-f1.adoc[F355 F1 Berlinetta] |F355 |F1 Berlinetta |76900264 (0x049567A8) |$100,000 |375 |275.0
 |xref:cars/29908603-f355-black.adoc[F355 F1 Berlinetta] |F355 |F1 Berlinetta |76900264 (0x049567A8) |$100,000 |375 |275.0
 |xref:cars/1112402065-f360-stradale.adoc[360 Challenge Stradale] |360 |Challenge Stradale |74900264 (0x0476E328) |$171,000 |419 |279.0
 |xref:cars/86400266-360cs-stripe.adoc[360 Challenge Stradale] |360 |Challenge Stradale |74900264 (0x0476E328) |$171,000 |419 |279.0
@@ -62,7 +60,6 @@
 |xref:cars/6000270672-458-speciale.adoc[458 Speciale] |458 |Speciale |73900264 (0x0467A0E8) |$310,000 |597 |306.0
 |xref:cars/6000270675-458-spestr.adoc[458 Speciale] |458 |Speciale |73900264 (0x0467A0E8) |$310,000 |597 |306.0
 |xref:cars/6000270729-458-lb.adoc[458 Liberty Walk] |458 |Liberty Walk |73900264 (0x0467A0E8) |$640,000 |879 |397.0
-|xref:cars/90380227-458-blk.adoc[458 Italia] |458 |Italia |73900264 (0x0467A0E8) |$240,000 |570 |311.0
 |xref:cars/6000270641-488-gtb.adoc[488 GTB] |488 |GTB |73900264 (0x0467A0E8) |$345,000 |661 |314.0
 |xref:cars/95150194-488-pista.adoc[488 Pista] |488 |Pista |73900264 (0x0467A0E8) |$490,000 |710 |314.0
 |xref:cars/28940470-488-silver.adoc[488 Pista] |488 |Pista |73900264 (0x0467A0E8) |$490,000 |710 |314.0
@@ -71,15 +68,12 @@
 |xref:cars/46626817-488-piloti.adoc[488 Pista Piloti Ferrari] |488 |Pista Piloti Ferrari |73900264 (0x0467A0E8) |$575,000 |710 |314.0
 |xref:cars/14993267-488-piloti.adoc[488 Pista Piloti Ferrari] |488 |Pista Piloti Ferrari |73900264 (0x0467A0E8) |$575,000 |710 |314.0
 |xref:cars/698399392-f50.adoc[F50 ??] |F50 |?? |74900264 (0x0476E328) |$580,000 |514 |303.0
-|xref:cars/24428390-f50.adoc[F50 ??] |F50 |?? |74900264 (0x0476E328) |$580,000 |514 |303.0
 |xref:cars/6000270639-599-gtb.adoc[599 GTB Fiorano F1] |599 |GTB Fiorano F1 |73900264 (0x0467A0E8) |$385,000 |611 |318.0
 |xref:cars/6000270666-812-superfast.adoc[812 Superfast] |812 |Superfast |73900264 (0x0467A0E8) |$755,000 |789 |402.0
-|xref:cars/95218468-812-superfast.adoc[812 Superfast] |812 |Superfast |73900264 (0x0467A0E8) |$755,000 |789 |402.0
 |xref:cars/1108350120-550.adoc[LaFerrari ??] |LaFerrari |?? |73900264 (0x0467A0E8) |$1,650,000 |949 |375.0
 |xref:cars/81990134-lfaperta-closed.adoc[LaFerrari Aperta] |LaFerrari |Aperta |73900264 (0x0467A0E8) |$2,650,000 |949 |375.0
 |xref:cars/96022063-la-ferrari.adoc[LaFerrari ??] |LaFerrari |?? |73900264 (0x0467A0E8) |$1,650,000 |949 |375.0
 |xref:cars/81983701-lf-aperta.adoc[LaFerrari Aperta] |LaFerrari |Aperta |73900264 (0x0467A0E8) |$2,650,000 |949 |375.0
-|xref:cars/19831132-lf-aperta.adoc[LaFerrari Aperta] |LaFerrari |Aperta |73900264 (0x0467A0E8) |$2,650,000 |949 |375.0
 |xref:cars/6000270369-tr-84.adoc[Testarossa ??] |Testarossa |?? |79900264 (0x04C32E68) |$195,000 |385 |276.0
 |xref:cars/6000270370-tr-rst.adoc[Testarossa Spider] |Testarossa |Spider |79900264 (0x04C32E68) |$240,000 |385 |276.0
 |===

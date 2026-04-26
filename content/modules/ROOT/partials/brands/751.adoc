@@ -6,7 +6,7 @@
 |Manufacturer ID |Rolls-Royce
 |Manufacturer Name |Rolls-Royce
 |Logo File |Rolls-Royce
-|Number of Cars |4
+|Number of Cars |3
 |===
 
 == Cars
@@ -14,7 +14,6 @@
 |===
 |Car |Model |Version |Group |Price |Power (bhp) |Top Speed (km/h)
 |xref:cars/6000270815-rolls-dawn.adoc[Dawn ??] |Dawn |?? |76900264 (0x049567A8) |$685,000 |562 |419.0
-|xref:cars/10883411-rolls-dawn.adoc[Dawn ??] |Dawn |?? |76900264 (0x049567A8) |$685,000 |562 |419.0
 |xref:cars/87844914-rolls-dawn.adoc[Dawn ??] |Dawn |?? |76900264 (0x049567A8) |$685,000 |562 |419.0
 |xref:cars/6000270814-rolls-wraith.adoc[Wraith ??] |Wraith |?? |75900264 (0x04862568) |$650,000 |623 |401.0
 |===

@@ -1,6 +1,0 @@
-= Dodge - Ram SRT10
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$cars/37604505-ram-srt10.adoc[]

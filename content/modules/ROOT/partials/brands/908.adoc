@@ -6,7 +6,7 @@
 |Manufacturer ID |MITSU
 |Manufacturer Name |Mitsubishi
 |Logo File |MITSU
-|Number of Cars |28
+|Number of Cars |25
 |===
 
 == Cars
@@ -27,7 +27,6 @@
 |xref:cars/6000270771-eclipsegts-wings.adoc[Eclipse GTS Wings West] |Eclipse |GTS Wings West |77900264 (0x04A4A9E8) |$45,450 |285 |275.0
 |xref:cars/6000270761-3000-gt.adoc[GTO Twin Turbo] |GTO |Twin Turbo |77900264 (0x04A4A9E8) |$47,200 |276 |329.0
 |xref:cars/78135718-3000-gt.adoc[GTO Twin Turbo] |GTO |Twin Turbo |76900264 (0x049567A8) |$134,700 |403 |272.0
-|xref:cars/70363250-3000-gt.adoc[GTO Twin Turbo] |GTO |Twin Turbo |77900264 (0x04A4A9E8) |$47,200 |276 |329.0
 |xref:cars/59142377-lancer.adoc[Lancer Evolution X GSR Premium] |Lancer |Evolution X GSR Premium |77900264 (0x04A4A9E8) |$52,000 |296 |249.0
 |xref:cars/6000270422-evo-9.adoc[Lancer Evolution IX MR] |Lancer |Evolution IX MR |77900264 (0x04A4A9E8) |$48,500 |286 |242.0
 |xref:cars/6000270423-evo-8.adoc[Lancer Evolution VIII MR] |Lancer |Evolution VIII MR |77900264 (0x04A4A9E8) |$48,000 |276 |242.0
@@ -38,8 +37,6 @@
 |xref:cars/6000270569-evox-oem.adoc[Lancer Evolution X OEM] |Lancer |Evolution X OEM |76900264 (0x049567A8) |$99,000 |357 |285.0
 |xref:cars/6000270570-evox-vfiber.adoc[Lancer Evolution X VFiber M-Speed] |Lancer |Evolution X VFiber M-Speed |76900264 (0x049567A8) |$99,000 |357 |285.0
 |xref:cars/6000270767-evo8-timeatk.adoc[Lancer Evolution VIII MR Time Attack] |Lancer |Evolution VIII MR Time Attack |76900264 (0x049567A8) |$78,000 |345 |270.0
-|xref:cars/45790049-lancer.adoc[Lancer Evolution X GSR Premium] |Lancer |Evolution X GSR Premium |77900264 (0x04A4A9E8) |$52,000 |296 |249.0
-|xref:cars/27889482-evo-6.adoc[Lancer Evolution VI GSR] |Lancer |Evolution VI GSR |77900264 (0x04A4A9E8) |$42,500 |276 |221.0
 |xref:cars/6000270425-starion-gt.adoc[Starion ESI-R] |Starion |ESI-R |79900264 (0x04C32E68) |$23,700 |188 |213.0
 |===
 

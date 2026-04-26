@@ -8,7 +8,7 @@
 |Key |ECD_8B2_8575
 |Libelle |6153697
 |Libelle Localized |DODGE
-|Cars Available |7
+|Cars Available |6
 |===
 
 == Cars
@@ -16,6 +16,5 @@
 * xref:cars/1221911046-s281sc-conv.adoc[Dodge - Charger SRT8]
 * xref:cars/915344490-viper-sr.adoc[Dodge - Viper SRT10]
 * xref:cars/6000270611-viper-cpe.adoc[Dodge - Viper SRT10 Coupe]
-* xref:cars/51221344640-viper-gts.adoc[Dodge - Viper GTS]
 * xref:cars/1108350118-viper.adoc[Dodge - Viper SRT GTS]
 * xref:cars/6000270517-viper-ta.adoc[Dodge - Viper SRT TA]

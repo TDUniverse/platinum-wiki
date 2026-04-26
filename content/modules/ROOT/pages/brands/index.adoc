@@ -42,7 +42,6 @@
 * xref:brands/9643703.adoc[SHELBY]
 * xref:brands/84783.adoc[SPYK]
 * xref:brands/9933.adoc[SUZ]
-* xref:brands/75077404.adoc[TRAFFIC]
 * xref:brands/80863204.adoc[TRIUMPH]
 * xref:brands/9144.adoc[TVR]
 * xref:brands/7836.adoc[VAG]

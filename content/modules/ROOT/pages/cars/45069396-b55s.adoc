@@ -1,6 +1,0 @@
-= BMW - M5 F10
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$cars/45069396-b55s.adoc[]

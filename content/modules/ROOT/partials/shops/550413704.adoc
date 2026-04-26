@@ -8,10 +8,9 @@
 |Key |ECD_8A_9610
 |Libelle |6063697
 |Libelle Localized |US INDEPENDENTS
-|Cars Available |3
+|Cars Available |2
 |===
 
 == Cars
 * xref:cars/6000270456-series-1.adoc[Shelby - Series 1]
-* xref:cars/1178042409-sal-s7tt.adoc[Saleen - S7 Twin-Turbo]
 * xref:cars/6000270601-venom-gt.adoc[Hennessey - Venom GT]

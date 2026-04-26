@@ -6,7 +6,7 @@
 |Manufacturer ID |MASER
 |Manufacturer Name |Maserati
 |Logo File |MASER
-|Number of Cars |13
+|Number of Cars |10
 |===
 
 == Cars
@@ -19,12 +19,9 @@
 |xref:cars/903887207-mas-cpe-gs.adoc[GranSport Coupe] |GranSport |Coupe |76900264 (0x049567A8) |$107,500 |396 |266.0
 |xref:cars/6000270565-mas-granturismo.adoc[GranTurismo S] |GranTurismo |S |76900264 (0x049567A8) |$166,500 |434 |335.0
 |xref:cars/6000270706-mas-levante.adoc[Levante S] |Levante |S |77900264 (0x04A4A9E8) |$135,000 |424 |354.0
-|xref:cars/47235520-mas-levante.adoc[Levante S] |Levante |S |77900264 (0x04A4A9E8) |$135,000 |424 |354.0
-|xref:cars/698656360-mas-mc12.adoc[MC12 Stradale] |MC12 |Stradale |73900264 (0x0467A0E8) |$1,350,000 |624 |307.0
 |xref:cars/61355504-mas-mc12.adoc[MC12 Stradale] |MC12 |Stradale |73900264 (0x0467A0E8) |$1,350,000 |624 |307.0
 |xref:cars/6000270399-mas-quat.adoc[Quattroporte GT S] |Quattroporte |GT S |76900264 (0x049567A8) |$154,000 |434 |342.0
 |xref:cars/65414474-mas-quatgts.adoc[Quattroporte GTS GranSport] |Quattroporte |GTS GranSport |75900264 (0x04862568) |$177,000 |523 |355.0
-|xref:cars/67566089-mas-quatgts.adoc[Quattroporte GTS GranSport] |Quattroporte |GTS GranSport |75900264 (0x04862568) |$177,000 |523 |355.0
 |xref:cars/704744681-mas-rst.adoc[Spyder Cambiocorsa] |Spyder |Cambiocorsa |76900264 (0x049567A8) |$103,000 |390 |264.0
 |===
 

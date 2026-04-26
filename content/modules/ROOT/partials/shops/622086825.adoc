@@ -8,7 +8,7 @@
 |Key |ECD_15A_7841
 |Libelle |250250260
 |Libelle Localized |FERRARI
-|Cars Available |11
+|Cars Available |10
 |===
 
 == Cars
@@ -16,7 +16,6 @@
 * xref:cars/6000270316-f612.adoc[Ferrari - 458 Spider]
 * xref:cars/1214731890-f430-cpe.adoc[Ferrari - F430 Berlinetta F1]
 * xref:cars/54831536-f430-rst.adoc[Ferrari - F430 Spider F1]
-* xref:cars/6000270367-f355-f1.adoc[Ferrari - F355 F1 Berlinetta]
 * xref:cars/6000270363-348-ts.adoc[Ferrari - 348 Spider]
 * xref:cars/6000270639-599-gtb.adoc[Ferrari - 599 GTB Fiorano F1]
 * xref:cars/698912474-f575-m.adoc[Ferrari - 575M Maranello F1]

@@ -1,6 +1,0 @@
-= Lamborghini - Murciélago LP670-4 SV
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$cars/6000270324-murc-rst.adoc[]

@@ -6,7 +6,7 @@
 |Manufacturer ID |SUB
 |Manufacturer Name |Subaru
 |Logo File |SUB
-|Number of Cars |33
+|Number of Cars |32
 |===
 
 == Cars
@@ -25,7 +25,6 @@
 |xref:cars/6000270471-brz-varis.adoc[BRZ Varis] |BRZ |Varis |77900264 (0x04A4A9E8) |$52,700 |264 |265.0
 |xref:cars/6000270820-brz-rb.adoc[BRZ Rocket Bunny] |BRZ |Rocket Bunny |74900264 (0x0476E328) |$292,500 |545 |335.0
 |xref:cars/6000270829-brz-stance.adoc[BRZ Rocket Bunny] |BRZ |Rocket Bunny |74900264 (0x0476E328) |$292,500 |545 |335.0
-|xref:cars/701819911-gto-cpe.adoc[Impreza 22B STi (GM)] |Impreza |22B STi (GM) |77900264 (0x04A4A9E8) |$50,000 |276 |301.0
 |xref:cars/6000270819-22b-wrc.adoc[Impreza 22B STi WRC] |Impreza |22B STi WRC |76900264 (0x049567A8) |$200,000 |345 |235.0
 |xref:cars/6000270823-22b-bomb.adoc[Impreza 22B STi Bomb] |Impreza |22B STi Bomb |76900264 (0x049567A8) |$125,000 |335 |301.0
 |xref:cars/6000270830-22b-hb.adoc[Impreza 22B STi HB Ballistix] |Impreza |22B STi HB Ballistix |76900264 (0x049567A8) |$125,000 |335 |301.0

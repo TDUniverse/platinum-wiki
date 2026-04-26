@@ -6,7 +6,7 @@
 |Manufacturer ID |SALEEN
 |Manufacturer Name |Saleen
 |Logo File |SALEEN
-|Number of Cars |7
+|Number of Cars |6
 |===
 
 == Cars
@@ -18,7 +18,6 @@
 |xref:cars/6000270412-mclaren-650.adoc[S281 Supercharged Coupe] |S281 |Supercharged Coupe |76900264 (0x049567A8) |$87,000 |350 |351.0
 |xref:cars/1231750419-s281e-cpe.adoc[S281 Extreme Coupe] |S281 |Extreme Coupe |75900264 (0x04862568) |$68,000 |550 |300.0
 |xref:cars/1189750545-s281e-conv.adoc[S281 Supercharged Convertible] |S281 |Supercharged Convertible |76900264 (0x049567A8) |$74,000 |435 |270.0
-|xref:cars/1178042409-sal-s7tt.adoc[S7 Twin-Turbo] |S7 |Twin-Turbo |73900264 (0x0467A0E8) |$555,000 |750 |383.0
 |xref:cars/6000270332-sal-s7tt.adoc[S7 Twin-Turbo] |S7 |Twin-Turbo |73900264 (0x0467A0E8) |$555,000 |750 |365.0
 |===
 

@@ -1,6 +1,0 @@
-= Dodge - Coronet Super Bee 426 Hemi
-:author: platinum-wiki-generator (MeFisto94)
-:revnumber: 1.0
-:revdate: 2026/03/08
-
-include::partial$cars/83448947-coronet-sb.adoc[]

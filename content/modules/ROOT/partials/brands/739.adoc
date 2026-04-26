@@ -6,7 +6,7 @@
 |Manufacturer ID |Lancia
 |Manufacturer Name |Lancia
 |Logo File |Lancia
-|Number of Cars |5
+|Number of Cars |4
 |===
 
 == Cars
@@ -17,6 +17,5 @@
 |xref:cars/6000270795-rally037-spo.adoc[Rally 037 Stradale] |Rally |037 Stradale |79900264 (0x04C32E68) |$330,000 |202 |220.0
 |xref:cars/81602715-rally037-spo.adoc[Rally 037 Stradale] |Rally |037 Stradale |79900264 (0x04C32E68) |$330,000 |202 |220.0
 |xref:cars/6000270541-stratos-hf.adoc[Stratos HF Stradale] |Stratos |HF Stradale |79900264 (0x04C32E68) |$375,000 |188 |219.0
-|xref:cars/37294453-stratos-hf.adoc[Stratos HF Stradale] |Stratos |HF Stradale |79900264 (0x04C32E68) |$375,000 |188 |219.0
 |===
 
